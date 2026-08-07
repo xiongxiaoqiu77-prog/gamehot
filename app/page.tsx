@@ -18,10 +18,12 @@ export default function Home() {
       {/* header */}
       <header className="sticky top-0 z-10 backdrop-blur-md border-b" style={{ borderColor: 'var(--border)', background: 'rgba(15,15,19,0.85)' }}>
         <div className="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <span className="text-xl font-black tracking-tight" style={{ color: 'var(--accent)' }}>GAME</span>
-            <span className="text-xl font-black tracking-tight text-white">HOT</span>
-            <span className="text-xs px-1.5 py-0.5 rounded font-bold ml-1" style={{ background: 'rgba(255,68,68,0.15)', color: 'var(--accent)' }}>每日热点</span>
+          <div className="flex items-center gap-4">
+            <div className="flex items-center gap-2">
+              <span className="text-xl font-black tracking-tight" style={{ color: 'var(--accent)' }}>GAME</span>
+              <span className="text-xl font-black tracking-tight text-white">HOT</span>
+            </div>
+            <a href="/games" className="text-sm font-medium transition-colors hover:text-white" style={{ color: 'var(--muted)' }}>游戏库</a>
           </div>
           <span className="text-xs" style={{ color: 'var(--muted)' }}>{formatDate(feed.updated)}</span>
         </div>

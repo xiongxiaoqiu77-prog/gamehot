@@ -27,3 +27,41 @@ export function getFeed(): Feed {
 export function getArticleById(id: string): Article | undefined {
   return getFeed().articles.find(a => a.id === id)
 }
+
+export interface GameEntry {
+  name: string
+  desc: string          // 最近一次出现的介绍
+  count: number         // 被提及次数
+  maxScore: number      // 关联文章最高热度
+  articles: Article[]   // 关联文章列表
+}
+
+export function getGames(): GameEntry[] {
+  const map = new Map<string, GameEntry>()
+
+  for (const article of getFeed().articles) {
+    for (const g of article.games ?? []) {
+      if (!g.name) continue
+      const existing = map.get(g.name)
+      if (existing) {
+        existing.count++
+        existing.maxScore = Math.max(existing.maxScore, article.score)
+        existing.articles.push(article)
+        if (g.desc) existing.desc = g.desc
+      } else {
+        map.set(g.name, {
+          name: g.name,
+          desc: g.desc || '',
+          count: 1,
+          maxScore: article.score,
+          articles: [article],
+        })
+      }
+    }
+  }
+
+  // 按提及次数 → 最高热度排序
+  return Array.from(map.values()).sort(
+    (a, b) => b.count - a.count || b.maxScore - a.maxScore
+  )
+}
