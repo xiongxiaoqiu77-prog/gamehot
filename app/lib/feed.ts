@@ -21,7 +21,7 @@ function withIds(feed: Feed): Feed {
 }
 
 export function getFeed(): Feed {
-  return withIds(feedData as Feed)
+  return withIds(feedData as unknown as Feed)
 }
 
 export function getArticleById(id: string): Article | undefined {
