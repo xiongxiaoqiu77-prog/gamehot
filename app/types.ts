@@ -1,11 +1,17 @@
+export interface Game {
+  name: string
+  desc: string
+}
+
 export interface Article {
   title: string
-  description: string
+  summary: string
   url: string
   source: string
   category: string
   score: number
   published_at: string
+  games: Game[]
 }
 
 export interface Feed {
