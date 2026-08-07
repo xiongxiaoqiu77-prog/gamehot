@@ -38,12 +38,16 @@ export default function ArticleCard({ article, rank }: { article: Article; rank:
   const pub = new Date(article.published_at)
   const timeStr = `${pub.getHours().toString().padStart(2, '0')}:${pub.getMinutes().toString().padStart(2, '0')}`
   const hasGames = article.games?.length > 0
+  const isWeChat = article.source.startsWith('微信')
+  // 国外文章有翻译时进站内详情页，否则直接跳原文
+  const href = (!isWeChat && article.id) ? `/article/${article.id}` : article.url
+  const isExternal = isWeChat || !article.id
 
   return (
     <a
-      href={article.url}
-      target="_blank"
-      rel="noopener noreferrer"
+      href={href}
+      target={isExternal ? '_blank' : '_self'}
+      rel={isExternal ? 'noopener noreferrer' : undefined}
       className="group block rounded-2xl p-5 border transition-all duration-200 hover:-translate-y-0.5"
       style={{
         background: isTop3 ? 'linear-gradient(135deg, #1e1a2a, #1a1a22)' : 'var(--surface)',

@@ -4,6 +4,7 @@ export interface Game {
 }
 
 export interface Article {
+  id: string
   title: string
   summary: string
   url: string
@@ -12,6 +13,7 @@ export interface Article {
   score: number
   published_at: string
   games: Game[]
+  translated_content?: string
 }
 
 export interface Feed {
