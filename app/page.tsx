@@ -10,8 +10,8 @@ function formatDate(dateStr: string) {
   return `${y} 年 ${m} 月 ${day} 日  星期${weekdays[d.getDay()]}`
 }
 
-export default async function Home() {
-  const feed = await getFeed()
+export default function Home() {
+  const feed = getFeed()
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg)' }}>

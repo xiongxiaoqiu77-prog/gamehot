@@ -1,0 +1,258 @@
+{
+  "updated": "2026-08-07",
+  "generated_at": "2026-08-07T16:09:58.158415",
+  "articles": [
+    {
+      "title": "一个二合、一个 Block、一个三消+二合！",
+      "description": "文章聚焦二合、Block 和三消+二合三类休闲玩法，分别拆解设计亮点与融合思路。对关注当下消除/合并玩法趋势的从业者具有直接参考价值。",
+      "url": "https://mp.weixin.qq.com/s/Eyj-Oq-TwVFlaP1nX4ZqPw",
+      "source": "微信-王董的新游戏",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-06T09:46:44"
+    },
+    {
+      "title": "CPI涨30%、CPC飙86%：出海买量成本激增，钱怎么花才不冤枉？",
+      "description": "文章梳理出海买量市场最新成本数据，分析CPI、CPC上涨原因，并给出投放策略建议。对手游出海团队和休闲游戏买量运营具有实务参考价值。",
+      "url": "https://mp.weixin.qq.com/s/HLx7qTjzwevfRxzavLtbvg",
+      "source": "微信-罗斯基",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-05T23:24:08"
+    },
+    {
+      "title": "灰烬之国制作人称中小团队无需专职游戏策划，你怎么看？",
+      "description": "文章围绕《灰烬之国》制作人“中小团队不需要专职策划”的观点展开讨论，涉及团队分工与产品方法论。对小型团队有启示，但并非休闲游戏专项分析。",
+      "url": "https://mp.weixin.qq.com/s/pOtbieCk4klieBdPNONF6Q",
+      "source": "微信-一枚游戏干饭人",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-05T08:35:36"
+    },
+    {
+      "title": "PVP版《Kingshot》，点点互动见了都得竖大拇指",
+      "description": "文章分析一款PVP版《Kingshot》的玩法设计，认为其令点点互动也值得学习。属于对具体手游玩法与差异化设计的拆解，适合策略/手游从业者参考。",
+      "url": "https://mp.weixin.qq.com/s/wd__8cjZyj38LZ2F_Z2UYg",
+      "source": "微信-金角游戏",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-05T20:25:32"
+    },
+    {
+      "title": "局内规则和局外成长需要保持边界清晰",
+      "description": "文章探讨游戏设计中局内规则与局外成长系统之间的边界问题，强调清晰划分对玩家体验和长期留存的重要性。适合游戏策划在系统设计时参考。",
+      "url": "https://mp.weixin.qq.com/s/DU5aHdhbBRof6B5AU-lv6w",
+      "source": "微信-欧米De游戏开发小屋",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-05T11:34:23"
+    },
+    {
+      "title": "每一次出发，祖龙都在重绘自己的边界",
+      "description": "文章回顾祖龙娱乐的发展历程、产品矩阵与业务边界拓展，折射中国手游厂商的转型与出海动向。属于公司动态类资讯，对休闲游戏从业者的参考性一般。",
+      "url": "https://mp.weixin.qq.com/s/tz-fvmW314I0lVtHjY1tBQ",
+      "source": "微信-罗斯基",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-05T23:24:08"
+    },
+    {
+      "title": "如何从零搭建开放世界地形的工业流水线（下）",
+      "description": "本篇文章继续拆解开放世界地形的工业化制作流程，涉及程序化生成、工具链与质量把控。虽与休闲消除玩法关联较弱，但其工业化思路仍可借鉴。",
+      "url": "https://mp.weixin.qq.com/s/Uf_4oJhjVXgig50L2Lv3jA",
+      "source": "微信-无界游戏学社",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-05T17:02:13"
+    },
+    {
+      "title": "Unity 以 4000 万美元将 Supersonic 出售给 Tripledot",
+      "description": "Unity 将超休闲发行品牌 Supersonic 出售给 Tripledot，交易金额 4000 万美元，并同步发布 Q2 财报。对了解超休闲/休闲发行市场整合有参考价值。",
+      "url": "https://mobilegamer.biz/unity-completes-sale-of-mobile-publisher-supersonic-to-tripledot-for-40m/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-06T14:14:29"
+    },
+    {
+      "title": "第八个夏天，鹰角怎么还能拿下畅销榜第2",
+      "description": "文章拆解鹰角《明日方舟》第八个夏天仍能登上畅销榜第2的原因，可能涉及暑期活动、内容运营与用户沉淀。对长青手游的内容运营与商业化节奏有一定参考价值。",
+      "url": "https://mp.weixin.qq.com/s/HllgmZYOZiEPD55f935H4g",
+      "source": "微信-游戏新知",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-05T21:03:03"
+    },
+    {
+      "title": "《恋与深空》月流跌至新低，两款新游低调入场，乙女赛道还有新故事吗？",
+      "description": "本文分析《恋与深空》月流水下滑及乙女赛道新游动态，探讨该细分市场是否还有增长空间。对从业者了解女性向手游市场趋势有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/pRzeItpMGbPgHuqVt168yg",
+      "source": "微信-点点出海",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-05T12:01:02"
+    },
+    {
+      "title": "大厂也开始“小步快跑”了？这款塔防游戏悄悄在海外开订",
+      "description": "报道某大厂塔防游戏在海外低调开启预约，反映大厂在新品类上尝试小规模快速验证的模式。对关注海外发行策略的从业者有信息价值。",
+      "url": "https://mp.weixin.qq.com/s/CX2s-yXaUjgyS4L567yOXQ",
+      "source": "微信-游讯先锋",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-05T08:53:52"
+    },
+    {
+      "title": "MeowBlock海外50K+下载玩法，开发者做成微信小游戏后上架了！",
+      "description": "文章分析了MeowBlock在海外获得超过5万下载的玩法，并介绍开发者将其移植为微信小游戏的经过。对休闲小游戏开发者有一定参考价值。",
+      "url": "https://mp.weixin.qq.com/s/whSSdEAgJMVc51LfBaJYZg",
+      "source": "微信-晓衡的游戏开发圈",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-05T07:26:50"
+    },
+    {
+      "title": "2026年Q1印度手游下载量达17亿次，收入增长15% | Sensor Tower",
+      "description": "Sensor Tower数据显示印度手游市场在2026年Q1下载量达17亿次，收入同比增长15%。为关注印度手游市场的从业者提供数据参考。",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV09FUkVJd0xlTzhCZXg0eVlkVno2dmsyVDBjUHpDN0xtWk1jcWdLTWI0dXVmSVh2VUhxajBLSTNrNVIyVVZzS3p1NnpKcUVhMFF1R09DS1R1eEFxYUNGYzdsTmNLMktEbXRGM1Z5VlBTbGpHbXdmcENMc09FVlhnOENqOGY4TEZtbm5FVWxkQlNOdVpWVW9ob1U4VWt4ZkgzRVBKS0doNW9IVFQ4blhmbFRKNnRtaXdnOWExWkdzbm5DaE94WWNMZ2xyN3hyZnVHTGc?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T08:51:27"
+    },
+    {
+      "title": "Unity 公布“上市以来最佳季度”财报，Vector AI 持续带来增长",
+      "description": "Unity 公布最新财报，CEO 称这是公司上市以来最佳季度，主要受益于 Vector AI 的持续成功。对关注游戏引擎与开发工具动态的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-07T08:02:24"
+    },
+    {
+      "title": "Devolver Digital 计划私有化",
+      "description": "独立游戏发行商 Devolver Digital 计划今年晚些时候从上市状态回归私有化。属于资本市场与独立游戏行业动态，对泛游戏从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/devolver-digital-intends-to-go-private",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-06T08:58:53"
+    },
+    {
+      "title": "新游录《绿植小筑》：模拟经营游戏介绍",
+      "description": "介绍模拟经营新游《绿植小筑》的玩法与卖点，属于新游资讯。可作为模拟经营产品方向观察，但缺乏深度拆解。",
+      "url": "https://mp.weixin.qq.com/s/Yrx5DKvt0WjDgoB3y36vCw",
+      "source": "微信-GameCentral",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-06T07:38:44"
+    },
+    {
+      "title": "腾讯4小时闭门分享，光子朱峰：从0到1做3A，坚守长期主义",
+      "description": "腾讯光子工作室朱峰在内部闭门分享中谈从0到1做3A、坚守长期主义的方法论。对关注大厂研发战略和工业化流程的手游从业者有参考意义，但并非休闲玩法拆解。",
+      "url": "https://mp.weixin.qq.com/s/i7LcWmUFDdFWelLYXENVew",
+      "source": "微信-游戏那点事Gamez",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T22:51:46"
+    },
+    {
+      "title": "万人在线，90%好评：自走棋的下一个风口突然爆了？",
+      "description": "文章关注一款在线人数破万、好评率达90%的自走棋新品，讨论其能否带动自走棋品类新风口。属于品类市场动态，未呈现休闲向设计细节。",
+      "url": "https://mp.weixin.qq.com/s/wNF_6EBq7J-m5KiPeylbyw",
+      "source": "微信-游戏那点事Gamez",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T22:51:46"
+    },
+    {
+      "title": "游戏圈迎来800亿增量蓝海，AI不能再放小孩桌了！",
+      "description": "文章围绕AI给游戏行业带来的800亿增量市场展开，强调AI在游戏研发、运营和出海中不应被忽视。属于行业趋势资讯，对寻找AI应用机会的团队有启发，但无具体玩法拆解。",
+      "url": "https://mp.weixin.qq.com/s/eNRy0vSIO-4D7LRdKgzQiA",
+      "source": "微信-橙了个橘",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T22:50:11"
+    },
+    {
+      "title": "点触科技广州分部解散，高峰期有60+人",
+      "description": "报道点触科技广州分部解散、高峰期超过60人的团队变动，反映游戏公司经营收缩。对行业从业者了解团队稳定性与公司风险有参考。",
+      "url": "https://mp.weixin.qq.com/s/e1KoyBcqLdvMzBfW4lc-qQ",
+      "source": "微信-游戏新知",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T21:03:03"
+    },
+    {
+      "title": "腾讯凯博《龙石战争》停运，制作人已开启另一款SLG",
+      "description": "腾讯凯博旗下《龙石战争》宣布停运，制作人已转向另一款SLG项目。这是SLG赛道产品生老病死的案例，可作为品类入局与止损参考。",
+      "url": "https://mp.weixin.qq.com/s/kFANW2-0xl5_Szt_QOOMYA",
+      "source": "微信-游戏新知",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T21:03:03"
+    },
+    {
+      "title": "从落地到盈利，AI怎么帮助泛娱乐企业跨越出海的最后一公里？丨闭门会干货分享",
+      "description": "闭门会干货整理AI如何帮助泛娱乐企业从落地到盈利、跨越出海最后一公里。对出海团队了解AI提效和本地化策略有参考，但非游戏玩法拆解。",
+      "url": "https://mp.weixin.qq.com/s/P3sZN7z8KbqZCamwofvgtQ",
+      "source": "微信-扬帆出海",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T20:03:03"
+    },
+    {
+      "title": "盗墓笔记、诡秘之主、怪物猎人领衔：8月定档手游扎堆，谁能成爆款？",
+      "description": "8月定档手游前瞻，涉及《盗墓笔记》《诡秘之主》《怪物猎人》等IP新品，讨论谁能成为爆款。对新游观察和档期判断有参考，但无玩法深度拆解。",
+      "url": "https://mp.weixin.qq.com/s/ByeyZr-juZFSLNQ7NGHaXw",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T18:49:38"
+    },
+    {
+      "title": "87个游戏账号成遗产？法院判决：使用权可继承",
+      "description": "法院判决87个游戏账号使用权可作为遗产继承，涉及虚拟财产法律边界。对游戏账号资产化和用户权益运营有参考意义。",
+      "url": "https://mp.weixin.qq.com/s/kc1MXdoHBq3dHBFN6eN8fA",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T18:49:38"
+    },
+    {
+      "title": "世纪华通，已接近EA这类巨头体量",
+      "description": "文章比较世纪华通与EA等巨头的体量，围绕中国游戏公司收入规模和市场地位展开。属于公司战略/资本动向，与休闲游戏设计关联不大。",
+      "url": "https://mp.weixin.qq.com/s/x5S2t8cKR7awLR4cvLWfdQ",
+      "source": "微信-GameQuest",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T17:23:38"
+    },
+    {
+      "title": "独家对话新任总经理：上海这么贵，维塔士为何还要押注？",
+      "description": "独家对话维塔士上海新任总经理，探讨在上海高成本下仍加码布局的原因。对了解游戏外包/研发产业布局有参考，但未涉及具体休闲玩法。",
+      "url": "https://mp.weixin.qq.com/s/e0jaLVKzB2_uQ7cRczF7BQ",
+      "source": "微信-游戏日报",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T15:36:00"
+    },
+    {
+      "title": "累计3亿玩家，北京大厂押注射击，逆着风走",
+      "description": "文章关注北京大厂在射击赛道押注，提到累计3亿玩家规模与逆风布局。属于公司/品类动态资讯，对赛道判断有参考，并非休闲玩法拆解。",
+      "url": "https://mp.weixin.qq.com/s/C9PwQi9xQAZ27q3H4HnJXw",
+      "source": "微信-竞核",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T13:01:09"
+    },
+    {
+      "title": "新游录《异常形态》——回合制撤离肉鸽游戏",
+      "description": "介绍新游《异常形态》，一款结合回合制与撤离玩法的肉鸽游戏。有助于了解新玩法组合趋势，但分析深度有限。",
+      "url": "https://mp.weixin.qq.com/s/yS3c2GwoJtqpMjy-KuVWpQ",
+      "source": "微信-GameCentral",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-05T08:30:44"
+    }
+  ]
+}
