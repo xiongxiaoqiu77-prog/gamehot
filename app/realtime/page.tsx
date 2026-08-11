@@ -12,6 +12,36 @@ function sourceIcon(source: string) {
   return '📰'
 }
 
+// 去掉行内所有 markdown 链接，返回纯文本长度
+function plainTextLen(line: string): number {
+  return line.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/!?\[.*?\]/g, '').trim().length
+}
+
+function cleanContent(md: string): string {
+  const lines = md.split('\n')
+  const out: string[] = []
+
+  for (const raw of lines) {
+    const line = raw.trim()
+
+    // 跳过常见 CMS/站点 UI 残留文本
+    if (/^Search for:/i.test(line) || /^Skip to (content|main)/i.test(line)) continue
+
+    // 跳过含链接且纯文字极少的行（导航菜单、tag 列表、作者链接等）
+    const hasLink = /\]\(https?:\/\//.test(line) || /\]\(#/.test(line)
+    if (hasLink) {
+      const pt = plainTextLen(line)
+      // 纯文字内容 < 40 字符视为导航/标签噪音，丢弃
+      if (pt < 40) continue
+    }
+
+    // mailto: 链接变纯文本
+    out.push(raw.replace(/\[([^\]]+)\]\(mailto:[^)]+\)/g, '$1'))
+  }
+
+  return out.join('\n').replace(/\n{3,}/g, '\n\n').trim()
+}
+
 function ArticleDetail() {
   const params = useSearchParams()
   const id = params.get('id') ?? ''
@@ -43,8 +73,14 @@ function ArticleDetail() {
     })
       .then(r => r.text())
       .then(text => {
-        // 去掉 Jina 的 metadata 头（Title/URL Source/Published Time/Markdown Content:）
-        const body = text.replace(/^[\s\S]*?Markdown Content:\s*/i, '').trim()
+        // Jina 返回错误时（404 等）直接放弃展示原文
+        if (/Warning: Target URL returned error/i.test(text)) {
+          setContentLoading(false)
+          return
+        }
+        // 去掉 Jina 的 metadata 头
+        let body = text.replace(/^[\s\S]*?Markdown Content:\s*/i, '').trim()
+        body = cleanContent(body)
         setContent((body || text).slice(0, 8000))
         setContentLoading(false)
       })
