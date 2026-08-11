@@ -23,6 +23,24 @@ export interface Feed {
   articles: Article[]
 }
 
+export interface RealtimeArticle {
+  id: string
+  title: string
+  zh_desc: string
+  url: string
+  source: string
+  category: string
+  score: number
+  published_at: string
+  fetched_at: string
+  lang: string
+}
+
+export interface RealtimeFeed {
+  updated_at: string
+  articles: RealtimeArticle[]
+}
+
 export interface HistoryDay {
   date: string
   articles: Article[]
