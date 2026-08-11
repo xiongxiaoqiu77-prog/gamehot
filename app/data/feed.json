@@ -1,639 +1,254 @@
 {
-  "updated": "2026-08-10",
-  "generated_at": "2026-08-10T18:43:10.236179",
+  "updated": "2026-08-11",
+  "generated_at": "2026-08-11T09:18:14.214340",
   "articles": [
     {
-      "id": "d3988da66a",
-      "title": "Friendslop：颠覆LiveOps旧秩序",
-      "summary": "文章介绍了“Friendslop”这一新兴游戏类型：低成本、低门槛、适合与朋友短期游玩的游戏，正凭借玩家对真实社交体验和病毒式传播的追求，颠覆传统LiveOps长期运营模式。对从业者的价值在于，小团队敏捷开发、快速上线并紧跟社交传播趋势，有望以低成本挑战大厂重投入的运营策略。",
-      "url": "https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/",
-      "source": "Naavik",
+      "id": "cdc3ec46e1",
+      "title": "手握年流水超60亿元的《Coin Master》，Moon Active为何还要连发两款二合新游？",
+      "summary": "Moon Active旗下《Coin Master》年流水已超60亿元，但公司仍接连推出两款二合（Merge）玩法新游，意在降低对单一产品的依赖并拓展品类受众。从业者可关注头部休闲厂商如何通过品类延伸实现第二增长曲线。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4V1c5Si1WSFFjX1BJa2JMYmtLc1ZOY3RpaERLQ3FLbWoyUWtHajVUaE41SGo2djdHSF9hdlI2emVUa01CRXh5eVdGSGQ?oc=5",
+      "source": "Google News",
       "category": "深度拆解",
       "score": 8,
-      "published_at": "2026-08-09T17:30:00",
+      "published_at": "2026-08-10T08:05:05",
       "games": [
         {
-          "name": "Dear Passengers",
-          "desc": "以经营廉价航空为题材的多人合作游戏，玩家需在朋友捣乱下维持飞机飞行。"
-        },
-        {
-          "name": "Meccha Chameleon",
-          "desc": "由两位开发者用两个月制作的现象级爆款，26天售出1500万份。"
-        },
-        {
-          "name": "Peak",
-          "desc": "关于合作攀登高山的多人游戏。"
-        },
-        {
-          "name": "R.E.P.O.",
-          "desc": "合作搬运战利品并避免惊醒可怕怪物的游戏。"
-        },
-        {
-          "name": "Overcooked",
-          "desc": "经典的厨房合作游戏，靠朋友间的‘混乱’建立玩法乐趣。"
-        },
-        {
-          "name": "Among Us",
-          "desc": "社交欺骗派对游戏，在玩家中互相背叛而流行。"
-        },
-        {
-          "name": "Fall Guys",
-          "desc": "物理障碍赛跑游戏，以滑稽的多人竞技成为热门。"
+          "name": "Coin Master",
+          "desc": "以老虎机为核心的社交休闲游戏，融合建造与攻击玩法。"
         }
       ],
-      "translated_content": "标题：Friendslop：颠覆LiveOps旧秩序\n\n正文：\nFriendslop：颠覆LiveOps旧秩序\n跳至内容\nNAAVIK DIGEST\nFriendslop：颠覆LiveOps旧秩序\n作者：Tim Shepherd • 2026年8月9日\n《亲爱的乘客》 | 来源：FLEXUS\n几周前，一家名为FLEXUS的乌克兰工作室为一款关于运营全球最差廉价航空公司的游戏发布了Steam页面和预告片。这款名为《亲爱的乘客》的游戏在36小时内获得了70万个愿望单，五天內达到150万，跻身Steam前25名。它上线时，距《变色龙》发布仅一个月——那款游戏由两名开发者耗时两个月制作，26天内卖出1500万份，成为2026年迄今销售速度最快的游戏。这两款游戏都是“friendslop”的典型例子：一种廉价、低门槛、适合与朋友玩上几局的趣味游戏，而非旨在长期吸引玩家注意力的精雕细琢之作。\n\n尽管这个品类绰号不太中听，但friendslop正促使行业重新审视多年来在live-service上的过度投入。通过将制作和融资方式与当代玩家的习惯——即游戏时间往往短暂、社交性强、深受病毒式趋势影响——对齐，这种模式使小型敏捷团队能够反复抢在资金雄厚的竞争对手之前抓住玩家的注意力，同时在整个行业收入中仅占据相对较小的份额。\n\n有序的混乱\n《巅峰》 | 来源：Landfall\n这一品类没有固定的机制或美术风格。《巅峰》是关于攀登一座山。《R.E.P.O.》是关于搬运战利品而不惊醒可怕的东西。《亲爱的乘客》则是关于在朋友点燃货舱的同时让飞机保持在空中。将它们联系在一起的共同点是，它们都创造了协作式体验，屏幕上最搞笑的是你朋友的行为，而非游戏本身。远非简单的预算妥协，低多边形画面、布娃娃物理和近距离语音聊天正是让这些游戏成立的核心机制。媒体分析师Doug Shapiro认为，被颠覆的行业中，受众对质量的定义正从制作水准转向真实感和社群。Friendslop正是游戏领域的这一转变。\n\n并非新事物，只是更便宜更快\n《胡闹厨房》 | 来源：Team17\n这些都不是全新的事物。《胡闹厨房》的商业模式建立于朋友在厨房里互相尖叫。《在我们之中》证明了在疫情期间，偷偷背叛朋友能把人们聚在一起。《糖豆人》把笨拙的物理障碍赛变成了现象级爆款。过去几年里改变的是制作成本和速度：团队现在只需几周或几个月就能量产这类游戏，而且越来越多的开发者正在这么做。\n\n发行策略也在转变。标准的独立游戏路线是花数月积累愿望单，然后在Early Access中打磨一年以上，在“正式”发布前修平粗糙的棱角。一些friendslop团队直接跳过了这一步：尽快发布，在热潮列车离站前赶上它——带着bug一起上线，然后边运营边修补，而不是先修完再发布。这种方法反映了这样一种信念：抓住突发的病毒式浪潮比推迟发布直到项目完成更有价值。\n\n《房车到了吗？》是一个三个月的game jam原型，完全跳过了Early Access，直接以1.0版本首发。它缺少手柄支持等基本功能，并且存在足够多的稳定性问题，以至于许多玩家坚持认为它应该进Early Access。尽管存在这些问题，游戏在首周就卖出了超过100万份，促使工作室在接下来的几个月里直接向活跃玩家群体推送补丁，而不是事先打磨游戏。\n\n没有免费搭车\n《房车到了吗？》 | 来源：Nuggets Entertainment\n历史上有些多人游戏支持免费的“好友通行证”，允许一名玩家购买游戏并邀请朋友加入，而friendslop游戏则采取了不同的做法。这些开发者通过将游戏定价在6至10美元这一更亲民的区间，让每个人都能轻松加入。这也有助于热度自然增长：当多个朋友各自购买游戏时，愿望单和销量会同步增长。价格足够低，朋友提议入手时几乎不会有犹豫，而且陆续买几款这样的游戏也不会让钱包吃紧。即使只和朋友玩上一两局，也足以值回票价，之后大家再转向下一款游戏。\n\n营销预算就是群聊\n《亲爱的乘客》 | 来源：FLEXUS\n从预告片到游戏实机片段，可分享内容是friendslop游戏成功的主要驱动力。无论是朋友被甩下悬崖的片段，还是近距离语音中的尖叫声戛然而止的瞬间，这些片段会被自发地转发，并被社交平台的算法捕捉，从而大大减少了对大笔媒体投放的需求。例如，《亲爱的乘客》从未需要试玩版；仅预告片就吸引了约4500万次观看，因为前提设定在十五秒内就自我说明了。\n\n这些游戏的玩家群体之间也存在显著的重叠。例如，6"
+      "translated_content": "标题：手握年流水超60亿元的《Coin Master》，Moon Active为何还要连发两款二合新游？\n\n正文：\nGoogle News"
     },
     {
-      "id": "3771cf4c43",
-      "title": "游戏经济学：市场价格如何反映资源产出和玩家需求",
-      "summary": "文章探讨游戏经济系统中市场价格的形成机制，分析资源产出与玩家需求如何共同决定物价，为游戏数值策划和经济平衡提供参考。对从业者的价值在于，合理设定价格可有效调节游戏经济生态，提升玩家体验与商业化表现。",
-      "url": "https://mp.weixin.qq.com/s/1fJrIL2F8SPB-cqbKw51Ng",
-      "source": "微信-欧米De游戏开发小屋",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-08-09T10:57:39",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "ef62237a13",
-      "title": "纯广告产品也能做到上亿美元规模！数读：IAA的天花板到底有多高？",
-      "summary": "文章通过数据展示纯广告变现（IAA）产品同样能做到上亿美元规模，分析其天花板与成功要素，为休闲游戏变现模式选择提供依据。从业者可从中借鉴买量策略与广告设计经验。",
-      "url": "https://mp.weixin.qq.com/s/G1tECS_EC5iL2gQtPGu93A",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-08-09T19:10:57",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "bfdb25a27d",
-      "title": "46.91%！SLG仍是出海压舱石，但合成类暴涨9.74%正在改格局",
-      "summary": "文章指出SLG仍是出海游戏收入的压舱石，但合成类（Merge）品类收入占比大幅增长9.74%，正在改变出海格局。从业者应关注合成类机会，同时巩固SLG优势。",
-      "url": "https://mp.weixin.qq.com/s/3_XQwKPaMSwCBz_I13Hy4g",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-08-09T19:10:57",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "8a80b761b8",
-      "title": "这家60人小厂，用24万条素材把Merge游戏送进全球TOP8",
-      "summary": "文章分析一家60人小厂如何通过规模化生产24万条买量素材，将Merge游戏推上全球收入TOP8，强调素材创意和投放效率对休闲游戏成功的重要性。对从业者尤其是买量团队有实操参考价值。",
-      "url": "https://mp.weixin.qq.com/s/MKkcEQ4yyicdpmaAppLMNg",
-      "source": "微信-广大大出海笔记",
+      "id": "bd591d469a",
+      "title": "《吸血鬼幸存者》如何成为《Vampire Crawlers》：基于他人IP制作游戏的六条经验",
+      "summary": "文章以《吸血鬼幸存者》为例，总结了基于他人IP制作游戏（如《Vampire Crawlers》）的六条经验，强调IP改编需在尊重原作与创新之间找到平衡。对从业者获取IP授权和二次创作有参考价值。",
+      "url": "https://www.gamesindustry.biz/how-vampire-survivors-became-vampire-crawlers-six-lessons-from-building-a-game-based-on-another-developers-ip-1",
+      "source": "GamesIndustry.biz",
       "category": "深度拆解",
       "score": 7,
-      "published_at": "2026-08-10T17:57:19",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "5bfe8c3b27",
-      "title": "传腾讯拟收购SuperPlay，Playtika为何要卖掉这只“下金蛋的鹅”？",
-      "summary": "文章报道腾讯拟收购SuperPlay的传闻，分析Playtika出售这一优质资产的可能原因，涉及公司战略调整与资本运作。从业者可从中了解休闲游戏市场的并购动态。",
-      "url": "https://mp.weixin.qq.com/s/VS6BLfMlbktHQjveFjTavw",
-      "source": "微信-游戏陀螺",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-08-09T20:25:13",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "7eb2bc0b02",
-      "title": "游戏运营新手向：一份制作人的信该如何炮制？",
-      "summary": "文章面向游戏运营新手，讲解如何撰写一份有效的制作人信，包括内容结构、语气和发布时机，以提升玩家沟通效果。对运营人员具有实操指导意义。",
-      "url": "https://mp.weixin.qq.com/s/zfguVHdz1cd3-Z-37e2XSg",
-      "source": "微信-车尔斯基的游戏运营杂谈",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-08-09T08:00:50",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "aa3e84cb94",
-      "title": "FF14手游关服、塔瑞斯退场，麦芬Like却爆款频发？从策划角度看MMO手游的困境与机遇",
-      "summary": "文章从策划视角分析MMO手游市场的分化：FF14手游关服、塔瑞斯退场，而麦芬Like玩法却频频出爆款，探讨困境中的机遇。从业者可从中借鉴MMO轻量化、玩法融合的设计方向。",
-      "url": "https://mp.weixin.qq.com/s/B8p8x0aTCC4IqYq4mxESIQ",
-      "source": "微信-罗斯基",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-09T23:23:20",
+      "published_at": "2026-08-10T15:19:18",
       "games": [
         {
-          "name": "FF14手游",
-          "desc": "最终幻想14的移动版MMO手游，已关服。"
+          "name": "吸血鬼幸存者",
+          "desc": "类幸存者割草玩法，弹幕射击生存游戏。"
         },
         {
-          "name": "塔瑞斯世界",
-          "desc": "一款MMO手游，游戏中退场。"
+          "name": "Vampire Crawlers",
+          "desc": "基于《吸血鬼幸存者》IP的改编作品，具体玩法未在标题中说明。"
         }
       ],
       "translated_content": ""
     },
     {
-      "id": "0acad8dbfe",
-      "title": "Google Play拒付新规生效，欧盟AI透明度要求开始执行｜Enjoy出海政策周报",
-      "summary": "文章汇总近期出海政策动态：Google Play拒付新规正式生效，欧盟AI透明度要求开始执行，提醒开发者关注合规要求。对出海从业者有重要风险提示。",
-      "url": "https://mp.weixin.qq.com/s/jfW5KzT9fhLI7_ZbUj-02A",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-09T19:10:57",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "16576ded9c",
-      "title": "从混合休闲、AI陪伴到合规实战，这场大会聊了哪些出海新变化？",
-      "summary": "文章总结大会内容，涵盖混合休闲游戏、AI陪伴应用、合规实战等出海新趋势，为开发者把握方向提供参考。从业者可从中获取品类创新和合规策略的启发。",
-      "url": "https://mp.weixin.qq.com/s/n-T9Yy3CwvasqDMdMU6EjA",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-09T19:10:57",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "d6d7609982",
-      "title": "【游戏设计】分支剧情设计，需要先控制住不断增加的剧情状态",
-      "summary": "文章探讨分支剧情设计中剧情状态指数级增长的问题，提出需要通过控制状态数量来确保设计可控。对叙事游戏设计者有方法论价值。",
-      "url": "https://mp.weixin.qq.com/s/VLluxrMmLSNH5jVqwzcvcQ",
-      "source": "微信-欧米De游戏开发小屋",
-      "category": "深度拆解",
-      "score": 6,
-      "published_at": "2026-08-10T11:01:01",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "87171aee95",
-      "title": "Take-Two移动端优势收窄，但仍贡献过半收益",
-      "summary": "Take-Two本财季移动端收入占比下滑但仍占53%，移动端用户获取略有压力，而主机端增长；《GTA6》预购强劲但尚未确认销量。对从业者的价值：显示移动端仍是重要收入来源，但竞争加剧，主机大作仍具拉动能力。",
-      "url": "https://mobilegamer.biz/mobiles-lead-narrows-at-take-two-but-remains-over-half-its-earnings/",
+      "id": "7934670f8a",
+      "title": "Rovio营收保持稳定，世嘉减记与重组后F2P支出仍增长",
+      "summary": "Rovio在被世嘉减记约2亿美元并重组运营后，最新季度营收保持稳定，为集团贡献4690万美元，旗下F2P产品整体收入增长，但《Angry Birds 2》和《Sonic Rumble Party》表现乏力。从业者可观察大型收购后工作室整合与IP协同的实际情况。",
+      "url": "https://mobilegamer.biz/rovio-sales-hold-steady-in-sega-financials-after-write-down-and-rebuild/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-10T08:54:32",
+      "published_at": "2026-08-11T00:09:44",
       "games": [
         {
-          "name": "NBA 2K",
-          "desc": "篮球模拟游戏系列。"
+          "name": "Sonic Rumble Party",
+          "desc": "世嘉旗下索尼克IP的多人派对游戏。"
         },
         {
-          "name": "Grand Theft Auto series",
-          "desc": "开放世界动作冒险游戏系列。"
+          "name": "Angry Birds 2",
+          "desc": "怒鸟系列续作，以弹弓射击为核心的休闲益智游戏。"
         },
         {
-          "name": "Grand Theft Auto VI",
-          "desc": "GTA系列最新作，预购表现出色，即将发售。"
-        },
-        {
-          "name": "Color Block Jam",
-          "desc": "休闲解谜游戏，去年同期有突破性表现。"
-        },
-        {
-          "name": "Borderlands franchise",
-          "desc": "射击夺宝游戏系列。"
-        },
-        {
-          "name": "Toon Blast",
-          "desc": "砖块消除类休闲游戏。"
-        },
-        {
-          "name": "Words With Friends",
-          "desc": "文字拼字社交游戏。"
-        },
-        {
-          "name": "Top Eleven",
-          "desc": "足球经理模拟经营游戏。"
+          "name": "Angry Birds Dream Blast",
+          "desc": "怒鸟IP下的消除/解谜类手游，曾被提及表现未达预期。"
         }
       ],
-      "translated_content": "标题：Take-Two移动端优势收窄，但仍贡献过半收益\n\n在Take-Two的财年第一季度，总净预订量同比下降3%，随着主机业务增长，移动端在业务中的份额有所收窄。\n\n移动端仍是Take-Two财年第一季度最大的单一平台，但其业务份额略有缩减。\n\n总体而言，该发行商截至6月30日的三个月净预订量达到13.9亿美元，同比下降3%，但高于指引上限，主要受CEO斯特劳斯·泽尔尼克（Strauss Zelnick）在财报电话会议上所称的“NBA 2K和《侠盗猎车手》系列的强劲表现”驱动。\n\n其中移动端贡献7.395亿美元，占总量的53%，低于一年前的56%；当季移动端经常性消费支出同比下降7%。\n\n泽尔尼克将这一下滑主要归因于与Color Block Jam上年同期爆发式首秀的艰难对比。当被直接问及移动端是否放缓时，他表示：“不，我们真正看到的情况并非如此。”仅补充道，“用户获取方面有一点压力。”\n\n主机业务占净预订量的比例增至38%（高于此前的33%），得益于NBA 2K和《无主之地》系列。根据公司业绩数据，“PC及其他”占净预订量的其余9%，低于此前的11%。\n\n在移动端的其他方面，《Toon Blast》和《Words With Friends》的净预订量均同比增长8%，《Top Eleven》则增长15%。Take-Two还强调了其移动端直达消费者（D2C）业务，泽尔尼克称这对“我们移动业务的利润率产生了实质性的积极影响”。\n\nTake-Two本季度GAAP净亏损为3410万美元，去年同期为1190万美元，部分原因是公司在取消一款未公布的第三方开发项目后计提了4300万美元的减值费用。\n\n公司重申了2027财年净预订量80亿至82亿美元的指引，其核心是《侠盗猎车手VI》将于11月19日发售。泽尔尼克表示，该游戏“预售开局异常出色”——不过他也提醒，“我们尚未售出一个单位。预售订单是可以取消的。”"
+      "translated_content": "Rovio为母公司世嘉飒美（Sega Sammy）第一季度销售额贡献了4690万美元，较去年同期的4500万美元略有增长，这家“愤怒的小鸟”开发商的表现符合预期。\n\n在世嘉更广泛的消费者子板块（包括Rovio的移动游戏）中，免费游戏（F2P）销售额从7290万美元增至8180万美元，但世嘉飒美表示，这部分业绩略低于预期。\n\n这是自世嘉5月份报告以来的第一个季度检查点。世嘉在报告中表示，其以7.75亿美元收购Rovio的交易迄今未能创造“经济价值”，并确认对Rovio进行了2亿美元的减记。世嘉还表示，正在重建该工作室的运营，包括将约100名员工从F2P项目中调离。该报告还指出，《Sonic Rumble Party》和《愤怒的小鸟2》表现疲软，收入据报已趋于平稳。\n\n世嘉表示有计划推出Rovio的新作，但本财年不会有任何作品面世。世嘉还预测，与“关键IP周年纪念”以及第三部《愤怒的小鸟》电影相关的授权收入将持续增长，该电影定于12月23日在美国上映，其他地区的上映日期尚未确定。\n\n在上一份财务报告以及2025年10月那段艰难时期之后，第一季度的稳定数据将受到欢迎。当时，由于《Angry Birds Dream Blast》表现不佳，Rovio裁减了36个职位并进行工作室重组。Rovio的芬兰解谜工作室将重心收窄至更少的游戏，而巴塞罗那工作室则承担了更多工作。"
     },
     {
-      "id": "f49a128a4a",
-      "title": "2026年7月微信小游戏收入百强榜",
-      "summary": "文章发布2026年7月微信小游戏收入百强榜单，展示当前小游戏市场头部产品与品类格局。从业者可据此分析玩家偏好和竞品策略。",
-      "url": "https://mp.weixin.qq.com/s/ytLCaHwAYgE8yZcumfvi-A",
-      "source": "微信-GameQuest",
+      "id": "961a5be71f",
+      "title": "7月手游月报：夏季买量升温，IGG《王国纪元》再度破圈",
+      "summary": "7月手游买量市场升温，IGG旗下《王国纪元》通过营销再度出圈，打破常规获客瓶颈。行业可借鉴其买量与品牌联动策略。",
+      "url": "https://mp.weixin.qq.com/s/5kifhAgf-0XKIEO1jcNu0w",
+      "source": "微信-独立出海联合体",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-10T07:12:06",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "8c112ee11f",
-      "title": "还有人敢做ROK Like？《Song of Civilization》不知道死字怎么写！",
-      "summary": "文章讨论在SLG赛道竞争激烈的情况下，新游戏《Song of Civilization》仍选择ROK Like方向，分析其勇气与风险。从业者可了解SLG细分市场的现状和机会。",
-      "url": "https://mp.weixin.qq.com/s/OuyycG6qhKKz_WDyhzZWAw",
-      "source": "微信-金角游戏",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-09T21:29:27",
+      "published_at": "2026-08-10T18:09:08",
       "games": [
         {
-          "name": "Song of Civilization",
-          "desc": "一款ROK Like（类《万国觉醒》）的SLG新游。"
+          "name": "王国纪元",
+          "desc": "全球多人在线策略手游，集建造、战斗与联盟玩法于一体。"
         }
       ],
       "translated_content": ""
     },
     {
-      "id": "3879b9fb2f",
-      "title": "字节新游杀入全球榜单！顶级流量加持，SLG大厂会迎来真正危机吗？",
-      "summary": "文章报道字节跳动新游进入全球榜单，凭借其流量优势对传统SLG大厂构成压力，分析市场竞争格局是否会被打破。从业者应关注流量巨头的入局带来的变化。",
-      "url": "https://mp.weixin.qq.com/s/VKiKBLL6NAedpYiQ0pB6yw",
-      "source": "微信-百游录",
+      "id": "3cdfeff9cc",
+      "title": "试玩广告素材要这样做",
+      "summary": "文章讨论试玩广告素材的制作方法，强调通过可交互试玩内容提升玩家参与度和转化率。具体内容因页面无法访问而不可得，但主题对游戏买量素材优化有指导意义。",
+      "url": "https://mp.weixin.qq.com/s/UBdbqdO33El9EtxB2o1vSg",
+      "source": "微信-这个游戏素材不错",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-09T20:00:49",
+      "published_at": "2026-08-10T18:01:01",
       "games": [],
       "translated_content": ""
     },
     {
-      "id": "4f89b56136",
-      "title": "估值90亿却难寻下家：阿里急于甩卖灵犀互娱，究竟在焦虑什么？",
-      "summary": "文章分析阿里以90亿估值出售灵犀互娱却难以找到买家背后的原因，探讨互联网公司对游戏资产态度的转变。从业者可从中观察游戏行业资本环境。",
-      "url": "https://mp.weixin.qq.com/s/YA-D9SW9q41GzUVZZhA4AA",
-      "source": "微信-GameMarket洞察",
+      "id": "e76e365312",
+      "title": "Google Play现已支持Venmo付款",
+      "summary": "Google Play新增Venmo支付选项，Android用户可在Play商店内关联Venmo账户，用于支付应用内购、订阅和打赏。此举可能提升游戏内付费的便捷性，对面向美国市场的开发者有支付渠道拓展参考。",
+      "url": "https://mobilegamer.biz/venmo-payments-now-available-on-google-play/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-09T11:56:55",
+      "published_at": "2026-08-10T14:31:39",
       "games": [],
+      "translated_content": "Venmo现已作为Google Play的支付选项推出，让Android用户有了另一种为应用、游戏和数字内容付费的方式。\n\n用户可以将自己的Venmo账户（余额或关联的支付方式）直接关联到Google Play，用于支付游戏内购、管理订阅以及向创作者打赏。\n\nGoogle和Venmo将其定位为将Venmo现有的“安全、快速、社交”体验扩展至Play商店购买场景。\n\n设置方法是在Google Play商店的支付设置中，将Venmo添加为支付方式。\n\n上个月，Google Play游戏部门总经理Aurash Mahbod向我们解释了Google复杂的新费用结构背后的一些思考，该结构已在英国、美国、欧盟推出，并将于近期登陆更多市场。"
+    },
+    {
+      "id": "dc9e6f1028",
+      "title": "7月出海收入榜：《绝区零》二周年大涨，点点互动占收入榜Top 5三席",
+      "summary": "7月中国手游出海收入榜出炉，《绝区零》二周年活动带动收入大涨，点点互动旗下产品占据收入榜Top 5中的三个席位。从业者可了解头部出海产品与厂商的最新动态。",
+      "url": "https://mp.weixin.qq.com/s/U2-xEaFIpgaoAuNPLYDGRQ",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-10T11:21:20",
+      "games": [
+        {
+          "name": "绝区零",
+          "desc": "米哈游出品的都市动作角色扮演游戏。"
+        }
+      ],
       "translated_content": ""
     },
     {
-      "id": "34dbad253d",
-      "title": "万代南梦宫第一季度销售额创纪录，但数字业务营业利润下降30.9%",
-      "summary": "万代南梦宫第一季度整体业绩创纪录，玩具业务强劲，但游戏数字业务因新作数量减少而销售和利润双降；公司上调了半年度数字业务预期，年内将推出多款新作。对从业者的价值：关注大厂游戏业务波动，新作发布节奏对业绩影响显著。",
-      "url": "https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309",
+      "id": "e7fa208544",
+      "title": "HandyGames更名为THQ Nordic Mobile，专注PC/主机游戏移植移动端",
+      "summary": "HandyGames更名为THQ Nordic Mobile，将专注于将优质PC/主机游戏移植到移动平台，原开发工作室保留HandyGames品牌继续运营。这是THQ Nordic整合移动发行业务、拓展跨平台改编的战略举措。",
+      "url": "https://www.gamesindustry.biz/handygames-rebrands-as-thq-nordic-mobile",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-10T10:07:24",
+      "published_at": "2026-08-10T17:10:00",
       "games": [
         {
-          "name": "Ace Combat 8: Wings of Theve",
-          "desc": "飞行射击游戏，2026年10月2日发售。"
+          "name": "Wreckfest",
+          "desc": "以碰撞破坏为特色的竞速赛车游戏。"
         },
         {
-          "name": "Dragon Ball Xenoverse 3",
-          "desc": "龙珠IP动作对战游戏，2027年发售。"
+          "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+          "desc": "海绵宝宝IP的3D平台动作冒险游戏重制版。"
         },
         {
-          "name": "Gundam Rogue Orbit",
-          "desc": "高达IP游戏，2027年发售。"
+          "name": "Titan Quest",
+          "desc": "以希腊神话为背景的动作角色扮演游戏。"
         }
       ],
-      "translated_content": "万代南梦宫第一季度销售额创纪录，但数字业务营业利润下降30.9%\n\n万代南梦宫公布了创纪录的第一季度整体业绩。\n然而，其包含游戏业务的数字部门因与去年同期相比新作发行数量减少，出现了显著下滑。\n\n**数据一览**\n截至2026年3月31日财年的前三个月：\n净销售额：\n3284亿日元（约20亿美元），同比增长9.3%\n营业利润：\n692亿日元（约4.367亿美元），同比增长33.3%\n经常利润：\n744亿日元（约4.695亿美元），同比增长36.3%\n\n**要点**\n万代南梦宫玩具与嗜好品业务的强劲表现带动了整体销售额，该业务的销售额和利润分别增长45.9%和25.4%。公司还收到了一笔与美国关税相关的退款。\n娱乐设施业务贡献显著，日本现有门店的净销售额同比增长7.6%。\n包含游戏业务在内的万代南梦宫数字部门销售额和利润均出现下滑。销售额下降15.6%至909亿日元（约5.73亿美元），利润下降30.9%至150亿日元（约9450万美元）。\n家用主机游戏部门本季度销售了690万套游戏，共发布两款新作。\n上一季度销量为1080万套，发布15款新作，其中包括一款重要作品。这些数据不含平台版和地区本地化版本。\n核心游戏应用作品在第一季度“保持人气”。公司表示“正着眼于构建优化作品组合而强化开发能力”，并“进一步强化网络内容的收益基础”。\n计划于今年推出的新作包括：2026年10月2日的《皇牌空战8：Theve之翼》、2027年的《龙珠超宇宙3》以及2027年的《高达Rogue Orbit》。\n万代南梦宫已修正了数字内容部门的半年业绩预测。销售额预计将比此前预测增长10%，达到2000亿日元（约12亿美元），同比减少31.5%。\n营业利润预计为265亿日元（约1.67亿美元），较此前预测增长11.5%，但同比下降10.8%。\n公司未修正全年业绩，但计划根据“市场环境与粉丝需求的变化”、“第三季度及以后计划推出的主要家用主机作品的趋势”以及“关键销售季度的趋势等因素”进行重新评估。\n\n本文提及\n万代南梦宫娱乐\n财务数据"
+      "translated_content": "HandyGames更名为THQ Nordic Mobile，该发行商将业务重心转向将优质PC和主机游戏带到移动平台。\n\n这家总部位于德国的公司——此前曾发布过《破坏赛车》、《海绵宝宝：大闹蟹堡王》和《泰坦之旅》的移动版本——表示此举将其发行业务整合到更广泛的THQ Nordic品牌之下，以便从既有系列IP中拓展移动端改编作品。\n\n其内部开发工作室同样位于德国吉贝尔施塔特，将继续以HandyGames的名义运营，负责原创游戏开发并支持THQ Nordic Mobile的技术移植工作。联合创始人克里斯托弗·卡苏尔克和马库斯·卡苏尔克将继续同时掌管发行品牌和开发工作室。\n\nTHQ Nordic表示，现有的开发管线、在运营游戏的持续支持以及当前授权协议均不会因重组而受到影响。\n\nTHQ Nordic于2018年收购了开发商兼发行商HandyGames。这家奥地利发行商获得了HandyGames全部IP的控制权。"
     },
     {
-      "id": "766482b1f7",
-      "title": "海外新游《Throne Arena: PvP Defense》：双向对攻塔防与实时PVP排位结合",
-      "summary": "文章介绍海外新游《Throne Arena: PvP Defense》，该游戏将双向对攻塔防与实时PVP排位机制结合，为塔防玩法创新提供参考。对倾向竞技化设计的团队有启示。",
-      "url": "https://mp.weixin.qq.com/s/D5H1vccZIgIijtalJXUQIw",
-      "source": "微信-阿杜聊游戏",
+      "id": "b8185962b5",
+      "title": "行业人事动态：EA、Nazara、Unity、Epic、Scopely、Kabam等公司人员变动",
+      "summary": "行业人事动态汇总多家游戏公司高管变动：EA完成550亿美元私有化后任命新任总裁，Nazara换帅，Unity、Epic、Scopely、Kabam等均有重要岗位调整。从业者可借此把握行业人才流动方向。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-ea-nazara-unity-and-more/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-10T08:45:26",
+      "published_at": "2026-08-10T13:49:58",
+      "games": [],
+      "translated_content": "行业人事动态：EA、Nazara、Unity、Epic、Scopely、Kabam等公司的人员调动与晋升 – Mobilegamer.biz\n\n我们的人事动态汇总收录了移动游戏行业所有你需要的招聘新闻，尽在一处。\n\n本专栏由 FastSpring 赞助。\n\nFastSpring：为你的游戏提供全球支付服务，来自一个值得你信赖的合作伙伴，让你的玩家放心。快速推出新的网店、替换现有的D2C供应商，或添加一个冗余供应商，请访问 fastspring.gg。\n\nEA：\nCam Weber 被任命为总裁兼首席工作室官，David Tinson 晋升为总裁兼首席运营官，此前 EA 完成了由沙特阿拉伯公共投资基金（PIF）牵头的财团进行的 550 亿美元私有化收购。两人在晋升前均为 EA 高管。\n\nNazara Technologies：\nNitish Mittersain 已辞去首席执行官一职，转任董事总经理。Raymond A. Stauffer 被任命为新任 CEO。Mittersain 在 Manish Agarwal 任期后于2022年第二次出任 CEO，期间公司收入从1.15亿美元增长至1.92亿美元，并完成了对 Bluetile 和 BestPlay 的3.03亿美元收购。\n\nEA 的 Weber、Nazara 的 Mittersain 和 Stauffer、Unity 的 Lieb 以及 Epic 的 Keely。\n\nUnity：\nMichael Lieb 被任命为首席会计官，自7月27日起生效，此前他已担任公司首席会计官。他曾担任 Peloton Interactive 的企业财务副总裁，并曾在 Shutterstock 和 Spotify 担任财务职务，另在安永任职超过14年。\n\nEpic Games：\nMartin Keely 加入，担任 Epic Games Store 和 Epic Online Services 的副总裁兼总经理。他在暴雪娱乐工作了七年多，最近负责 Battle.net 及平台和技术服务。\n\nXsolla：\nJon Middleton 加入，担任战略业务执行副总裁。他将专注于建立新的合作伙伴关系并扩大公司在游戏行业的影响力。\n\nXsolla 的 Middleton、Kabam 的 Jansco、Scopely 的 Fall、Tactile 的 Goven 和 Kolarz。\n\nKabam：\nAlexander Jancso 加入，与独立工作室合作将新游戏推向市场。他曾在动视任职，之前从事独立开发，并在移动游戏行业开启了早期职业生涯。\n\nScopely：\nAlon Fall 加入，担任游戏经济学家。Fernando Nascimento 也加入，担任一个未公布的跨平台策略/MMO 项目的高级制作人。\n\nTactile Games：\nSimru Goven 加入，担任产品经理，参与工作室的一款新作。Maja Kolarz 也加入，担任人员伙伴。\n\nMoon Active：\nYarden Calamaro 加入，担任产品游戏设计师。"
+    },
+    {
+      "id": "01c4d047ed",
+      "title": "Unity将“史上最佳季度”归功于AI广告平台",
+      "summary": "Unity 2026年Q2营收同比增长24%至5.46亿美元，主要得益于AI广告平台Vector AI带动Grow部门收入大涨69%，公司认为这是“史上最佳季度”。该案例显示AI广告技术正成为游戏增长的核心引擎。",
+      "url": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T13:46:23",
       "games": [
         {
-          "name": "Throne Arena: PvP Defense",
-          "desc": "结合双向对攻塔防与实时PVP排位的策略新游。"
+          "name": "GTA V",
+          "desc": "开放世界动作冒险游戏，创下销量纪录。"
+        },
+        {
+          "name": "GTA VI",
+          "desc": "《GTA V》的续作，尚未发售的开放世界动作冒险游戏。"
         }
       ],
+      "translated_content": "Unity称AI广告平台带来“史上最佳季度”\n\n商业\n主机\nPC\n移动\n新闻\nUnity称AI广告平台推动其迎来“史上最佳季度”\n得益于Unity Vector AI的收入，Unity营收同比增长24%。\nBryant Francis\n，\n高级编辑\n，\nGameDeveloper.com\n2026年8月10日\n阅读时间：3分钟\n图片来自Unity。\n\n游戏引擎与广告平台开发商Unity刚刚经历了可以说是其“史上最佳季度”，据CEO Matthew Bromberg称。这是因为，根据公司最新的收益报告（涵盖截至2026年6月30日的三个月），在2023年拟议的“运行时费用”引发强烈反对后，经过数年重组，公司终于看到了收入的重大正向增长。\n\n上一季度，Unity总营收为5.46亿美元，较2025年同期的4.4亿美元增长24%。公司仍录得2300万美元的净亏损，但已大幅止住了2025年报告中的失血——2025年第二季度亏损1.08亿美元——同比改善73%。\n\n是什么推动了Unity的收入增长？其游戏引擎部门“Create”的收入同比确实增长了2%——但“Grow”部门的收入却增长了69%，这得益于开发者在Vector AI（公司的人工智能驱动广告平台）上的支出。\n\n相关：GTA V在GTA VI发售数月前销量突破2.3亿\n\n这些结果无疑验证了Bromberg在2025年8月的预测，当时Vector AI首次推动Unity超出预期。当时他称这是公司的“转折点”。投资者似乎也认同——Unity第二季度收益报告发布后，其股价在数月内首次大幅上涨，目前交易价为每股42美元，较2026年大部分时间的35美元上涨20%。\n\nUnity的商业模式现在完全围绕“生态系统”展开\n\n在财报发布后的投资者问答中，Bromberg恳请投资者在考虑其游戏引擎或AI广告投资的财务影响时，关注Unity的整体业务。他阐述了当更多开发者使用Unity并通过广告网络（主要针对移动游戏）发行游戏时所产生的“飞轮”效应。玩Unity制作游戏的玩家越多，其AI驱动工具就越能了解玩家习惯，从而更好地为玩家推荐游戏。\n\n他还表示，随着生成式AI的普及，可以预期游戏制作者数量会增加——这些用户随后会成为Unity的潜在客户，而Unity已经扩大了对AI工具的支持。\n\n值得注意的是，如今的游戏开发者普遍对生成式AI在游戏开发中的作用持怀疑态度。其他引擎开发商如Godot基金会甚至已禁止AI驱动的拉取请求提交到其引擎。Unity最大的竞争对手Epic Games当然正在为下一次重大引擎更新中的AI驱动编程铺开红毯。\n\n相关：EA被沙特阿拉伯私有化，GTA营销离谱，Devolver的重大失误——Patch Notes #64\n\n展望未来，Unity的下一个重大任务是推出其Unity 7路线图，该路线图将包含显著的引擎改进，例如新的“协作生态系统”功能，允许开发者无需打开完整的Unity引擎即可快速更新游戏。该引擎还基于与Unity 6相同的架构，希望能让开发者在不破坏构建的情况下使用最新功能。\n\n了解更多：Unity\n头条新闻\n关于作者\nBryant Francis\n高级编辑，GameDeveloper.com\nBryant Francis是一位驻马萨诸塞州波士顿的作家、记者和叙事设计师。目前为Game Developer撰稿，这是一家面向电子游戏行业的领先B2B刊物。他的作品包括Proxy Studios的4X策略游戏《Zephon》、Iron Anchor Studios的《Down With The Ship》以及Amplitude Studio的2017年游戏《Endless Space 2》。\n\n查看更多Bryant Francis的文章\n\n每日新闻、开发者博客以及Game Developer的故事直达你的收件箱\n保持关注\n\n最新新闻\n更多新闻\n商业\nGTA V在GTA VI发售数月前销量突破2.3亿\n作者：Chris Kerr\n2026年8月7日\n阅读时间：2分钟\n在Game Developer这里了解GDC游戏节的最新新闻、访谈和演讲报道\n继续阅读\n\n最新播客\n制作\n开发者需要了解的本地化要点，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin和Guido Di Carlo\n2026年8月7日\n音频\nGDC支线任务——与不屈的Sam Beart的对谈\n2026年7月31日\n商业\nJackbox Games如何应对疫情后销售低谷，嘉宾：Mike Bilder\n2026年7月24日\nPC\nNexusMods首席执行官深入探讨电子游戏模组的动态，嘉宾：Victor Folmann\n2026年7月10日\n查看全部\n\nGame Developer Collective\n更多\n商业\n销售DLC和应用内购买的游戏似乎从中受益最大"
+    },
+    {
+      "id": "5e680dce49",
+      "title": "为什么最优秀的创始人既不是美国人也不是欧洲人——AI时代的游戏团队观察",
+      "summary": "文章通过Scenario创始人Emmanuel De Maistre的经历，探讨为何最优秀的创始人既非纯美国人也不纯欧洲人，指出美国风投文化偏爱宏大目标，欧洲则倾向理性，而创始人的成功在于在两者间找到平衡。Scenario以20人内团队、接近零流失和盈利成为例外。对游戏行业AI创业和跨文化融资有启发。",
+      "url": "https://www.deconstructoroffun.com/blog/why-the-best-founders-are-neither-american-nor-european",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T12:46:47",
+      "games": [],
+      "translated_content": "标题：为什么最优秀的创始人既不是美国人也不是欧洲人——AI时代的游戏团队观察\n\n正文：\n为什么最优秀的创始人既不是美国人也不是欧洲人 — Deconstructor of Fun\n0\n为什么最优秀的创始人既不是美国人也不是欧洲人\nAI\n8月10日\n作者：Aylin Yazıcı\n现在不乏急于向你展示ARR数据的AI创始人，但当你追问留存率或利润率时，底下却空空如也。\nEmmanuel De Maistre\n则不同。不仅因为他是持有美国护照的法国人。不仅因为他的上一家公司以闪电式扩张走向消亡。而是因为Scenario——这个被Scopely、Tripledot、Voodoo、Ubisoft、InnoGames以及无数顶级工作室使用的AI内容平台——建立在扎实的基本面之上。团队不到20人，客户流失率接近为零，在A轮之前就已实现盈利。在一个对基本面过敏的行业里，这让这家公司成为异类。\n\n我并非通过融资路演发现Scenario的。我不断从世界级工作室和炙手可热的投资人那里听到这个名字，我想搞清楚这到底是怎么回事。我学到的是，答案与模型关系不大，更多在于创始人本身。这使得Emmanuel成为回答我这个问题的最佳人选——这个问题我想问一位在硅谷打拼多年的欧洲创始人已经很久了……\n\n无敌公式\n欧洲创始人有一个共同模式。你搬到美国，接受美国的创业文化，因为\n有一种隐含的信息在说：欧洲人的野心某种程度上是不够的\n。Emmanuel是法国人，从美国投资人那里融资，客户（也）包括美国工作室。\n所以我直接问他：\n你是否感到自己被期待去表演一个符合硅谷期望的自我？有没有那么一刻，这种表演的代价超过了它所换取的入场资格？\nEmmanuel的回答是“是的，而且”。\n在硅谷，你确实在表演一个版本的自己。但那里几乎没有人是本地人，所以几乎每个人都在表演。找到那个有效的版本，需要在这个生态系统中生活多年，而不是参加一次展会或来一趟一周的旅行。\nEmmanuel在湾区生活了多年。而这场表演的代价并未超过入场资格的价值，因为入场资格本身就是全部意义所在：美国投资人资助了一个欧洲永远不可能碰的计划。“你在欧洲找不到这种东西。”\n这条文化鸿沟有多宽？疫情前，Emmanuel正准备向Sand Hill Road上一位顶级投资人做路演。\n一位经验丰富的法美创始人看了他的PPT后只给了一条建议：把每个数字后面加一个零\n。在从Palo Alto的星巴克开往Sand Hill的Uber上，他把财务数字全部乘以了十。那位投资人的反应是：“听起来是个好计划。”\n“美国人知道你的数字是注水的。他们真正在测试的是你敢不敢瞄准月亮，因为合理的计划产生合理的结果，而合理的结果无法为风投基金带来回报。”\n这就是为什么\n“欧洲创始人缺乏野心”是一种懒惰的论断。野心是环境性的，不是基因决定的。\n在美国长大，你学到的是天空才是极限。在欧洲长大，你学到的是为一个碎片化的市场制定合理的计划，而在这片市场上，丛生的法规设定了上限。对失败的态度同样如此。在美国，如果你能展示自己从中吸取的教训，失败会被歌颂。在欧洲，失败是你背负终身的污点。\n工作文化的差距同样真实：每周工作80小时是硅谷的常态，AI创始人也不例外，而Emmanuel用周日的时间换来了周一空空的收件箱。透过欧洲的视角，那是一种失败状态。透过美国的视角，那是成功。\n“当你拥有那种非常美国式的野心和前瞻思维，同时你又知道如何脚踏实地——我觉得欧洲人更擅长这一点——我认为你就是无敌的。”\n\n游戏行业的AI采用问题\n你可能会认为，一家做AI产品的公司在采用AI这件事上应该毫无障碍。Scenario面临着同样的采用挑战。该公司的工程师——其中许多是欧洲人——将代码视为手艺。正因为如此，团队最初拒绝将Claude或Codex引入工作流。一家AI公司的工程师们花了几个月才同意用AI来写代码。对质量的执着是欧洲的优势，也是它的桎梏——这一个轶事就说明了一切。\n查看原图\n上面两个数字都是可信的。采用与结果之间的差距本身就是整个故事。大多数工作室将80%的AI预算花在分布在各组织部门的工具许可上，20%花在某些模糊的创新职能上，而零投入到重新配置实际工作方式上。游戏行业的企业软件采用行为与大多数B2B SaaS手册描述的方式并不一致。来源：\nUnity 2026游戏开发报告\n，\nMIT研究\n\nCFO和CEO有动力去追求效率。AI工具承诺更多、更好、更快、更便宜。他们购买了工具，但往往看不到财务回报，因为\n行政命令或工具使用权并不等同于采用\n。真正需要在生产流程中使用该工具的那个人，才是你需要赢得的对象。如果那个人不相信这个工具对他们的具体工作流有效，其他一切都不重要。\n\n“卖给"
+    },
+    {
+      "id": "f29f561715",
+      "title": "前网易、叠纸大佬押注：创始人离职腾讯，只为死磕UE5 3D乙游",
+      "summary": "一位创始人从腾讯离职，投身UE5 3D乙女游戏（女性向恋爱模拟）研发，并得到前网易、叠纸等资深从业者的投资押注。这表明二次元细分赛道仍有资本热度。",
+      "url": "https://mp.weixin.qq.com/s/pAlT5NmStmzAufIP5gyiyg",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T11:21:20",
+      "games": [],
       "translated_content": ""
     },
     {
-      "id": "da313271ce",
-      "title": "这个玩法寿司题材比火锅题材更胜一筹啊！",
-      "summary": "文章对比同类玩法下寿司题材与火锅题材的游戏表现，认为寿司题材更易获得玩家青睐，为游戏题材选择提供参考。从业者可借此思考题材与玩法的匹配度。",
-      "url": "https://mp.weixin.qq.com/s/trW2URtZH39EtvjqOiFhnA",
-      "source": "微信-游戏本稚",
+      "id": "b52dfa98bf",
+      "title": "随便聊聊：跑了45分钟后，我想到游戏为什么会变得不好玩",
+      "summary": "作者以跑步45分钟的生活感悟切入，分析游戏“变得不好玩”的设计原因，可能涉及玩家体验、节奏与动机机制。受页面限制无法获得完整内容。",
+      "url": "https://mp.weixin.qq.com/s/Urbi9Q2FLHGK8-Yiqxa1wg",
+      "source": "微信-尤里卡的游戏运营笔记",
       "category": "泛游戏",
       "score": 5,
-      "published_at": "2026-08-10T08:14:12",
+      "published_at": "2026-08-10T10:31:44",
       "games": [],
       "translated_content": ""
     },
     {
-      "id": "31a88c19bf",
-      "title": "新游《维修物语》：商店管理模拟休闲游戏",
-      "summary": "文章介绍新游《维修物语》的玩法定位，作为商店管理模拟类休闲游戏，面向喜爱经营模拟的玩家群体。从业者可关注该品类的市场表现。",
-      "url": "https://mp.weixin.qq.com/s/w93dkCX9mxYNdf3GxJnfmg",
-      "source": "微信-GameCentral",
+      "id": "c37ffed614",
+      "title": "研发四年，一场会议解散：网易的单机野望又摔了一跤",
+      "summary": "网易一个开发了四年的单机项目在会议上被突然解散，使其在单机游戏领域的尝试再次受挫。这反映了国内大厂做单机的组织决策风险与高试错成本。",
+      "url": "https://mp.weixin.qq.com/s/zdGXwxh8zn_70ao8hnuI-Q",
+      "source": "微信-游讯先锋",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-10T08:04:31",
-      "games": [
-        {
-          "name": "维修物语",
-          "desc": "商店管理模拟类休闲游戏。"
-        }
-      ],
-      "translated_content": ""
-    },
-    {
-      "id": "e6eb5b2530",
-      "title": "为什么AI吵得再凶，游戏运营还是得靠靠谱的人才来定调？",
-      "summary": "文章探讨AI在游戏运营中的辅助作用与局限性，强调资深人才的经验、判断力和决策力仍然不可替代。对运营团队建设具有启发意义。",
-      "url": "https://mp.weixin.qq.com/s/EeSjAwRYzF8Bh8FYg92t-A",
-      "source": "微信-车尔斯基的游戏运营杂谈",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-10T08:01:03",
+      "published_at": "2026-08-10T08:53:38",
       "games": [],
       "translated_content": ""
     },
     {
-      "id": "50d00dcd38",
-      "title": "世嘉第三季度净销售额增长17.3%，游戏业务超出预期",
-      "summary": "世嘉一季度净销售增长17.3%，游戏业务超预期，完整游戏与授权收入表现好，免费游戏略低于预期；后续新作集中在Q3以后推出。对从业者的价值：显示世嘉在完整游戏和IP授权上具有优势，免费游戏仍需加强运营。",
-      "url": "https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations",
-      "source": "GamesIndustry.biz",
+      "id": "ac0e74aef4",
+      "title": "杖剑传说小游戏版？《暗影之魂》这款RPG新品有点意思",
+      "summary": "文章介绍一款名为《暗影之魂》的新RPG，可能是《杖剑传说》的小游戏版或类似产品，并认为其设计有亮点。具体内容因页面无法访问，仅基于标题判断。",
+      "url": "https://mp.weixin.qq.com/s/Bz7xqsyWuTzbnvnIZiUD-Q",
+      "source": "微信-急速行走的小U盘",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-10T07:50:16",
+      "published_at": "2026-08-10T07:31:10",
       "games": [
         {
-          "name": "Stranger Than Heaven",
-          "desc": "世嘉新作，预计2027年1月发售。"
+          "name": "杖剑传说",
+          "desc": "一款放置挂机类RPG手游。"
         },
         {
-          "name": "Persona 4 Revival",
-          "desc": "经典JRPG《女神异闻录4》的复刻版，2027年2月发售。"
-        }
-      ],
-      "translated_content": "世嘉第三季度净销售额增长17.3%，游戏业务超出预期 | GamesIndustry.biz  \n如果你点击链接并购买商品，我们可能会获得少量佣金。  \n阅读我们的编辑政策。  \n世嘉飒美报告第一季度净销售额增长17.3%。包括游戏在内的娱乐内容业务销售额达684亿日元（4.32亿美元），超出预期。  \n公司指出，虽然“主要新作的发售将集中在第三季度及以后，但各业务板块的净销售额基本符合预期，营业收入和调整后EBITDA超出预期。”  \n以下是你需要了解的信息：  \n数据  \n截至2026年6月30日的三个月内：  \n净销售额：  \n950亿日元（6亿美元），同比增长17.3%  \n娱乐内容业务净销售额（含游戏）：  \n684亿日元（4.32亿美元），同比增长1.1%  \n营业收入：  \n23亿日元（1450万美元，而去年同期为350万美元的营业亏损）  \n亮点  \n世嘉飒美的娱乐内容业务（包括游戏）表现优于第一季度预测。  \n完整游戏销量、授权收入及Rovio业务表现良好，而免费游戏“略低于预期”，公司计划“加强现有游戏的运营”。  \n世嘉表示，本财年的主要完整游戏作品将从第三季度起“依次发售”，包括《Stranger Than Heaven》和《女神异闻录4 重生》，分别于明年1月和2月推出。  \n公司表示：“愿望单注册数量和相关视频观看次数等领先指标表现良好。世嘉将继续努力，在这些作品发售前提升玩家期待，以实现销售最大化。”  \n世嘉预计，在周年纪念、重点IP改编以及Rovio新作的推动下，该业务板块的授权收入将在未来几个季度增长。  \n今年早些时候，在2023年收购《愤怒的小鸟》开发商Rovio之后，该公司对Rovio计提了2亿美元的减值损失。  \n世嘉首席执行官里见治纪将此次减记归因于“市场环境的快速变化及其他因素”，以及Rovio的Beacon技术未能完全应用于世嘉手游作品。  \n本文提及  \n财务  \n世嘉  \n世嘉财务数据"
-    },
-    {
-      "id": "380d502034",
-      "title": "所有人都不看好这场顶着台风的展会，可偏偏它最争气",
-      "summary": "文章讲述一场在台风中举办且不被看好的展会最终获得成功，展现主办方执行力与活动亮点。从业者可从中思考线下活动策划与逆境应对。",
-      "url": "https://mp.weixin.qq.com/s/tQMZsXBfPM3rufJ4plXfXA",
-      "source": "微信-3DM游戏网",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T23:01:41",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "8189281db1",
-      "title": "《英雄联盟手游》四周年庆典，把峡谷带到你身边",
-      "summary": "文章报道《英雄联盟手游》四周年庆典活动，强调将游戏体验带到玩家身边的线下活动形式，增强玩家归属感。对游戏运营的节日活动策划有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/3_hitxk5lpgssLdltibd2w",
-      "source": "微信-3DM游戏网",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T23:01:41",
-      "games": [
-        {
-          "name": "英雄联盟手游",
-          "desc": "英雄联盟IP衍生的MOBA手游，刚举办四周年庆典。"
+          "name": "暗影之魂",
+          "desc": "RPG新作，疑似采用小游戏形态，与《杖剑传说》风格相近。"
         }
       ],
       "translated_content": ""
-    },
-    {
-      "id": "06063e4bef",
-      "title": "业界大佬齐聚一堂，腾讯光子的这场讲座很不一般",
-      "summary": "文章介绍腾讯光子举办的一场业界大佬讲座，可能涵盖研发、行业趋势等干货内容。从业者可从中获取高端经验分享的价值。",
-      "url": "https://mp.weixin.qq.com/s/7p4JWrKjH3UJtBknb0AfCw",
-      "source": "微信-3DM游戏网",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T23:01:41",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "a922fd2390",
-      "title": "上海大厂火速达成“中韩”联手：刚拿版号7天，国服官宣了",
-      "summary": "文章报道一家上海大厂与韩国公司迅速达成合作，游戏获得版号仅7天便宣布国服，反映中韩游戏合作流程提速。从业者可关注跨国合作与版号运营效率。",
-      "url": "https://mp.weixin.qq.com/s/figO_a-V3lSdwgmJa-jbqw",
-      "source": "微信-游戏那点事Gamez",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T20:58:01",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "90fcbacbdb",
-      "title": "陀螺周报：工长君回应《剑心雕龙》被砍、前《王者荣耀》主创新作曝光、DeepSeek招游戏人才",
-      "summary": "文章汇总近期行业动态，包括《剑心雕龙》被砍的回应、前《王者荣耀》主创的新作曝光以及DeepSeek招聘游戏人才。从业者可了解业内项目变动与人才流动趋势。",
-      "url": "https://mp.weixin.qq.com/s/96J5p_l6RLYiQLaFTydZWQ",
-      "source": "微信-游戏陀螺",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T20:25:13",
-      "games": [
-        {
-          "name": "剑心雕龙",
-          "desc": "一款国产项目，据称已被砍。"
-        },
-        {
-          "name": "王者荣耀",
-          "desc": "腾讯旗下的国民级MOBA手游。"
-        }
-      ],
-      "translated_content": ""
-    },
-    {
-      "id": "38c98d33d7",
-      "title": "一周要闻NO.212：迪士尼牵手TikTok，EA正式被收购等",
-      "summary": "文章汇总一周要闻，包括迪士尼与TikTok合作、EA正式被收购等重大事件，涉及跨界合作与资本整合。从业者可快速把握行业宏观动态。",
-      "url": "https://mp.weixin.qq.com/s/R4VfcM8_Ry9Ooj2hF_Aapg",
-      "source": "微信-扬帆出海",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T20:12:06",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "c83233c7b0",
-      "title": "预约5000万，对话《王者万象棋》制作人：不画饼，先把游戏做上线",
-      "summary": "文章专访《王者万象棋》制作人，游戏预约量达5000万，强调务实开发、先上线再迭代的理念。从业者可从中了解头部厂商的产品策略与设计思路。",
-      "url": "https://mp.weixin.qq.com/s/eNBqrVucT3AEm-ohdcrn1Q",
-      "source": "微信-游戏日报",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T11:09:12",
-      "games": [
-        {
-          "name": "王者万象棋",
-          "desc": "王者荣耀IP衍生的自走棋类游戏，预约量达5000万。"
-        }
-      ],
-      "translated_content": ""
-    },
-    {
-      "id": "45103a83bf",
-      "title": "新游录：《铁巢重炮》——火炮模拟游戏",
-      "summary": "文章介绍新游《铁巢重炮》，这是一款以火炮模拟为核心玩法的游戏。从业者可关注军事模拟细分赛道的产品特点。",
-      "url": "https://mp.weixin.qq.com/s/TSsMEadJtaNI1sO2Wyzr9g",
-      "source": "微信-GameCentral",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T07:34:08",
-      "games": [
-        {
-          "name": "铁巢重炮",
-          "desc": "以火炮模拟为核心玩法的游戏。"
-        }
-      ],
-      "translated_content": ""
-    },
-    {
-      "id": "ee3221245f",
-      "title": "巨人网络套现5亿元，史玉柱用来还债",
-      "summary": "文章报道巨人网络套现5亿元，史玉柱将资金用于还债，涉及公司财务运作与个人债务。从业者可关注游戏公司资本动向与股东行为。",
-      "url": "https://mp.weixin.qq.com/s/vW4Siv4TFwoAN4EoKN6zpQ",
-      "source": "微信-GameQuest",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T07:18:15",
-      "games": [],
-      "translated_content": ""
-    },
-    {
-      "id": "534b05415c",
-      "title": "应接不暇：核周报 8.8",
-      "summary": "本期核周报汇总了《GTA6》预告公布、《影之刃零》预售、《火焰之纹章》新作直面会、《幻兽帕鲁》新手游公布、《控制》新作预告以及EA完成收购等要点，信息量大。从业者可快速获取全球游戏行业重要动态。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a78194f000a55a9bb0515af",
-      "source": "播客-机核游戏频道",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-09T06:18:34",
-      "games": [
-        {
-          "name": "GTA6",
-          "desc": "Rockstar的开放世界动作冒险新作，将公布长篇前瞻预告。"
-        },
-        {
-          "name": "影之刃零",
-          "desc": "国产动作游戏，开启预售。"
-        },
-        {
-          "name": "火焰之纹章 万缕千丝",
-          "desc": "任天堂《火焰之纹章》系列新作，举行直面会。"
-        },
-        {
-          "name": "幻兽帕鲁",
-          "desc": "开放世界生存捉宠游戏，将推出新手游。"
-        },
-        {
-          "name": "Palworld Online",
-          "desc": "幻兽帕鲁IP的多人手游，正式公布。"
-        },
-        {
-          "name": "控制：共振",
-          "desc": "Remedy《控制》系列新作，公布中国预告及专属服装。"
-        }
-      ],
-      "translated_content": "应接不暇：核周报 8.8\n\n应接不暇，核周报 8.8 - 机核游戏频道 | 小宇宙 - 听播客，上小宇宙\n\n万缕千丝\n\n本期主播：龙马 / 老白 / 雪豆 / Nadya\n\n本期要闻：《GTA6》“分量十足的一瞥”预告将于8月28日推出；《影之刃零》8月12日开启预售；《火焰之纹章 万缕千丝》举行直面会；《幻兽帕鲁》新作手游《Palworld Online》正式公布；《控制：共振》公布中国独家预告片及专属服装；EA 正式完成 550 亿美元收购交易；索尼公布2026财年Q1财报等。\n\n「摊开玩」独立游戏市集，现已开票！8月15-16日，来畅玩70+款精品独立游戏吧~\n\n购票链接：\nwww.gcores.com\n\n本期节目在线图文Shownote：\nConsole Timelines | 机核\n\n展开Show Notes\n\nDonSeason\n1 小时前\n0\n51:07\nsbea把极品飞车系列雪藏了😅🖕\n\n好吃懒做派大星\n4小时前\n0\n1:24:06\n二班那谁\n\n卅萌\n5小时前\n0\n24:11\n60小时？200小时！\n\n仲肥鱼蛋粉\n1 天前\n0\n完全油腻组\n斯庆毕力格\n:\n🤣\n\n熬夜受苦\n7小时前\n0\n30:27\n邓艾是蜀国的吗？？？再想想\n\nJackieYip\n1 天前\n0\n第一\n\n在小宇宙打开\n00:00\n00:00"
-    },
-    {
-      "id": "89f09c6a4f",
-      "title": "游戏回第279期：谁才是真的火焰纹章",
-      "summary": "本期游戏回讨论EA沙特收购、索尼去实体化趋势、《剑心雕龙》停摆内幕、《轮回之兽》购买建议以及火焰纹章正统之争等话题，观点碰撞。从业者可从中了解行业热点与玩家情绪。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a774769000a55a9bb04e5e5",
-      "source": "播客-游戏章鱼",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-08T15:27:41",
-      "games": [
-        {
-          "name": "剑心雕龙",
-          "desc": "一款国产项目，项目停摆引发讨论。"
-        },
-        {
-          "name": "轮回之兽",
-          "desc": "一款被讨论是否值得购买的游戏。"
-        },
-        {
-          "name": "火焰纹章",
-          "desc": "任天堂经典战棋游戏系列，讨论正统之争。"
-        }
-      ],
-      "translated_content": "游戏回第279期：谁才是真的火焰纹章 - 游戏章鱼 | 小宇宙 - 听播客，上小宇宙\n本期内容：\n1、EA沙特收购\n2、索尼去实体化趋势\n3、《剑心雕龙》项目停摆的内幕\n4、《轮回之兽》是不是值得买\n5、谁才是正统的火焰纹章\n展开Show Notes\nTj_BpYZ\n1 天前\n2\n夏思源这个，当初的“争议点”就炸裂的莫名其妙，本来国产魂游如果是7-8分的质量，肯定不缺玩家圈子的流量了，结果一个巴图鲁模拟器，带起来全网赛博反清复明的大节奏。感觉以夏老师的作者性，续作高低要反击一下的\nHD909905s\n9小时前\n0\n感觉豆哥总喜欢抢话确实观感有点差了\nHD909905s\n:\n可以的话最好还是一人说一段吧，不然真变吵架了\nHD579053u\n11小时前\n0\n一人一段论述 把每个人观点表达清楚最好\nHD579053u\n:\n1:33:30 要不专门出一期讲讲战棋类游戏吧\nTj_BpYZ\n1 天前\n0\n火纹新作的设定如果是大俗路线。应该是四选一比武大会，打个三五关，大魔王天降世界崩坏，然后5年后，神主角降世，回到五年前，告诉四个主角合作拯救世界，改变世界线。五年后再换装换机体，解锁系统吧高级兵种一路推主线\n在小宇宙打开\n00:00\n00:00"
-    },
-    {
-      "id": "a8937922d2",
-      "title": "EP56：EA被沙特巨资收购、影之刃零开启预售、冒险岛怀旧服开服",
-      "summary": "本期节目围绕EA被沙特收购、《影之刃零》开启预售和《冒险岛》怀旧服开服等话题展开讨论，分享玩家期待与担忧。从业者可借此了解玩家对预购和怀旧模式的态度。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a755546c4079d62c57eab7f",
-      "source": "播客-游你友我",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-07T03:51:45",
-      "games": [
-        {
-          "name": "影之刃零",
-          "desc": "国产动作游戏，开启预售。"
-        },
-        {
-          "name": "冒险岛",
-          "desc": "经典2D横版MMORPG，怀旧服开服。"
-        }
-      ],
-      "translated_content": "EP56.EA 被沙特巨资收购、影之刃零开启预售、冒险岛怀旧服开服 - 游你友我 | 小宇宙 - 听播客，上小宇宙\n\nAlex_Z\n2天前\n1\n同意carl啊，预购不敢，担心影之刃动作手感，\n\n郭小贱:\n2077之后只预购了黑猴，影之刃零太期待了，支持一波\n\nAlex_Z\n3天前\n1\n所有老贼都喜欢，唯一就是只狼，我讨厌音游\n\n郭小贱:\n以后试试黑魂3和装甲核心6\n\nAlex_Z:\n在我排名里面：老头环和黑魂3最佳啊，血缘第二，魂2dlc第三，\n\n在小宇宙打开\n00:00\n00:00"
-    },
-    {
-      "id": "01dcdde57b",
-      "title": "游戏周报260807期：剑星续作AI MV遭吐槽，GTA6玩法细节要来了",
-      "summary": "本期游戏周报报道了Xbox涨价、索尼去光盘化、任天堂财报、《影之刃零》预售、《GTA6》预告、《暗黑破坏神4》Switch 2版以及《剑星》续作AI MV争议等新闻。从业者可快速掌握一周跨平台游戏动态。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a74cca3000a55a9bb040ccb",
-      "source": "播客-游戏酒馆",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-07T00:00:00",
-      "games": [
-        {
-          "name": "暗黑破坏神4",
-          "desc": "暗黑类ARPG，Switch 2版将于2026年9月发布。"
-        },
-        {
-          "name": "影之刃零",
-          "desc": "国产动作游戏，8月11日开启预售。"
-        },
-        {
-          "name": "侠盗猎车手6",
-          "desc": "Rockstar开放世界新作，将发布长篇前瞻预告。"
-        },
-        {
-          "name": "剑星",
-          "desc": "动作游戏，其续作AI生成MV引发争议。"
-        }
-      ],
-      "translated_content": "游戏周报260807期 | 剑星续作 AI MV 遭全网吐槽，GTA 6 玩法细节要来了 - 游戏酒馆 | 小宇宙 - 听播客，上小宇宙\n\n录制时间：2026年8月7日\n节目录制：老白、煤老板\n片头片尾曲：King Gnu - 白日\n节点：\n00:00\nXBOX新闻\n13:12\nPS新闻\n22:16\nNintendo新闻\n37:13\nSteam新闻\n40:15\n其他新闻\n01:01:50\n硬件新闻\n\n微软公布欧洲与英国地区 Xbox 涨价细节\nXbox 360 经典游戏将支持 PC 及次世代掌机/主机向下兼容\n《暗黑破坏神 4》（Diablo IV）Switch 2 版将于 2026 年 9 月正式发布\n索尼回应全面停产光盘争议：将“谨慎推进”无光盘化进程\n任天堂公布最新财报\n《影之刃零》（Phantom Blade Zero）宣布 8 月 11 日开启预售\nRockstar 官宣《侠盗猎车手 6》长篇前瞻视频独家首播登陆 Netflix\n550 亿美元被沙特财团私有化收购后，EA 预计将面临大规模裁员以偿还债务并削减成本\n《剑星》续作 AI 生成 K-Pop MV 翻车，玩家狂喷“AI 垃圾”逼得金亨泰亲自回应\n\n展开Show Notes\n\nyagamifei\n3天前\n0\n以前老吐槽周报赶不上热点，这次赶上gta6要发新片了吧😂\n\n游戏酒馆老白\n:\n是不是这种没什么实效性的节目特别没劲😒\n\n可写可乐\n:\n38:43 但是一手的sd现在太贵了，完全没性价比\n\n共 6 条回复\n\n楠哥真难\n1 天前\n0\n小小资助酒馆差旅费，多喝水。\n\n几何盒盒盒\n3天前\n0\n44:36\n影之刃零不是下周开预售才会公布售价吗？这些售价信息是哪来的😂\n\n游戏酒馆老白\n:\n我看网上预测在268-298之间，参考参考，可能看稿写的不严谨，我下次注意\n\n几何盒盒盒\n:\n哦哦 那是我理解错了 原来是预测\n\n共 4 条回复\n\nT777\n3天前\n0\n45:21\n说中的话，前排要个签名\n\nfreedom_bt00\n3天前\n0\nGTA6B站有号 谁搬说不定封号\n\n在小宇宙打开\n00:00\n00:00"
-    },
-    {
-      "id": "dc1085e49c",
-      "title": "这游戏真的要做出来了？拷打《虚环》开发组",
-      "summary": "机核“核电波”专访《虚环》开发组，针对游戏开发进度、玩法设计等尖锐问题展开拷问，回应玩家期待。从业者可从中了解开发团队面对质疑时的思路。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a730cdf1b5e24969ce965b4",
-      "source": "播客-机核游戏频道",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-05T10:23:15",
-      "games": [
-        {
-          "name": "虚环",
-          "desc": "一款游戏，开发组在节目中接受拷问与质疑。"
-        }
-      ],
-      "translated_content": "这游戏真的要做出来了？拷打《虚环》神人开发组 - 机核游戏频道 | 小宇宙 - 听播客，上小宇宙\n欢迎回到“核电波”！今天我邀请到了《虚环》开发组的朋友，让他们帮我解答对于这款游戏的疑问，同时请他们回答一些尖锐的问题。\n本期主播：Nadya / Ryoma\n本期嘉宾：《虚环》IP负责人-老四 / 《虚环》美术负责人-老十\n展开Show Notes\n李主任oo\n4天前\n0\n土豆兄弟是真好玩，不用脑子的\n小头环忠实玩家\n5天前\n0\n🫡\n在小宇宙打开\n00:00\n00:00"
     }
   ]
 }
