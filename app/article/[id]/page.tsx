@@ -97,16 +97,6 @@ export default async function ArticlePage({ params }: { params: Promise<{ id: st
           </section>
         )}
 
-        {/* 原文全文（非微信文章） */}
-        {hasOriginal && (
-          <section className="mb-8">
-            <h2 className="text-xs font-semibold mb-4 uppercase tracking-widest" style={{ color: 'var(--muted)' }}>原文全文</h2>
-            <div className="text-sm leading-8 whitespace-pre-wrap" style={{ color: '#b0b0c8' }}>
-              {article.original_content}
-            </div>
-          </section>
-        )}
-
         {/* 翻译正文（仅国外文章） */}
         {hasTranslation && (
           <section className="mb-8">

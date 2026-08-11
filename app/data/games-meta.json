@@ -1,0 +1,20 @@
+{
+  "Diablo 4: Lord of Hatred": null,
+  "EVE Frontier": null,
+  "EVE Online": {
+    "name": "Neocom II for EVE Online",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e8/03/e8/e803e81e-bf34-a94c-ec46-451d49cbae32/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "description": "View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad.\n\nFeatures:\n- Fitting tool\n- Market information\n- Skill monitor\n- Skill planner\n- EVE Mail\n- Items database\n- Assets browser\n- Contracts, market orders, wallet transactions and industry jobs information\n\nInformation about auto-renewal of subscriptions (price may vary by location):\n- Payment will be charged to iTunes Account at confirmation of purchase\n- Subscription is offered for 1-month($0.99), 6-months ($4.99) and 12-months ($8.99) period and automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase\n\nTerms of Service: http://mrdepth.github.io/Neocom/terms.html\nPrivacy Policy: http://mrdepth.github.io/Neocom/privacy.html",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a2/94/c2/a294c2c0-08cd-e116-7304-2a6c957cc7a9/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/e9/d1/ece9d1aa-b166-f41f-d395-4572955fca5d/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/00/70/820070ec-e458-729f-8488-3abd67dcdc7f/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/eb/ee/4bebeee0-1b82-0577-4e6d-5a1133dac76d/pr_source.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/neocom-ii-for-eve-online/id1257353838?uo=4",
+    "store": "appstore"
+  },
+  "Halloween: The Game": null,
+  "Overwatch": null,
+  "Puzzle Mage": null
+}

@@ -1,6 +1,7 @@
 import type { Feed, Article, HistoryFeed, HistoryDay } from '../types'
 import feedData from '../data/feed.json'
 import historyData from '../data/history-feed.json'
+import gamesMeta from '../data/games-meta.json'
 
 function md5Short(url: string): string {
   // 简单哈希，与 digest.py 的 _article_id 保持一致
@@ -45,6 +46,23 @@ export function getArticleById(id: string): Article | undefined {
   return getAllArticles().find(a => a.id === id)
 }
 
+export interface GameMeta {
+  name: string
+  icon: string
+  description: string
+  screenshots: string[]
+  store_url: string
+  store: string
+}
+
+export function getGameMeta(name: string): GameMeta | null {
+  return (gamesMeta as Record<string, GameMeta | null>)[name] ?? null
+}
+
+export function getAllGamesMeta(): Record<string, GameMeta | null> {
+  return gamesMeta as Record<string, GameMeta | null>
+}
+
 export interface GameEntry {
   name: string
   desc: string          // 最近一次出现的介绍
@@ -56,7 +74,7 @@ export interface GameEntry {
 export function getGames(): GameEntry[] {
   const map = new Map<string, GameEntry>()
 
-  for (const article of getFeed().articles) {
+  for (const article of getAllArticles()) {
     for (const g of article.games ?? []) {
       if (!g.name) continue
       const existing = map.get(g.name)
