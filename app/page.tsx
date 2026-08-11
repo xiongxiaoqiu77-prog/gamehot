@@ -24,6 +24,7 @@ export default function Home() {
               <span className="text-xl font-black tracking-tight text-white">HOT</span>
             </div>
             <a href="/games" className="text-sm font-medium transition-colors hover:text-white" style={{ color: 'var(--muted)' }}>游戏库</a>
+            <a href="/history" className="text-sm font-medium transition-colors hover:text-white" style={{ color: 'var(--muted)' }}>历史</a>
           </div>
           <span className="text-xs" style={{ color: 'var(--muted)' }}>{formatDate(feed.updated)}</span>
         </div>

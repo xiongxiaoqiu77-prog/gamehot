@@ -1,5 +1,6 @@
-import type { Feed, Article } from '../types'
+import type { Feed, Article, HistoryFeed, HistoryDay } from '../types'
 import feedData from '../data/feed.json'
+import historyData from '../data/history-feed.json'
 
 function md5Short(url: string): string {
   // 简单哈希，与 digest.py 的 _article_id 保持一致
@@ -24,8 +25,24 @@ export function getFeed(): Feed {
   return withIds(feedData as unknown as Feed)
 }
 
+export function getHistory(): HistoryDay[] {
+  const h = historyData as unknown as HistoryFeed
+  return h.dates.map(day => ({
+    ...day,
+    articles: day.articles.map(a => ({ ...a, id: a.id || md5Short(a.url) })),
+  }))
+}
+
+export function getAllArticles(): Article[] {
+  const todayIds = new Set(getFeed().articles.map(a => a.id))
+  const historyArticles = getHistory()
+    .flatMap(d => d.articles)
+    .filter(a => !todayIds.has(a.id))
+  return [...getFeed().articles, ...historyArticles]
+}
+
 export function getArticleById(id: string): Article | undefined {
-  return getFeed().articles.find(a => a.id === id)
+  return getAllArticles().find(a => a.id === id)
 }
 
 export interface GameEntry {

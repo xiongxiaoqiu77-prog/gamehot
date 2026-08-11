@@ -1,0 +1,145 @@
+{
+  "dates": [
+    {
+      "date": "2026-08-11",
+      "articles": [
+        {
+          "id": "73a706aea5",
+          "title": "7月成功出海的中国手游：点点互动三款游戏会师收入榜Top5",
+          "summary": "文章内容因环境异常无法访问，无法提供摘要。",
+          "url": "https://mp.weixin.qq.com/s/RZVmge-l6RS6LNSOV1tsCA",
+          "source": "微信-独立出海联合体",
+          "category": "行业资讯",
+          "score": 6,
+          "published_at": "2026-08-10T18:09:08",
+          "games": [],
+          "translated_content": ""
+        },
+        {
+          "id": "06476d30d5",
+          "title": "《Halloween: The Game》在澳大利亚和新西兰因药物描绘被拒绝分级",
+          "summary": "《Halloween: The Game》因游戏中出现受控物质（疑为大麻）的描绘，被澳大利亚分级委员会拒绝分级，导致该作无法在澳大利亚和新西兰销售。开发者IllFonic确认了此决定，但未明确具体物质，也未说明是否调整游戏内容。此事反映澳洲对毒品描绘的严格审查，厂商需注意分级合规。",
+          "url": "https://www.gamesindustry.biz/halloween-the-game-denied-classification-in-australia-and-new-zealand-over-drug-depiction",
+          "source": "GamesIndustry.biz",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T19:20:17",
+          "games": [
+            {
+              "name": "Halloween: The Game",
+              "desc": "非对称多人恐怖游戏，玩家可扮演迈克尔·迈尔斯或幸存者。"
+            }
+          ],
+          "translated_content": "标题：《Halloween: The Game》在澳大利亚和新西兰因药物描绘被拒绝分级\n\n正文：\nHalloween: The Game denied classification in Australia and New Zealand over drug depiction | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nIllFonic的不对称恐怖游戏《Halloween: The Game》已被澳大利亚分级委员会拒绝分级，导致该游戏在澳大利亚和新西兰均被禁止销售。\n开发商在X/Twitter上确认了这一决定，称拒绝分级“并非因为标志性杀人狂迈克尔·迈尔斯的存在，或游戏中可以执行的出色处决动作，而是因为一种管制物质的存在。”\n“尽管我们尽了最大努力，澳大利亚分级委员会还是拒绝给《Halloween: The Game》评级，”该工作室在回应一名玩家时确认。\n“不幸的是，令我们失望（当然也令你们失望）的是，这意味着我们无法在澳大利亚和新西兰销售实体或数字产品。”\n多份报告指出，涉事物质是大麻，据称使用该物质会让控制迈克尔·迈尔斯的玩家获得游戏增益效果。IllFonic尚未直接确认这一细节，该拒绝分级决定也尚未出现在分级委员会的公开登记册上。\n目前尚不清楚IllFonic是否计划为澳大利亚和新西兰市场修改游戏，或者该禁令是否会影响其9月在其它地区的发售。\n澳大利亚分级委员会在拒绝含有非法药物描绘和某些暴力描绘的游戏评级方面有先例。例如，《Hunter x Hunter Nen x Impact》于2024年因“暗示性暴力”被澳大利亚分级委员会拒绝分级，而《Disco Elysium: A Final Cut》在最初被禁后于2021年在澳大利亚发布了主机版。\n本文提及\nAustralia\nAustralia Classification Board\nbanned\nIllFonic"
+        },
+        {
+          "id": "6536225ee0",
+          "title": "Valve 确认 Steam 硬件购买者数据在 CEVA Logistics 网络攻击中泄露",
+          "summary": "Valve通知欧洲Steam硬件客户，其快递合作方CEVA Logistics在7月底至8月初遭遇网络攻击，导致客户姓名、地址、电话、邮箱及硬件订单信息泄露，但支付信息与账号安全未受影响。Valve提醒用户防范钓鱼攻击，并已通知监管机构。此事件凸显游戏硬件供应链的数据安全风险。",
+          "url": "https://www.gamesindustry.biz/valve-confirms-steam-hardware-buyers-data-exposed-in-ceva-logistics-cyberattack",
+          "source": "GamesIndustry.biz",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T17:46:04",
+          "games": [],
+          "translated_content": "标题：Valve 确认 Steam 硬件购买者数据在 CEVA Logistics 网络攻击中泄露\n\n正文：\nValve确认Steam硬件购买者数据在CEVA Logistics网络攻击中泄露 | GamesIndustry.biz\n如果你通过链接点击并进行购买，我们可能会获得少量佣金。\n请阅读我们的编辑政策。\nValve已开始通知在欧洲订购Steam硬件的客户，他们的个人信息可能因CEVA Logistics遭受网络攻击而泄露。CEVA Logistics负责该地区Steam硬件的配送。\n\n该泄露消息最早出现在ResetEra和Reddit上，今天早些时候，受影响的客户开始在这些平台上发布Valve通知邮件的截图。\n\n在GamesIndustry.biz看到的这封邮件中，Valve表示对CEVA的攻击发生在7月29日至8月1日之间，并于8月7日获知该泄露事件。\n\n由于CEVA会在订单下达后保留配送相关数据最长90天，Valve正在通知所有其认为在该时间段内可能受影响的客户。\n\n泄露的信息包括客户的姓名、街道地址、邮政编码、城市、国家、电话号码、与其Steam账户关联的电子邮件地址，以及所订购硬件的类型和价格。据信，受主要影响的是Steam Deck、Steam Machine和Steam Controller的购买者，不过Valve强调，没有任何支付信息、密码、Steam Guard代码或其他账户数据受到影响，客户无需更改密码或账户设置。\n\nValve提醒客户警惕通过电子邮件、短信或电话发送的、提及他们订单的网络钓鱼尝试，其中一些可能会引用客户的真实地址以使信息看起来具有可信度。该公司重申，Steam客服仅通过help.steampowered.com运作，绝不会索要密码或Steam Guard代码。\n\nCEVA在一份给TechCrunch的声明中确认了该泄露事件，称入侵影响了其部分欧洲合同物流业务。\n\n这家总部位于法国的物流巨头表示，攻击至少扰乱了其在欧洲的八个仓库。据报道，该泄露事件还影响到了多家与Valve一样依赖CEVA进行运输的银行和零售商。\n\nValve表示正在向CEVA施压，要求其提供有关泄露范围及其发生方式的更多细节，并正在通知受影响国家的数据保护机构。受影响客户的确切人数尚未公布。\n\n本文提及\n数据泄露\nValve"
+        },
+        {
+          "id": "551d8295d4",
+          "title": "沃尔玛支持的游戏网站 Restart 已裁掉编辑团队",
+          "summary": "沃尔玛支持的独立游戏媒体Restart在运营数月后，其全部编辑团队成员被裁，包括主编与新闻编辑，反映游戏媒体行业持续裁员、传统媒体职业路径萎缩的现状。文章提及Restart曾标榜独立运营，但沃尔玛的资助模式并未改变其命运。",
+          "url": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
+          "source": "Game Developer",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T16:31:01",
+          "games": [],
+          "translated_content": "标题：沃尔玛支持的游戏网站 Restart 已裁掉编辑团队\n\n正文：\n由沃尔玛支持的游戏网站已裁掉其编辑团队\n商业\n营销\n新闻\n由沃尔玛支持的视频游戏网站已裁掉其编辑团队\nRestart 于2024年12月上线，曾拥有一支五人编辑团队。\nChris Kerr\n，新闻高级编辑\n，\nGameDeveloper.com\n2026年8月10日\n2分钟阅读\n图片来自 Restart\n由沃尔玛支持的游戏媒体 Restart 已裁掉其整个编辑团队。\nRestart 新闻编辑\nImran Khan\n和主编\nBrandy Berthelson\n均在 Bluesky 上确认了这一消息，Berthelson 表示这一决定也将标志着他们在游戏媒体职业生涯的结束。\n“唉，这事又发生了。Restart 的整个编辑团队，包括我在内，今天被全部裁掉了。至此，我在游戏媒体工作的时光也画上了句号，”他们写道。“在经历了20年、参与建立和运营多个网站、目睹无数次裁员之后，我实在再也扛不下去了。”\n据 Aftermath 报道\n，Restart 于2024年12月创立，背后有营销公司 Moonrock 和沃尔玛的支持。尽管获得了美国最大零售商之一的支持，该网站仍将自己定位为独立媒体。\n“Restart.run 由沃尔玛提供支持，但 Restart.run 作为独立网站运营。当我们提到一款游戏时，我们会提供购买链接，通过合作追踪代码将你引导至沃尔玛。如果你决定购买该产品，这个链接不会给我们带来任何销售分成，但它确实能帮助沃尔玛准确了解客户是如何到达该产品页面的。沃尔玛不会影响我们的编辑方向，”Berthelson 在2024年的一份公告中写道，该公告在撰写本文时仍然在线。“我们希望你能明白，这让我们完全没有动机提供有偏见的评测分数或其他关于游戏的信息。”\n相关：\nEVE Online 工作室聘请冰岛前部长领导自主AI工作\n由于大范围裁员，游戏媒体格局持续萎缩。近年来，包括 GamesIndustry.biz、IGN 和 Polygon 在内的知名媒体都失去了人才，他们要么被逼离职，要么接受了买断方案（软裁员）。\n今年早些时候，TheGamer 的母公司 Valnet 展示了另一种削弱游戏媒体行业的方式，\n据报道，该公司实施了一套新的支付系统\n，记者将根据其文章产生的浏览量获得报酬。这一举措似乎让许多撰稿人开始考虑离开该媒体。\n随着传统媒体内部的职业道路不断被企业所有者削减，越来越多的记者转而独立发展，试图以自己的方式获得成功。去年，我们采访了其中几位记者，以深入了解\n独立媒体的兴起与风险\n。\n了解更多：\n头条新闻\n关于作者\nChris Kerr\n新闻高级编辑，GameDeveloper.com\nGame Developer 新闻编辑 Chris Kerr 是一位屡获殊荣的记者，在游戏行业拥有超过十年的经验。他的名字曾出现在多家知名印刷和数字出版物上，包括 Edge、Stuff、Wireframe、International Business Times 和 PocketGamer.biz。在其职业生涯中，Chris 报道过 GDC、PAX Australia、Gamescom、Paris Games Week 和 Develop Brighton 等重大行业活动。\n查看更多\nChris Kerr 的文章\n每日新闻、开发者博客和 Game Developer 的故事直接发送到你的收件箱\n保持关注\n最新新闻\n更多新闻\n商业\nEVE Online 工作室聘请冰岛前部长领导自主AI工作\nEVE Online 工作室聘请冰岛前部长领导自主AI工作\n作者\nChris Kerr\n2026年8月10日\n3分钟阅读\n在 Game Developer 上持续关注 GDC Festival of Gaming 的最新新闻、采访和讲座报道\n继续阅读\n最新播客\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin 和 Guido Di Carlo\n2026年8月7日\n音频\nGDC Side Quest - 与不屈的 Sam Beart 坐下来聊聊\n2026年7月31日\n商业\nJackbox Games 如何度过疫情后的销量低谷，嘉宾：Mike Bilder\n2026年7月24日\nPC\nNexusMods CEO 深入探讨视频游戏模组的动态，嘉宾：Victor Folmann\n2026年7月10日\n查看全部\nGame Developer Collective\n更多\n商业\n销售DLC和内购的游戏似乎从订阅服务中获益最多\n销售DLC和内购的游戏似乎从订阅服务中获益最多\n作者\nBryant Francis\n2026年1月27日\n3分钟阅读\n商业\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n作者\nBryant Francis\n2025年9月16日\n4分钟阅读\n游戏设计与营销精选\n查看更多\n设计\n逐页突破城市模拟的极限\n逐页突破城市模拟的极限\n营销\nRockstar 想让你付费订阅 Netflix 才能在大众发布之前观看下一部 GTA VI 预告片\nRockstar 想让你付费订阅 Netflix 才能在大众发布之前观看下一部 GTA VI 预告片"
+        },
+        {
+          "id": "96277db78d",
+          "title": "泄露邮件显示：暴雪是 Xbox FY26 表现最佳的工作室",
+          "summary": "据Windows Central获得的内部邮件，暴雪在微软2026财年成为Xbox工作室中表现最佳的工作室，连续第二年增长，主要由《暗黑破坏神4：憎恨之王》和《守望先锋》驱动。暴雪总裁称这是公司历史上营收第三高的财年，与Xbox整体表现形成对比。该消息未得到微软官方证实。",
+          "url": "https://www.gamesindustry.biz/leaked-emails-reveal-blizzard-is-xboxs-top-performing-studio-for-fy26",
+          "source": "GamesIndustry.biz",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T16:07:39",
+          "games": [
+            {
+              "name": "Diablo 4: Lord of Hatred",
+              "desc": "暗黑破坏神4的剧情扩展，延续黑暗风格的动作角色扮演游戏。"
+            },
+            {
+              "name": "Overwatch",
+              "desc": "团队-based多人射击游戏，以英雄角色和竞技玩法著称。"
+            }
+          ],
+          "translated_content": "标题：泄露邮件显示：暴雪是 Xbox FY26 表现最佳的工作室\n\n正文：\n泄露邮件显示：暴雪是 Xbox FY26 表现最佳的工作室 | GamesIndustry.biz\n如果您通过链接进行购买，我们可能会获得少量佣金。\n请阅读我们的编辑政策\n.\n根据《Windows Central》获取并验证的内部邮件，暴雪以微软2026财年最佳表现工作室的身份收官，在Xbox Game Studios中名列前茅。\n暴雪总裁Johanna Faries在2026年暴雪嘉年华前夕通过邮件向员工分享了这一结果，指出《暗黑破坏神4：憎恨之躯》和《守望先锋》是推动工作室连续第二年增长的主要动力。\nFaries写道：“在FY26，暴雪以Xbox工作室部门中表现最佳的工作室身份收官，而去一年也是暴雪历史上营收第三高的财年。”\n她还特别提到，《守望先锋》交出了“自2022年以来最强的季度表现”。\n微软在公开财务披露中不单独列出工作室层面的营收，公司及暴雪均未公开确认泄露邮件中引用的数据。然而，据称的增长与更广泛的Xbox部门形成了鲜明对比。\n暴雪预计将在2026年暴雪嘉年华上公布即将推出的游戏阵容，该活动将于9月12日在阿纳海姆举行。\n自2023年10月收购完成、英国竞争与市场管理局的调查结束后，暴雪一直与微软其他游戏业务保持一定程度的独立运营。\n本文提及\nActivision Blizzard\nPublishing"
+        },
+        {
+          "id": "bc2a5229ac",
+          "title": "《EVE Online》开发商聘请冰岛前部长领导自主 AI 项目",
+          "summary": "《EVE Online》开发商Fenris Creations（原CCP Games）聘请冰岛前部长Áslaug Arna Sigurbjörnsdóttir担任AI合作高级总监，主导一项研究计划，利用EVE Frontier的开放世界和真实经济系统作为自主AI的测试环境。该举措旨在让AI代理在真实社会与经济互动中接受观察，可能为AI安全研究提供新思路。",
+          "url": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
+          "source": "Game Developer",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T15:02:54",
+          "games": [
+            {
+              "name": "EVE Online",
+              "desc": "大型多人在线太空沙盒游戏，以复杂经济与玩家驱动闻名。"
+            },
+            {
+              "name": "EVE Frontier",
+              "desc": "EVE宇宙的生存衍生游戏，强调开放世界与玩家互动。"
+            }
+          ],
+          "translated_content": "标题：《EVE Online》开发商聘请冰岛前部长领导自主 AI 项目\n\n正文：\nEVE Online工作室聘请冰岛前部长领导自主AI项目\n商业\n制作\n新闻\nEVE Online工作室聘请冰岛前部长领导自主AI项目\nFenris Creations（前身为CCP Games）今年早些时候独立运营，并获得了Google的少数股权投资。\nChris Kerr\n，新闻高级编辑\n，\nGameDeveloper.com\n2026年8月10日\n阅读时间3分钟\n图片来自Fenris Creations\n《EVE Online》\n开发商Fenris Creations（\n前身为CCP Games\n）已聘请冰岛前部长Áslaug Arna Sigurbjörnsdóttir担任其AI合作高级总监。\n\nSigurbjörnsdóttir此前曾在冰岛政府担任司法部长以及高等教育、科学与创新部长。她被Fenris聘用，负责领导公司与AI实验室、大学、政策制定者及战略合作伙伴的合作，围绕一项涉及\n《EVE Online》\n生存衍生作品\n《EVE Frontier》\n的新研究计划开展工作。\n\n\"Fenris Creations在过去几个月里一直致力于开发这一计划，以验证一个大胆的假设：即像\n《EVE Frontier》\n这样以真实社会和经济体系为支撑的持久虚拟世界，可以在先进AI成为我们日常生活更大一部分之前，为其提供一座真实的试验场，\"\n一份新闻稿写道\n。\n\n\"该计划的目标不是仅仅依赖那些会结束并重置的短期模拟，而是创造一个可以观察自主智能体在真实、开放且不断演变的经济中与真实人类并肩行动、承担真实后果的场所——在这样一种公司游戏所独有的动态系统中实现。\"\n\n相关阅读：\nUnity将'史上最佳季度'归功于AI广告平台\n\n这家雷克雅未克工作室认为，EVE宇宙是自主AI系统的理想训练场，因为它没有明确的最终状态，而是一个由数十万玩家选择塑造的、鲜活且不可预测的宇宙。\n\n\"这使得它成为极少数可以在接近真实社会和真实经济条件下研究自主系统行为的地方之一，包括真实人类带来的所有非理性、情感化和不可预测的反应，\"该公司补充道。\n\n\"在\n《EVE Frontier》\n——EVE宇宙的新篇章中，自主AI系统将在\n《EVE Frontier》\n的实时开放世界中被研究，观察它们如何设定目标、应对变化，并在较长时间内做出连贯的决策序列。这使得研究人员能够更好地评估模型在真正复杂环境中的行为，并为未来AI系统的负责任开发提供参考。\"\n\nFenris声称，其AI研究将通过支持更丰富的NPC行为和更有效的上手引导，帮助将\n《EVE Frontier》\n打造成一个更具吸引力和沉浸感的世界。\"如果该计划取得成功，将为Fenris Creations和\n《EVE Frontier》\n开启一个全新角色，可能为智能体、复杂系统和AI对齐研究做出重要贡献，同时也为\n《EVE Frontier》\n能够提供给玩家群体的体验创造引人注目的新可能性，\"该工作室继续表示。\n\n相关阅读：\nGTA V在GTA VI发售前数月突破2.3亿销量\n\nSigurbjörnsdóttir表示，她在制定和实施政府政策方面的经验将帮助工作室及其合作伙伴在监管AI领域的监管机构中\"取得有意义的进展\"。\n\n\"没有比参与一个能够帮助我们的合作伙伴在监管机构中取得有意义进展的试验场更大的机会来塑造AI创新的未来了——这将有助于确保安全、实用且可靠的AI标准，\"她表示。\"我期待帮助Fenris以负责任的方式推进这项工作。\"\n\n这一消息发布前几个月，Fenris刚刚宣布计划\n放弃其原名CCP Games并成为一家独立工作室\n。与此同时，该公司确认已与Google DeepMind建立了研究合作伙伴关系——这也促使Google获得了该工作室的少数股权。\n\n了解更多：\n头条新闻\n生成式AI、机器学习与LLM\n关于作者\nChris Kerr\n新闻高级编辑，GameDeveloper.com\nGame Developer新闻编辑Chris Kerr是一位获奖记者，拥有超过十年的游戏行业报道经验。他的署名曾出现在包括Edge、Stuff、Wireframe、International Business Times和PocketGamer.biz在内的知名印刷及数字出版物上。在其职业生涯中，Chris曾报道过GDC、PAX Australia、Gamescom、Paris Games Week和Develop Brighton等重大行业活动。\n查看更多\nChris Kerr的报道\n每日新闻、开发者博客和Game Developer的故事直接发送到您的收件箱\n保持关注\n最新新闻\n更多新闻\n商业\nUnity将'史上最佳季度'归功于AI广告平台\nUnity将'史上最佳季度'归功于AI广告平台\n作者\nBryant Francis\n2026年8月10日\n阅读时间3分钟\n在GDC Festival of Gaming上关注最新的新闻、采访和演讲报道，尽在Ga"
+        },
+        {
+          "id": "e67219b0f7",
+          "title": "Xbox 将于 8 月底在澳大利亚主机和 PC 端实施年龄验证",
+          "summary": "Xbox将于2026年8月底在澳大利亚对主机和PC用户实施年龄验证，以访问18+游戏和内容，符合澳大利亚法规。验证由伦敦公司VerifyMy提供，方式包括邮箱、面部扫描、信用卡或政府ID。此举与索尼、Valve在英澳等地的年龄验证趋势一致，旨在增强未成年人保护。",
+          "url": "https://www.gamesindustry.biz/xbox-to-implement-age-verification-in-australia-on-console-and-pc-in-late-august",
+          "source": "GamesIndustry.biz",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T13:50:22",
+          "games": [],
+          "translated_content": "Xbox 将于 8 月底在澳大利亚主机和 PC 端实施年龄验证 | GamesIndustry.biz\n如果您点击链接并进行购买，我们可能会获得少量佣金。\n阅读我们的编辑政策\n.\nXbox 将于本月晚些时候开始面向澳大利亚用户推行年龄验证。\n\n据 Press Start 报道，根据澳大利亚相关规定，用户必须验证年龄才能在主机和 PC 端的 Microsoft 和 Xbox Store 上游玩 R18+ 游戏。\n\nXbox 主机和用户收到了一条通知，内容如下：\n“作为我们在澳大利亚合规计划的一部分，自 2026 年 8 月底起，成人 Xbox 账户必须验证年龄，才能访问 Microsoft 和 Xbox Store 上评级为 18+ 的应用和游戏。除非你验证年龄，否则访问此类内容可能会受到限制。你已拥有的应用和游戏不会受到影响。”\n\nPC Gamer 报道称，总部位于伦敦的科技公司 VerifyMy 将负责澳大利亚的年龄验证。\n\n用户可以通过电子邮件、面部扫描估算年龄，或出示信用卡或政府签发的身份证件来验证年龄。\n\n今年早些时候，索尼开始在英国和爱尔兰为 PlayStation 推行年龄验证，以遵守英国的《在线安全法》。此前为可选项的年龄验证于 2026 年 6 月成为强制要求。\n\n未验证年龄的用户可能会失去对语音和文字聊天、消息、第三方通信工具、广播、分享、流媒体以及游戏内用户生成内容等通信功能的访问权限。\n\n索尼使用 Yoti 进行年龄验证，微软在英国为 Xbox 使用的也是同一服务。微软于去年 7 月开始在英国实施年龄验证，就在《在线安全法》出台后不久。\n\nValve 于去年 8 月为英国 Steam 用户引入了年龄验证，以允许访问平台上的成人内容。\n\n本文提及：法律 Microsoft 在线安全 Xbox Xbox Game Studios"
+        },
+        {
+          "id": "3e94e97adf",
+          "title": "前育碧巴塞罗那员工成立 Dark Ritual Studios，主打“工艺优先于规模”的独立开发",
+          "summary": "前育碧巴塞罗那员工成立独立工作室Dark Ritual Studios，主打“工艺优先于规模”，首款作品为黑暗奇幻解谜游戏Puzzle Mage，预计2027年登陆PC。团队在Steam已获超1000愿望单，并计划保持精益团队、合理规模与可控预算，以在行业不确定性中实现可持续开发。",
+          "url": "https://www.gamesindustry.biz/former-ubisoft-barcelona-workers-launch-dark-ritual-studios-an-indie-developer-focused-on-craftsmanship-over-scale",
+          "source": "GamesIndustry.biz",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T12:39:11",
+          "games": [
+            {
+              "name": "Puzzle Mage",
+              "desc": "黑暗奇幻主题的解谜游戏，特色为施法系统，计划2027年PC发售。"
+            }
+          ],
+          "translated_content": "前育碧巴塞罗那员工成立 Dark Ritual Studios，主打“工艺优先于规模”的独立开发 | GamesIndustry.biz\n如果您点击链接并购买商品，我们可能会获得少量佣金。\n请阅读我们的编辑政策。\n在6月推出《刺客信条：黑旗》重制版后，\n育碧在其巴塞罗那工作室裁撤了51个职位。\n现在，由Myles Kerwin领导的一批前员工成立了Dark Ritual Studios。\n在接受\nGamesIndustry.biz\n采访时，Kerwin表示，在育碧这样的大型机构工作让他看到“保持敏捷有多么困难”。\n通过成立独立工作室，团队目标是保持“足够小的规模，让想法能够快速从讨论走向实现。”\n“我们在育碧巴塞罗那和其他工作室的经历强化了一个由来已久的信念：优秀的游戏不一定需要庞大的团队，”他说道。“3A开发已经变得极其复杂。大型项目不可避免地涉及大量协调层级，而这会拖慢创意决策。”\n他补充道：“在Dark Ritual Studios，我们正拥抱相反的方式——一个小而精的团队，拥有清晰的创意主导权、更快的决策速度，并专注于工艺而非规模。”\nDark Ritual Studios位于巴塞罗那，已获得完成其首款游戏所需的资金——黑暗奇幻风格的《Puzzle Mage》，计划于2027年在PC平台发售。\n该游戏最近在Steam上突破了1000个愿望单，Kerwin称这是一个“不错的早期里程碑”，表明“这个概念正在引起玩家的共鸣。”\nDark Ritual Studios的首款游戏是黑暗奇幻风格的《Puzzle Mage》\nKerwin表示，工作室目前并未在寻求额外投资，但正在“评估自行发行还是与发行商合作才是正确的长期策略。”\n这一决定因游戏行业整体环境的不确定性而变得更加复杂，Kerwin承认对此没有简单的答案。\n“这是当今每个工作室都面临的挑战，”他说。“我们的策略是保持团队精简、范围务实、预算可控。这给了我们更大的灵活性，也减少了大型制作带来的压力。\n“虽然行业确实经历了一段艰难时期，但我们也看到许多独立工作室正通过专注打造具有清晰特色的精良游戏，建立起成功且可持续的业务。这就是我们追求的模式。”\nKerwin相信，工作室及其首款作品将凭借打造能引起玩家共鸣的真诚游戏而脱颖而出。\n“早期玩家测试的反馈非常令人鼓舞，尤其是施法系统，玩家 consistently 将其视为一大亮点，”他指出。“我们的目标不是追逐潮流——而是打造一款我们真正热爱的游戏。”\n\n本文提及\nDark Ritual Studios\n新工作室\nUbisoft Barcelona"
+        },
+        {
+          "id": "502fc1106c",
+          "title": "Google 重组 AI 管理层；DeepSeek 宣布大幅涨价并重启第二轮融资；网易《剑心雕龙》项目组解散；Anthropic 组建 Claude 芯片设计团队丨周报",
+          "summary": "文章内容因环境异常无法访问，无法提供摘要。",
+          "url": "https://mp.weixin.qq.com/s/lFLV57Mf3jnRlTYHzhx-NQ",
+          "source": "微信-点点出海",
+          "category": "行业资讯",
+          "score": 5,
+          "published_at": "2026-08-10T12:01:31",
+          "games": [],
+          "translated_content": ""
+        }
+      ]
+    }
+  ]
+}
