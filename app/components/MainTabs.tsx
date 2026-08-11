@@ -41,6 +41,24 @@ function ScorePip({ score }: { score: number }) {
 
 // ── 全部动态 Tab ───────────────────────────────────────────────────────────────
 
+const WEEKDAYS = ['日', '一', '二', '三', '四', '五', '六']
+
+function groupByDate(articles: RealtimeFeed['articles']) {
+  const map = new Map<string, typeof articles>()
+  for (const a of articles) {
+    const d = a.published_at ? a.published_at.slice(0, 10) : a.fetched_at.slice(0, 10)
+    if (!map.has(d)) map.set(d, [])
+    map.get(d)!.push(a)
+  }
+  // 每组内按时间降序
+  map.forEach(v => v.sort((a, b) => {
+    const ta = a.published_at || a.fetched_at
+    const tb = b.published_at || b.fetched_at
+    return tb.localeCompare(ta)
+  }))
+  return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]))
+}
+
 function RealtimeTab({ feed }: { feed: RealtimeFeed }) {
   const articles = feed.articles ?? []
 
@@ -53,53 +71,84 @@ function RealtimeTab({ feed }: { feed: RealtimeFeed }) {
     )
   }
 
+  const groups = groupByDate(articles)
+
   return (
-    <div className="flex flex-col gap-3">
-      {articles.map(a => {
-        const catColor = CATEGORY_COLORS[a.category] ?? 'bg-white/5 text-white/40 border-white/10'
-        const pub = a.published_at ? new Date(a.published_at) : null
-        const timeStr = pub
-          ? `${pub.getMonth() + 1}/${pub.getDate()} ${pub.getHours().toString().padStart(2, '0')}:${pub.getMinutes().toString().padStart(2, '0')}`
-          : relativeTime(a.fetched_at)
+    <div className="flex flex-col gap-8">
+      {groups.map(([date, items]) => {
+        const d = new Date(date + 'T00:00:00')
+        const dayLabel = `${d.getMonth() + 1} 月 ${d.getDate()} 日`
+        const weekLabel = `星期${WEEKDAYS[d.getDay()]}`
 
         return (
-          <a
-            key={a.url}
-            href={a.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group rounded-2xl p-4 border transition-all duration-200 hover:-translate-y-0.5"
-            style={{ background: 'var(--surface)', borderColor: 'var(--border)' }}
-          >
-            <div className="flex items-start justify-between gap-3 mb-2">
-              <div className="flex items-center gap-2 flex-wrap">
-                {a.category && (
-                  <span className={`text-xs px-2 py-0.5 rounded-full border ${catColor}`}>
-                    {a.category}
-                  </span>
-                )}
+          <section key={date}>
+            {/* 日期区块头 */}
+            <div className="flex items-center gap-3 mb-4 pb-3 border-b" style={{ borderColor: 'var(--border)' }}>
+              <div className="flex items-center gap-2">
+                <span className="text-base font-bold text-white">{dayLabel}</span>
+                <span className="text-xs px-2 py-0.5 rounded-full" style={{ background: 'rgba(255,255,255,0.06)', color: 'var(--muted)' }}>
+                  {weekLabel}
+                </span>
               </div>
-              <div className="flex items-center gap-1.5 text-xs shrink-0" style={{ color: 'var(--muted)' }}>
-                <span>{sourceIcon(a.source)}</span>
-                <span className="truncate max-w-24">{a.source.replace('微信-', '')}</span>
-                <span>·</span>
-                <span>{timeStr}</span>
-              </div>
+              <span className="text-xs" style={{ color: 'var(--muted)' }}>{items.length} 条</span>
             </div>
 
-            <h3 className="text-sm font-semibold leading-snug mb-1.5 group-hover:text-white transition-colors"
-                style={{ color: '#d0d0e0' }}>
-              {a.title}
-            </h3>
+            {/* 时间线条目 */}
+            <div className="flex flex-col">
+              {items.map((a, idx) => {
+                const pub = a.published_at ? new Date(a.published_at) : new Date(a.fetched_at)
+                const timeStr = `${pub.getHours().toString().padStart(2, '0')}:${pub.getMinutes().toString().padStart(2, '0')}`
+                const catColor = CATEGORY_COLORS[a.category] ?? 'bg-white/5 text-white/40 border-white/10'
+                const isLast = idx === items.length - 1
 
-            {a.zh_desc && (
-              <p className="text-xs leading-relaxed mb-3 line-clamp-2" style={{ color: 'var(--muted)' }}>
-                {a.zh_desc}
-              </p>
-            )}
+                return (
+                  <div key={a.url} className="flex gap-4">
+                    {/* 左侧时间轴 */}
+                    <div className="flex flex-col items-center" style={{ width: 44, minWidth: 44 }}>
+                      <span className="text-xs font-mono leading-none mt-1" style={{ color: 'var(--muted)' }}>
+                        {timeStr}
+                      </span>
+                      <div className="w-px flex-1 mt-1.5" style={{ background: isLast ? 'transparent' : 'var(--border)', minHeight: 16 }} />
+                    </div>
 
-            <ScorePip score={a.score} />
-          </a>
+                    {/* 右侧卡片 */}
+                    <a
+                      href={a.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group flex-1 rounded-xl p-3.5 border mb-2 transition-all duration-200 hover:-translate-y-0.5 min-w-0"
+                      style={{ background: 'var(--surface)', borderColor: 'var(--border)' }}
+                    >
+                      <div className="flex items-center justify-between gap-2 mb-1.5">
+                        <div className="flex items-center gap-1.5">
+                          <span className="text-xs" style={{ color: 'var(--muted)' }}>{sourceIcon(a.source)}</span>
+                          <span className="text-xs truncate max-w-28" style={{ color: 'var(--muted)' }}>
+                            {a.source.replace('微信-', '')}
+                          </span>
+                        </div>
+                        {a.category && (
+                          <span className={`text-xs px-1.5 py-0.5 rounded border shrink-0 ${catColor}`}>
+                            {a.category}
+                          </span>
+                        )}
+                      </div>
+
+                      <h3 className="text-sm font-medium leading-snug mb-1.5 group-hover:text-white transition-colors"
+                          style={{ color: '#d8d8e8' }}>
+                        {a.title}
+                      </h3>
+
+                      {a.zh_desc && (
+                        <p className="text-xs leading-relaxed line-clamp-2" style={{ color: 'var(--muted)' }}>
+                          {a.zh_desc}
+                        </p>
+                      )}
+                    </a>
+                  </div>
+                )
+              })}
+            </div>
+          </section>
         )
       })}
     </div>
