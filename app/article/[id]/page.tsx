@@ -32,7 +32,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ id: st
   if (!article) notFound()
 
   const pub = new Date(article.published_at)
-  const dateStr = `${pub.getFullYear()}年${pub.getMonth() + 1}月${pub.getDate()}日 ${pub.getHours().toString().padStart(2, '0')}:${pub.getMinutes().toString().padStart(2, '0')}`
+  const dateStr = `${pub.getFullYear()} 年 ${pub.getMonth() + 1} 月 ${pub.getDate()} 日  ${pub.getHours().toString().padStart(2, '0')}:${pub.getMinutes().toString().padStart(2, '0')}`
   const isWeChat = article.source.startsWith('微信')
   const hasTranslation = !isWeChat && !!article.translated_content
   const hasOriginal = !isWeChat && !!article.original_content

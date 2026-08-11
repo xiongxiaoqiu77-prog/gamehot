@@ -36,7 +36,7 @@ export default function ArticleCard({ article, rank }: { article: Article; rank:
   const categoryColor = CATEGORY_COLORS[article.category] ?? 'bg-white/5 text-white/50 border-white/10'
   const isTop3 = rank <= 3
   const pub = new Date(article.published_at)
-  const timeStr = `${pub.getHours().toString().padStart(2, '0')}:${pub.getMinutes().toString().padStart(2, '0')}`
+  const timeStr = `${pub.getMonth() + 1}/${pub.getDate()} ${pub.getHours().toString().padStart(2, '0')}:${pub.getMinutes().toString().padStart(2, '0')}`
   const hasGames = article.games?.length > 0
   const isWeChat = article.source.startsWith('微信')
   // 国外文章有翻译时进站内详情页，否则直接跳原文
