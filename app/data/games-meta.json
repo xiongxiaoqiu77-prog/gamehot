@@ -1,6 +1,4 @@
 {
-  "Diablo 4: Lord of Hatred": null,
-  "EVE Frontier": null,
   "EVE Online": {
     "name": "Neocom II for EVE Online",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e8/03/e8/e803e81e-bf34-a94c-ec46-451d49cbae32/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
@@ -14,7 +12,45 @@
     "store_url": "https://apps.apple.com/us/app/neocom-ii-for-eve-online/id1257353838?uo=4",
     "store": "appstore"
   },
-  "Halloween: The Game": null,
-  "Overwatch": null,
-  "Puzzle Mage": null
+  "Diablo 4: Lord of Hatred": null,
+  "EVE Frontier": null,
+  "Halloween: The Game": {
+    "name": "Halloween: The Game",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1785777766",
+    "description": "On Halloween night, 1978, no one is safe from Michael Myers. Become the Boogeyman or fight back against the face of evil itself in Halloween.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/fef848f20a2a5e857ee275662acf979b89754af7/ss_fef848f20a2a5e857ee275662acf979b89754af7.600x338.jpg?t=1785777766",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/b6788a76e909167f1e599e62f52ea0a9734aa133/ss_b6788a76e909167f1e599e62f52ea0a9734aa133.600x338.jpg?t=1785777766",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/7f588305048a20b69cb7adc70da39cb87a789163/ss_7f588305048a20b69cb7adc70da39cb87a789163.600x338.jpg?t=1785777766",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/f4df9c361caf2c79b9d8bd4a6478941d3cf09224/ss_f4df9c361caf2c79b9d8bd4a6478941d3cf09224.600x338.jpg?t=1785777766"
+    ],
+    "store_url": "https://store.steampowered.com/app/3219630",
+    "store": "steam"
+  },
+  "Overwatch": {
+    "name": "Overwatch®",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/217c51ee328bb2f97c66776bb92b1ddb3d8333fe/header_alt_assets_21.jpg?t=1784740349",
+    "description": "Overwatch®, A FUTURE WORTH FIGHTING FOR! Overwatch® is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 or 6v6 battlefield brawl.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/2830b5babd473e7e76fa522d4c1858386d3acfb1/ss_2830b5babd473e7e76fa522d4c1858386d3acfb1.600x338.jpg?t=1784740349",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/b17b61def60cb8b3f693cb3a6b80152f7963b04e/ss_b17b61def60cb8b3f693cb3a6b80152f7963b04e.600x338.jpg?t=1784740349",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/78e99c6da684734a84fcd69aff1baa7b5fe996f6/ss_78e99c6da684734a84fcd69aff1baa7b5fe996f6.600x338.jpg?t=1784740349",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/ec6de0364a1014e97ab05a7cad9f187be0bd494e/ss_ec6de0364a1014e97ab05a7cad9f187be0bd494e.600x338.jpg?t=1784740349"
+    ],
+    "store_url": "https://store.steampowered.com/app/2357570",
+    "store": "steam"
+  },
+  "Puzzle Mage": {
+    "name": "Puzzle Mage",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/bb1c410d18f859228335c4b442c0579ffc422c89/header.jpg?t=1786138485",
+    "description": "Puzzle Mage is a top-down point &amp; click action adventure puzzle game. Step into the boots of Lyra, a young and gifted apprentice mage, as she embarks on the Rite of Ascension—an ancient and perilous trial held within the legendary Arcane Tower.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/33f49c21fb83ca3c1a5c7e9ffca3a8df1e7e4bb8/ss_33f49c21fb83ca3c1a5c7e9ffca3a8df1e7e4bb8.600x338.jpg?t=1786138485",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/d602c9692241eea9731cc28fc032604c769c27cb/ss_d602c9692241eea9731cc28fc032604c769c27cb.600x338.jpg?t=1786138485",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/df4b789625e69a36c97c640afca4550034cef181/ss_df4b789625e69a36c97c640afca4550034cef181.600x338.jpg?t=1786138485",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/412c90cb8ece53bf5537f1db5c5a1ab7382a3be3/ss_412c90cb8ece53bf5537f1db5c5a1ab7382a3be3.600x338.jpg?t=1786138485"
+    ],
+    "store_url": "https://store.steampowered.com/app/3962250",
+    "store": "steam"
+  }
 }

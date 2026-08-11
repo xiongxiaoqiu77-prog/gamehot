@@ -1,4 +1,4 @@
-import { getGames, getFeed, getGameMeta } from '../lib/feed'
+import { getGames, getFeed, getGameMeta, toGameSlug } from '../lib/feed'
 import type { GameEntry } from '../lib/feed'
 
 function HeatBar({ score }: { score: number }) {
@@ -15,7 +15,7 @@ function HeatBar({ score }: { score: number }) {
 
 function GameCard({ game }: { game: GameEntry }) {
   const meta = getGameMeta(game.name)
-  const slug = encodeURIComponent(game.name)
+  const slug = toGameSlug(game.name)
 
   return (
     <a

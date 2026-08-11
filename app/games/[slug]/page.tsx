@@ -1,9 +1,9 @@
 import { notFound } from 'next/navigation'
-import { getGames, getGameMeta } from '../../lib/feed'
+import { getGames, getGameMeta, toGameSlug } from '../../lib/feed'
 import type { GameEntry } from '../../lib/feed'
 
 export function generateStaticParams() {
-  return getGames().map(g => ({ slug: encodeURIComponent(g.name) }))
+  return getGames().map(g => ({ slug: toGameSlug(g.name) }))
 }
 
 function sourceIcon(source: string) {
@@ -14,13 +14,12 @@ function sourceIcon(source: string) {
 
 export default async function GameDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const name = decodeURIComponent(slug)
 
   const games = getGames()
-  const game: GameEntry | undefined = games.find(g => g.name === name)
+  const game: GameEntry | undefined = games.find(g => toGameSlug(g.name) === slug)
   if (!game) notFound()
 
-  const meta = getGameMeta(name)
+  const meta = getGameMeta(game.name)
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg)' }}>
@@ -42,7 +41,7 @@ export default async function GameDetailPage({ params }: { params: Promise<{ slu
           {meta?.icon ? (
             <img
               src={meta.icon}
-              alt={name}
+              alt={game.name}
               width={88}
               height={88}
               className="rounded-2xl shrink-0"
@@ -57,7 +56,7 @@ export default async function GameDetailPage({ params }: { params: Promise<{ slu
             </div>
           )}
           <div className="flex flex-col justify-center gap-2">
-            <h1 className="text-2xl font-bold text-white leading-tight">{name}</h1>
+            <h1 className="text-2xl font-bold text-white leading-tight">{game.name}</h1>
             <div className="flex items-center gap-3 text-xs" style={{ color: 'var(--muted)' }}>
               <span>提及 {game.count} 次</span>
               <span>·</span>

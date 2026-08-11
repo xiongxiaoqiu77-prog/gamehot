@@ -55,6 +55,10 @@ export interface GameMeta {
   store: string
 }
 
+export function toGameSlug(name: string): string {
+  return name.toLowerCase().replace(/[^\w一-鿿]+/g, '-').replace(/^-|-$/g, '')
+}
+
 export function getGameMeta(name: string): GameMeta | null {
   return (gamesMeta as Record<string, GameMeta | null>)[name] ?? null
 }
