@@ -190,9 +190,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
 
                     {/* 右侧卡片 */}
                     <a
-                      href={a.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      href={`/realtime?id=${a.id}`}
                       className="group flex-1 rounded-xl p-3.5 border mb-2 transition-all duration-200 hover:-translate-y-0.5 min-w-0"
                       style={{ background: 'var(--surface)', borderColor: 'var(--border)' }}
                     >
