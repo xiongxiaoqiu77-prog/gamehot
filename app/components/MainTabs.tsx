@@ -1,10 +1,10 @@
 'use client'
 import { useState, useEffect } from 'react'
 import type { Feed, RealtimeFeed, HistoryDay } from '../types'
-
-const REALTIME_URL = 'https://raw.githubusercontent.com/xiongxiaoqiu77-prog/gamehot-data/main/realtime-feed.json'
 import type { GameEntry } from '../lib/feed'
 import ArticleCard from './ArticleCard'
+
+const REALTIME_URL = 'https://raw.githubusercontent.com/xiongxiaoqiu77-prog/gamehot-data/main/realtime-feed.json'
 
 // ── 工具 ──────────────────────────────────────────────────────────────────────
 
@@ -61,8 +61,12 @@ function groupByDate(articles: RealtimeFeed['articles']) {
   return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]))
 }
 
+const ALL_CATEGORIES = ['行业资讯', '深度拆解', '泛游戏']
+
 function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }) {
-  const articles = feed.articles ?? []
+  const [query, setQuery] = useState('')
+  const [activeCat, setActiveCat] = useState<string | null>(null)
+  const allArticles = feed.articles ?? []
 
   if (loading) {
     return (
@@ -72,7 +76,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
     )
   }
 
-  if (articles.length === 0) {
+  if (allArticles.length === 0) {
     return (
       <div className="text-center py-20" style={{ color: 'var(--muted)' }}>
         <p className="text-3xl mb-3">📡</p>
@@ -81,10 +85,73 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
     )
   }
 
+  const q = query.trim().toLowerCase()
+  const articles = allArticles.filter(a => {
+    if (activeCat && a.category !== activeCat) return false
+    if (q && !a.title.toLowerCase().includes(q) && !(a.zh_desc || '').toLowerCase().includes(q)) return false
+    return true
+  })
+
   const groups = groupByDate(articles)
 
   return (
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col gap-4">
+      {/* 搜索框 */}
+      <div className="relative">
+        <span className="absolute left-3 top-1/2 -translate-y-1/2 text-sm" style={{ color: 'var(--muted)' }}>🔍</span>
+        <input
+          type="text"
+          placeholder="搜索标题或摘要…"
+          value={query}
+          onChange={e => setQuery(e.target.value)}
+          className="w-full pl-9 pr-4 py-2.5 rounded-xl text-sm outline-none border"
+          style={{
+            background: 'var(--surface)',
+            borderColor: query ? 'var(--accent)' : 'var(--border)',
+            color: 'var(--fg)',
+          }}
+        />
+        {query && (
+          <button onClick={() => setQuery('')}
+            className="absolute right-3 top-1/2 -translate-y-1/2 text-xs"
+            style={{ color: 'var(--muted)' }}>✕</button>
+        )}
+      </div>
+
+      {/* 分类筛选 */}
+      <div className="flex gap-2 flex-wrap">
+        <button
+          onClick={() => setActiveCat(null)}
+          className="text-xs px-3 py-1 rounded-full border transition-all"
+          style={{
+            background: activeCat === null ? 'rgba(255,68,68,0.15)' : 'transparent',
+            borderColor: activeCat === null ? 'var(--accent)' : 'var(--border)',
+            color: activeCat === null ? 'var(--accent)' : 'var(--muted)',
+          }}>全部</button>
+        {ALL_CATEGORIES.map(cat => (
+          <button key={cat}
+            onClick={() => setActiveCat(activeCat === cat ? null : cat)}
+            className="text-xs px-3 py-1 rounded-full border transition-all"
+            style={{
+              background: activeCat === cat ? 'rgba(255,68,68,0.15)' : 'transparent',
+              borderColor: activeCat === cat ? 'var(--accent)' : 'var(--border)',
+              color: activeCat === cat ? 'var(--accent)' : 'var(--muted)',
+            }}>{cat}</button>
+        ))}
+        <span className="text-xs self-center ml-1" style={{ color: 'var(--muted)' }}>
+          {articles.length} 条
+        </span>
+      </div>
+
+      {/* 无结果 */}
+      {articles.length === 0 && (
+        <div className="text-center py-16" style={{ color: 'var(--muted)' }}>
+          <p className="text-sm">没有找到匹配的内容</p>
+        </div>
+      )}
+
+      {/* 时间线 */}
+      <div className="flex flex-col gap-8">
       {groups.map(([date, items]) => {
         const d = new Date(date + 'T00:00:00')
         const dayLabel = `${d.getMonth() + 1} 月 ${d.getDate()} 日`
@@ -132,7 +199,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
                       <div className="flex items-center justify-between gap-2 mb-1.5">
                         <div className="flex items-center gap-1.5">
                           <span className="text-xs" style={{ color: 'var(--muted)' }}>{sourceIcon(a.source)}</span>
-                          <span className="text-xs truncate max-w-28" style={{ color: 'var(--muted)' }}>
+                          <span className="text-xs" style={{ color: 'var(--muted)' }}>
                             {a.source.replace('微信-', '')}
                           </span>
                         </div>
@@ -161,6 +228,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
           </section>
         )
       })}
+      </div>
     </div>
   )
 }
