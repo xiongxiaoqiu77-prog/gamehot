@@ -1,6 +1,8 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import type { Feed, RealtimeFeed, HistoryDay } from '../types'
+
+const REALTIME_URL = 'https://raw.githubusercontent.com/xiongxiaoqiu77-prog/gamehot-data/main/realtime-feed.json'
 import type { GameEntry } from '../lib/feed'
 import ArticleCard from './ArticleCard'
 
@@ -59,8 +61,16 @@ function groupByDate(articles: RealtimeFeed['articles']) {
   return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]))
 }
 
-function RealtimeTab({ feed }: { feed: RealtimeFeed }) {
+function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }) {
   const articles = feed.articles ?? []
+
+  if (loading) {
+    return (
+      <div className="text-center py-20" style={{ color: 'var(--muted)' }}>
+        <p className="text-sm">加载中…</p>
+      </div>
+    )
+  }
 
   if (articles.length === 0) {
     return (
@@ -262,18 +272,25 @@ const TABS: { id: Tab; label: string }[] = [
 
 export default function MainTabs({
   feed,
-  realtimeFeed,
   historyDays,
   games,
   gamesMeta,
 }: {
   feed: Feed
-  realtimeFeed: RealtimeFeed
   historyDays: HistoryDay[]
   games: GameEntry[]
   gamesMeta: Record<string, { icon?: string } | null>
 }) {
   const [active, setActive] = useState<Tab>('realtime')
+  const [realtimeFeed, setRealtimeFeed] = useState<RealtimeFeed>({ updated_at: '', articles: [] })
+  const [realtimeLoading, setRealtimeLoading] = useState(true)
+
+  useEffect(() => {
+    fetch(REALTIME_URL)
+      .then(r => r.json())
+      .then((data: RealtimeFeed) => { setRealtimeFeed(data); setRealtimeLoading(false) })
+      .catch(() => setRealtimeLoading(false))
+  }, [])
 
   const counts: Record<Tab, number | null> = {
     realtime: realtimeFeed.articles?.length ?? 0,
@@ -309,7 +326,7 @@ export default function MainTabs({
       </div>
 
       {/* Tab 内容 */}
-      {active === 'realtime' && <RealtimeTab feed={realtimeFeed} />}
+      {active === 'realtime' && <RealtimeTab feed={realtimeFeed} loading={realtimeLoading} />}
       {active === 'digest'   && <DigestTab feed={feed} />}
       {active === 'history'  && <HistoryTab days={historyDays} />}
       {active === 'games'    && <GamesTab games={games} metas={gamesMeta} />}

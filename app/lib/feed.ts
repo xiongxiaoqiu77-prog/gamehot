@@ -1,7 +1,6 @@
-import type { Feed, Article, HistoryFeed, HistoryDay, RealtimeFeed, RealtimeArticle } from '../types'
+import type { Feed, Article, HistoryFeed, HistoryDay } from '../types'
 import feedData from '../data/feed.json'
 import historyData from '../data/history-feed.json'
-import realtimeData from '../data/realtime-feed.json'
 import gamesMeta from '../data/games-meta.json'
 
 function md5Short(url: string): string {
@@ -25,10 +24,6 @@ function withIds(feed: Feed): Feed {
 
 export function getFeed(): Feed {
   return withIds(feedData as unknown as Feed)
-}
-
-export function getRealtimeFeed(): RealtimeFeed {
-  return realtimeData as unknown as RealtimeFeed
 }
 
 export function getHistory(): HistoryDay[] {
