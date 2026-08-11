@@ -1,4 +1,161 @@
 {
-  "updated_at": "",
-  "articles": []
+  "updated_at": "2026-08-11T10:58:39",
+  "articles": [
+    {
+      "id": "5e680dce49",
+      "title": "最优秀的创始人为什么既非美国人也非欧洲人",
+      "zh_desc": "文章围绕游戏行业 AI 应用展开观点讨论，并访谈 Emmanuel De Maistre，探讨 AI 对创意团队的实际意义。适合关注游戏行业 AI 战略与团队管理模式的读者。",
+      "url": "https://www.deconstructoroffun.com/blog/why-the-best-founders-are-neither-american-nor-european",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T12:46:47",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "551d8295d4",
+      "title": "沃尔玛支持的游戏网站 Restart 已裁撤编辑团队",
+      "zh_desc": "Restart 于 2024 年 12 月上线，此次裁员涉及五名编辑人员。该消息反映出游戏媒体在资本支持下仍面临经营不确定性，对行业内容生态观察者有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T16:31:01",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "bc2a5229ac",
+      "title": "《EVE Online》开发商聘请冰岛前部长领导自主 AI 工作",
+      "zh_desc": "Fenris Creations（原 CCP Games）今年早些时候独立并获谷歌少数股权投资，如今任命冰岛前部长负责自主 AI 方向。这则动态显示游戏公司正在将 AI 提升到高管治理层级。",
+      "url": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T15:02:54",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "01c4d047ed",
+      "title": "Unity 称 AI 广告平台推动其“史上最佳季度”",
+      "zh_desc": "Unity 营收同比增长 24%，增长主要来自 Unity Vector AI 广告平台。对依赖广告变现的手游团队而言，这是判断 AI 买量、广告优化与引擎生态趋势的重要信号。",
+      "url": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-10T13:46:23",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "e7fa208544",
+      "title": "HandyGames 更名为 THQ Nordic Mobile",
+      "zh_desc": "HandyGames 正式改名为 THQ Nordic Mobile，发行重心转向把优质 PC/主机游戏带到移动平台。对关注移动发行与跨端移植策略的从业者来说，这是一次值得留意的品牌整合动态。",
+      "url": "https://www.gamesindustry.biz/handygames-rebrands-as-thq-nordic-mobile",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-10T17:10:00",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "96277db78d",
+      "title": "泄露邮件显示暴雪是 Xbox 2026 财年表现最佳工作室",
+      "zh_desc": "据 Windows Central 获取并核实的内部邮件，暴雪在微软 2026 财年成为 Xbox Game Studios 中表现最好的工作室。该消息有助于了解微软旗下第一方工作室的业绩格局与内部变化。",
+      "url": "https://www.gamesindustry.biz/leaked-emails-reveal-blizzard-is-xboxs-top-performing-studio-for-fy26",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T16:07:39",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "bd591d469a",
+      "title": "从《Vampire Survivors》到《Vampire Crawlers》：基于其他开发者 IP 开发游戏的六条经验",
+      "zh_desc": "Nosebleed Interactive 创始人 Andreas Firnigl 以《Vampire Survivors》衍生项目《Vampire Crawlers》为例，总结基于他人 IP 开发游戏的六条经验。文章对授权衍生游戏与跨 IP 合作的产品团队有借鉴意义。",
+      "url": "https://www.gamesindustry.biz/how-vampire-survivors-became-vampire-crawlers-six-lessons-from-building-a-game-based-on-another-developers-ip-1",
+      "source": "GamesIndustry.biz",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-10T15:19:18",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "34dbad253d",
+      "title": "万代南梦宫第一季度销售额创纪录，但数字业务营业利润下降 30.9%",
+      "zh_desc": "万代南梦宫整体第一季度营收创下历史新高，但数字业务营业利润同比下降 30.9%。对关注日本游戏大厂财务表现与数字化转型的从业者而言，这是一个值得拆解的信号。",
+      "url": "https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T10:07:24",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "50d00dcd38",
+      "title": "世嘉第三季度净销售额增长 17.3%，游戏业务超预期",
+      "zh_desc": "世嘉飒美报告净销售额同比增长 17.3%，包含游戏在内的娱乐内容业务收入为 684 亿日元（约 4.32 亿美元），超出预期。该财报数据有助于理解日本头部游戏公司的业务表现和后续投入方向。",
+      "url": "https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T07:50:16",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "7934670f8a",
+      "title": "世嘉财报显示 Rovio 销售额在减记与重建后保持稳定",
+      "zh_desc": "Rovio 收入同比大致持平，但世嘉整体免费游玩（F2P）业务支出同比增加，显示 Rovio 经历减记与产品重建后进入稳定期。对跟踪休闲手游发行商和竞品资源动向的从业者有一定价值。",
+      "url": "https://mobilegamer.biz/rovio-sales-hold-steady-in-sega-financials-after-write-down-and-rebuild/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-11T00:09:44",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "e76e365312",
+      "title": "Google Play 现已支持 Venmo 付款",
+      "zh_desc": "Android 用户现在可以把 Venmo 余额或绑定支付方式用于购买应用、游戏和数字内容。新增支付方式可能改善美国用户的付费转化，对手游发行商的内购设计和支付策略有现实影响。",
+      "url": "https://mobilegamer.biz/venmo-payments-now-available-on-google-play/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-10T14:31:39",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "87171aee95",
+      "title": "Take-Two 手游业务领先优势收窄，但仍占其盈利一半以上",
+      "zh_desc": "Take-Two 最新财报显示，主机业务增长缩小了与手游业务的差距，但移动端仍贡献超过一半利润；Color Block Jam 在高开首年后放缓，Toon Blast、Words With Friends 和 Top Eleven 同比上升。对观察头部厂商移动游戏组合表现与休闲品类趋势有参考价值。",
+      "url": "https://mobilegamer.biz/mobiles-lead-narrows-at-take-two-but-remains-over-half-its-earnings/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-10T08:54:32",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "en"
+    },
+    {
+      "id": "cdc3ec46e1",
+      "title": "手握年流水超 60 亿元的《Coin Master》，Moon Active 为何还要连发两款二合新游？",
+      "zh_desc": "文章分析 Moon Active 在《Coin Master》年流水超 60 亿元人民币后仍连续推出两款二合（Merge-2）新游的战略动机，涉及品类竞争、用户留存和变现逻辑。对关注合成类休闲游戏及头部厂商产品矩阵的从业者具有较高参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4V1c5Si1WSFFjX1BJa2JMYmtLc1ZOY3RpaERLQ3FLbWoyUWtHajVUaE41SGo2djdHSF9hdlI2emVUa01CRXh5eVdGSGQ?oc=5",
+      "source": "Google News",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-10T08:05:05",
+      "fetched_at": "2026-08-11T10:58:39",
+      "lang": "zh"
+    }
+  ]
 }
