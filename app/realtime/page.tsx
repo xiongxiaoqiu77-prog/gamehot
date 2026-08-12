@@ -134,6 +134,24 @@ function ArticleDetail() {
         </section>
       )}
 
+      {/* 提及游戏 */}
+      {article.games && article.games.length > 0 && (
+        <section className="mb-6">
+          <h2 className="text-xs font-semibold mb-3 uppercase tracking-widest" style={{ color: 'var(--muted)' }}>提及游戏</h2>
+          <div className="flex flex-col gap-2">
+            {article.games.map((g, i) => (
+              <div key={i} className="flex items-start gap-3 rounded-xl px-4 py-3" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+                <span className="text-base mt-0.5">🎮</span>
+                <div className="min-w-0">
+                  <p className="text-sm font-semibold text-white">{g.name}</p>
+                  {g.desc && <p className="text-xs mt-0.5" style={{ color: 'var(--muted)' }}>{g.desc}</p>}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* 原文内容（非微信） */}
       {!isWeChat && (
         <section className="mb-8">

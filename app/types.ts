@@ -34,6 +34,7 @@ export interface RealtimeArticle {
   published_at: string
   fetched_at: string
   lang: string
+  games?: Game[]
 }
 
 export interface RealtimeFeed {
