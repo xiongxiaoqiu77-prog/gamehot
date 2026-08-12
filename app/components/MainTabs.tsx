@@ -63,9 +63,12 @@ function groupByDate(articles: RealtimeFeed['articles']) {
 
 const ALL_CATEGORIES = ['行业资讯', '深度拆解', '泛游戏']
 
+const PAGE_SIZE = 30
+
 function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }) {
   const [query, setQuery] = useState('')
   const [activeCat, setActiveCat] = useState<string | null>(null)
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
   const allArticles = feed.articles ?? []
 
   if (loading) {
@@ -86,11 +89,13 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
   }
 
   const q = query.trim().toLowerCase()
-  const articles = allArticles.filter(a => {
+  const filtered = allArticles.filter(a => {
     if (activeCat && a.category !== activeCat) return false
     if (q && !a.title.toLowerCase().includes(q) && !(a.zh_desc || '').toLowerCase().includes(q)) return false
     return true
   })
+  const articles = filtered.slice(0, visibleCount)
+  const hasMore = filtered.length > visibleCount
 
   const groups = groupByDate(articles)
 
@@ -103,7 +108,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
           type="text"
           placeholder="搜索标题或摘要…"
           value={query}
-          onChange={e => setQuery(e.target.value)}
+          onChange={e => { setQuery(e.target.value); setVisibleCount(PAGE_SIZE) }}
           className="w-full pl-9 pr-4 py-2.5 rounded-xl text-sm outline-none border"
           style={{
             background: 'var(--surface)',
@@ -121,7 +126,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
       {/* 分类筛选 */}
       <div className="flex gap-2 flex-wrap">
         <button
-          onClick={() => setActiveCat(null)}
+          onClick={() => { setActiveCat(null); setVisibleCount(PAGE_SIZE) }}
           className="text-xs px-3 py-1 rounded-full border transition-all"
           style={{
             background: activeCat === null ? 'rgba(255,68,68,0.15)' : 'transparent',
@@ -130,7 +135,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
           }}>全部</button>
         {ALL_CATEGORIES.map(cat => (
           <button key={cat}
-            onClick={() => setActiveCat(activeCat === cat ? null : cat)}
+            onClick={() => { setActiveCat(activeCat === cat ? null : cat); setVisibleCount(PAGE_SIZE) }}
             className="text-xs px-3 py-1 rounded-full border transition-all"
             style={{
               background: activeCat === cat ? 'rgba(255,68,68,0.15)' : 'transparent',
@@ -139,7 +144,7 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
             }}>{cat}</button>
         ))}
         <span className="text-xs self-center ml-1" style={{ color: 'var(--muted)' }}>
-          {articles.length} 条
+          {filtered.length} 条
         </span>
       </div>
 
@@ -227,6 +232,19 @@ function RealtimeTab({ feed, loading }: { feed: RealtimeFeed; loading: boolean }
         )
       })}
       </div>
+
+      {/* 加载更多 */}
+      {hasMore && (
+        <div className="text-center pt-2 pb-6">
+          <button
+            onClick={() => setVisibleCount(v => v + PAGE_SIZE)}
+            className="px-6 py-2.5 rounded-full text-sm border transition-all hover:opacity-80"
+            style={{ borderColor: 'var(--border)', color: 'var(--muted)', background: 'var(--surface)' }}
+          >
+            加载更多 · 还有 {filtered.length - visibleCount} 条
+          </button>
+        </div>
+      )}
     </div>
   )
 }
