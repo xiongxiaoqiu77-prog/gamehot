@@ -50,6 +50,7 @@ function ArticleDetail() {
   const [content, setContent] = useState('')
   const [contentLoading, setContentLoading] = useState(false)
   const [notFound, setNotFound] = useState(false)
+  const [wechatContent, setWechatContent] = useState('')
 
   // 从 realtime feed 里找文章
   useEffect(() => {
@@ -63,6 +64,15 @@ function ArticleDetail() {
       })
       .catch(() => setNotFound(true))
   }, [id])
+
+  // 微信文章：从独立 JSON 文件加载全文
+  useEffect(() => {
+    if (!article || !article.source.startsWith('微信')) return
+    fetch(`https://raw.githubusercontent.com/xiongxiaoqiu77-prog/gamehot-data/main/articles/${article.id}.json`)
+      .then(r => r.ok ? r.json() : null)
+      .then(data => { if (data?.content) setWechatContent(data.content) })
+      .catch(() => {})
+  }, [article])
 
   // 非微信文章：通过 Jina Reader 拉取原文
   useEffect(() => {
@@ -148,6 +158,30 @@ function ArticleDetail() {
                 </div>
               </div>
             ))}
+          </div>
+        </section>
+      )}
+
+      {/* 微信文章全文 */}
+      {isWeChat && wechatContent && (
+        <section className="mb-8">
+          <h2 className="text-xs font-semibold mb-4 uppercase tracking-widest" style={{ color: 'var(--muted)' }}>原文</h2>
+          <div className="text-sm leading-8" style={{ color: '#b0b0c8' }}>
+            <ReactMarkdown
+              components={{
+                h1: ({children}) => <h1 className="text-xl font-bold text-white mt-6 mb-3">{children}</h1>,
+                h2: ({children}) => <h2 className="text-lg font-bold text-white mt-5 mb-2">{children}</h2>,
+                h3: ({children}) => <h3 className="text-base font-semibold text-white mt-4 mb-2">{children}</h3>,
+                p:  ({children}) => <p className="mb-4 leading-8">{children}</p>,
+                a:  ({href, children}) => <a href={href} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }} className="underline">{children}</a>,
+                ul: ({children}) => <ul className="list-disc pl-5 mb-4 space-y-1">{children}</ul>,
+                ol: ({children}) => <ol className="list-decimal pl-5 mb-4 space-y-1">{children}</ol>,
+                li: ({children}) => <li className="leading-7">{children}</li>,
+                img: () => null,
+              }}
+            >
+              {wechatContent}
+            </ReactMarkdown>
           </div>
         </section>
       )}
