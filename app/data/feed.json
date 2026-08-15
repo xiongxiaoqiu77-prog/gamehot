@@ -1,335 +1,468 @@
 {
-  "updated": "2026-08-14",
-  "generated_at": "2026-08-14T08:09:16.283948",
+  "updated": "2026-08-15",
+  "generated_at": "2026-08-15T08:10:46.483172",
   "articles": [
     {
-      "id": "ba451a3d28",
-      "title": "《影之刃零》开启预购，甄子丹参与制作：国产3A又将迎来全球化验证",
-      "summary": "《影之刃零》开启预购，并邀请甄子丹参与制作，标志着国产3A再度尝试走向全球市场。对从业者而言，该作的市场表现将成为检验国产动作游戏全球化吸引力的重要参照。",
-      "url": "https://mp.weixin.qq.com/s/uoekDEHPAVImBNJY6emiWg",
+      "id": "6f901ac656",
+      "title": "如何评价《绝区零》新推出的“搜打撤”玩法？",
+      "summary": "文章正文因环境异常不可见，无法总结具体观点。标题围绕《绝区零》新推出的“搜打撤”玩法，对从业者可能意在分析该玩法的设计思路与市场反馈。",
+      "url": "https://mp.weixin.qq.com/s/dYLCm1NUPfiDw6ZwpbP1MQ",
+      "source": "微信-无界游戏学社",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-13T17:00:17",
+      "games": [
+        {
+          "name": "绝区零",
+          "desc": "米哈游出品的动作角色扮演游戏，新增“搜打撤”玩法。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "4ceea2ebd7",
+      "title": "不卷角色，「AI小镇」月入百万美元",
+      "summary": "文章正文不可见，无法提炼核心观点。标题指向一款名为“AI小镇”的产品，宣称不依赖角色付费，月收入达到百万美元，可能涉及AI驱动的模拟经营或社交玩法。",
+      "url": "https://mp.weixin.qq.com/s/yfBBolrEdOIoykplKZ9kKA",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-13T17:00:24",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "a1a7e195e5",
+      "title": "游戏运营新手向：上线2个月后游戏商业化迭代注意事项-舆情风控篇",
+      "summary": "文章正文不可见，无法概括具体内容。标题表明这是面向游戏运营新手的文章，讨论上线2个月后商业化迭代中的舆情风控注意事项。",
+      "url": "https://mp.weixin.qq.com/s/ymyjNyG2FiZROqOrz2Niig",
+      "source": "微信-车尔斯基的游戏运营杂谈",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-14T08:00:29",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "d1826c7576",
+      "title": "为什么这款 Apple Watch 国际象棋游戏敢卖 7 美元？",
+      "summary": "文章正文不可见，无法总结核心观点。标题探讨一款Apple Watch国际象棋游戏定价7美元的合理性，可能涉及付费策略与硬件适配。",
+      "url": "https://mp.weixin.qq.com/s/uBKNvXzEwfbW10kOdgZU-A",
+      "source": "微信-熊猫游戏出海",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-13T11:58:47",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "dc051ff97f",
+      "title": "游戏运营新手向：上线2个月后游戏迭代注意事项——活动功能篇",
+      "summary": "文章正文不可见，无法概括具体内容。标题为游戏运营新手向，讨论上线2个月后迭代中的活动功能注意事项。",
+      "url": "https://mp.weixin.qq.com/s/nQECyZ6kxKA3iW7VPDiWaA",
+      "source": "微信-车尔斯基的游戏运营杂谈",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-13T08:00:46",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "fb63922d78",
+      "title": "Disney 扩大游戏业务：能否成为主要增长催化剂？",
+      "summary": "文章仅提供标题，无正文内容。标题聚焦迪士尼扩大游戏业务是否可能成为其增长催化剂，但无法提取具体分析。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDRISkNqd1FaY2tPNzlIQVA2aEZQMHVyV1dSSzgzN0RMY0VPOFk2STMwV1NuY21zVDJmQUdpR3lfdDVPTmJNV2Z1M2hPR1d3a0tXbEpydkhTVnRjdVlON3BENURwbURva2ZUZE52VHZMLTNBZ1FZa3oybGhYcUFZd0x5V2ViOF9YSGZNRTBZZ1M4TExBdmtJa0VLQ05Cc094bFBHSWlRLTNubkVJMk9zMzE5T3BaRDdITnVjVlJqT3pzZw?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-14T14:42:00",
+      "games": [],
+      "translated_content": "Google News",
+      "original_content": "Google News"
+    },
+    {
+      "id": "4be8929e13",
+      "title": "Steam国区第一！字节《雾影猎人》20人团队撬动百万玩家，过半在海外",
+      "summary": "文章正文不可见，无法总结具体观点。标题称字节旗下《雾影猎人》登顶Steam国区，20人团队吸引百万玩家，且过半玩家来自海外。",
+      "url": "https://mp.weixin.qq.com/s/DbEdgNXwdjY57ZFF51b1wA",
       "source": "微信-Enjoy出海开发者服务平台",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-12T16:10:57",
+      "published_at": "2026-08-13T17:00:24",
+      "games": [
+        {
+          "name": "雾影猎人",
+          "desc": "字节跳动发行的Steam游戏，20人团队开发，玩家超百万且海外占比过半。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "9d20d774b8",
+      "title": "Apple 希望在美国对 App Store 外部购买收取最高 15% 佣金",
+      "summary": "苹果向法院申请允许对美国App Store外支付收取最高15%佣金，以替代此前被法官禁止的27%费率，并针对小开发者、订阅续费提供更低分成。Epic Games明确反对，称该结构超出法院指导范围。",
+      "url": "https://gameworldobserver.com/2026/08/14/apple-wants-to-charge-up-to-a-15-commission-on-purchases-outside-the-app-store-in-the-u-s",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-14T13:28:16",
+      "games": [],
+      "translated_content": "标题：Apple 希望在美国对 App Store 外部购买收取最高 15% 佣金\n\n正文：\nApple 希望在美国对 App Store 外部的购买收取最高 15% 的佣金 | Game World Observer\n行业新闻\n开发者访谈\n游戏开发\n市场营销\n市场分析\n交易\n法律\n行业新闻\n2026年8月14日 16:28\n2026年8月14日 16:28\nadmin\nApple 希望在美国对 App Store 外部的购买收取最高 15% 的佣金\n发布者\nadmin\n标签：\nApple\n、\nEpic Games\nApple 与 Epic Games 之间的法律战又出现了新的转折。近日，Apple 向法院提交了一份声明，请求撤销一项对其施加的禁令。这涉及美国 iOS 应用内购买的佣金问题。\n\n在这份文件中，Apple 提醒法院，2024 年因一项法院裁决，它被要求允许开发者将美国用户引导至 App Store 之外进行支付。为了弥补自身支出，Apple 对此类支付引入了 27% 的专项费用。然而，负责该案的法官 Yvonne Gonzalez Rogers 对此并不满意，并于 2025 年春季禁止 Apple 从 App Store 外部的购买中收取任何费用。\n\n如今，Apple 正试图恢复佣金制度，尽管有所调整。它向法院提交了一份新的费用结构，降低了百分比。修订后的结构如下：\n\n- “标准应用”中的购买收取 15% 的佣金；\n- 来自特定联盟计划的应用内购买以及订阅续费收取 10% 的佣金；\n- 年收入低于 100 万美元的开发者所开发应用中的购买收取 5% 的佣金。\n\nApple 解释称，这些费率使其能够收回“至少部分补偿”，以覆盖其向开发者提供的工具、技术和服务的成本。\n\n值得注意的是，App Store 的标准佣金为 30%，Apple 无意更改这一比例。\n\nEpic Games 已经对 Apple 的行为提出批评，称该提议结构“远远超出了第九巡回法院关于允许费用的指导意见的范围”。Epic Games 计划在 60 天内提交一份附有专家意见的正式反对书。\n\n来源：\nThe Verge\n有新闻线索想要分享？请联系我们：\npress@gameworldobserver.com\n标签：\nApple\nEpic Games\n发布中....",
+      "original_content": "Apple wants to charge up to a 15% commission on purchases outside the App Store in the U.S. | Game World Observer\nIndustry News\nDev Interviews\nGame Development\nMarketing\nMarket Analysis\nDeals\nLegal\nIndustry News\n14.08.2026 16:28\n14.08.2026 16:28\nadmin\nApple wants to charge up to a 15% commission on purchases outside the App Store in the U.S.\nPublished by\nadmin\nTags:\nApple\n,\nEpic Games\nAnother twist in the legal battle between Apple and Epic Games. Recently, Apple\nfiled\na statement in court, requesting to overturn one of the prohibitions imposed on it. This pertains to the commission for in-app purchases on iOS in the United States.\nIn the document, the corporation reminded the court that in 2024, due to a court ruling, it was required to allow developers to redirect American users for payments outside the App Store. To compensate for its expenses, Apple introduced a special fee of 27% for such payments. However, Judge Yvonne Gonzalez Rogers, who is overseeing the case, was not satisfied with this, and in the spring of 2025, she prohibited Apple from taking any money from purchases made outside the App Store.\nNow Apple is attempting to reinstate the commission, albeit with changes. It has presented a new fee structure with lower percentages to the court. The revised structure is as follows:\na 15% commission for purchases in “standard apps”;\na 10% commission for purchases in apps from certain affiliate programs and for subscription renewals;\na 5% commission for purchases in apps from developers with annual revenue of less than $1 million.\nApple explained that the rates would let it recoup “at least some compensation” for its tools, technologies, and services it provides to developers.\nIt should be noted that the standard commission in the App Store is 30%, which Apple does not intend to change.\nEpic Games has already criticized Apple’s actions, stating that the proposed structure “far outside of the bounds of the Ninth Circuit’s guidance on permissible fees”. Within 60 days, Epic Games plans to file an official objection with expert comments.\nSource:\nThe Verge\nGot a story you'd like to share? Reach us at\npress@gameworldobserver.com\nTags:\nApple\nEpic Games\nPosting...."
+    },
+    {
+      "id": "3a46dcbb04",
+      "title": "新游摘要：Supercell 的 Project Rise、Epic Mickey、Dave the Diver、Goat Simulator、Little Kitty Big City 等",
+      "summary": "本期新游摘要盘点了多款游戏的最新动态，包括Supercell《Project Rise》开启测试、迪士尼《Epic Mickey》重制版移动版定价15.99美元、《潜水员戴夫》将在9月登陆移动端等，覆盖PC、主机和移动多平台。",
+      "url": "https://mobilegamer.biz/new-game-digest-supercells-project-rise-epic-mickey-dave-the-diver-goat-simulator-little-kitty-big-city-soulterra-odyssey-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-14T10:19:50",
+      "games": [
+        {
+          "name": "Project Rise",
+          "desc": "Supercell推出的《部落冲突》IP衍生动作RPG，于8月19日至9月2日开启Beta测试。"
+        },
+        {
+          "name": "Disney Epic Mickey: Rebrushed",
+          "desc": "3D平台跳跃游戏重制版的手机移植版，9月16日登陆iOS和Android，售价15.99美元。"
+        },
+        {
+          "name": "Dave the Diver",
+          "desc": "融合冒险与管理模拟的RPG，于9月17日登陆iOS和Android，包含Dredge等DLC。"
+        },
+        {
+          "name": "Goat Simulator 3",
+          "desc": "开放世界沙盒模拟游戏，通过Google Play Pass登陆安卓，包含所有免费季节内容更新。"
+        },
+        {
+          "name": "Little Kitty, Big City",
+          "desc": "猫咪冒险游戏，在PC和主机销量超千万，计划今年晚些时候登陆移动端。"
+        },
+        {
+          "name": "SoulTerra Odyssey",
+          "desc": "万代南梦宫的中度3D Roguelite RPG，已于8月6日在菲律宾软启动。"
+        },
+        {
+          "name": "Slots & Daggers",
+          "desc": "老虎机Roguelike游戏，Steam已售出30万份，8月17日登陆iOS和Android。"
+        },
+        {
+          "name": "Greedy Greedy Gnomes",
+          "desc": "增量式打碎罐子RPG，现已登陆PC和安卓平台。"
+        },
+        {
+          "name": "Azur Promilia",
+          "desc": "Nexon开发的开放世界动漫RPG，预计仅在韩国软启动。"
+        },
+        {
+          "name": "小冰冰斗蛐蛐",
+          "desc": "由Farlight发行的中度自动战斗游戏，脱胎于“小冰冰”IP，已在中国软启动并开启预注册。"
+        },
+        {
+          "name": "Kaboomania",
+          "desc": "复古迷宫轰炸游戏，已登陆iOS、PC、主机及原版Amiga平台。"
+        }
+      ],
+      "translated_content": "新游摘要：Supercell 的 Project Rise、Epic Mickey、Dave the Diver、Goat Simulator、Little Kitty Big City 等 – Mobilegamer.biz\n跳到内容\n每周五，你都能在这里找到最新的全球发布、游戏日期、新软启动以及其他所有相关信息。\n本专栏由以下机构赞助\nKohort\nKohort 旗下的 Ktrl\n为 UA 团队提供每日规模评估和削减决策，D365 LTV 预测准确率高达 94% 以上。\n接入你的 MMP，即可免费查看你的预测。\nProject Rise (Supercell)\nSupercell 酝酿已久的《Clash of Clans》动作 RPG 衍生作品似乎已临近发布：这家芬兰公司将于 8 月 19 日开启 Project Rise 的测试，持续到 9 月 2 日。\n该项目最初于 2021 年以 Clash Heroes 的名称公布，但在 2024 年被重启并更名为 Project Rise。\n此后关于该作品的新闻极少。\nDisney Epic Mickey: Rebrushed (THQ Nordic Mobile)\nSnapshot Games 将 Purple Lamp 的 3D 平台跳跃重制版移植到移动端，该作将于 9 月 16 日在 iOS 和 Android 上发布，售价 15.99 美元。目前已开放预购。\nDave the Diver (Mintrocket)\nMintrocket 的热门 RPG 管理模拟游戏将于 9 月 17 日在 iOS 和 Android 上发布，首发即包含 Dredge 和 In the Jungle 两个 DLC 包。\nGoat Simulator 3 (Coffee Stain North)\nCoffee Stain North 的开放世界沙盒续作现已在 Android 端通过 Google Play Pass 推出，包含基础游戏及其所有免费季节性内容更新。\nLittle Kitty, Big City (Double Dagger Studio)\nDouble Dagger Studio 的猫咪冒险热门作品已在 PC 和主机上售出超过 1000 万份，将于今年晚些时候登陆移动端。目前尚无确切发布日期，但首个预告片已放出。\nSoulTerra Odyssey (Bandai Namco Entertainment)\nBandai Namco 的这款新软启动游戏似乎是一款中核 3D 消除类 Roguelite RPG。它于 8 月 6 日软启动，目前仅在菲律宾上线。\nSlots & Daggers (Future Friends Games)\n独立开发者 Friedemann 的老虎机 Roguelike 游戏由 Future Friends Games 发行，已在 Steam 上大获成功，售出 30 万份。该作将于 8 月 17 日登陆 iOS 和 Android。\nGreedy Greedy Gnomes (Future Friends Games)\n独立开发者 Nautlander 的增量破罐 RPG 现已在 Steam 上以 5.99 美元/5.29 英镑/6.15 欧元的价格登陆 PC，并通过 Google Play 以 3.99 美元/3.59 英镑的价格登陆 Android。目前尚无 iOS 版本的消息。\nAzur Promilia (Nexon)\n아주르\nNexon 的这款开放世界动漫 RPG 目前处于预购阶段，似乎计划仅在韩国进行软启动。\n小冰冰斗蛐蛐 (Farlight)\n这似乎是上海莉莉丝旗下 Farlight 品牌推出的一款中核自走棋游戏，衍生自该工作室现有的“小冰冰”IP。\n该游戏目前处于预注册阶段，看起来已在中国软启动，之后将于 10 月 31 日更广泛发布。目前尚未公布官方英文名称。\nKaboomania (Fancy Factory)\nFancy Factory 的复古迷宫炸弹游戏现已在 iOS、PC、主机以及原始 Amiga 硬件上推出，配乐由 Amiga 作曲家 Chris Huelsbeck 创作。\nCueva de las Manos (Philipp Stollenmayer)\n这是一款 Apple Vision Pro 解谜游戏，可将你的客厅 3D 扫描成石器时代洞穴。在 Cueva de las Manos 中，你可以亲手解决基于阴影的物理谜题。该作现已发售，仅在 Apple 的 Vision Pro 商店上架。\n继续阅读\n搜索：\n搜索\n关注我们\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\n文章存档\n通过付费订阅电子报来支持本站。\nx\n回到顶部\n加载评论中...\n写评论...\n电子邮件（必填）\n姓名（必填）\n网站",
+      "original_content": "New game digest: Supercell’s Project Rise, Epic Mickey, Dave the Diver, Goat Simulator, Little Kitty Big City, more – Mobilegamer.biz\nSkip to content\nHere every Friday you’ll find the latest global releases, game dates, new soft launches and everything in between.\nThis column is sponsored by\nKohort\n.\nKtrl by Kohort\ngives UA teams daily scale and cut calls, with 94%+ accurate D365 LTV forecasting.\nPlug in your MMP and see your own predictions free\n.\nProject Rise (Supercell)\nSupercell’s long-in-gestation action RPG spin-off of Clash of Clans seems to be edging closer to launch: the Finnish firm is opening a\nbeta test for Project Rise beginning August 19,\nwhich runs until September 2.\nThe project was first revealed as Clash Heroes way back in 2021, but it was\nrebooted and renamed in 2024 as Project Rise\n. There’s been very little news on the title since.\nDisney Epic Mickey: Rebrushed (THQ Nordic Mobile)\nSnapshot Games’ mobile port of Purple Lamp’s 3D platformer remake launches on iOS and Android on September 16, priced at $15.99. It’s now open for pre-orders.\nDave the Diver (Mintrocket)\nMintrocket’s hit RPG-management sim launches on iOS and Android on September 17, complete with the Dredge and In the Jungle DLC packs included at launch.\nGoat Simulator 3 (Coffee Stain North)\nCoffee Stain North’s open-world sandbox sequel is now available on Android through Google Play Pass, bundling the base game with all its free seasonal content updates.\nLittle Kitty, Big City (Double Dagger Studio)\nDouble Dagger Studio’s cat-adventure hit, which has sold over 10m copies on PC and console, is coming to mobile later this year. There’s no firm release date yet, but a first trailer is out now.\nSoulTerra Odyssey (Bandai Namco Entertainment)\nThis new soft lainch from Bandai Namco appears to be a midcore match 3D roguelite RPG. It was soft-launched August 6 and is currently live only in the Philippines.\nSlots & Daggers (Future Friends Games)\nIndie developer Friedemann’s slot machine roguelike, published by Future Friends Games, is already a hit on Steam with 300,000 copies sold. It’s coming to iOS and Android on August 17.\nGreedy Greedy Gnomes (Future Friends Games)\nIndie dev Nautlander’s incremental pot-breaking RPG is out now on PC via Steam ($5.99/£5.29/€6.15) and Android via Google Play ($3.99/£3.59). There’s no news on an iOS version as yet.\nAzur Promilia (Nexon)\n아주르\nThis open-world anime RPG from Nexon is currently in pre-order and looks slated for a soft launch only in South Korea.\n小冰冰斗蛐蛐 (Farlight)\nThis appears to be a midcore auto-battler from Shanghai Lilith’s Farlight label, spun off from the studio’s existing “Xiao Bingbing” IP.\nThe game is in pre-registration and it looks like it has soft launched in China only ahead of an wider October 31 release. No official English title has been announced yet.\nKaboomania (Fancy Factory)\nFancy Factory’s retro maze-bomber is out now on iOS, alongside PC, console and original Amiga hardware, with a soundtrack from Amiga composer Chris Huelsbeck.\nCueva de las Manos (Philipp Stollenmayer)\nAn Apple Vision Pro puzzle game that 3D scans your living room into a Stone Age cave, Cueva de las Manos lets you solve shadow-based physics puzzles with your own hands. It’s out now, only on Apple’s Vision Pro store.\nRead on\nSearch for:\nSearch\nFollow us\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\nStory archive\nSupport this site with a paid newsletter subscription.\nx\nScroll to Top\nLoading Comments...\nWrite a Comment...\nEmail (Required)\nName (Required)\nWebsite"
+    },
+    {
+      "id": "f0f4acd4cd",
+      "title": "上榜速度飞快！大梦这款数字门 SLG《向末日开炮》凭什么？",
+      "summary": "文章正文不可见，无法总结具体分析。标题指出大梦的《向末日开炮》作为数字门SLG在榜单上飞速上榜，可能因其差异化玩法获得市场认可。",
+      "url": "https://mp.weixin.qq.com/s/6Ga4-lrW8VhDaqAOY-dAVw",
+      "source": "微信-急速行走的小U盘",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-14T07:30:38",
+      "games": [
+        {
+          "name": "向末日开炮",
+          "desc": "大梦出品的数字门SLG游戏，以末日题材和独特玩法快速冲榜。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "c6a70b3370",
+      "title": "7年长跑构建全域创作者生态，《和平精英》给出长线IP的长青解法",
+      "summary": "文章正文不可见，无法总结具体内容。标题称《和平精英》通过7年构建全域创作者生态，为长线IP运营提供了一种长青解法。",
+      "url": "https://mp.weixin.qq.com/s/lWb_8iz2kmnYYfV708SGwA",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-13T22:20:10",
+      "games": [
+        {
+          "name": "和平精英",
+          "desc": "腾讯旗下的战术竞技手游，以创作者生态驱动长线运营。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "7219d8f762",
+      "title": "7月手游榜单丨乐信圣文新品暴涨，Easybrain接棒箭头解谜",
+      "summary": "文章正文不可见，无法概括具体内容。标题涉及7月手游榜单，提到乐信圣文新品暴涨、Easybrain接棒箭头解谜类产品。",
+      "url": "https://mp.weixin.qq.com/s/RLZOLcZOeixw1HntmdCYuw",
+      "source": "微信-广大大出海笔记",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-13T19:37:38",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "86f1159448",
+      "title": "科幻3A游戏《时空低语》制作人谈AI：通过提示词秒出的AI内容，肯定不用",
+      "summary": "文章正文不可见，无法总结核心观点。标题引述《时空低语》制作人称不会使用通过提示词秒出的AI内容，强调对AI生成内容的谨慎态度。",
+      "url": "https://mp.weixin.qq.com/s/cprWcvJCthT7nW5kqs51cA",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T17:00:24",
+      "games": [
+        {
+          "name": "时空低语",
+          "desc": "科幻3A游戏，其制作人明确表示不使用提示词生成的AI内容。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "80f06e4865",
+      "title": "线上研讨会 | 从买量到支付，拆解Merge合成游戏的出海生意",
+      "summary": "文章正文不可见，无法概括具体内容。标题为线上研讨会预告，主题是拆解Merge合成游戏的出海生意，覆盖买量到支付环节。",
+      "url": "https://mp.weixin.qq.com/s/WruX56Kpa-CVJS40pnNJnA",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T17:00:24",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "808cbffb5b",
+      "title": "预售前夕对话梁其伟：《影之刃零》研发难度超乎想象，落地过程全是难题",
+      "summary": "文章正文不可见，无法总结具体观点。标题显示预售前夕与制作人梁其伟对话，透露《影之刃零》研发难度超乎想象，落地过程充满难题。",
+      "url": "https://mp.weixin.qq.com/s/A0f2JAwWYJFKKgdySpcNng",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T17:00:24",
       "games": [
         {
           "name": "影之刃零",
-          "desc": "国产3A动作游戏，甄子丹参与制作，已开启预购。"
+          "desc": "国产动作游戏，研发难度高，预售前制作人分享了大量落地挑战。"
         }
       ],
       "translated_content": "",
       "original_content": ""
     },
     {
-      "id": "15f4683b41",
-      "title": "Xsolla推出发行工具，在首次购买后保持玩家“参与度”",
-      "summary": "Xsolla推出新的发行工具套件，帮助PC游戏工作室在玩家首次购买后通过自建社区中心、实时运营模板和通知系统维持参与度，并获取一手玩家数据。此举旨在减少对Steam等第三方平台的依赖，提升直接销售和复购率，对关注用户留存与DTC模式的团队有参考价值。",
-      "url": "https://www.gamedeveloper.com/business/xsolla-rolls-out-publishing-tools-to-keep-players-engaged-after-the-first-purchase",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-13T15:16:47",
-      "games": [],
-      "translated_content": "标题：Xsolla推出发行工具，在首次购买后保持玩家“参与度”\n\n正文：\nXsolla推出一系列工具，在玩家首次购买后保持其“参与度”\n商业\n新闻\nXsolla推出发行工具，在玩家首次购买后保持其“参与度”\n这家商业公司希望为工作室提供更多推动重复购买的方式。\nDiego Argüello\n，新闻副编辑\n，\nGameDeveloper.com\n2026年8月13日\n2分钟阅读\n图片来自Xsolla\n商业公司Xsolla为其发行套件推出了一系列新工具，旨在为开发者提供更多方式，让玩家在游戏内首次购买后保持参与度。\n该工具于今日早些时候通过新闻稿发布，主要围绕PC游戏工作室在游戏内购后加强与玩家之间的关系。工作室基于该发行套件建立的直营渠道，将与其已在售游戏的平台（如Steam和Epic Games Store）并行运营。\nXsolla表示，这些工具应能带来更好的利润率、第一方玩家数据，以及工作室对其自有变现日程表的更直接掌控。为实现这些目标，这些工具包括一个社区中心——这是一个由工作室拥有的“参与空间”，超越传统商店界面和Discord等应用。该中心可以展示新闻、任务、用户生成内容和推荐，所有玩家数据均归工作室所有。\n相关：\nSaber Interactive将在公众争议后添加Rideshare“Stimulator”AI披露声明\n此外，还有实时运营活动模板，以无代码模板的形式推出，可直接在商店中运行季节性活动和限时优惠。工作室现在还可以拥有专门的皮肤、服装和其他外观商品的商品化展示体验，以及将视频作为插图，使用游戏片段和预告片作为产品页面媒体，取代静态图片。\n最后，Xsolla Launcher中现在有一个通知系统，用于发布补丁说明、活动和优惠，无需第三方渠道即可集中通信，同时为“实时服务型和高级PC电子游戏工作室”提供自助式设置，标准集成无需自定义工程。\n“商店界面将游戏呈现在玩家面前，但它们并未给予工作室与玩家的直接关系，”Xsolla总裁Chris Hewish在公告中表示。“此次发布关乎首次销售之后发生的事。新的商店、社区中心和启动器工具为PC游戏工作室提供了自己的渠道，让他们按照自己的时间表保持玩家参与度，并获取随之而来的玩家数据。”\n去年，Xsolla推出了一个SDK，为使用Unity开发的开发者提供直接面向消费者的变现选项，继续围绕该模式的战略布局。2024年10月，Hewish与EMEA高级副总裁Chris Meredith共同对“守门人”进行了长篇批评，指出对开发者而言，这是一个“异常拥挤的市场”。两人未点名任何具体案例或商店平台，而是谈到了通过允许开发者直接向玩家进行数字销售来实现“游戏业务民主化”的理念。\n相关：\nCD Projekt Red已裁掉九名Project Sirius开发者\n“对我们来说，在与将产品推向市场的广告商保持关系的同时，我们非常清楚要努力让他们走上[直接面向消费者]的路线图，而如果你是一个三人小团队开发者，那相当具有挑战性，”Meredith当时表示。\n你可以在官方网站上了解更多关于新发行工具的信息。\n了解更多：\n头条新闻\n关于作者\nDiego Argüello\n，新闻副编辑，GameDeveloper.com\nDiego Nicolás Argüello是来自阿根廷的自由记者和评论家。电子游戏帮助他学会了英语，因此他现在为《纽约时报》、NPR、《滚石》等媒体撰写相关报道。他还运营着Into the Spine——一个致力于培养和支持新作家的网站，并共同主持了Turnabout Breakdown——一档关于《逆转裁判》系列的播客。你读到这段文字时，他很可能正在玩一款节奏游戏。\n查看更多\nDiego Argüello的报道\n每日新闻、开发者博客和Game Developer的故事，直接发送到您的收件箱\n保持关注\n最新新闻\n更多新闻\n商业\nSaber Interactive将在公众争议后添加Rideshare“Stimulator”AI披露声明\n作者\nBryant Francis\n2026年8月13日\n3分钟阅读\n在Game Developer上持续关注来自GDC游戏节的新闻、访谈和演讲报道\n继续阅读\n最新播客\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin和Guido Di Carlo\n2026年8月7日\n音频\nGDC支线任务——与不屈的Sam Beart对话\n2026年7月31日\n商业\nJackbox Games如何度过疫情后销售低迷期，嘉宾：Mike Bilder\n2026年7月24日\nPC\nNexusMods首席执行官深入探讨电子游戏模组的动态，嘉宾：Victor Folmann\n2026年7月10日\n查看全部\nGame Developer Collective\n更多\n商业\n销售DLC和应用内购买的游戏似乎受益最大",
-      "original_content": "Xsolla rolls out tools to keep players 'engaged' after a purchase\nBusiness\nNews\nXsolla rolls out publishing tools to keep players 'engaged' after the first purchase\nThe commerce company wants to give studios more ways to drive repeat purchases.\nDiego Argüello\n,\nContributing Editor, News\n,\nGameDeveloper.com\nAugust 13, 2026\n2 Min Read\nImage via Xsolla\nCommerce company Xsolla has rolled out a new slate of tools for its publishing suite, all aimed at granting developers more ways to keep players engaged after the first purchase in their games.\nAnnounced earlier today via a press release, the tools are centered around PC game studios strengthening the relationship with players after an in-game purchase. As such, the studio's direct channel built on the publishing suite runs alongside the platforms they already sell on, such as Steam and the Epic Games Store.\nXsolla says these tools should lead to better margins, first-party player data, and overall more direct control over a studio's own monetization calendar. In order to achieve these goals, the tools include a community hub, which is a studio-owned \"engagement space\" beyond traditional storefronts and apps like Discord. The hub can display news, quests, user-generated content, and referrals, with all player data staying with the studio.\nRelated:\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nThen, there's the live ops event template, introduced as a no-code template to run seasonal events and limited-time offers directly in the store. Studios can now also have dedicated merchandising experience for skins, outfits, and other cosmetics, as well as video as illustrations, using gameplay clips and trailers a product-page media instead of static images.\nLastly, there's now a notification system within the Xsolla Launcher for patch notes, events, and offers, centralizing communications without the need for third-party channels, as well as a self-service setup for \"live-service and premium PC video game studios\" with no custom engineering for standard integration.\n\"Storefronts put a game in front of players, yet they do not give a studio a direct relationship with them,\" Xsolla president Chris Hewish said in the announcement. \"This release is about what happens after the first sale. The new store, Community Hub, and launcher tools give PC game studios their own channel to keep players engaged, on their own schedule, with the player data that comes from it.\"\nLast year, Xsolla\nlaunched an SDK\nthat enables direct-to-consumer monetization options for developers working on Unity, continuing its strategy efforts around the model. In October of 2024, Hewish, alongside senior VP of EMEA Chris Meredith,\nspoke at length against\n\"gatekeepers,\" noting that it's an \"awfully congested market\" for developers. Without mentioning any specific examples or storefronts, the pair spoke about the idea of \"democratizing the business of gaming\" by allowing devs to sell digitally to players directly.\nRelated:\nCD Projekt Red has laid off nine Project Sirius developers\n\"For us, with the relationship with the advertisers bringing their products to market, we are very much aware of trying to put them on the track of the [direct-to-consumer] roadmap, and if you're a small three man developer, that's quite challenging,\" Meredith said at the time.\nYou can learn more information about the new publishing tools over at the\nofficial site\n.\nRead more about:\nTop Stories\nAbout the Author\nDiego Argüello\nContributing Editor, News, GameDeveloper.com\nDiego Nicolás Argüello is a freelance journalist and critic from Argentina. Video games helped him to learn English, so now he covers them for places like The New York Times, NPR, Rolling Stone, and more. He also runs Into the Spine, a site dedicated to fostering and supporting new writers, and co-hosted Turnabout Breakdown, a podcast about the Ace Attorney series. He’s most likely playing a rhythm game as you read this.\nSee more from\nDiego Argüello\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nby\nBryant Francis\nAug 13, 2026\n3 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not\nBusiness\nThe video game site backed by Walmart has laid off its editorial team\nThe video game site backed by Walmart has laid off its editorial team"
-    },
-    {
-      "id": "45b3d1c8dd",
-      "title": "Mo Co表现不佳将再次重启，但Supercell称“不太可能”关停",
-      "summary": "Supercell的怪物狩猎游戏Mo Co在重启后仍表现不佳，团队承认玩法循环易使玩家流失，但强调游戏仍在迭代，关停可能性较低。对从业者而言，该案例展示了游戏未能找到市场定位时，重启与长线调优也是可行路径，但需警惕小众化与规模化之间的张力。",
-      "url": "https://mobilegamer.biz/supercell-says-mo-co-is-underperforming-and-will-be-rebooted-again-but-killing-it-is-an-unlikely-scenario/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-13T08:26:31",
-      "games": [
-        {
-          "name": "Mo Co",
-          "desc": "Supercell开发的怪物狩猎游戏，采用邀请制上线后开放，玩法循环易腻，目前再次重启。"
-        }
-      ],
-      "translated_content": "标题：Mo Co表现不佳将再次重启，但Supercell称“不太可能”关停\n\n正文：\nMo Co表现不佳将再次重启——但Supercell称关停它“不太可能”——Mobilegamer.biz\n跳至内容\nSupercell已就其怪物狩猎游戏Mo Co在最近一次重启后表现不佳一事，提出了关停该游戏的可能性——但这家芬兰公司表示，完全关闭游戏“仍然是不太可能的情况”。\n在这款怪物狩猎游戏实际上重新发布三个月后，开发团队向玩家更新了进展：“mo.co的表现不如我们预期，”博客中写道。\n“虽然某些方面，比如新武器和玩法改动很有前景，但游戏循环对大多数玩家来说很快就会变得乏味，导致他们流失。另一方面，留下来的玩家平均游戏时长异常高。这表明mo.co对一个小众群体来说运行得相当不错，但尚未准备好规模化扩展。”\n接下来游戏还会有进一步改动，这将对下一赛季造成干扰，很可能也会影响到再下一个赛季。\n博客继续写道：“你们可能想知道这款游戏的未来。它会被关停吗？这仍然是不太可能的情况。我们有很多令人兴奋的想法，而且我们完全相信mo.co的潜力。然而，我们需要对外界公开透明地说明这种可能性。”\n“一款仍在试图在市场中找到自己定位的游戏，总是面临被停运的风险。目前，这不在我们的计划中，而且只要我们团队仍然相信这款我们满怀热情的游戏拥有巨大潜力，这种情况就会持续下去。”\nSupercell于2025年3月推出Mo Co，其设定颇为不同寻常：玩家必须获得创作者或Supercell本身的邀请才能游玩该游戏。\n几个月后的7月，Mo Co向所有人开放，但未能像Supercell旗下大多数其他游戏那样火爆。\n在Squad Busters关停后不久，这家《部落冲突》开发商坚称，虽然Mo Co作为一款Supercell游戏收入相对较低，但它不会被关闭，而是会进行大规模改革。重启版本于今年5月上线。\nAppMagic数据显示，自2025年3月发布以来，Mo Co已从900万次下载中赚取约670万美元，大部分收入来自美国（26%）、日本（12%）、德国（8%）、法国（7%）和韩国（5%）。在收入方面，Mo Co的表现明显低于在发布一年多后就被关停的Squad Busters。\n继续阅读\n搜索：\n搜索\n关注我们\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\n故事存档\n通过付费新闻通讯订阅支持本网站。\nx\n返回顶部",
-      "original_content": "Mo Co is underperforming and will be rebooted (again) – but Supercell says killing it is “unlikely” – Mobilegamer.biz\nSkip to content\nSupercell has floated the possibility of killing its monster hunting game Mo Co after a recent reboot underperformed – but closing the game entirely “remains an unlikely scenario,” says the Finnish firm.\nThree months after the monster hunting game was effectively relaunched, the development team has updated players on how it’s going: “mo.co is not performing as well as we hoped,”\nthe blog reads\n.\n“While some aspects, such as the new weapons and gameplay changes are promising, the gameplay loop quickly gets stale for most of our players, leading them to drop off. On the other hand, the average gameplay time for those who\nare\nstaying is unusually high. This shows that mo.co is working quite well for a niche, but it’s not yet ready to scale up.”\nThere will now be further changes to the game which will disrupt the next season, and likely the one after that.\nThe blog continues: “You may be wondering about the future of the game. Could it be killed? That still remains an unlikely scenario. We have lots of ideas we’re excited about, and we fully believe in mo.co’s potential. However, we need to be open and transparent about the possibility.”\n“A game still trying to find its place in the market is always at risk of being discontinued. For the moment, it’s not in our plan, and that will continue to be the case while we, as a team, believe in the incredible potential of this game we’re so passionate about.”\nSupercell launched Mo Co in March 2025\nwith an unusual premise: players had to receive an invite from a creator or from Supercell itself to play the game.\nMo Co was opened up for all to play\na few months later in July, but has failed to catch fire in the same way most of Supercell’s other games have.\nShortly after the closure of Squad Busters, the Clash of Clans maker insisted that while it is earning relatively little for a Supercell game,\nMo Co is not closing, but is getting a big overhaul\n. The\nreboot went live in May of this year\n.\nAppMagic data\nsuggests that since launch in March 2025, Mo Co has earned around $6.7m from 9m downloads, with most revenue coming from the US (26%), Japan (12%), Germany (8%), France (7%) and South Korea (5%). In terms of revenue Mo Co is tracking dramatically below\nSquad Busters, which was killed a little over a year after launch.\nRead on\nSearch for:\nSearch\nFollow us\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\nStory archive\nSupport this site with a paid newsletter subscription.\nx\nScroll to Top"
-    },
-    {
-      "id": "b6ca07637b",
-      "title": "37亿买进，7.5亿卖出：那笔轰动一时的棋牌收购，如今成了“骨折价”清仓",
-      "summary": "一笔曾以37亿港元买入的棋牌游戏业务如今仅以7.5亿港元卖出，形成“骨折价”清仓，凸显棋牌游戏收购与运营中的估值泡沫和战略失误。对从业者而言，该交易是并购后整合失败、商誉减值的典型警示案例。",
-      "url": "https://mp.weixin.qq.com/s/Fbv47RaK3WHfZZDxF2DC8Q",
-      "source": "微信-游讯先锋",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-12T08:54:48",
-      "games": [],
-      "translated_content": "",
-      "original_content": ""
-    },
-    {
-      "id": "57bf326572",
-      "title": "Netflix关闭《Oxenfree》开发商Night School Studio与Moonloot Games",
-      "summary": "Netflix宣布关闭《Oxenfree》开发商Night School Studio和Moonloot Games，并进一步削减游戏岗位，将资源聚焦于云端、儿童、派对等战略品类。对从业者而言，这反映Netflix游戏业务从收购扩张转向更精干的内部运营，外部开发者应关注其合作中平台方战略调整的风险。",
-      "url": "https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games",
-      "source": "Game Developer",
+      "id": "3d039f83b0",
+      "title": "现代消费者渴望“事件”，游戏行业需要提供事件 | 观点",
+      "summary": "文章认为游戏行业传统的定期续作模式正在失效，消费者更渴望“事件”式的新鲜体验，行业需要从连续发行转向提供独特、可分享的事件内容。",
+      "url": "https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-13T19:54:15",
+      "published_at": "2026-08-14T16:39:59",
+      "games": [],
+      "translated_content": "现代消费者渴望“事件”，游戏行业需要提供事件 | 观点\n\n如果你点击链接并购买了商品，我们可能会获得少量佣金。\n请阅读我们的编辑政策。\n.\n几乎自从游戏行业诞生以来，关于续作的传统智慧一直保持不变：趁热打铁。如果你有一款热门游戏，确保在公众失去兴趣之前推出续作。如果你连续拥有多款热门作品，那就形成了一个系列，而这些系列需要稳定的发布节奏，以确保品牌势头不会衰减。\n无论人们对无休止的续作泛滥翻多少白眼，或者多么渴望更多原创游戏，都从未动摇过这一无情的逻辑。成功的游戏获得了快速续作；真正成功的游戏催生了系列，发行商会竭尽全力以尽可能规律的节奏推出这些系列。在一些最大的系列中，发行商甚至会在不同迭代之间轮换不同的开发工作室，以确保当一款新作发售时，下一款已经在深度开发中。\n我在这里使用过去时是故意的，因为在过去十年左右的时间里，这种对待续作和系列的方式已经显著动摇。瞄准年度发布的系列已基本消失。除了少数坚持年度发布节奏的体育游戏之外，《使命召唤》基本上是最后一个仍在坚持年度化的系列。续作之间的间隔也大幅拉长。如今，一款成功游戏与其续作之间相隔五六年已是常态。而在不久之前，到那时市场上应该已经有三四款作品了（或者在很多情况下，该系列早已在收益递减的锋利刀刃上消亡）。\n《使命召唤》是除体育游戏之外少数仍在坚持年度化的系列之一 | 图片来源：动视\n这一变化的部分原因是现实层面的。游戏开发时间比以往更长，而发售后续内容（DLC）的能力意味着，全价续作需要证明自己的价值，而不仅仅是提供不显著改变核心游戏体验的新内容。你也可以合理地 argue 指出，有些游戏走向了相反的方向——它们没有放弃快速发布节奏，而是更加深入地拥抱了它，成为每年多次推出重大新内容的服务型游戏。\n然而，即使不考虑这些因素，观众对续作和系列的偏好显然也发生了显著变化。这并不是说那些呼吁减少续作、增加原创内容的呼声“赢了”。如果说有什么变化，那反而是更加根深蒂固的——观众评估媒体内容并决定如何分配金钱和注意力的根本方式已经发生了转变，这种转变对规律性系列发布并不友好。\n这种消费者行为的转变远远超出了游戏领域——事实上，在其他媒体中，主要是电影中，更容易看到它的直接影响。今年暑期档的主要大片就是一个很好的例子。观影本身显然仍能与观众产生共鸣；在过去几个月里，我们看到大型旗舰大片冲向十亿美元大关（《奥德赛》和《蜘蛛侠：崭新之日》），独立恐怖电影凭借惊人的口碑获得了超出预算数个数量级的票房（《痴迷》和《后室》），以及多年前电影的续作表现强劲（距离上一部《玩具总动员》已有七年，距离原版《穿普拉达的女王》已有二十年）。\n另一方面，显然这里并没有一套精准的公式在起作用，因为今年夏天也有很多大片未能吸引观众走进多厅影院。有些在商业上还算可以——《小黄人与怪兽》只是相对于票房预期和该系列此前的作品令人失望——但其他一些，如《曼达洛人与古古》、《海洋奇缘》和《女超人》，几乎可以肯定亏了钱，并让整个系列和电影宇宙都受到了质疑。\n你当然可以逐一分析这些电影，找出它们表现好或不好的原因，但我认为所有这些案例都有一条共同的主线。成功的电影给人的感觉像是“事件”——当然，一旦它们真正起飞，这本身就是一种自我实现的预言，但至少对于大型旗舰大片来说，它们的发行确实带有一种重大事件的真实感觉。\n《刺客信条》早已从年度系列的行列中退出 | 图片来源：育碧\n这些电影中没有一部是近期电影的续作——最接近的是《蜘蛛侠：崭新之日》，但它距离上一部蜘蛛侠电影已经整整五年了，对于这个现存最具票房号召力的超级英雄IP来说，这是一个相当长的间隔。《奥德赛》的事件地位建立在其导演和明星的个人形象以及其规",
+      "original_content": "Modern consumers crave \"events\", and the games industry needs to provide them | Opinion | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nFor almost as long as the games industry has existed, the conventional wisdom around sequels has remained the same: strike while the iron is hot. If you have a hit game, ensure you get a sequel out the door before the public loses interest. If you have more than one hit in a row, that's a franchise, and those need a steady release cadence to ensure the brand's momentum doesn't falter.\nNo amount of eyerolling about endless sequel-itis or pining for more original games has ever made a dent in that relentless logic. Successful games got rapid sequels; really successful games spawned franchises that publishers would go to great lengths to turn out on as regular a schedule as possible. On some of the biggest franchises, publishers would even swap different development studios in and out across different iterations to ensure that when a new game launched, the next instalment was already deep in development.\nMy use of the past tense here is deliberate, because over the past decade or so, that approach to sequels and franchises has wavered significantly. Franchises aiming for yearly releases have largely disappeared. Outside of a few remaining sports games that have stuck to the annual release cadence, Call of Duty is essentially the last annual franchise standing. Time between sequels has grown significantly, too. It's now common to see five or six years elapse between a successful game and its follow-up. Not so long ago, there would have been three or four instalments on the market by that stage (or, in many cases, the franchise would already have died on the sharp blade of diminishing returns).\nCall of Duty is one of the few remaining annualised franchises, aside from sports games  |\nImage credit:\nActivision\nSome of the reasons for this change are practical. Games take longer to develop than before, and the ability to create post-launch DLC means that full-price sequels need to justify themselves beyond just being new content that doesn't significantly change the core game experience. You could also reasonably argue that some games have gone in the opposite direction – rather than backing away from the rapid release cadence, they have leaned into it, becoming live service titles that launch significant new content multiple times a year.\nEven without those factors, however, it's also apparent that audiences' preferences around sequels and franchises have changed significantly. It's not that the voices calling for fewer sequels and more original content have \"won\". The change is, if anything, more deep-rooted – the fundamental way in which audiences evaluate media and decide where to allocate their money and attention has shifted in a way that's inimical to regular franchise releases.\nThis shift in consumer behaviour goes well beyond games – in fact, it's arguably easier to see its direct impacts in other media, chiefly movies. This year's major summer releases are a case in point. Cinemagoing itself is clearly still resonating with audiences; in the past few months we've seen massive tentpole releases hurtle towards the billion dollar mark (The Odyssey and Spider-Man: Brand New Day), indie horror movies earn orders of magnitude more than their budgets off the back of incredible word of mouth (Obsession and Backrooms), and strong showings for sequels to movies from years back (it was seven years since the last Toy Story instalment, and 20 years since the original The Devil Wears Prada).\nOn the other hand, it's clear that there's not exactly a well-honed formula at work here, because the summer has also seen a lot of major movies failing to get audiences out to multiplexes. Some did fine commercially – Minions & Monsters is only disappointing compared to box office projections and prior releases in the series – but others, like The Mandalorian and Grogu, Moana and Supergirl, have almost certainly lost money, and have cast doubt on entire franchises and cinematic universes.\nYou can certainly go through each one of those individually and come up with reasons why it did or didn't do well, but there's a through line on all of these, I think. The successful movies felt like\nevents\n– a self-fulfilling prophecy once they really start taking off, of course, but for the big tentpole releases at least, there was a genuine sense of their release being a major event.\nAssassin's Creed has long since stepped back from being an annual franchise  |\nImage credit:\nUbisoft\nNone of them is a sequel to an especially recent movie – the closest is Spider-Man: Brand New Day, but it's appearing a solid five years after the last Spider-Man film, which is a pretty long break for the most bankable superhero property in existence. The Odyssey built its event status around the profile of its director and stars, and the scale of its technical ambition. Backrooms and Obsession, meanwhile, whipped up incredible word of mouth and somewhat organically became major event movies in their second and third weeks on release.\nBy contrast, the poorly performing films lacked all sense of being an event. Moana is a remake of an animated movie from only ten years ago, and Disney has been pumping out these live-action remakes at a rate of at least one a year for the past decade (last year there were two, one of which was the pretty terrible Snow White). The last movie to star the Minions (Despicable Me 4) was only two years ago. Supergirl is coming a year after a Superman movie. And The Mandalorian and Grogu is from a franchise deep in the throes of audience fatigue, as well as being a sequel to several seasons of Disney+ TV shows (it's hard to be an event movie when you're setting homework assignments for your audience).\nGame consumers are motivated to engage with something that can genuinely grab attention in a cultural landscap"
+    },
+    {
+      "id": "43aaa1a177",
+      "title": "Niko Partners：印度游戏市场突破 10 亿美元，预计 2026 年底达 12 亿美元",
+      "summary": "Niko Partners报告显示印度游戏市场2025年收入首破10亿美元，玩家达5.11亿，预计2026年底达12亿、2030年达17.7亿美元。移动端收入是主要驱动，非大逃杀手游和UGC平台正获得更多关注。",
+      "url": "https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T13:47:08",
+      "games": [],
+      "translated_content": "印度游戏市场突破10亿美元，预计2026年底达12亿美元 | GamesIndustry.biz\n如果你点击链接并购买商品，我们可能会获得小额佣金。\n请阅读我们的编辑政策。\n\n2025年，印度游戏市场收入首次突破10亿美元，同比增长14.8%，达到10.4亿美元。\n根据Niko Partners的数据，预计到2026年收入将达到近12亿美元，到2030年最高可达17.7亿美元——五年复合年增长率为11.2%。\n\n去年玩家总数达到5.11亿。这一数字预计将在2026年超过5.5亿，到2030年达到7亿以上。女性玩家目前占比接近所有玩家的一半，高于2023年的43%。\n\n收入与参与度增长的主要驱动因素是移动游戏支出的增加，这得益于数字化的普及以及“某些消费群体”可支配收入的上升。根据该数据公司的数据，这一细分市场的变现“仍处于早期阶段”，2025年每用户平均收入（ARPU）达到2.04美元，预计到2030年将上升至2.52美元。\n\nNiko Partners还观察到，印度游戏市场正变得更加多元化，玩家开始在PC和主机等平台上探索更广泛的游戏类型。尽管这些受众规模较小，但他们推动了参与度，为发行商提供了在吃鸡和休闲游戏等主流类型之外实现增长的机会。\n\n这一趋势包括用户生成内容的增加，Roblox和Minecraft等平台在印度年轻玩家中越来越受欢迎。此外，非吃鸡类移动游戏占据了更大的市场份额，从2023年6月的53.2%上升至2026年6月的62.8%。\n\nNiko Partners预测，这些领域，加上政府支持的加强、电竞参与度的提升以及发行商机会的扩大，将“塑造印度游戏市场未来五年的发展格局”。\n\n该公司还报告称，印度受众对生成式AI的态度发生了转变。其调查结果显示，玩家“对开发者和玩家如何使用AI变得越来越谨慎。”Niko Partners认为，经济方面的担忧，尤其是AI对就业的影响，是一个关键因素。\n\n本文提及\ndata\nIndia\nNiko Partners",
+      "original_content": "Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026 | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nIndia's games market exceeded $1 billion in revenue for the first time in 2025, up 14.8% year over year to $1.04 billion.\nAccording to\nNiko Partners\n, revenue is forecast to reach almost $1.2 billion and up to $1.77 billion by 2030 – a five-year CAGR 11.2%.\nThe total number of players reached 511 million last year. This figure is projected to exceed 550 million in 2026 and reach over 700 million by 2030. Female gamers now represent nearly half of all players, up from 43% in 2023.\nThe main driver of increased revenue and engagement was higher spending on mobile games, supported by greater digital adoption and rising disposable incomes \"among certain consumer segments.\"\nMonetisation for this segment \"remains at an early stage,\" according to the data firm, with average revenue per user (ARPU) reaching $2.04 in 2025 and forecast to rise to $2.52 by 2030.\nNiko Partners also observed that India's gaming market is becoming more diverse, with audiences exploring a broader range of genres across platforms such as PC and console.\nAlthough smaller, these audiences drive engagement, providing publishers with the opportunity to grow beyond mainstream genres like battle royale and casual titles.\nThis trend includes increased user-generated content, with platforms such as Roblox and Minecraft gaining popularity among younger Indian audiences.\nAdditionally, non-battle royale mobile games captured a larger share of market revenue, rising from 53.2% in June 2023 to 62.8% in June 2026.\nNiko Partners predicts that these areas, along with increased government support, rising esports participation, and expanded opportunities for publishers, will \"shape India's games market over the next five years.\"\nThe firm also reported a shift in Indian audiences' sentiment toward generative AI. Its findings indicate that players \"are becoming more cautious about how AI is being used by both developers and players.\"\nNiko Partners identifies economic concerns, especially regarding AI's impact on employment, as a key factor.\nMentioned in this article\ndata\nIndia\nNiko Partners"
+    },
+    {
+      "id": "499f4322d7",
+      "title": "海外新游｜《CrownRise》——奇幻王权 SLG：滑动手势指挥军团，城堡重建养成，巨龙觉醒战争策略新品",
+      "summary": "文章正文不可见，无法总结具体分析。标题介绍海外新游《CrownRise》是一款奇幻王权题材SLG，融合滑动手势指挥、城堡重建养成和巨龙觉醒等要素。",
+      "url": "https://mp.weixin.qq.com/s/KTxQLvQT-_ZTAuBqr6_N9A",
+      "source": "微信-阿杜聊游戏",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T07:59:49",
+      "games": [
+        {
+          "name": "CrownRise",
+          "desc": "奇幻王权题材SLG，以滑动手势指挥军团、城堡重建与巨龙养成为特色。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "a90eee10a6",
+      "title": "EP57.EA 私有化砍成本裁员｜影之刃零获索尼专属发布会",
+      "summary": "播客节目摘要不可见，仅从标题得知内容涉及EA私有化砍成本裁员，以及《影之刃零》获得索尼专属发布会。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a7e8e0436641f136d880556",
+      "source": "播客-游你友我",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T03:43:50",
+      "games": [
+        {
+          "name": "影之刃零",
+          "desc": "获索尼专属发布会的国产动作游戏。"
+        }
+      ],
+      "translated_content": "EP57.EA 私有化砍成本裁员｜影之刃零获索尼专属发布会 - 游你友我 | 小宇宙 - 听播客，上小宇宙\n在小宇宙打开\n00:00\n00:00",
+      "original_content": "EP57.EA 私有化砍成本裁员｜影之刃零获索尼专属发布会 - 游你友我 | 小宇宙 - 听播客，上小宇宙\n在小宇宙打开\n00:00\n00:00"
+    },
+    {
+      "id": "73d3c8353c",
+      "title": "游戏周报260814期 | 甄子丹加盟影之刃！十年磨一剑的《无人深空》，Saber预告片里竟藏了前东家的丑闻？",
+      "summary": "播客周报汇总了当周游戏新闻，包括甄子丹加盟《影之刃零》、《无人深空》十周年制作人确认玩家仅探索不到1%星球，以及Xbox、PS、Nintendo、Steam等平台动态。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a7e05c636641f136d87e01d",
+      "source": "播客-游戏酒馆",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T00:00:00",
+      "games": [
+        {
+          "name": "影之刃零",
+          "desc": "国产动作游戏，甄子丹新加盟并发布了11分钟实机预告。"
+        },
+        {
+          "name": "无人深空",
+          "desc": "太空探索生存游戏，十年来玩家仅探索了不到1%的星球。"
+        },
+        {
+          "name": "战争机器：E-Day",
+          "desc": "Xbox平台第三人称射击游戏，推出限量版无线手柄。"
+        },
+        {
+          "name": "羊蹄山之魂",
+          "desc": "《对马岛之魂》续作，宣布将推出新剧情DLC、Roguelike模式及完整版。"
+        },
+        {
+          "name": "塞尔达传说",
+          "desc": "任天堂经典动作冒险系列，40周年限定版Switch 2主机和Pro手柄包装图泄露。"
+        },
+        {
+          "name": "星空",
+          "desc": "Bethesda开发的开放世界科幻RPG，被讨论1000颗星球的设计问题。"
+        }
+      ],
+      "translated_content": "游戏周报260814期 | 甄子丹加盟影之刃！十年磨一剑的《无人深空》，Saber预告片里竟藏了前东家的丑闻？ - 游戏酒馆 | 小宇宙 - 听播客，上小宇宙\n录制时间：2026年8月13日\n节目录制：老白、煤老板\n片头片尾曲：Satellite Lovers - Best Friend\n节点：\n00:00\nXBOX新闻\n15:48\nPS新闻\n24:33\nNintendo新闻\n26:53\nSteam新闻\n28:30\n其他新闻\n01:10:13\n硬件新闻\nXbox CEO 视察 Bethesda 并随后在社交平台发文大赞其画面与表现“不可思议\n微软推《战争机器：E-Day》限量版 Xbox 无线手柄，Xbox Design Lab 同步推出定制选项\n暴雪（Blizzard）成为 Xbox 旗下业绩最佳工作室，最新财年营收创历史第三高\n《羊蹄山之魂》（Ghost of Yōtei）宣布将于 10 月推出新剧情 DLC、Roguelike 模式及完整版\n《塞尔达传说》40 周年限定版 Switch 2 主机与 Pro 手柄包装图遭泄露\n《影之刃零》发布 11 分钟实机新预告，甄子丹加盟\n《无人深空》（No Man's Sky）迎来十周年，制作人确认：玩家十年仅探索了不到 1% 的星球\n展开Show Notes\nmoomin肥\n20小时前\n0\n确实，星空就做5～8个地方的话\nmoomin肥\n:\n无人深空最近几年做的大更新我都想掏钱，以前说过的慢慢都做进游戏了，所以买了三个版本的。\nHD394065q\n1 天前\n0\n11:12\n我记得之前有一个采访问陶德关于1000颗星球，陶德的回答大致是“因为宇宙本来就很空旷，所以你懂的。”\n星空只要把主城的星球做的栩栩如生就行了，其他995颗星球怎么样都无所谓。\n一团黑煤球\n:\n嘿嘿，其实我自己的感觉是，能接受空旷，但是他们又做了一堆复制粘贴的POI在各个星球上，运气不好频繁遇到几次就感觉很出戏\n在小宇宙打开\n00:00\n00:00",
+      "original_content": "游戏周报260814期 | 甄子丹加盟影之刃！十年磨一剑的《无人深空》，Saber预告片里竟藏了前东家的丑闻？ - 游戏酒馆 | 小宇宙 - 听播客，上小宇宙\n录制时间：2026年8月13日\n节目录制：老白、煤老板\n片头片尾曲：Satellite Lovers - Best Friend\n节点：\n00:00\nXBOX新闻\n15:48\nPS新闻\n24:33\nNintendo新闻\n26:53\nSteam新闻\n28:30\n其他新闻\n01:10:13\n硬件新闻\nXbox CEO 视察 Bethesda 并随后在社交平台发文大赞其画面与表现“不可思议\n微软推《战争机器：E-Day》限量版 Xbox 无线手柄，Xbox Design Lab 同步推出定制选项\n暴雪（Blizzard）成为 Xbox 旗下业绩最佳工作室，最新财年营收创历史第三高\n《羊蹄山之魂》（Ghost of Yōtei）宣布将于 10 月推出新剧情 DLC、Roguelike 模式及完整版\n《塞尔达传说》40 周年限定版 Switch 2 主机与 Pro 手柄包装图遭泄露\n《影之刃零》发布 11 分钟实机新预告，甄子丹加盟\n《无人深空》（No Man's Sky）迎来十周年，制作人确认：玩家十年仅探索了不到 1% 的星球\n展开Show Notes\nmoomin肥\n20小时前\n0\n确实，星空就做5～8个地方的话\nmoomin肥\n:\n无人深空最近几年做的大更新我都想掏钱，以前说过的慢慢都做进游戏了，所以买了三个版本的。\nHD394065q\n1 天前\n0\n11:12\n我记得之前有一个采访问陶德关于1000颗星球，陶德的回答大致是“因为宇宙本来就很空旷，所以你懂的。”\n星空只要把主城的星球做的栩栩如生就行了，其他995颗星球怎么样都无所谓。\n一团黑煤球\n:\n嘿嘿，其实我自己的感觉是，能接受空旷，但是他们又做了一堆复制粘贴的POI在各个星球上，运气不好频繁遇到几次就感觉很出戏\n在小宇宙打开\n00:00\n00:00"
+    },
+    {
+      "id": "8b55bafe71",
+      "title": "吉比特 H1 净利 11 亿，《杖剑传说》流水超 14 亿，《道友来挖宝》5 亿",
+      "summary": "文章正文不可见，无法总结具体内容。标题显示吉比特上半年净利润11亿元，旗下《杖剑传说》流水超14亿，《道友来挖宝》流水5亿。",
+      "url": "https://mp.weixin.qq.com/s/-VKhnrEdCyc9papU7rst5A",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T22:20:10",
+      "games": [
+        {
+          "name": "杖剑传说",
+          "desc": "吉比特旗下游戏，流水超14亿元。"
+        },
+        {
+          "name": "道友来挖宝",
+          "desc": "吉比特旗下游戏，流水达5亿元。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "d74c383e0d",
+      "title": "【八月】上旬 SLG 战绩：六幻神狂飙 3.7 亿！三谋流水暴涨七成",
+      "summary": "文章正文不可见，无法总结具体内容。标题显示八月上旬SLG市场战绩突出，六款头部产品合计收入达3.7亿元，其中《三国：谋定天下》流水暴涨七成。",
+      "url": "https://mp.weixin.qq.com/s/r38awsvR7LXRMlgAA89QDg",
+      "source": "微信-百游录",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T22:14:55",
+      "games": [
+        {
+          "name": "三国：谋定天下",
+          "desc": "SLG手游，八月上旬流水暴涨70%。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "264cd0f0f7",
+      "title": "一口气测五款 SLG 游戏！腾讯这一次，准备梭哈了吗？",
+      "summary": "文章正文不可见，无法概括具体内容。标题表明作者一口气测试了五款SLG游戏，并猜测腾讯可能准备在SLG赛道全面布局。",
+      "url": "https://mp.weixin.qq.com/s/x0FOm1izYgVzVg2Wt7mEZQ",
+      "source": "微信-百游录",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T22:14:55",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "b19a2c5889",
+      "title": "Netflix 将关闭洛杉矶工作室 Night School 与赫尔辛基的 Moonloot，并缩减内部游戏团队",
+      "summary": "Netflix宣布关闭洛杉矶的Night School工作室和赫尔辛基的Moonloot工作室，并进一步缩减内部游戏团队。此举是Netflix游戏战略收缩的一部分，此前已有多个工作室被关闭或独立。",
+      "url": "https://mobilegamer.biz/netflix-to-close-la-studio-night-school-helsinkis-moonloot-and-cut-internal-game-teams/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T19:36:41",
       "games": [
         {
           "name": "Oxenfree",
-          "desc": "超自然叙事冒险游戏，2016年获得奖项，由Night School Studio开发。"
+          "desc": "Night School开发的叙事冒险游戏，该工作室现被Netflix关闭。"
         },
         {
-          "name": "Unhinged",
-          "desc": "Night School Studio的恐怖游戏，玩家使用手机作为控制器。"
+          "name": "Oxenfree 2",
+          "desc": "叙事冒险游戏《Oxenfree》的续作，同样由Night School开发。"
         },
         {
-          "name": "Oxenfree 2: Lost Signals",
-          "desc": "Oxenfree的续作，由Netflix发行。"
-        },
-        {
-          "name": "Marvel Rivals",
-          "desc": "漫威主题英雄射击游戏，此处因演员Troy Baker参与配音而提及。"
-        },
-        {
-          "name": "Netflix Minigolf",
-          "desc": "Netflix推出的迷你高尔夫派对游戏。"
-        },
-        {
-          "name": "FIFA World Cup: Launch Edition",
-          "desc": "足球体育游戏，由Refactor Games开发。"
+          "name": "Squid Game: Unleashed",
+          "desc": "改编自《鱿鱼游戏》的免费派对平台游戏，由已关闭的Boss Fight Studios开发。"
         }
       ],
-      "translated_content": "标题：Netflix关闭《Oxenfree》开发商Night School Studio与Moonloot Games\n\n正文：\nNetflix关闭《Oxenfree》开发商Night School Studio及Moonloot Games\n商业\n新闻\nNetflix关闭《Oxenfree》开发商Night School Studio与Moonloot Games\n“我们相信我们能够在游戏业务中更具战略性和高效性地运营，因此正在裁减一些额外的游戏岗位。”\nNicole Carpenter\n专栏作家，《Game Developer》\n2026年8月13日\n阅读时长3分钟\n图片来源：Netflix/Night School Studio\nNetflix于周四确认，正在关闭《Oxenfree》开发商Night School Studio以及位于赫尔辛基的Moonloot。Netflix的一位代表告诉Game Developer，公司还将在游戏团队中“裁减一些额外的游戏岗位”。Netflix拒绝透露具体裁员人数。\nGame File\n率先报道了这两家工作室关闭的消息。\nNight School Studio在6月底发布了恐怖游戏\nUnhinged\n，距离周四的关闭仅数周时间。\nUnhinged\n可在浏览器或电视上游玩，玩家使用个人智能手机作为控制器。Zoë Kravitz（《蝙蝠侠》）、Sadie Sink（《蜘蛛侠：全新一天》）和Troy Baker（\nMarvel Rivals\n）均为该游戏的角色配音。Moonloot尚未公布任何项目，但\n据报道正在开发一款类似《动物森友会》的游戏\n。Night School Studio于2016年发布了其获奖作品\nOxenfree\n，随后Netflix发行了其续作\nOxenfree 2: Lost Signals\n。\nNetflix于2021年收购了Night School Studio\n，就在Netflix正式启动其游戏业务后不久。这是该流媒体平台收购的第一家工作室。Moonloot于2022年在Netflix内部组建。\n相关阅读：\nXsolla推出发行工具，旨在让玩家在首次购买后保持“参与度”\n“游戏仍然是我们在Netflix会员所享受的娱乐内容上扩展多样性的机会，我们已经在关键重点领域建立了坚实的基础，”Netflix代表表示。“随着我们继续优先推进这些领域，我们看到了在执行上更加聚焦的机会，因此我们正在对业务进行组织调整，以匹配这些优先事项。”\nNetflix发言人表示，公司对云游戏和儿童游戏“所展现的势头”“感到兴奋”。新闻稿中列出了几个“关键重点领域”，如儿童游戏、派对游戏、叙事类游戏和主流游戏。（\nUnhinged\n出自现已关闭的Night School Studio之手，被列为叙事类游戏的示例。）Netflix近期发布了派对和体育游戏\nNetflix Minigolf\n和\nFIFA World Cup: Launch Edition\n。\nFIFA World Cup: Launch Edition\n的开发商Refactor Games（一家外部工作室）在游戏发布仅数周后\n裁掉了85%的员工\n。\nNetflix一直在将其游戏战略转向这类休闲或派对游戏，供人们通过电视共同游玩，而非仅在智能手机上游玩。（\n2021年上线之初\n，Netflix似乎对移动游戏更感兴趣。）过去几年里，Netflix关闭了其收购的大部分工作室：\nTeam Blue\n据报道正在开发一款第一人称游戏，于2024年被关闭；开发了《鱿鱼游戏： Unleashed》的Boss Fight Entertainment\n于2025年10月被关闭\n；《Cozy Grove》开发商Spry Fox\n于12月与Netflix分道扬镳\n。联合创始人Daniel Cook和David Edery从Netflix手中购回了公司。\nNetflix Mini Golf\n的开发商Next Games是仅存的唯一一家工作室，此外还有Netflix的内部游戏团队。\n相关阅读：\nSaber Interactive在公众争议后将为网约车“模拟器”添加AI披露声明\nNetflix最新宣布的是与Take-Two Interactive和Rockstar Games的合作；《侠盗猎车手6》的\n“扩展实机”预告片\n将在Netflix上首发。该预告片在Netflix上独家播出六小时。\nRockstar Games的《侠盗猎车手：三部曲》\n（将三款侠盗猎车手游戏打包合集）\n于2023年通过Netflix登陆移动端\n。\n仅在8月的短短几周内，电子游戏行业至少五家工作室进行了裁员。其中包括CD Projekt Red、That's No Moon、Supermassive Games、Lightspeed和Refactor Games。\n了解更多：\n裁员与工作室关闭\nNetflix\n头条新闻\n关于作者\nNicole Carpenter\n专栏作家，《Game Developer》\nNicole Carpenter是一位资深记者，报道电子游戏行业已超过十年。\n查看更多来自\nNicole Carpenter的内容\n每日新闻、开发者博客以及来自Game Developer的故事，直接发送到您的收件箱\n保持关注\n最新新闻\n更多新闻\n商业\nXsolla推出发行工具，旨在让玩家在首次购买后保持“参与度”\nXsolla推出发行工具，旨在让玩家在首次购买后保持“参与度”\n作者：\nDiego Argüello\n2026年8月13日\n阅读时长2分钟\n在Game Developer上持续关注来自GDC Festival of Gaming的最新新闻、采访和演讲报道\n继续阅读\n最新播客\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin和Guido Di Carlo\n2026年8月7日\n音频\nGDC Side Quest - 与不屈的Sam Beart的对话\n2026年7月31日\n商业\nJackbox Games如何在后pa",
-      "original_content": "Netflix closing Night School Studio and Moonloot Games\nBusiness\nNews\nNetflix closing Oxenfree developer Night School Studio and Moonloot Games\n'We believe we can operate more strategically and efficiently within our Games business, and as a result are eliminating some additional Games roles'\nNicole Carpenter\n,\nColumnist\n,\nGame Developer\nAugust 13, 2026\n3 Min Read\nVia Netflix/Night School Studio\nNetflix is closing Oxenfree developer Night School Studio and Helsinki-based Moonloot, the company confirmed Thursday.\nA Netflix representative told Game Developer that the company is also \"eliminating some additional games roles\" across the games team. Netflix declined to share details on how many people were laid off.\nGame File\nfirst reported the news of the two studios' closures.\nNight School Studio released horror game\nUnhinged\nin late June, just weeks before Thursday's closure.\nUnhinged\nis played on a browser or television, and the player uses their personal smartphone as a controller. Zoë Kravitz (The Batman), Sadie Sink (Spider-Man: Brand New Day), and Troy Baker (\nMarvel Rivals\n) all voiced characters for the game. Moonloot did not have any announced projects, but was\nreportedly working on some sort of Animal Crossing-like game\n. Night School Studio released its award-winning\nOxenfree\nin 2016 before Netflix published its sequel,\nOxenfree 2: Lost Signals\n.\nNetflix acquired Night School Studio in 2021\n, shortly after Netflix officially launched its games business. It was the first studio to be acquired by the streaming platform. Moonloot was spun up internally at Netflix in 2022.\nRelated:\nXsolla rolls out publishing tools to keep players 'engaged' after the first purchase\n\"Games continue to be an opportunity for us to expand the variety of entertainment we offer Netflix members, and we've built solid foundations in our key focus areas,\" the Netflix representative said. \"As we continue to prioritize these areas, we see an opportunity to be more focused in our execution, so we are making organizational changes to the business to match those priorities.\"\nNetflix is \"excited,\" the spokesperson said, \"about the momentum\" of cloud and kids games. The news release listed several \"key focus areas,\" like kids games, party games, narrative games, and mainstream games. (\nUnhinged\n, from now-closed Night School Studio, is listed as a narrative example.) Netflix recently released party and sports games\nNetflix Minigolf\nand\nFIFA World Cup: Launch Edition\n.\nFIFA World Cup: Launch Edition\ndeveloper Refactor Games (which is an external studio)\nlaid off 85% of its employees\njust weeks after the game was released.\nNetflix has been shifting its games strategy to these sorts of casual or party games for people to play together on a television, rather than exclusively on their smartphones. (\nAt launch in 2021\n, Netflix seemed more interested in mobile games.) Netflix has spent the last few years shutting down most of the studios it acquired:\nTeam Blue\n, reportedly working on a first-person game, was shut down in 2024; Boss Fight Entertainment, which made\nSquid Game: Unleashed\n,\nwas shuttered in October 2025\n; Cozy Grove developer Spry Fox\nsplit from Netflix in December\n. Co-founders Daniel Cook and David Edery bought back the company from Netflix.\nNetflix Mini Golf\nmaker Next Games is the only studio left, aside from Netflix's internal games team.\nRelated:\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nIts latest announcement is a partnership with Take-Two Interactive and Rockstar Games; an\n\"extended look\" trailer for\nGrand Theft Auto 6\nwill debut on Netflix. It's exclusive to Netflix for six hours.\nRockstar Games' Grand Theft Auto: The Trilogy\n(packaging up three Grand Theft Auto games)\ncame to mobile via Netflix in 2023\n.\nAt least five studios across the video game industry laid off workers in just a couple weeks of August. That includes CD Projekt Red, That's No Moon, Supermassive Games, Lightspeed, and Refactor Games.\nRead more about:\nLayoffs & Studio Closures\nNetflix\nTop Stories\nAbout the Author\nNicole Carpenter\nColumnist, Game Developer\nNicole Carpenter is a veteran reporter who has been covering the video game industry for over a decade.\nSee more from\nNicole Carpenter\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nXsolla rolls out publishing tools to keep players 'engaged' after the first purchase\nXsolla rolls out publishing tools to keep players 'engaged' after the first purchase\nby\nDiego Argüello\nAug 13, 2026\n2 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not\nBusiness\nThe video game site backed by Walmart has laid off its editorial team\nThe video game site backed by Walmart has laid off its editorial team"
+      "translated_content": "根据Game File的独家报道，Netflix将关闭两家游戏工作室，并进一步裁减其内部游戏团队的人员。\n\n这两家工作室分别是位于洛杉矶、开发了《Oxenfree》的Night School，以及赫尔辛基的Moonloot工作室。\n\n据我们了解，Moonloot由前Digital Chocolate、EA和Zynga高管Marko Lastikka领导。\n\n2023年的招聘广告显示，该工作室正在开发一款类似《Animal Crossing》的游戏。\n\nNight School刚刚发布了一款名为《Unhinged》的互动电视类游戏，此前曾与《黑镜》系列创作者Charlie Brooker合作开发一款《Black Mirror》游戏，并推出了《Oxenfree 2》。\n\nGame File还报道称，Netflix内部游戏部门的其他地方也将裁减数量不详的员工。\n\n这家流媒体巨头的发言人对Game File表示：“我们认为在执行上可以更加专注，因此正在对业务进行组织调整，以匹配这些优先事项。”\n\n此前，Netflix独家FIFA世界杯联动游戏的开发工作室已经进行了大规模裁员。\n\n有报道称，该游戏开发商Refactor有多达85%的员工失业。\n\nNetflix还收购并随后关闭了Boss Fight Studios，该工作室最近的项目是免费游玩的、类似《Fall Guys》的派对平台游戏《Squid Game: Unleashed》。\n\nNetflix还在2022年收购了独立解谜工作室Spry Fox，结果该工作室在2025年12月再次独立。\n\n而最引人注目的或许是，它曾成立了一家聚集大牌人才的三A游戏开发工作室，然后又将其关闭。\n\nNetflix在战略和高管层面也经历了不小的变动；2024年，前Epic Games高管Alain Tascan接替了前Netflix游戏业务负责人Mike Verdu，后者于2021年被聘用，负责启动Netflix的游戏业务。\n\n在2025年GDC上，Netflix新任游戏业务负责人Tascan表示，在他的前任Verdu构建起一个满足各种口味的手机游戏目录后，该流媒体平台未来将更加专注于派对游戏、儿童游戏和知名IP。",
+      "original_content": "Netflix to close LA studio Night School, Helsinki’s Moonloot and cut internal game teams – Mobilegamer.biz\nSkip to content\nNetflix is to close two game studios and make further staff cuts to its internal game teams, according to\na Game File scoop\n.\nThe studios in question are LA-based Oxenfree maker Night School and Helsinki studio Moonloot.\nWe understand Moonloot was\nled by former Digital Chocolate, EA and Zynga exec Marko Lastikka.\nJob ads from 2023 suggested it was developing an Animal Crossing-like game.\nNight School had just shipped an interactive TV-type game called Unhinged, and had previously worked on\na Black Mirror game with series creator Charlie Brooker,\nas well as having launched Oxenfree 2.\nGame File also reported that an unknown number of staff will be cut from elsewhere in Netflix’s internal games division.\nA spokesperson for the streaming giant told Game File: “We see an opportunity to be more focused in our execution, so we are making organizational changes to the business to match those priorities.”\nThe cuts follow mass layoffs at the development studio behind the Netflix-exclusive FIFA World Cup tie-in game.\nSome reports\nsuggested that up to 85% of staff have lost their jobs at the game’s developer Refactor.\nNetflix has also\nacquired\nthen\nclosed\nBoss Fight Studios, whose most recent project was free to play Fall Guys-like party platformer\nSquid Game: Unleashed\n.\nIt also\nbought indie puzzle studio Spry Fox\nback in 2022, only for the studio to\ngo independent again\nback in December 2025.\nAnd perhaps most notoriously it\nset up\n, then\nclosed\na triple-A game development studio packed with big-name talent.\nNetflix has also seen its fair share of strategy and exec changes; in 2024 former\nEpic Games exec Alain Tascan\nreplaced\nformer Netflix games boss Mike Verdu\n, who was hired to\nkickstart Netflix’s gaming efforts\nback in 2021.\nAt GDC 2025, new Netflix games boss Tascan said\nthat after his predecessor Verdu built out a catalogue of mobile games that catered to all tastes, the streamer would be more focused on party games, kids titles and big-name IP in future.\nRead on\nSearch for:\nSearch\nFollow us\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\nStory archive\nSupport this site with a paid newsletter subscription.\nx\nScroll to Top"
     },
     {
-      "id": "009a13a29f",
-      "title": "美泰推出新的全球工作室业务，基于自有IP开发游戏",
-      "summary": "美泰成立Mattel Game Studios，整合近300人团队，基于自有IP开发自有游戏，包括UNO、Hot Wheels等，此前Mattel163移动游戏累计下载超5.5亿。对从业者而言，玩具巨头正效仿孩之宝，将自有IP游戏作为重要增长引擎，IP持有方和开发者可关注此类合作机会。",
-      "url": "https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip",
-      "source": "GamesIndustry.biz",
+      "id": "99c7f595a5",
+      "title": "上市公司4.3亿收购游戏公司，立下净利润5000万对赌协议",
+      "summary": "文章正文不可见，无法总结具体内容。标题报道一家上市公司以4.3亿元收购游戏公司，并附带净利润5000万元的对赌协议。",
+      "url": "https://mp.weixin.qq.com/s/4EK0Zb5mEe2EqYLnkRA38Q",
+      "source": "微信-游戏新知",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-13T16:55:14",
-      "games": [
-        {
-          "name": "UNO!",
-          "desc": "经典卡牌游戏UNO的移动版。"
-        },
-        {
-          "name": "UNO Wonder",
-          "desc": "UNO系列的移动游戏作品。"
-        },
-        {
-          "name": "Phase 10",
-          "desc": "基于Phase 10卡牌游戏的移动版。"
-        },
-        {
-          "name": "Skip-Bo",
-          "desc": "基于Skip-Bo卡牌游戏的移动版。"
-        },
-        {
-          "name": "Skeletor: Until Next Time!",
-          "desc": "基于《宇宙的巨人希曼》IP的跑酷游戏。"
-        },
-        {
-          "name": "UNO Wild",
-          "desc": "UNO系列新作，目前处于软启动阶段。"
-        },
-        {
-          "name": "Monopoly Go",
-          "desc": "孩之宝旗下大富翁IP的移动游戏，收入巨大。"
-        },
-        {
-          "name": "Baldur's Gate 3",
-          "desc": "拉瑞安开发的RPG，商业上取得巨大成功。"
-        },
-        {
-          "name": "Fortnite",
-          "desc": "Epic Games的多人对战游戏，在此作为游戏平台提及。"
-        }
-      ],
-      "translated_content": "美泰推出新的全球工作室业务，基于自有IP开发游戏 | GamesIndustry.biz\n如果您点击链接并购买商品，我们可能会获得少量佣金。\n阅读我们的编辑政策\n.\n美泰宣布成立Mattel Game Studios，这是一个全球开发组织，将基于公司IP开发游戏。此前，该公司于2月收购了Mattel163的全部股权，该合资企业此前由合作伙伴网易持有50%股份。\n美泰在新闻稿中表示，Mattel Game Studios拥有“近300名艺术家、设计师、工程师、运营专家和制作人，分布在洛杉矶和杭州”。它将负责公司现有的移动游戏、即将推出的免费游戏以及在Roblox和Fortnite等游戏平台上的发布，并隶属于负责授权发行的Mattel Digital Studios组织。\n该公司表示，Mattel163建立的现有产品组合包括移动端游戏UNO!、UNO Wonder、Phase 10和Skip-Bo，这些游戏在全球下载量超过5.5亿次，月活跃玩家约2000万。\n新的Marvel Game Studios的首款游戏是跑酷游戏Skeletor: Until Next Time!，基于Masters of the Universe IP，于6月发布。该工作室目前正在开发新作UNO Wild（目前处于软启动阶段）以及一款未命名的Hot Wheels游戏。\n该公司进军自有及自营游戏领域，是在竞争对手玩具公司孩之宝取得巨大成功之后。孩之宝从Monopoly Go和Baldur's Gate 3等游戏中获得了巨额收入。\nMarcus Liassides表示：“Mattel Game Studios赋予我们规模和能力，能够基于我们的标志性品牌，打造并发布更多原创游戏体验。结合我们整个行业成功的合作，这增强了我们通过出色的游戏，在玩家选择游玩的任何地方触达他们的能力。”\n本文提及\n美泰",
-      "original_content": "Mattel launches new global studios business to develop games based on its IP | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nMattel has announced the formation of Mattel Game Studios, a global development organisation that will create games based on the company's IP. It follows the company's\nFebruary acquisition of 100% of Mattel163\n, a joint venture that was previously 50% owned by partner firm NetEase.\nMattel Games Studios counts a staff of \"nearly 300 artists, designers, engineers, live operations specialists, and producers across Los Angeles and Hangzhou,\" the company said in a press release. It will oversee the company's existing mobile games, upcoming free-to-play titles and releases on game platforms like Roblox and Fortnite, and sit within the Mattel Digital Studios organisation which oversees licenced releases.\nThe existing portfolio built up by Mattel163 includes mobile releases UNO!, UNO Wonder, Phase 10, and Skip-Bo, which have racked up over 550 million downloads worldwide and have approximately 20 million monthly active players, the company said.\nThe first title from the new Marvel Game Studios was endless runner Skeletor: Until Next Time!, based on the Masters of the Universe IP, which released in June. The studio is currently working on new releases UNO Wild, currently in soft launch, and an unnamed Hot Wheels title.\nThe company's push into owned and operated titles follows the huge success of rival toy firm Hasbro, which has seen massive revenues from games like Monopoly Go and Baldur's Gate 3.\n“Mattel Game Studios gives us the scale and capabilities to build and publish more original gaming experiences inspired by our iconic brands,\" said Marcus Liassides, Senior Vice President and Global Head of Mattel Digital Studios. \"Together with our successful collaborations across the industry, it strengthens our ability to reach fans through great games wherever they choose to play.”\nMentioned in this article\nMattel"
-    },
-    {
-      "id": "f01ca75930",
-      "title": "2K宣布在温哥华成立由EA资深人士领导的新AAA工作室",
-      "summary": "2K在温哥华成立新AAA工作室Small Axe Studios，由前EA资深制作人Aaron McHardy领导，目标是打造“2K下一款体育大作”。该团队吸纳多名EA体育游戏老将，反映2K在体育品类上的扩张，也预示体育游戏人才争夺加剧。",
-      "url": "https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-studio-led-by-ea-veteran",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-13T16:38:33",
-      "games": [
-        {
-          "name": "Madden",
-          "desc": "EA的橄榄球模拟游戏系列。"
-        },
-        {
-          "name": "College Football",
-          "desc": "EA的大学橄榄球游戏系列。"
-        },
-        {
-          "name": "FIFA",
-          "desc": "EA的足球游戏系列。"
-        },
-        {
-          "name": "WWE 2K26",
-          "desc": "2K的摔跤游戏系列最新作。"
-        },
-        {
-          "name": "Project Ethos",
-          "desc": "2K旗下的免费射击游戏，由31st Union开发。"
-        },
-        {
-          "name": "Perfect Dark",
-          "desc": "完美黑暗，第一人称射击游戏，正在重启，相关开发者加盟2K。"
-        }
-      ],
-      "translated_content": "标题：2K宣布在温哥华成立由EA资深人士领导的新AAA工作室\n\n正文：\n2K宣布成立新的温哥华工作室，由EA资深人士领导\n商业\n新闻\n2K宣布在温哥华成立由EA资深人士领导的新AAA工作室\n在EA工作近二十年后，Aaron McHardy将担任副总裁、执行制作人及Small Axe Studios负责人。\nDiego Argüello\n，新闻特约编辑\n，GameDeveloper.com\n2026年8月13日\n1分钟阅读\n图片来自Small Axe Studios\nTake-Two旗下的2K宣布成立一家新的AAA工作室，由EA资深人士Aaron McHardy领导。\n总部位于温哥华的Small Axe Studios旨在“重新定义体育视频游戏的未来”。在今日早些时候的公告中，McHardy以副总裁、执行制作人和工作室负责人的身份领导该团队。\n在担任此新职位之前，这位负责人曾在近18年的任期内担任Madden和College Football系列以及FIFA团队的执行制作人。\n据新闻稿称，该工作室目前的工作重点在于打造“2K下一款重磅体育游戏系列”。McHardy远非现任员工中唯一的EA资深人士，设计主管Gary Paterson、运营主管Tom Pan、工程主管Mike Thompson等人也位列其中。\nSmall Axe Studios是2K旗下在过去一年中宣布成立的第二个新团队。2025年12月，Take-Two聘请了两位曾参与Perfect Dark重启项目开发的核心开发者，以组建一个新工作室。前The Initiative创意总监Brian Horton开始担任2K副总裁兼创意主管，Darrell Gallagher则加入2K担任高级副总裁兼工作室负责人。\n相关报道：\nNetflix关闭Oxenfree开发商Night School Studio及Moonloot Games\n与此同时，多个2K旗下的工作室在近几个月内进行了裁员。5月，31st Union（正在开发免费射击游戏Project Ethos的团队）裁员了数量不详的员工。几天后，以WWE 2K26等游戏而闻名的Visual Concepts据报道也裁撤了员工，这是其三年内第三次裁员。\n了解更多：\n头条新闻\n新工作室公告\n关于作者\nDiego Argüello\n新闻特约编辑，GameDeveloper.com\nDiego Nicolás Argüello是来自阿根廷的自由记者和评论家。电子游戏帮助他学会了英语，因此他现在为《纽约时报》、NPR、Rolling Stone等媒体撰写相关报道。他还运营着Into the Spine——一个致力于培养和支持新作者的网站，并共同主持了Turnabout Breakdown——一档关于《逆转裁判》系列的播客。你读到这篇文章时，他很可能正在玩一款节奏游戏。\n查看更多\nDiego Argüello\n来自Game Developer的每日新闻、开发者博客和故事直达您的收件箱\n保持关注\n最新新闻\n更多新闻\n商业\nNetflix关闭Oxenfree开发商Night School Studio及Moonloot Games\nNetflix关闭Oxenfree开发商Night School Studio及Moonloot Games\n作者\nNicole Carpenter\n2026年8月13日\n3分钟阅读\n在Game Developer上随时了解GDC Festival of Gaming的最新新闻、采访和大会报道\n阅读更多\n最新播客\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin和Guido Di Carlo\n2026年8月7日\n音频\nGDC Side Quest - 与不屈的Sam Beart对谈\n2026年7月31日\n商业\nJackbox Games如何度过疫情后销售低迷期，嘉宾：Mike Bilder\n2026年7月24日\nPC\nNexusMods CEO深入探讨电子游戏模组生态，嘉宾：Victor Folmann\n2026年7月10日\n查看全部\nGame Developer Collective\n更多\n商业\n销售DLC和应用内购买的游戏似乎从订阅服务中获益最大\n销售DLC和应用内购买的游戏似乎从订阅服务中获益最大\n作者\nBryant Francis\n2026年1月27日\n3分钟阅读\n商业\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n作者\nBryant Francis\n2025年9月16日\n4分钟阅读\n游戏设计与营销精选\n查看更多\n营销\n无论你喜不喜欢，Twitch都将把你献祭给其AI霸主\n无论你喜不喜欢，Twitch都将把你献祭给其AI霸主\n商业\n沃尔玛支持的电子游戏网站已裁撤其编辑团队\n沃尔玛支持的电子游戏网站已裁撤其编辑团队",
-      "original_content": "2K announces new Vancouver-based studio led by EA veteran\nBusiness\nNews\n2K announces new Vancouver-based AAA studio led by EA veteran\nAfter almost two decades at EA, Aaron McHardy will act as vice president, executive producer, and head of Small Axe Studios.\nDiego Argüello\n,\nContributing Editor, News\n,\nGameDeveloper.com\nAugust 13, 2026\n1 Min Read\nImage via Small Axe Studios\nTake-Two-owned 2K has announced a new AAA studio led by EA veteran Aaron McHardy.\nSmall Axe Studios, based in Vancouver, aims to \"redefine the future of sports video games.\" Announced\nearlier today\n, McHardy is leading the team as vice president, executive producer, and studio head.\nPrevious to his new role(s), the lead was the executive producer of the Madden and College Footbal franchises, as well as the FIFA team, over a tenure of almost 18 years.\nThe studio's current focus is on building \"2K's next blockbuster sports franchise,\" according to a press release. McHardy is far from the only EA veteran in the current staff, with head of design Gary Paterson, head of operations Tom Pan, head of engineering Mike Thompson, and more rounding out the roster.\nSmall Axe Studios is the second new team under the 2K umbrella announced in the last year. Back in December 2025, Take-Two hired two key developers who were working on the\nPerfect Dark\nreboot to start a new studio. Brian Horton, former creative director at The Initiative, started a new role as VP, head of creative at 2K, with Darrell Gallagher joining 2K as SVP, studio head.\nRelated:\nNetflix closing Oxenfree developer Night School Studio and Moonloot Games\nMeanwhile, multiple 2K-owned studios have undergone layoffs int he last couple of months. An undisclosed number of workers were laid off at\n31st Union\nback in May, the team working on the free-to-play shooter\nProject Ethos\n. A few days later,\nVisual Concepts\n, known for its work on games like\nWWE 2K26\n, reportedly laid off staff for the third time in three years.\nRead more about:\nTop Stories\nNew Studio Announcements\nAbout the Author\nDiego Argüello\nContributing Editor, News, GameDeveloper.com\nDiego Nicolás Argüello is a freelance journalist and critic from Argentina. Video games helped him to learn English, so now he covers them for places like The New York Times, NPR, Rolling Stone, and more. He also runs Into the Spine, a site dedicated to fostering and supporting new writers, and co-hosted Turnabout Breakdown, a podcast about the Ace Attorney series. He’s most likely playing a rhythm game as you read this.\nSee more from\nDiego Argüello\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nNetflix closing Oxenfree developer Night School Studio and Moonloot Games\nNetflix closing Oxenfree developer Night School Studio and Moonloot Games\nby\nNicole Carpenter\nAug 13, 2026\n3 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not\nBusiness\nThe video game site backed by Walmart has laid off its editorial team\nThe video game site backed by Walmart has laid off its editorial team"
-    },
-    {
-      "id": "17cb4a389c",
-      "title": "Saber Interactive在公众争议后将增加Rideshare 'Stimulator'的AI披露",
-      "summary": "Saber Interactive因《Rideshare \"Stimulator\"》被指控用AI替换编剧而引发争议，公司否认该说法，并承诺在Steam页面披露AI使用情况。对从业者而言，AI在游戏开发中的透明度与伦理边界正成为必须面对的议题，开发者需主动、及时地公开AI应用范围以避免信任危机。",
-      "url": "https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-13T14:31:00",
-      "games": [
-        {
-          "name": "Rideshare \"Stimulator\"",
-          "desc": "一款以网约车为题材的模拟游戏，将包含实验性的AI驱动免费乘车模式。"
-        }
-      ],
-      "translated_content": "标题：Saber Interactive在公众争议后将增加Rideshare 'Stimulator'的AI披露\n\n正文：\nSaber Interactive将披露Rideshare 'Stimulator'中的AI使用情况\n商业\nPC\n主机\n新闻\nSaber Interactive在公众争议后将为Rideshare 'Stimulator'增加AI披露\n“无论是Saber还是Unigine，都没有在Rideshare或任何其他游戏中使用AI取代任何编剧。”\nBryant Francis\n，高级编辑，\nGameDeveloper.com\n2026年8月13日\n阅读时间3分钟\n图片来自Unigine/Saber Interactive\n发行商兼开发商Saber Interactive承诺将更新其最近公布的游戏\nRideshare \"Stimulator\"\n的Steam页面，添加AI披露信息，此前该公司反驳了有关其与开发商Unigine使用生成式AI取代编剧的指控。\n一位Saber Interactive发言人在我们询问资深游戏编剧Stella Sacco的指控后向Game Developer确认了这一消息。Sacco在Bluesky上发帖讲述了她作为\nRideshare \"Stimulator\"\n首席编剧的工作经历。\nRideshare\n将在一种“实验性免费搭车模式”中使用AI技术，该模式“必然”会融入AI，因为游戏会生成无限数量的乘客供玩家从一个地点运送到另一个地点。\n“Steam页面将在功能集最终确定后更新，”发言人表示。“我们是将这一实验性模式作为一项特色功能来宣传，而不是回避它。”\n据Sacco称\n，她一直在\nRideshare\n担任首席编剧，但“在开发中途被ChatGPT取代了”。\n相关：\nCD Projekt Red裁掉了九名Project Sirius开发者\n“所有乘客的配音也都是AI生成的，”她补充道。“要么他们在某个时候改变了方向，要么他们没有在Steam上披露这一点。”她提供了一张\n当时的Facebook截图\n，记录了她从2023年起首次在职场声称自己被ChatGPT取代的经历，以支持她的说法。\nSaber否认了这一情况。“无论是Saber还是Unigine，都没有在\nRideshare\n或任何其他游戏中使用AI取代任何编剧，”公司发言人在给Game Developer的一份声明中表示。他们补充说，Saber的编剧团队自2023年Sacco发布Facebook帖子以来已经“增长了两倍”，并表示该游戏的故事“完全由真人撰写”。\n“我们坚信使用AI工具来改善或增强游戏体验，并改进NPC行为，这是我们自2001年Saber创立以来一直在做的事情，”发言人表示。“随着行业持续收缩，Saber仍在继续招聘。我们3000多名员工中没有人需要担心被AI取代。”\nSaber的否认是在开发者对生成式AI技术在游戏开发中的使用日益不满的背景下提出的，越来越多的行业专业人士认为该技术将对行业产生\n负面影响\n，并对游戏质量产生\n有害影响\n。\n在Bluesky的后续帖子中，Sacco表示，在\nRideshare\n中使用生成式AI的指令来自CEO Matt Karch。Karch本周因确认\nRideshare \"Stimulator\"\n的预告片中包含一个取笑Gearbox CEO Randy Pitchford的玩笑车牌而引发热议。“这句嘲讽是因为Randy在\n《无主之地4》\n中对Embracer进行了攻击，”Saber CEO Matt Karch在给\nGame File\n的评论中表示。“如果没有Embracer，Randy就只能靠变魔术在生日派对上谋生了。”\n相关：\n亚马逊将在2027年初前撤回其在《失落的方舟》和《王座与自由》上的发行商角色\nKarch过去几年一直在\n为\nEmbracer Group董事长兼前CEO Lars Wingefors辩护，他认为外界对他的批评是不公平的。Sacco表示，她当时曾警告Karch，玩家会对在\nRideshare\n中使用生成式AI提出反对。\n他在接受\nThis Week In Video Games\n采访时发表的评论进一步加剧了争议，他对这位前雇员进行了大量贬低性评论。\nSacco在Bluesky上发布了\n她对Karch的回应\n，重申她对公司的所有指控都是“真实的”。“我对自己说过的话感到坦然，所有人都看到了执掌Saber的是什么样的人，”她总结道。\n了解更多：\n头条新闻\n生成式AI、机器学习与LLM\n关于作者\nBryant Francis\n高级编辑，GameDeveloper.com\nBryant Francis是一位驻波士顿的作家、记者和叙事设计师。他目前为Game Developer撰稿，这是一家在电子游戏行业领先的B2B出版物。他的作品包括Proxy Studios的4X策略游戏《Zephon》、Iron Anchor Studios的《Down With The Ship》以及Amplitude Studio的2017年游戏《无尽空间2》。\n查看更多来自\nBryant Francis的内容\n每日新闻、开发者博客和Game Developer的报道直达您的收件箱\n保持关注\n最新新闻\n更多新闻\n市场营销\nTwitch将无论你是否愿意都会将你献祭给它的AI主宰\nTwitch将无论你是否愿意都会将你献祭给它的AI主宰\n作者：\nChris Kerr\n2026年8月13日\n阅读时间2分钟\n在Game Developer上关注来自GDC游戏节的最新新闻、访谈和演讲报道\n继续阅读\n最新播客\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez",
-      "original_content": "Saber Interactive will disclose AI use on Rideshare 'Stimulator'\nBusiness\nPC\nConsole\nNews\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\n'Neither Saber nor Unigine have replaced any writers with AI for Rideshare or any other game.'\nBryant Francis\n,\nSenior Editor\n,\nGameDeveloper.com\nAugust 13, 2026\n3 Min Read\nImage via Unigine/Saber Interactive\nPublisher and developer Saber Interactive is promising to update the Steam Page of its recently-announced game\nRideshare \"Stimulator\"\nwith an AI disclosure after defending itself from claims that it and developer Unigine replaced writers with generative AI.\nA Saber Interactive spokesperson confirmed the news to Game Developer after we inquired about claims made by veteran game writer Stella Sacco, who posted on Bluesky about their experience working as a lead writer on\nRideshare \"Stimulator.\"\nRideshare\nwill use AI technology in an \"experimental free-ride mode\" that incorporates AI \"by necessity,\" as the game generates an infinite number of passengers for players to haul from one location to the next.\n\"The Steam page will be updated once the feature set is finalized,\" the spokesperson said. \"We are touting this experimental mode as a feature, not shying away from it.\"\nAccording to Sacco\n, she had been working as a lead writer on\nRideshare\nbut was \"replaced with ChatGPT midway through development.\"\nRelated:\nCD Projekt Red has laid off nine Project Sirius developers\n\"All the passenger voices were AI too,\" she added. \"Either they changed direction at some point or they’re not disclosing it on Steam.\" She provided a\ncontemporaneous Facebook screenshot\ndocumenting when she first said she had been replaced by ChatGPT in the workplace from 2023 to support her claim.\nSaber denies that this took place. \"Neither Saber nor Unigine have replaced any writers with AI for\nRideshare\nor any other game,\" a company spokesperson said in a statement to Game Developer. They added that Saber's writing staff has \"tripled\" since 2023, when Sacco made her Facebook post, saying the game's story was \"written entirely by real people.\"\n\"We are firm believers in using AI tools to improve or enhance gameplay experiences and improve NPC behavior as we have done since Saber was founded in 2001,\" the spokesperson said. \"As the industry has continued to contract, Saber continues to hire. None of our 3000+ employees have to worry about being replaced by AI.\"\nSaber's denial comes in the wake of growing developer discontent over the use of generative AI technology in game development, with an increasing number of industry professionals believing the technology will have\na negative impact of the industry\nand\nhave a harmful effect\non the quality of games.\nIn follow-up posts on Bluesky, Sacco said the directive to use generative AI on\nRideshare\ncame from CEO Matt Karch, who made waves this week when he confirmed that the trailer for\nRideshare \"Stimulator\"\ncontains a joke license plate making fun of Gearbox CEO Randy Pitchford. \"The dig is because Randy took shots at Embracer in\nBorderlands 4\n,” Saber CEO Matt Karch said in a comment to\nGame File\n. \"Without Embracer, Randy is performing magic tricks at birthday parties for a living.\"\nRelated:\nAmazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027\nKarch has spent the last few years\ndefending\nEmbracer Group chairman and former CEO Lars Wingefors from what he says is unfair criticism. Sacco said she warned Karch that at the time, she warned Karch that players would push back on generative AI use in\nRideshare\n.\nHe further stoked the flames of controversy in comments made to\nThis Week In Video Games\nwhere he made numerous disparaging comments about his former employee.\nSacco posted her own response to\nKarch on Bluesky\n, where she reiterated that all of her claims about the company were \"true.\" \"I’m comfortable with what I said, and everyone got to see what kind of man is running Saber,\" she concluded.\nRead more about:\nTop Stories\nGenerative AI, Machine Learning, & LLMs\nAbout the Author\nBryant Francis\nSenior Editor, GameDeveloper.com\nBryant Francis is a writer, journalist, and narrative designer based in Boston, MA. He currently writes for Game Developer, a leading B2B publication for the video game industry. His credits include Proxy Studios' 4X strategy game Zephon, Iron Anchor Studios' Down With The Ship, and Amplitude Studio's 2017 game Endless Space 2.\nSee more from\nBryant Francis\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not\nby\nChris Kerr\nAug 13, 2026\n2 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like"
-    },
-    {
-      "id": "816975c90e",
-      "title": "《Gothic 1 Remake》已几乎收回开发与营销成本",
-      "summary": "《Gothic 1 Remake》发售首周销量超50万份，据估算Steam版毛收入已达2150万美元，几乎收回开发与营销成本。对从业者而言，经典IP重制仍具备稳健的市场回报，关键是保留原作精神并提升现代体验。",
-      "url": "https://gameworldobserver.com/2026/08/13/gothic-1-remake-has-almost-recouped-its-development-and-marketing-costs-already",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-13T14:28:03",
-      "games": [
-        {
-          "name": "Gothic 1 Remake",
-          "desc": "经典角色扮演游戏《哥特王朝1》的重制版，登陆PC、PS5和Xbox Series。"
-        }
-      ],
-      "translated_content": "标题：《Gothic 1 Remake》已几乎收回开发与营销成本\n\n正文：\nGothic 1 Remake已几乎收回其开发与营销成本 | Game World Observer\n行业新闻\n开发者访谈\n游戏开发\n市场营销\n市场分析\n交易\n法律\n行业新闻\n2026年8月13日 17:28\n2026年8月13日 17:28\nadmin\nGothic 1 Remake已几乎收回其开发与营销成本\n发布者\nadmin\n标签：\nAlkimia Interactive\n、\nEmbracer Group\n、\nGothic 1 Remake\n、\nTHQ Nordic\nGothic 1 Remake已成为开发商Alkimia Interactive和发行商THQ Nordic的票房成功之作。据其母公司Embracer Group最近发布的财务报告显示，该游戏正接近盈亏平衡点，预计很快将实现盈利。\nGothic 1 Remake\nEmbracer Group未披露Gothic 1 Remake的预算或当前收入。他们仅提到，在首发周内，该游戏售出了超过50万份。\n根据分析服务机构Gamalityc的数据，截至目前，仅Gothic 1 Remake的Steam版本就已获得2150万美元的总收入——即扣除商店佣金和税费之前的收入。包括主机版本在内，总金额必然更高，但确切数字未知。\nGothic 1 Remake于2026年6月5日在PC、PlayStation 5和Xbox Series平台发售。\n来源：\nEmbracer Group\n有故事想要分享？请联系我们：press@gameworldobserver.com\n标签：\nAlkimia Interactive\nEmbracer Group\nGothic 1 Remake\nTHQ Nordic\n发布中....",
-      "original_content": "Gothic 1 Remake has almost recouped its development and marketing costs already | Game World Observer\nIndustry News\nDev Interviews\nGame Development\nMarketing\nMarket Analysis\nDeals\nLegal\nIndustry News\n13.08.2026 17:28\n13.08.2026 17:28\nadmin\nGothic 1 Remake has almost recouped its development and marketing costs already\nPublished by\nadmin\nTags:\nAlkimia Interactive\n,\nEmbracer Group\n,\nGothic 1 Remake\n,\nTHQ Nordic\nGothic 1 Remake has been a box office success for the studio Alkimia Interactive and the publisher THQ Nordic. As\nreported\nin a recent financial report by their parent company Embracer Group, the game is approaching break-even and is expected to become profitable soon.\nGothic 1 Remake\nEmbracer Group did not disclose the budget or the current revenue of the Gothic 1 Remake. They only mentioned that during its debut week, the game sold over 500,000 copies.\nAccording to the analytical service Gamalityc, to date, the Steam version alone of Gothic 1 Remake has\nearned\n$21.5 million in gross revenue—meaning before store commissions and taxes. Including console versions, the total amount must be even greater, but the exact figure is unknown.\nGothic 1 Remake was released on June 5, 2026, on PC, PlayStation 5, and Xbox Series.\nSource:\nEmbracer Group\nGot a story you'd like to share? Reach us at\npress@gameworldobserver.com\nTags:\nAlkimia Interactive\nEmbracer Group\nGothic 1 Remake\nTHQ Nordic\nPosting...."
-    },
-    {
-      "id": "cf8c4a81f7",
-      "title": "Sensor Tower：89%的GTA6预购订单来自100美元终极版",
-      "summary": "Sensor Tower数据显示，《GTA6》预售中89%来自100美元的终极版而非80美元标准版，其中Xbox玩家比PS玩家更倾向高价版。对从业者而言，即便定价高于行业标准，超大作凭借充足的内容差异化和粉丝忠诚度也能实现极高的高价版占比，但后续会随泛用户入场而回落。",
-      "url": "https://www.gamesindustry.biz/sensor-tower-89-of-gta6-preorders-are-for-the-100-ultimate-edition",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-13T14:00:44",
-      "games": [
-        {
-          "name": "GTA6",
-          "desc": "Rockstar的开放世界犯罪游戏系列最新作，终极版包含大量独占内容和改装店权益。"
-        }
-      ],
-      "translated_content": "Sensor Tower：89%的GTA6预购订单来自100美元终极版 | GamesIndustry.biz\n如果您通过链接购买商品，我们可能会获得少量佣金。\n请阅读我们的编辑政策。\n数字情报公司Sensor Tower报告称，GTA6的预购订单中有89%选择的是100美元的终极版，而非80美元的标准版。\n该游戏两个发售平台的预购比例相近，Xbox买家中有90%选择终极版，而PlayStation平台这一比例为88.5%。\n这些数据印证了Take-Two首席执行官Strauss Zelnick近期在接受CNBC采访时所言，预购订单“更偏向高级版”。但预购订单向终极版倾斜的程度之大，甚至令Sensor Tower视频游戏情报部门高级副总裁兼总经理Karl Kontus感到惊讶。\n\nGTA6终极版中包含Stock 305服装店｜图片来源：Rockstar Games\n\n他向GamesIndustry.biz指出，特别版“在预购期间往往表现优异”，因为游戏的预购者往往是其最忠实的粉丝，而这类玩家也更倾向于购买高级版。“话虽如此，我从未见过90%的高级版占比，”他表示，“预购期间50%的高级版占比已经是非常出色的数字了。游戏的高级版占比通常维持在10%到20%左右。”\n他预计，随着更多休闲玩家购买游戏，GTA6终极版的销售占比将随时间下降，“但很可能仍会显著高于行业标准。”\nKontus认为，在发售时，80美元标准版与100美元终极版之间的销售比例，将在很大程度上取决于GTA6的营销机器能在发售日前吸引多少休闲玩家。\n\n“我从未见过90%的高级版占比”\n\n“绝大部分营销活动尚未启动，大多数预购订单将在发售前最后一周左右涌入，”他说，“我预计届时的比例将更接近50/50。话虽如此，GTA6的预测难度极大，因为它处于一个自成一档的水平。从目前来看，这款游戏的表现没有任何可参照的基准。”\n至于终极版为何表现如此出色，Kontus认为定价在其中起了很大作用。“80美元（已经高于我们目前看到的70美元行业标准）与100美元之间的差距并不大，而且100美元的SKU附带了大量额外内容。”终极版包含一系列独家福利，包括车辆改装店的访问权限。\n\n“有时高级版SKU只是为了抬高价格而填充内容，但GTA6的高级版SKU附带了大量的载具、武器，甚至还有你无法通过其他途径获得的定制改装店，”Kontus表示，“对很多人来说，这是今年必买的游戏，他们希望充分体验它。我其实有点惊讶他们没有推出150美元的SKU——感觉像是把钱留在了桌上（不过这样也不会有那么多玩家感到不满）。”\n\n独眼威利改装店的访问权限是GTA6终极版附带的福利之一｜图片来源：Rockstar Games\n\n至于GTA6在发售时总共能卖出多少套，Kontus表示很难预测。“如果我们采用任何‘正常’的预购轨迹，目前400万份预购订单意味着到发售时将达到4000万份以上。然而，正如Strauss Zelnick本人在最近一次采访中指出的，对GTA6来说什么样的数字才算‘正常’极难判断。围绕这款游戏的热度实在太高了，以至于一切都随之扭曲。”\nZelnick最近告诉GamesIndustry.biz，预购订单的水平“前所未有且令人惊叹”，但“正因为它们如此前所未有，我们真的不知道这将如何转化为实际销量。”\nKontus推测预购订单相当前置集中，这意味着实际数字将远低于4000万，且“实际预购数字可能更接近2500万左右”，他表示即便如此，这仍将是“前所未有的预购表现”。\n\n“作为对比，《赛博朋克2077》在发售时公布了800万份预购订单，”他说，“2500万份预购意味着游戏正式发售时销售额约为20亿美元——立即覆盖其开发成本，可能还包括绝大部分营销费用。”\nSensor Tower创建了一个GTA6销售追踪器，目前显示该游戏的预购次数已达430万次，其中PlayStation平台占预购量的77%，Xbox平台占23%。\n在GTA6于6月开启预购之前，GamesIndustry.biz曾询问多位分析师对GTA6首年销量的看法。预估范围从3000万至3500万套到超过5000万套不等，Enders Analysis的Gareth Sutcliffe表示，“爆发式销售情景”下该游戏甚至可能逼近6000万套。\n\n本文提及\nGrand Theft Auto VI\nPS5, Xbox Series X/S\n关注\n另提及\nR",
-      "original_content": "Sensor Tower: 89% of GTA6 preorders are for the $100 ultimate edition | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nThe digital intelligence firm Sensor Tower reports that 89% of preorders for GTA6 are for the $100 ultimate edition rather than the $80 standard edition.\nThe percentages are similar for both of the game's launch platforms, with 90% of buyers on Xbox plumping for the ultimate edition, compared with 88.5% on PlayStation.\nThe figures back up Take-Two CEO Strauss Zelnick's recent statement in an\ninterview with CNBC\nthat preorders are \"skewing more to the premium edition.\" But just how much more they are skewing towards the ultimate edition came as a surprise to Karl Kontus, SVP and GM of Video Game Insights at Sensor Tower.\nThe Stock 305 Clothing Store is included in the ultimate edition of GTA6  |\nImage credit:\nRockstar Games\nHe points out to\nGamesIndustry.biz\nthat special editions \"always tend to perform well during the preorder period,\" because games tend to be preordered by their most dedicated fans, who are also more likely to want a premium edition. \"That being said, I have never seen a 90% premium share before,\" he says. \"A 50% premium share during preorders is a great number. Typical premium shares for games tend to be at around 10–20%.\"\nHe expects the share of sales for the GTA6 ultimate edition to decline over time as more casual players buy the game, \"but it's likely it'll stay significantly above the industry standard.\"\nKontus thinks that at launch, the split between the $80 standard edition and the $100 ultimate edition will largely be determined by how many casual players the GTA6 marketing machine can pull in ahead of the release date.\n\"I have never seen a 90% premium share before\"\n\"The vast majority of the marketing campaign hasn't kicked off yet, and most of the preorders will come in the last week or so pre-launch,\" he says. \"I expect the split for these to be much closer to 50/50. That being said, GTA6 is very hard to forecast, given it lives in a league of its own. There is no benchmark for how this game will perform from here.\"\nAs for why the ultimate edition is performing so well, Kontus thinks the pricing has a lot to do with it. \"The difference between $80 (already higher than the industry standard $70 we see today) and $100 isn't that big, and the $100 SKU comes with a lot of additional content.\" The ultimate edition includes a\nlong list of exclusive perks\n, including access to vehicle customisation shops.\n\"Sometimes the premium SKUs are just filler content to justify a higher price, but the GTA6 premium SKU comes with a meaningful amount of vehicles, weapons, and even a custom mod shop that you wouldn't get otherwise,\" says Kontus. \"For a lot of people, this is the one 'must buy' game this year, and they will want to make the most of it. I'm actually kind of surprised they didn't do a $150 SKU – feels like money left on the table (but also fewer players being angry as a result).\"\nAccess to One-Eyed Willie’s Mod Shop is one of the perks that comes with the GTA6 ultimate edition  |\nImage credit:\nRockstar Games\nIn terms of just how many units GTA6 will sell in total at launch, Kontus says it's difficult to predict. \"If we used any 'normal' preorder trajectories, the current 4 million preorders would mean 40 million+ preorders by launch. However, as Strauss Zelnick himself pointed out\nin a recent interview\n, it's incredibly hard to say what's 'normal' for GTA6. The zeitgeist around the game is so high that it warps everything.\"\nZelnick\nrecently told\nGamesIndustry.biz\nthat the level of pre-orders was \"unprecedented and astonishing\" but that \"they are also so unprecedented that we just don't know how it'll translate into sales.\"\nKontus suspects that the preorders are fairly frontloaded, meaning they will fall well short of the 40 million mark, and that \"actual preorders might land more in the 25 million ballpark,\" which he says would still be \"an unprecedented preorder performance.\"\n\"For comparison, Cyberpunk 2077 announced 8 million preorders by launch,\" he says. \"25 million preorder units would mean circa $2 billion in sales by the time the game actually launches – immediately paying for its development cost and probably for the vast majority of the marketing as well.\"\nSensor Tower has created a\nGTA6 sales tracker\n, which currently shows the game has been preordered 4.3 million times, with 77% of preorders on PlayStation versus 23% on Xbox.\nAhead of the launch of preorders for GTA6 in June,\nGamesIndustry.biz\nasked a range of analysts for their thoughts on how many units GTA6 would sell in its first year.\nThe estimates ranged from 30-35 million to over 50 million units\n, with Gareth Sutcliffe of Enders Analysis suggesting that a \"blow out sales scenario\" could even see the game closing in on 60 million sales.\nMentioned in this article\nGrand Theft Auto VI\nPS5, Xbox Series X/S\nFollow\nAlso mentioned\nRockstar Games"
-    },
-    {
-      "id": "3ab9e2441a",
-      "title": "Liftoff自IPO以来首份财报：营收2.2亿美元",
-      "summary": "移动广告平台Liftoff自IPO后发布首份财报，Q2营收2.2亿美元，同比增长35%，连续十一个季度增长，调整后EBITDA利润率达60%。对从业者而言，其Cortex机器学习平台驱动的广告效果是增长核心，显示移动营销中数据与技术能力的价值。",
-      "url": "https://mobilegamer.biz/liftoff-posts-220m-q2-revenue-in-first-results-since-ipo/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-13T13:56:06",
+      "published_at": "2026-08-13T19:23:33",
       "games": [],
-      "translated_content": "Liftoff Mobile发布了自6月上市以来的首份财报，第二季度营收为2.2亿美元。\n\n这意味着营收同比增长35%，环比增长7%——这是该公司连续第11个季度实现营收增长。\n\n核心广告收入几乎占Liftoff全部业务，达到2.19亿美元，同比增长36%。调整后EBITDA为1.32亿美元，利润率为60%——高于去年同期的53%——因为营收增长快于成本。\n\n该公司本季度GAAP净亏损为400万美元，其归因于与IPO及其他资本市场活动相关的4500万美元非现金费用。本季度自由现金流为5000万美元，过去12个月自由现金流为1.845亿美元，同比增长142%。\n\n首席执行官Jeremy Bondy将本季度业绩归功于公司的Cortex机器学习平台，并表示：“更好的广告表现让客户有理由增加在我们平台上的支出。”\n\nLiftoff于6月5日完成IPO，募资4.724亿美元。它用部分收益偿还了4.184亿美元债务，截至6月30日，长期债务为13.9亿美元，现金及等价物为3.054亿美元。\n\n对于第三季度，Liftoff预计营收为2.17亿至2.22亿美元，调整后EBITDA为1.24亿至1.28亿美元；全年营收指引为8.7亿至8.8亿美元，调整后EBITDA为5.1亿至5.18亿美元，这意味着利润率约为59%。\n\n财报发布后，公司股价盘后下跌3.7%。\n\nLiftoff在2025年净亏损2310万美元，营收6.857亿美元，而去年同期净亏损4820万美元，营收5.193亿美元。",
-      "original_content": "Liftoff posts $220m revenue in first results since IPO – Mobilegamer.biz\nSkip to content\nLiftoff Mobile\nreported\n$220m in second quarter revenue in its first earnings release since going public in June.\nThat means revenue is up 35% year-on-year (YoY) and 7% sequentially – the company’s eleventh consecutive quarter of revenue growth.\nCore advertising revenue, which accounts for nearly all of Liftoff’s business, came in at $219m, up 36% year-on-year. Adjusted EBITDA reached $132m, a 60% margin – up from 53% a year earlier – as revenue grew faster than costs.\nThe company posted a GAAP net loss of $4m for the quarter, which it attributed to $45m in non-cash charges tied to its IPO and other capital markets activity. Free cash flow was $50m for the quarter and $184.5m on a trailing 12-month basis, up 142% YoY.\nCEO Jeremy Bondy credited the company’s Cortex machine learning platform for the quarter’s performance, saying that “better advertising performance gives customers reason to increase their spend with us.”\nLiftoff closed its IPO on June 5\n, raising $472.4m. It used part of the proceeds to pay down $418.4m of debt, leaving long-term debt at $1.39bn and cash and equivalents at $305.4m as of June 30.\nFor the third quarter, Liftoff guided to revenue of $217m–$222m and Adjusted EBITDA of $124m–$128m, with full-year guidance of $870m–$880m revenue and $510m–$518m Adjusted EBITDA, implying a roughly 59% margin.\nShares fell 3.7%\nafter hours following the\nrelease\n.\nLiftoff posted a net loss of $23.1m and revenue of $685.7m in\n2025\n, compared with a net loss of $48.2m and revenue of $519.3m, a year earlier.\nRead on\nSearch for:\nSearch\nFollow us\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\nStory archive\nSupport this site with a paid newsletter subscription.\nx\nScroll to Top"
-    },
-    {
-      "id": "f08d8e2620",
-      "title": "CD Projekt RED裁掉九名Project Sirius开发者",
-      "summary": "CD Projekt Red在波士顿和波兰共裁员9人，均为《Project Sirius》（巫师多人游戏）团队成员，另有9人进入内部转岗流程。对从业者而言，这是该项目自2023年重组后的又一次收缩，显示公司在控制多人项目成本并集中资源于《巫师4》。",
-      "url": "https://www.gamedeveloper.com/business/report-cd-projekt-red-has-laid-off-some-project-sirius-developers",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-13T10:48:43",
-      "games": [
-        {
-          "name": "Project Sirius",
-          "desc": "CD Projekt Red开发的未命名《巫师》多人游戏项目代号。"
-        },
-        {
-          "name": "The Witcher 4",
-          "desc": "《巫师》系列新作，大部分开发资源集中于此。"
-        },
-        {
-          "name": "The Flame in the Flood",
-          "desc": "The Molasses Flood开发的生存冒险游戏。"
-        },
-        {
-          "name": "Destiny 2",
-          "desc": "Bungie的射击游戏，Project Sirius新任叙事编剧此前参与该作。"
-        }
-      ],
-      "translated_content": "标题：CD Projekt RED裁掉九名Project Sirius开发者\n\n正文：\nCD Projekt Red已裁掉九名Project Sirius开发者\n商业\n制作\n新闻\nCD Projekt Red已裁掉九名Project Sirius开发者\n两个办公地点共有九人被裁，另有九名开发者可能被调往其他项目。\nNicole Carpenter\n，专栏作家\n，Game Developer\n2026年8月13日\n3分钟阅读\n图片来自CD Projekt\n《巫师》和《赛博朋克》的开发商CD Projekt Red已裁掉九名员工。\n据Kotaku首次报道，所有受影响的员工似乎都在参与一款代号为Project Sirius的《巫师》多人游戏。另有九人被邀请申请不同项目的职位。\nCD Projekt Red的一位代表向Game Developer确认，波士顿有四人、波兰有五人被裁。该代表写道，另外九人\"已被邀请参与CD Projekt Red其他项目潜在职位的内部招聘流程\"。\n\"我们调整了Sirius团队的规模，以反映项目在当前开发阶段的需求，\"他们补充道。\n截至2026年6月，CD Projekt Red在全球拥有超过1300名员工。其开发中心位于华沙和波士顿，在加拿大和欧洲设有办事处。Project Sirius于2022年公布，此前总部位于波士顿的The Molasses Flood于2021年被CD Projekt收购。\n相关：\nSaber Interactive在公众争议后将为Rideshare 'Stimulator'添加AI披露声明\n去年，CD Projekt Red确认The Molasses Flood（以《洪潮之焰》闻名）已被吸收合并，不再作为独立实体运营。公众对Project Sirius几乎一无所知，只知道这家波士顿工作室一直在主导该项目。目前尚不清楚情况是否仍然如此。\n2023年，CD Projekt Red裁掉了29名开发者——美国21人，波兰8人——据Kotaku 2023年的报道，此前Project Sirius据称\"发生了改变\"。CD Projekt Red在2023年5月的监管公告中表示，正在为该项目实施\"新框架\"，并因此计提了700万美元的减值。\n那些裁员使这家波士顿工作室规模相对缩小。根据一份季度报告，截至2026年2月，有71名开发者在参与Project Sirius。团队随后再次扩大，根据同一份季度报告，截至2026年4月30日，有83人在参与该游戏。公司中有更大一部分人——513人——正在参与《巫师4》。\n今天的裁员使Project Sirius的开发团队缩减至大约65人。\nKotaku周三报道称，尽管该项目自公布以来一直举步维艰，但\"最近进展相对顺利\"。5月份，《命运2》的叙事设计师Kwan Perng宣布，他现在担任Project Sirius的首席编剧。\n\"我需要一段时间才能谈论这个项目，但与此同时，我一直沉浸在《巫师》黑暗而多元的宇宙中，\"Perng在5月份的LinkedIn帖子中写道。\"能有机会在这个世界中、与如此有才华的开发者们一起讲述故事，令我感到十分荣幸。\"\n相关：\n亚马逊将在2027年初撤回其《失落的方舟》和《王座与自由》的发行商角色\n阅读更多关于：\n裁员与工作室关闭\n头条新闻\n关于作者\nNicole Carpenter\nGame Developer专栏作家\nNicole Carpenter是一位资深记者，报道电子游戏行业已超过十年。\n查看更多来自Nicole Carpenter的内容\n每日新闻、开发者博客以及来自Game Developer的故事，直接发送到您的收件箱\n保持关注\n最新新闻\n更多新闻\n商业\nSaber Interactive在公众争议后将为Rideshare 'Stimulator'添加AI披露声明\nSaber Interactive在公众争议后将为Rideshare 'Stimulator'添加AI披露声明\n作者\nBryant Francis\n2026年8月13日\n3分钟阅读\n在Game Developer上随时了解GDC游戏节的最新新闻、访谈和演讲报道\n继续阅读\n最新播客\n制作\n开发者需要了解的本土化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin和Guido Di Carlo\n2026年8月7日\n音频\nGDC Side Quest - 与不屈的Sam Beart的座谈\n2026年7月31日\n商业\nJackbox Games如何应对疫情后销售低迷，嘉宾：Mike Bilder\n2026年7月24日\nPC\nNexusMods CEO深入探讨电子游戏模组的动态，嘉宾：Victor Folmann\n2026年7月10日\n查看全部\nGame Developer Collective\n更多\n商业\n销售DLC和内购的游戏似乎从订阅服务中获益最多\n销售DLC和内购的游戏似乎从订阅服务中获益最多\n作者\nBryant Francis\n2026年1月27日\n3分钟阅读\n商业\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n作者\nBryant Francis\n2025年9月16日\n4分钟阅读\n游戏设计与营销精选\n查看更多\n营销\nTwitch将把你献祭给它的AI主宰，不管你愿不愿意\nTwitch将把你献祭给它的AI主宰，不管你",
-      "original_content": "CD Projekt Red has laid off nine Project Sirius developers\nBusiness\nProduction\nNews\nCD Projekt Red has laid off nine Project Sirius developers\nNine people have been laid off across two locations, while another nine developers could be moved onto other projects.\nNicole Carpenter\n,\nColumnist\n,\nGame Developer\nAugust 13, 2026\n3 Min Read\nImage via CD Projekt\nNine people have been laid off by The Witcher\nand\nCyberpunk developer CD Projekt Red.\nAs first reported by Kotaku\n, all of the impacted employees were seemingly working on an upcoming Witcher multiplayer game codenamed Project Sirius. Another nine have been invited to apply for roles on different projects.\nA CD Projekt Red representative confirmed to Game Developer that four people in Boston and five in Poland have been laid off. Nine other people \"have been invited to internal recruitment processes for potential roles on other CD Projekt Red projects,\" the representative wrote.\n\"We adjusted the size of the Sirius team to reflect the project's needs at this stage of development,\" they added.\nAs of June 2026, CD Projekt Red\nemployed more than 1,300 people\naround the globe. Its development hubs are located in Warsaw and Boston, with offices in Canada and Europe. Project Sirius was announced in 2022 after\nBoston-based The Molasses Flood was acquired by CD Projekt in 2021\n.\nRelated:\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nLast year, CD Projekt Red confirmed The Molasses Flood (known for\nThe Flame in the Flood\n)\nhad been absorbed\nand is no longer operating as an independent entity. There's nearly nothing known publicly about Project Sirius, except that the Boston-based studio had been heading it up. It's unclear whether that's still the case.\nIn 2023,\nCD Projekt Red laid off 29 developers\n—21 in the U.S. and eight in Poland,\nper Kotaku's 2023 report\n—after Project Sirius reportedly \"changed.\" CD Projekt Red\nsaid in a regulatory announcement\nin May 2023 that it was implementing a \"new framework\" for the project, and recorded a $7 million write-down as a result.\nThose layoffs would have left the Boston-based studio relatively small. By February 2026, 71 developers were working on Project Sirius,\nper a quarterly report\n. The team scaled up again, and had 83 people working on the game as of April 30, 2026, according to that same quarterly report. A much larger portion of the company—513 people—are working on\nThe Witcher 4\n.\nThe layoffs today bring Project Sirius' development team back down to roughly 65.\nKotaku reported Wednesday that, while the project has struggled since its announcement, it was moving along \"relatively well recently.\" In May,\nDestiny 2\nnarrative designer Kwan Perng announced that he is now working\nas lead writer on Project Sirius\n.\n\"It will be some time before I can talk about the project, but in the meantime I've been immersing myself in the dark and eclectic universe of The Witcher,\"\nPerng wrote in a post on LinkedIn\nin May. \"It's humbling to get the opportunity to tell stories in this world and in the company of such talented developers.\"\nRelated:\nAmazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027\nRead more about:\nLayoffs & Studio Closures\nTop Stories\nAbout the Author\nNicole Carpenter\nColumnist, Game Developer\nNicole Carpenter is a veteran reporter who has been covering the video game industry for over a decade.\nSee more from\nNicole Carpenter\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nby\nBryant Francis\nAug 13, 2026\n3 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not\nBusiness\nThe video game site backed by Walmart has laid off its editorial team\nThe video game site backed by Walmart has laid off its editorial team"
-    },
-    {
-      "id": "ba0a356e6c",
-      "title": "开发者预计生成式AI将在未来三年影响岗位和团队规模",
-      "summary": "Gamescom Dev Speaker调查显示，83%的开发者认为生成式AI将在未来三年影响团队结构或生产力，但对具体影响分歧较大：36%认为会改变角色，33%预计团队缩减。对从业者而言，AI在代码/生产领域价值最受认可，但艺术、叙事等创意岗位的应用仍存争议，团队需要谨慎管理AI的采用与披露。",
-      "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-12T14:42:54",
-      "games": [
-        {
-          "name": "Crimson Desert",
-          "desc": "Pearl Abyss开发的开放世界动作冒险游戏，因未披露生成式AI使用而公开道歉。"
-        },
-        {
-          "name": "Anno 117: Pax Romana",
-          "desc": "Ubisoft的建造经营策略游戏，涉及AI披露争议。"
-        },
-        {
-          "name": "The Alters",
-          "desc": "11 Bit Studios开发的叙事游戏，同样涉及AI披露争议。"
-        }
-      ],
-      "translated_content": "标题：开发者预计生成式AI将在未来三年影响岗位和团队规模\n\n正文：\n开发者预计生成式AI将在未来三年对游戏行业产生最大影响，波及部分岗位的团队规模和生产力。\n\n这一结论来自Gamescom Dev Speaker调查，该调查收集了今年大会100位演讲者的回答。总体而言，83%的受访者预计AI将在某种程度上影响团队结构或生产力。\n\n具体来看，受访者对该技术的看法分歧较大。近年来，开发者对该技术普遍持负面态度，许多人认为它正在对行业产生腐蚀性影响。36%的演讲者认为AI将改变岗位而非缩减团队，33%预计团队规模将缩小。17%预计AI不会缩减团队，仅14%预计人均产出将增加。\n\n受访者还就AI的当前应用发表了看法。34%认为AI在代码和生产等领域的价值最大，而30%希望游戏开发尽可能少地涉及AI。如调查所述，这一结果与去年的问卷大体一致。\n\n相关报道：\nSaber Interactive在公众争议后将为Rideshare 'Stimulator'添加AI披露说明\n\n至于AI当前应用的其他领域，管理和行政任务占12%，质量保证和测试及\"其他回答\"各占7%，美术和动画占4%，本地化占3%，市场营销和沟通占2%，叙事设计占1%。\n\n调查结果发布之际，各工作室仍在继续吹捧生成式AI。Capcom和Owlcat Games等公司声称分别利用生成式AI加速生产并更快地迭代游戏。与此同时，以《Crimson Desert》闻名的Pearl Abyss等工作室在玩家强烈反对后，因未能在生产过程中披露生成式AI的使用而公开道歉。此前Ubisoft和11 Bit Studios去年也因《Anno 117: Pax Romana》和《The Alters》分别发生过类似事件。\n\n完整的2026年Gamescom Dev Speaker调查可在此处阅读。\n\n了解更多：\n头条新闻\n生成式AI、机器学习与LLM\n\n关于作者\nDiego Argüello\n特约编辑，新闻，GameDeveloper.com\n\nDiego Nicolás Argüello是来自阿根廷的自由记者和评论家。电子游戏帮助他学会了英语，因此他现在为《纽约时报》、NPR、Rolling Stone等媒体撰写相关报道。他还运营着Into the Spine——一个致力于培养和支持新作家的网站，并联合主持了Turnabout Breakdown——一档关于《逆转裁判》系列的播客。你读到这段文字时，他很可能正在玩一款节奏游戏。\n\n查看更多Diego Argüello的报道\n\n每日新闻、开发者博客和Game Developer的故事直达你的收件箱\n保持关注\n\n最新新闻\n更多新闻\n商业\nSaber Interactive在公众争议后将为Rideshare 'Stimulator'添加AI披露说明\n作者：Bryant Francis\n2026年8月13日\n3分钟阅读\n\n在Game Developer上随时了解GDC Festival of Gaming的最新新闻、采访和会谈报道\n阅读更多\n\n最新播客\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin和Guido Di Carlo\n2026年8月7日\n\n音频\nGDC Side Quest——与不屈的Sam Beart对话\n2026年7月31日\n\n商业\nJackbox Games如何渡过疫情后的销售低谷，嘉宾：Mike Bilder\n2026年7月24日\n\nPC\nNexusMods CEO深入探讨电子游戏模组的动态，嘉宾：Victor Folmann\n2026年7月10日\n\n查看全部\n\nGame Developer Collective\n更多\n商业\n销售DLC和内购的游戏似乎从订阅服务中获益最多\n作者：Bryant Francis\n2026年1月27日\n3分钟阅读\n\n商业\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n作者：Bryant Francis\n2025年9月16日\n4分钟阅读\n\n游戏设计与营销亮点\n查看更\\u591a\n营销\nTwitch不管你是否愿意，都将把你献给它的AI霸主\n营销\nTwitch不管你是否愿意，都将把你献给它的AI霸主\n商业\n沃尔玛支持的电子游戏网站已解雇其编辑团队\n商业\n沃尔玛支持的电子游戏网站已解雇其编辑团队",
-      "original_content": "Developers expect generative AI to impact roles and team sizes\nBusiness\nNews\nDevelopers expect generative AI to impact roles and team sizes in the next three years\nA survey taken by 100 speakers at this year's Gamescom Dev Conference showcases hesitation and mixed feelings on generative AI use.\nDiego Argüello\n,\nContributing Editor, News\n,\nGameDeveloper.com\nAugust 12, 2026\n2 Min Read\nImage via 11 Bit Studios\nDevelopers are expecting generative AI (genAI) to have its biggest impact on the game industry over the next three years, affecting team sizes and productivity for certain roles.\nThis comes from the Gamescom Dev Speaker survey, which collects answers from 100 speakers from this year's conference. Overall, 83 percent of respondents expect AI to affect team structure or productivity in some way.\nWhen it comes to specifics, the respondents are largely split on the tech, which has garnered a\nlargely negative reception from developers\nin recent years, with many arguing that it is having a corrosive effect on the industry. 36 percent of the speakers believe AI will change roles rather than reduce teams, while 33 percent expect smaller team sizes. 17 percent do not expect AI to reduce teams, and only 14 percent anticipate increased output per person\nRespondents also chimed in on its current use. 34 percent see the greatest value of AI in areas like code and production, while 30 percent prefer as little AI involvement in game development as possible. As noted by the survey, the result remains broadly consistent with\nlast year's questionnaire\n.\nRelated:\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nAs for other areas where AI is currently being used, management and administration tasks sit at at 12 percent, quality assurance and testing and \"other answers\" at 7 percent each, art and animation at 4 percent, localization at 3 percent, marketing and communication at 2 percent, and narrative design at 1 percent.\nThe survey results come amidst studios\ncontinuing to toot the genAI horn\n. Companies like\nCapcom\nand\nOwlcat Games\nclaim to be using genAI to speed up production and iterate faster on their games, respectively. Meanwhile, studios like\nPearl Abyss\n, known for\nCrimson Desert\n, have issued public apologies for failing to disclose the use of genAI during production after player backlash, following on similar cases for Ubisoft and 11 Bit Studios last year with\nAnno 117: Pax Romana\nand\nThe Alters\n, respectively.\nThe full 2026 Gamescom Dev Speaker survey is available to read\nhere\n.\nRead more about:\nTop Stories\nGenerative AI, Machine Learning, & LLMs\nAbout the Author\nDiego Argüello\nContributing Editor, News, GameDeveloper.com\nDiego Nicolás Argüello is a freelance journalist and critic from Argentina. Video games helped him to learn English, so now he covers them for places like The New York Times, NPR, Rolling Stone, and more. He also runs Into the Spine, a site dedicated to fostering and supporting new writers, and co-hosted Turnabout Breakdown, a podcast about the Ace Attorney series. He’s most likely playing a rhythm game as you read this.\nSee more from\nDiego Argüello\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nby\nBryant Francis\nAug 13, 2026\n3 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not\nBusiness\nThe video game site backed by Walmart has laid off its editorial team\nThe video game site backed by Walmart has laid off its editorial team"
-    },
-    {
-      "id": "04f5c1469f",
-      "title": "《Meccha Chameleon》两个月销量突破2000万",
-      "summary": "捉迷藏题材游戏《Meccha Chameleon》在发售两个多月后销量突破2000万份，此前上市两周内已达700万份。对从业者而言，轻量、社交、适合直播的独特玩法可以在极短时间内形成现象级传播，是独立爆款的又一案例。",
-      "url": "https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-12T14:09:41",
-      "games": [
-        {
-          "name": "Meccha Chameleon",
-          "desc": "多人捉迷藏游戏，玩家通过给自己涂色伪装成环境，销量突破2000万。"
-        }
-      ],
-      "translated_content": "标题：《Meccha Chameleon》两个月销量突破2000万\n\n正文：\nMeccha Chameleon tops 20M sales in two months\nBusiness\nPC\nNews\nMeccha Chameleon tops 20M sales in two months\n这款捉迷藏游戏的热潮仍在继续刷新里程碑。\nDiego Argüello\n，\n新闻副编辑\n，\nGameDeveloper.com\n2026年8月12日\n1分钟阅读\n图片来自 lemorion_1224\n新闻简报\n：\nMeccha Chameleon\n，这款玩家通过涂绘卡通身体来伪装自己的热门捉迷藏游戏，在发售仅两个多月后销量已达2000万份。\n开发者 lemorion_1224\n今天早些时候在Steam上\n公布了这一消息，用简短而温馨的留言感谢玩家的支持。该游戏在发售前两周内达成了\n700万份销量的里程碑\n。\nMeccha Chameleon\n目前在Steam上获得了超过4万条评测，整体评价为\n“特别好评”\n。自6月10日发售以来，该游戏不断累积销量里程碑，先是发售两天后突破50万份。\n\n更多相关阅读：\n热门新闻报道\n游戏销量数据\n关于作者\nDiego Argüello\n新闻副编辑，GameDeveloper.com\nDiego Nicolás Argüello是来自阿根廷的自由记者和评论人。电子游戏帮助他学会了英语，因此他现在为《纽约时报》、NPR、《滚石》等媒体撰写游戏相关内容。他还运营着Into the Spine——一个致力于培养和支持新作家的网站，并共同主持了Turnabout Breakdown——一档关于《逆转裁判》系列的播客。你读到这篇文章的时候，他很可能正在玩一款节奏游戏。\n查看更多 Diego Argüello 的文章\n每日新闻、开发者博客和来自Game Developer的故事，直接发送到您的邮箱\n保持关注\n最新新闻\n更多新闻\nBusiness\nSaber Interactive在公开争议后将为Rideshare 'Stimulator'添加AI披露声明\nSaber Interactive在公开争议后将为Rideshare 'Stimulator'添加AI披露声明\n作者\nBryant Francis\n2026年8月13日\n3分钟阅读\n在Game Developer上持续关注GDC游戏节的最新新闻、访谈和演讲报道\n继续阅读\n最新播客\nProduction\n开发者需要了解的有关本地化的知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin和Guido Di Carlo\n2026年8月7日\nAudio\nGDC支线任务——与不屈不挠的Sam Beart坐下来聊聊\n2026年7月31日\nBusiness\nJackbox Games如何度过疫情后的销售低迷期，嘉宾：Mike Bilder\n2026年7月24日\nPC\nNexusMods CEO深入探讨游戏模组的动态，嘉宾：Victor Folmann\n2026年7月10日\n查看全部\nGame Developer Collective\n更多\nBusiness\n销售DLC和内购的游戏似乎从订阅服务中获益最大\n销售DLC和内购的游戏似乎从订阅服务中获益最大\n作者\nBryant Francis\n2026年1月27日\n3分钟阅读\nBusiness\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n作者\nBryant Francis\n2025年9月16日\n4分钟阅读\n游戏设计与营销精选\n查看更多\nMarketing\nTwitch会将你献祭给它的AI霸主，无论你愿不愿意\nTwitch会将你献祭给它的AI霸主，无论你愿不愿意\nBusiness\n沃尔玛支持的游戏网站已裁撤其编辑团队\n沃尔玛支持的游戏网站已裁撤其编辑团队",
-      "original_content": "Meccha Chameleon tops 20M sales in two months\nBusiness\nPC\nNews\nMeccha Chameleon tops 20M sales in two months\nThe hide-and-seek sensation continues to surpass milestones.\nDiego Argüello\n,\nContributing Editor, News\n,\nGameDeveloper.com\nAugust 12, 2026\n1 Min Read\nImage via lemorion_1224\nNewsbrief\n:\nMeccha Chameleon\n, the popular hide-and-seek game where players disguise themselves by painting their cartoon bodies, has sold 20 million copies in just over two months after launch.\nDeveloper lemorion_1224\nbroke the news on Steam\nearlier today with a short and sweet message thanking players for their support. The game hit the\n7 million copies milestone\nin its first two weeks of launch.\nMeccha Chameleon\n, which is currently receiving\n\"Very Positive\" reviews on Steam\nwith over 40,000 reviews, has been accruing sales milestones since its launch on June 10, starting with 500,000 copies after two days.\nRead more about:\nTop Stories\nGame Sales Figures\nAbout the Author\nDiego Argüello\nContributing Editor, News, GameDeveloper.com\nDiego Nicolás Argüello is a freelance journalist and critic from Argentina. Video games helped him to learn English, so now he covers them for places like The New York Times, NPR, Rolling Stone, and more. He also runs Into the Spine, a site dedicated to fostering and supporting new writers, and co-hosted Turnabout Breakdown, a podcast about the Ace Attorney series. He’s most likely playing a rhythm game as you read this.\nSee more from\nDiego Argüello\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nSaber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy\nby\nBryant Francis\nAug 13, 2026\n3 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not\nBusiness\nThe video game site backed by Walmart has laid off its editorial team\nThe video game site backed by Walmart has laid off its editorial team"
+      "translated_content": "",
+      "original_content": ""
     }
   ]
 }
