@@ -366,7 +366,7 @@ export default function MainTabs({
   const { votes, vote } = useVotes()
 
   useEffect(() => {
-    fetch(REALTIME_URL)
+    fetch(`${REALTIME_URL}?t=${Date.now()}`, { cache: 'no-store' })
       .then(r => r.json())
       .then((data: RealtimeFeed) => { setRealtimeFeed(data); setLoading(false) })
       .catch(() => setLoading(false))

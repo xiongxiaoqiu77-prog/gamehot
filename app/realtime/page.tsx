@@ -55,7 +55,7 @@ function ArticleDetail() {
   // 从 realtime feed 里找文章
   useEffect(() => {
     if (!id) { setNotFound(true); return }
-    fetch(REALTIME_URL)
+    fetch(`${REALTIME_URL}?t=${Date.now()}`, { cache: 'no-store' })
       .then(r => r.json())
       .then((data: RealtimeFeed) => {
         const found = data.articles.find(a => a.id === id)
