@@ -51,6 +51,7 @@ function ArticleDetail() {
   const [contentLoading, setContentLoading] = useState(false)
   const [notFound, setNotFound] = useState(false)
   const [wechatContent, setWechatContent] = useState('')
+  const [zhContent, setZhContent] = useState('')   // 非微信文章的预翻译全文
 
   // 从 realtime feed 里找文章
   useEffect(() => {
@@ -74,7 +75,16 @@ function ArticleDetail() {
       .catch(() => {})
   }, [article])
 
-  // 非微信文章：通过 Jina Reader 拉取原文
+  // 非微信文章：先尝试读取预翻译全文，再降级到 Jina
+  useEffect(() => {
+    if (!article || article.source.startsWith('微信')) return
+    fetch(`https://raw.githubusercontent.com/xiongxiaoqiu77-prog/gamehot-data/main/articles/${article.id}.json?t=${Date.now()}`, { cache: 'no-store' })
+      .then(r => r.ok ? r.json() : null)
+      .then(data => { if (data?.zh_content) setZhContent(data.zh_content) })
+      .catch(() => {})
+  }, [article])
+
+  // 非微信文章：通过 Jina Reader 拉取原文（无预翻译时降级展示）
   useEffect(() => {
     if (!article || article.source.startsWith('微信')) return
     setContentLoading(true)
@@ -186,14 +196,16 @@ function ArticleDetail() {
         </section>
       )}
 
-      {/* 原文内容（非微信） */}
+      {/* 全文（非微信）：优先显示预翻译中文，降级显示英文原文 */}
       {!isWeChat && (
         <section className="mb-8">
-          <h2 className="text-xs font-semibold mb-4 uppercase tracking-widest" style={{ color: 'var(--muted)' }}>原文</h2>
-          {contentLoading && (
-            <p className="text-sm" style={{ color: 'var(--muted)' }}>加载原文中…</p>
+          <h2 className="text-xs font-semibold mb-4 uppercase tracking-widest" style={{ color: 'var(--muted)' }}>
+            {zhContent ? '译文' : '原文'}
+          </h2>
+          {!zhContent && contentLoading && (
+            <p className="text-sm" style={{ color: 'var(--muted)' }}>加载中…</p>
           )}
-          {!contentLoading && content && (
+          {(zhContent || (!contentLoading && content)) && (
             <div className="text-sm leading-8 prose-content" style={{ color: '#b0b0c8' }}>
               <ReactMarkdown
                 components={{
@@ -208,11 +220,11 @@ function ArticleDetail() {
                   img: () => null,
                 }}
               >
-                {content}
+                {zhContent || content}
               </ReactMarkdown>
             </div>
           )}
-          {!contentLoading && !content && (
+          {!zhContent && !contentLoading && !content && (
             <p className="text-sm" style={{ color: 'var(--muted)' }}>原文加载失败，请点击下方按钮查看。</p>
           )}
         </section>
