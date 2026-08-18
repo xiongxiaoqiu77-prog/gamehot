@@ -1,5 +1,5 @@
 'use client'
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useMemo } from 'react'
 import type { RealtimeFeed } from '../types'
 import type { GameEntry } from '../lib/feed'
 
@@ -376,6 +376,28 @@ export default function MainTabs({
   const teardownArticles = allArticles.filter(a => a.category === '深度拆解')
   const newsArticles = allArticles.filter(a => a.category === '行业资讯')
 
+  // 合并日报 games（静态）+ 实时 feed games
+  const mergedGames = useMemo(() => {
+    const map = new Map<string, GameEntry>()
+    // 先放日报数据
+    for (const g of games) map.set(g.name, { ...g })
+    // 再合并实时数据
+    for (const article of allArticles) {
+      for (const g of article.games ?? []) {
+        if (!g.name) continue
+        const existing = map.get(g.name)
+        if (existing) {
+          existing.count++
+          existing.maxScore = Math.max(existing.maxScore, article.score)
+          if (g.desc) existing.desc = g.desc
+        } else {
+          map.set(g.name, { name: g.name, desc: g.desc || '', count: 1, maxScore: article.score, articles: [] })
+        }
+      }
+    }
+    return [...map.values()].sort((a, b) => b.count - a.count || b.maxScore - a.maxScore)
+  }, [games, allArticles])
+
   const counts: Record<Tab, number | null> = {
     teardown: teardownArticles.length || null,
     news: newsArticles.length || null,
@@ -413,7 +435,7 @@ export default function MainTabs({
       {active === 'teardown' && <TimelineTab articles={teardownArticles} loading={loading} votes={votes} onVote={vote} />}
       {active === 'news'     && <TimelineTab articles={newsArticles}     loading={loading} votes={votes} onVote={vote} />}
       {active === 'picks'    && <PicksTab    articles={teardownArticles} loading={loading} votes={votes} onVote={vote} />}
-      {active === 'games'    && <GamesTab games={games} metas={gamesMeta} />}
+      {active === 'games'    && <GamesTab games={mergedGames} metas={gamesMeta} />}
     </>
   )
 }
