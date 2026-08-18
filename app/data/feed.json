@@ -1,97 +1,557 @@
 {
-  "updated": "2026-08-17",
-  "generated_at": "2026-08-17T08:04:36.211731",
+  "updated": "2026-08-18",
+  "generated_at": "2026-08-18T08:18:20.396911",
   "articles": [
     {
-      "id": "1b66f67c88",
-      "title": "Disney 扩展游戏业务：能否成为主要增长催化剂？",
-      "summary": "文章标题探讨迪士尼扩展游戏业务的战略潜力，但正文仅有“Google News”字样，未提供实质内容或分析。对从业者而言，标题指向一个值得关注的方向，但缺乏可用的具体信息。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lZDdINFNQQXNraUZPaGZHcUx1Y2tTdmRIQTZQMWd3bHJFZEhXSlRPMzViLVpWeVdOb0xaQ2VPZnF0eUlpWlF0S0h1cjVqRGU2SFZjSGZtXzdib09jak8zbg?oc=5",
-      "source": "重点游戏-Disney Solitaire",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-14T07:00:00",
-      "games": [],
-      "translated_content": "Disney 扩展游戏业务：能否成为主要增长催化剂？\n\nGoogle News",
-      "original_content": "Google News"
+      "id": "b2196ea78e",
+      "title": "Forbidden Solitaire 如何将纸牌游戏带到前沿",
+      "summary": "《Forbidden Solitaire》以90年代模拟恐怖视觉风格为传统纸牌玩法注入新鲜感，发售48小时卖出1万份，峰值同时在线880人，远超开发商此前的其他纸牌作品。文章分析其成功使Grey Alien Games触及更多Steam玩家，并推动续作开发，表明在免费休闲主导的纸牌品类中，差异化的题材与表现力也能在付费PC市场打开机会。对从业者而言，这是一个在细分品类中通过视觉风格和IP调性实现突围的参考案例。",
+      "url": "https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront",
+      "source": "Game Developer",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-17T14:51:26",
+      "games": [
+        {
+          "name": "Forbidden Solitaire",
+          "desc": "Grey Alien Games与Night Signal Entertainment联合开发的纸牌游戏，采用90年代模拟恐怖风格，是文章主角。"
+        },
+        {
+          "name": "Microsoft Solitaire",
+          "desc": "自Windows 3.0起预装的经典Klondike纸牌游戏，是纸牌品类流行的重要源头。"
+        },
+        {
+          "name": "Regency Solitaire II",
+          "desc": "Grey Alien Games开发的纸牌游戏，Steam峰值在线约98人。"
+        },
+        {
+          "name": "Shadowhand Solitaire",
+          "desc": "Grey Alien Games开发的纸牌游戏，Steam峰值在线约20人。"
+        },
+        {
+          "name": "Fairway Solitaire",
+          "desc": "Birkett为Big Fish Games开发的高尔夫主题纸牌游戏，被Kotaku评价为不只是无聊的免费纸牌游戏。"
+        },
+        {
+          "name": "Regency Solitaire",
+          "desc": "Grey Alien Games开发的纸牌游戏，曾被Eurogamer称赞玩法俏皮且风格贴合主题。"
+        }
+      ],
+      "translated_content": "Forbidden Solitaire 如何将纸牌游戏带到前沿\n\n设计\n访谈\n\nForbidden Solitaire 如何将纸牌游戏带到前沿\n\n它的成功使Grey Alien Games能够接触到比以往更多的Steam玩家。\n\nKhee Hoon Chan，撰稿人\n2026年8月17日\n8分钟阅读\n\n图片来源：Gray Alien Games/Night Signal Entertainment\n\nMicrosoft Solitaire 作为各地无聊办公室职员的慰藉，其受欢迎程度不容低估。自1990年Windows 3.0起，这款游戏就预装在Windows系统中，此后便成为纸牌游戏类型的代名词，纸牌游戏是一个包含多种变体的卡牌游戏家族。具体来说，Microsoft Solitaire 基于一种名为Klondike的版本。\n\n乍一看，纸牌游戏似乎并不是那种对普通Steam用户特别有吸引力的卡牌游戏。它通常是一种冥想般的消遣，这一类型更适合免费休闲游戏市场，而非Steam商店。\n\n然而，Forbidden Solitaire 凭借其诱人的90年代模拟恐怖风格，成功吸引了这些玩家的目光。该游戏自4月发布以来，一度达到880名同时在线玩家。相比之下，开发商Grey Alien Games的其他纸牌游戏，如Regency Solitaire II和Shadowhand Solitaire，在Steam上的峰值同时在线人数分别仅为98人和20人。此外，Forbidden Solitaire 的商业成功——游戏在48小时内售出10,000份——意味着Grey Alien Games及其联合开发商Night Signal Entertainment能够在游戏发布后不久就开始考虑续作。\n\n“我们花了一段时间才适应这款游戏的成功程度，因为我们不习惯游戏发布后表现如此出色。”开发者Jake Birkett表示，“但它来得正是时候，因为我们确实付出了努力。”\n\n相关阅读：一次一页，突破模拟城市的极限\n\n纸牌游戏已经成为Grey Alien Games的专长领域，尽管Birkett指出这并非他们涉足的唯一游戏类型。“顺便提一下，[Forbidden Solitaire] 是我们的第十七款游戏。”他说道，“我们还制作了16款其他游戏，[包括]七款三消游戏、七款纸牌游戏、一款城市建造游戏[以及其他一些作品]。”尽管如此，该工作室对纸牌游戏的钟爱显而易见；这是他们擅长的游戏类型。\n\n大多数纸牌游戏都是免费休闲体验，其中大部分只是对这一类型的直接诠释。玩家通过重复的回合清除一摞摞卡牌。然而，Grey Alien Games的游戏并非如此；他们的作品通常包含你乍看之下可能意想不到的机制变体或巧思。以Fairway Solitaire为例，这是Birkett在2007年以承包商身份为Big Fish Games开发的一款游戏，Kotaku将其描述为“不仅仅是另一款无聊的iPhone免费纸牌游戏”；其纸牌玩法深深植根于高尔夫机制。与此同时，Eurogamer称赞Regency Solitaire是“对简·奥斯汀小说的俏皮而精准的模仿之作”。\n\n相关阅读：Silent Hill: Townfall 如何深入探索主角的内心世界\n\n此外，Birkett本人对纸牌游戏类型也情有独钟，他在1995年制作了自己的第一款纸牌游戏。在一家电脑店工作期间，他迷上了Microsoft Solitaire，只要不是在组装电脑，他就在玩这款游戏。随后，他在自己的Commodore Amiga上制作了一个游戏版本，甚至将其寄给一家出版社，希望它能够被收录在当时随游戏杂志附赠的演示光盘中。不幸的是，他从未收到回复，不过这并没有浇灭他对游戏开发的热情。\n\nBirkett决定在2005年辞去商业软件开发方面的稳定工作，创立Grey Alien Games。随后，他的妻子Helen Carmichael于2015年加入工作室；她建议他们制作一款以摄政时代为背景的纸牌游戏。“早在2013年，我们就已经在尝试为休闲市场制作游戏。”Birkett表示，“我们最终制作的这类纸牌游戏——市场上已经有一些同类产品，而且已经相当受欢迎——但没有人尝试过Helen提出的这个主题，也就是Regency Solitaire。”\n\n作为摄政时代小说的狂热读者，Carmichael对那个时代上流社会的休闲娱乐活动十分熟悉，主要是赌博和其他室内游戏。她意识到这个时代非常适合作为纸牌游戏的背景设定，而且这对夫妻都是历史爱好者，这更是锦上添花。“Helen读过那些小说，我看过相关电影，我们会去参观庄园和花园等地方，所以做这款游戏对我们来说很有趣，我们也很享受。”Birkett说。\n\n与此同时，Carmichael指出，许多休闲玩家是年长女性，而摄政时代主题的游戏可能对这一受众群体有很大吸引力。随后，她撰写了叙事剧本，将Regency Solitaire中那些在纸牌游戏中非同寻常的元素串联在一起：游戏内商店、装饰品和强化道具。\n\n相关阅读：叙事N",
+      "original_content": "How Forbidden Solitaire brought solitaire games to the forefront\nDesign\nInterviews\nHow Forbidden Solitaire brought solitaire games to the forefront\nIts success has allowed Grey Alien Games to reach out to more Steam players than ever.\nKhee Hoon Chan\n,\nContributor\nAugust 17, 2026\n8 Min Read\nVia Gray Alien Games/Night Signal Entertainment\nThe popularity of\nMicrosoft Solitaire\n—the very salve for bored office workers everywhere—can't be overstated. The staple game that's been pre-installed with Windows since Windows 3.0 in 1990, it has since become synonymous with the genre of solitaire, a family of card games that comes in many variants.\nMicrosoft Solitaire\n, specifically, was based on a version called Klondike. At first glance, solitaire doesn't seem like the sort of card game that's particularly enticing to the average Steam consumer. It's typically a meditative affair, a genre that's more at home within the market of free-to-play casual games than the Steam storefront.\nYet,\nForbidden Solitaire\nmanaged to seize enough attention among these players with its tantalizing, 90s-era analog horror presentation. The game even saw 880 concurrent players at one point since its release in April. In contrast, other solitaire games by developer Grey Alien Games, such as\nRegency Solitaire II\nand\nShadowhand Solitaire\n, only saw 98 and 20 concurrent Steam players at their peak. Moreover,\nForbidden Solitaire\n's commercial success—the game\nsold 10,000 copies in 48 hours\n—meant that Grey Alien Games and its co-developer, Night Signal Entertainment, are able to\nconsider a sequel\nsoon after its release. \"It's taken awhile to get used to the game's level of success, because we're not used to this game coming out and doing so well,\" said developer Jake Birkett. \"But it has come at the right time, because we did work hard.\"\nRelated:\nPushing the limits in Simulating a City, One Page at a Time\nSolitaire has become something of a niche for Grey Alien Games, even though Birkett pointed out that it\nisn't the only genre\nof games they have worked on. \"[Forbidden Solitaire] is our seventeenth game by the way,\" he said. \"We made 16 other games, [including] seven match-three games, seven Solitaire games, a city builder [and] some other things.\" That said, the studio's affinity for solitaire is obvious; it's a genre of games they're good at making.\nMost solitaire games are free-to-play casual experiences, with most simply offering straightforward interpretations of the genre. Players clear stacks of cards through repetitive rounds. Not Grey Alien Games' games, however; their creations typically include mechanical variations or wrinkles you may not expect at first glance. Take\nFairway Solitaire\n, a game that Birkett worked on as a contractor for Big Fish Games in 2007, which\nKotaku\ndescribed as \"not just another boring free solitaire game for iPhone;\" its solitaire game is mired in golf mechanics. Meanwhile,\nEurogamer\nhas praised\nRegency Solitaire\nfor its \"playful, on-the-nose pastiche of the novels of Jane Austen\".\nRelated:\nHow Silent Hill: Townfall gets deep into its protagonist's headspace\nThen there's Birkett's love for the genre itself, having made his first solitaire game in 1995. While working in a computer shop, he became hooked on\nMicrosoft Solitaire\n, playing it whenever he wasn't building PCs. He then created a version of the game on his Commodore Amiga, even sending it to a publication in hopes that it would be included in the demo discs that were bundled with game magazines at that time. Unfortunately, he never got a response, although that did little to douse his passion for game development. Birkett decided to set up Grey Alien Games, quitting a stable job in business software development in 2005. Subsequently, his wife Helen Carmichael joined the studio in 2015; she suggested that they make a solitaire game set in the Regency era. \"We already were trying to make games for the casual market back in 2013,\" said Birkett. \"The type of solitaire games that we ended up making—there were some of those around, and they were already quite popular—but no one had done this theme that Helen came up with, which was\nRegency Solitaire\n.\"\nA voracious reader of Regency novels, Carmichael was familiar with the leisurely pursuits of the upper class during that era, which are predominantly gambling and other parlor games. She realized that the period would make a suitable setting for a solitaire game, and it didn't hurt that the duo were history buffs. \"Helen's read the books, I watched the films, we [would] go and visit stately homes and gardens and things, so it was fun for us to do, and we enjoyed it,\" said Birkett. At the same time, Carmichael noted that many casual players were older women, and a Regency themed game could have plenty of appeal to this audience. She then wrote the narrative, tying together other elements of Regency Solitaire that were atypical of solitaire games: in-game shops, decorations, and power ups.\nRelated:\nNarrative Notebook #5: UNBEATABLE's music video vibes can't be beat\nFinding satisfying twists on a proven formula\nThese inclusions, in a way, became a blueprint for Grey Alien Games' future solitaire games. Rather than the Klondike variant popularized by\nMicrosoft Solitaire\n,\nRegency Solitaire\n—and\nForbidden Solitaire\n—employed the tri-peaks or golf rulesets instead. \"It lends itself to sort of fast, arcade-y gameplay, I would say, where you can build combos and have fun, whereas\nWindows Solitaire\nis a bit more slow-paced and basic as you build those stacks,\" he said. To the studio, these seem like a more appealing style of gameplay, akin to a sense of tidying things up. \"When you play solitaire, specifically the type in our game, you tidy up, you clear the layout, it's gone,\" said Birkett. \"Hopefully you get a big combo along the way, and then you move on to the next layout.\"\nAs it turns out,\nRegency Solitaire\nwas also the first game Grey Alien Games sold on Steam. Previously, their games were o"
     },
     {
-      "id": "b0262d831b",
-      "title": "Roblox 代价高昂的善意之年",
-      "summary": "文章分析Roblox在2026年Q2财报后股价暴跌、市值大幅缩水的深层原因，指出业务增长放缓并非仅因算法调整，而是多重因素叠加，且管理层主动改变加剧了压力。对从业者的价值在于揭示平台型游戏业务在成熟期面临的增长与变现挑战，以及应关注预订量而非滞后收入指标。",
-      "url": "https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/",
-      "source": "Naavik",
+      "id": "3e08aa1527",
+      "title": "你需要了解的来自EA、腾讯、Moon Active、Take-Two等公司的软启动游戏",
+      "summary": "文章汇总了Bandai Namco、暴雪、EA、莉莉丝、Fingersoft、Garena、米哈游、King、腾讯等厂商近期软启动或测试中的移动游戏，覆盖中核Roguelite、英雄射击、合并塔防、物理竞速、GTA-like、生活模拟等品类。每款游戏列出了当前测试地区和状态，帮助从业者快速掌握头部厂商的移动端布局和下一波产品风向。",
+      "url": "https://mobilegamer.biz/the-soft-launch-games-you-need-to-know-about/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-17T12:00:00",
+      "games": [
+        {
+          "name": "SoulTerra Odyssey",
+          "desc": "Bandai Namco的软启动游戏，类型为midcore match 3D roguelite RPG，已在澳大利亚、新西兰、英国和菲律宾上线。"
+        },
+        {
+          "name": "Overwatch Rush",
+          "desc": "暴雪《守望先锋》IP的俯视角移动端专属英雄射击游戏，处于早期开发阶段。"
+        },
+        {
+          "name": "Plants vs. Zombies 3: Evolved",
+          "desc": "PopCap开发的植物大战僵尸系列新作，采用合并玩法，正在多个市场软启动。"
+        },
+        {
+          "name": "小冰冰斗蛐蛐",
+          "desc": "上海莉莉丝Farlight发行的中核自动战斗游戏，基于小冰冰IP，已在中国开启预注册。"
+        },
+        {
+          "name": "Hill Climb Racing 3",
+          "desc": "物理驱动竞速系列最新作，首次引入实时多人模式，已在英国和北欧部分国家软启动。"
+        },
+        {
+          "name": "Garena Free City",
+          "desc": "Garena推出的GTA-like手游，已在阿根廷和菲律宾开始出现下载测试。"
+        },
+        {
+          "name": "Petit Planet",
+          "desc": "米哈游（Hoyoverse）的治愈系生活模拟游戏，已完成多轮测试并开启预注册。"
+        },
+        {
+          "name": "Minecraft Blast",
+          "desc": "King与Mojang合作的三消类新游，曾在马来西亚和加拿大iOS软启动，现已疑似移除。"
+        },
+        {
+          "name": "Crownstone Survival",
+          "desc": "腾讯Level Infinite的生存游戏，计划在菲律宾、法国、印尼、土耳其和美国等市场软启动。"
+        }
+      ],
+      "translated_content": "标题：你需要了解的来自EA、腾讯、Moon Active、Take-Two等公司的软启动游戏\n\n正文：\n来自EA、腾讯、Moon Active、Take-Two等公司的软启动游戏你需要了解这些——Mobilegamer.biz\n跳至内容\n一窥移动游戏巨头们正在测试的游戏。\n为方便使用，本列表按发行商排序，然后按字母顺序列出。所有细节如有变动，恕不另行通知。本文每两周更新一次，游戏会不断加入或移除。\n本专栏由FastSpring赞助。\nFastSpring：为您提供值得信赖的全球游戏支付合作伙伴。快速启动新的网店、替换现有的D2C供应商，或通过fastspring.gg增加冗余供应商。\n\nBandai Namco\nSoulTerra Odyssey\n万代南梦宫这款新的软启动游戏似乎是一款中核3D消除Roguelite RPG。它于8月6日软启动，目前仅在澳大利亚、新西兰、英国和菲律宾上线。\n\nBlizzard\nOverwatch Rush\n这是一款俯视角、移动端独占的英雄射击游戏，设定在《守望先锋》宇宙中，目前处于早期开发阶段。暴雪表示很快将在特定国家公布测试计划，但AppMagic称该游戏的iOS版本在菲律宾已录得超过1万次下载。\n\nEA\nPlants vs. Zombies 3: Evolved\nPopCap对《植物大战僵尸》系列的这种以合并为核心的玩法正在接近全球发布，标题更新1.0.5重做了新手教程，并在进一步Early Access推出前调整了奖励平衡。目前已在菲律宾、印度尼西亚、英国及其他多个市场的iOS和Android平台软启动。\n\nFarlight\n小冰冰斗蛐蛐\n这似乎是上海莉莉丝旗下Farlight品牌推出的一款中核自走棋游戏，衍生自该工作室现有的“小冰冰”IP。\n该游戏目前处于预注册阶段，看起来已在中国大陆软启动，随后将于10月31日更广泛发布。尚未公布官方英文名称。\n\nFingersoft\nHill Climb Racing 3\n这款物理驱动的赛车系列最新作首次引入了实时多人模式。它已在英国、挪威、瑞典和芬兰的Google Play上软启动。\n\nGarena\nGarena Free City\n《Free Fire》的开发商似乎正准备推出一款类似GTA的游戏。根据AppMagic的数据，它最初仅在阿根廷的Android平台软启动，但现在已在菲律宾和阿根廷录得下载。\n\nHoyoverse\nPetit Planet\n《原神》和《崩坏：星穹铁道》的开发商米哈游在经历多轮beta测试后，已为这款温馨生活模拟游戏开放预注册。目前尚无确切发布日期。\n\nKing\nMinecraft Blast\nKing和Mojang在马来西亚和加拿大iOS平台软启动了一款新的益智游戏《Minecraft Blast》，但目前似乎已被移除。Minecraft.net上发布的一份关于该游戏的FAQ称，该项目仍处于“极早期阶段”。\n\nLevel Infinite/Tencent\nCrownstone Survival\n腾讯的新生存游戏《Crownstone Survival》刚刚出现在AppMagic上，似乎计划在菲律宾、法国、印度尼西亚、土耳其和美国通过Google Play商店软启动。\n\nGangstar Mirage City\n腾讯这款类似GTA的开放世界游戏现已确认将于8月20日在南亚、东南亚、东欧、MENA和拉丁美洲进行更广泛的软启动，此前已在菲律宾首次测试。\n\nMonster Hunter Outlanders (Capcom/Tencent)\n卡普空与腾讯合作的这款游戏正在进行beta测试，预计今年某个时候将全球正式发布。\n\nLimit Break\nPuzzle Panic\n这是前Machine Zone老板Gabe Leydon最新公司Limit Break的首款移动游戏。这款3D街机益智游戏的有限测试现已在新加坡、新西兰和澳大利亚的iOS平台开放。\n\nMiniclip\nHoverboard Party (Boom 808)\n这似乎是《地铁跑酷》主题派对游戏的测试版本。据gamingonphone报道，列出的迷你游戏包括Cage Football、Crossy Rails、Hoverboard Mayhem和Snowball Fight。它已在英国、丹麦、意大利和葡萄牙的Android和iOS平台软启动。\n\nPure Crime: Gangster Shooting\nMiniclip的Derby工作室似乎正以这款新的开放世界犯罪游戏挑战GTA。它似乎正在英国、加拿大和菲律宾的iOS和Android平台进行测试。\n\nPaint Brawl\n这款类似《斯普拉遁》的竞技场射击游戏最近进行了品牌重塑，加入了Sybo《地铁跑酷》游戏的角色阵容。目前正在英国录得下载。\n\nRival Nations\n据AppMagic称，这款多人战争游戏已在匈牙利、波兰、罗马尼亚、塞尔维亚、英国和法国的Android平台软启动。\n\nMoon Active\nRoyal Splash: Tower Blast\nMoon Active最新的物理益智游戏《Royal Splash: Tower Blast》已出现在AppMagic上，可在印度和以色列的Android和iOS平台获取。\n\nPlayrix\nAqua Match\nPlayrix将其三消公式带到了水下。《Aqua Match》目前已在12个市场的iOS和Android平台上线。\n\nAustin's Odyssey\n这款游戏最初以Playrix的测试账号Max Go发布，据AppMagic称，目前仅在澳大利亚、加拿大、印度和美国的Google Play上架。这又是一款“scapes游戏，",
+      "original_content": "The soft launch games you need to know about from EA, Tencent, Moon Active, Take-Two and more – Mobilegamer.biz\nSkip to content\nTake a peek at the games in testing from mobile’s biggest developers.\nFor ease of use, this list is sorted by publisher, and then listed alphabetically. All details are subject to change. This article is updated as games drop in and out every other week.\nThis column is sponsored by\nFastSpring\n.\nFastSpring\n: Global payments for your games from a partner you can trust with your players. Quickly launch a new web store, replace an existing D2C vendor, or add a redundant vendor at\nfastspring.gg\n.\nBandai Namco\nSoulTerra Odyssey\nThis new soft launch from Bandai Namco appears to be a midcore match 3D roguelite RPG. It was soft-launched August 6 and is currently live only in Australia, New Zealand, the UK, and the Philippines.\nBlizzard\nOverwatch Rush\nThis is a top-down, mobile-exclusive hero shooter set in the Overwatch universe that’s in early development. Blizzard says it’ll be announcing testing in selected countries soon, but AppMagic says the iOS edition of the game has already registered over 10k downloads in the Philippines.\nEA\nPlants vs. Zombies 3: Evolved\nPopCap’s merge-based take on the franchise is edging closer to a global release, with Title Update 1.0.5 reworking the new player tutorial and rebalancing rewards ahead of further Early Access rollouts. It’s currently soft launched on iOS and Android in the Philippines, Indonesia, the UK and several other markets.\nFarlight\n小冰冰斗蛐蛐\nThis appears to be a midcore auto-battler from Shanghai Lilith’s Farlight label, spun off from the studio’s existing “Xiao Bingbing” IP.\nThe game is in pre-registration, and it looks like it has soft-launched in China only ahead of a wider October 31 release. No official English title has been announced yet.\nFingersoft\nHill Climb Racing 3\nThe latest entry in the physics-driven racing series introduces real-time multiplayer for the first time. It has soft launched on Google Play in the UK, Norway, Sweden, and Finland.\nGarena\nGarena Free City\nThe Free Fire maker appears to be gearing up to launch a GTA-like game. It first soft-launched on Android in Argentina only, according to\nAppMagic\n, but it is now registering downloads in the Philippines and Argentina.\nHoyoverse\nPetit Planet\nGenshin Impact and Honkai: Star Rail maker Mihoyo has opened pre-registration for this cosy life sim, after several rounds of beta tests. There’s no firm release date as yet.\nKing\nMinecraft Blast\nKing and Mojang soft-launched a new puzzler, Minecraft Blast, in Malaysia and Canada on iOS only, but it now appears to have been removed. An FAQ posted on Minecraft.net about the game says it is “extremely early days” for the project.\nLevel Infinite/Tencent\nCrownstone Survival\nTencent’s new survival game Crownstone Survival has just popped up on\nAppMagic\n, and is seemingly slated for a soft-launch in the Philippines, France, Indonesia, Türkiye, and the US on the Google Play Store.\nGangstar Mirage City\nTencent’s GTA-like open-world game is now confirmed for a wider soft launch across South Asia, Southeast Asia, Eastern Europe, MENA, and LATAM on August 20, having first appeared testing in the Philippines.\nMonster Hunter Outlanders (Capcom/Tencent)\nBeta testing is ongoing for this Capcom-Tencent collab, with a full worldwide release expected at some point this year.\nLimit Break\nPuzzle Panic\nThis is the debut mobile game from former Machine Zone boss Gabe Leydon’s latest company, Limit Break. A limited test of this 3D arcade puzzle game is now available on iOS in Singapore, New Zealand and Australia.\nMiniclip\nHoverboard Party (Boom 808)\nThis appears to be a test version of a Subway Surfers-themed party game. Listed minigames include Cage Football, Crossy Rails, Hoverboard Mayhem and Snowball Fight,\ngamingonphone reports\n. It’s soft launched on Android and iOS in the UK, Denmark, Italy and Portugal.\nPure Crime: Gangster Shooting\nMiniclip’s Derby studio appears to be taking on GTA with this new open-world crime game. It seems to be in testing in the UK, Canada and the Philippines on iOS and Android.\nPaint Brawl\nThis Splatoon-like arena shooter has been recently rebranded to include the cast of Sybo’s Subway Surfers games. It’s currently picking up downloads in the UK.\nRival Nations\nThis multiplayer war game has soft-launched on Android in Hungary, Poland, Romania, Serbia, the UK and France, according to\nAppMagic\n.\nMoon Active\nRoyal Splash: Tower Blast\nMoon Active’s latest physics puzzler, Royal Splash: Tower Blast, has popped up on\nAppMagic\n, available on Android and iOS in India and Israel.\nPlayrix\nAqua Match\nPlayrix takes its match 3 formula underwater. Aqua Match is currently available in 12 markets on both iOS and Android.\nAustin’s Odyssey\nThis was first launched under Playrix’s test account, Max Go, and is currently out on Google Play only in Australia, Canada, India and the United States, according to AppMagic. It’s another ‘scapes game, but more focused on the series’ comedy butler, Austin.\nMatch Around\nAppMagic says this new combo of match 3 and merge 2 mechanics is generating downloads in India and Indonesia, and is also set up for soft launch in Australia, Canada, Ireland and the US. It’s Google Play only for now.\nQuestbound\nHere’s something a bit different from Playrix, a squad battler with a fantasy theme. AppMagic says it is currently live in Australia, Canada, India, Indonesia and the US on Android only.\nRoomscapes\nThis one is Google Play only, and is picking up a small number of downloads in India, US, Indonesia, Canada, Australia and other smaller markets.\nPlayStation Mobile\nRatchet & Clank: Ranger Rumble\nThis multiplayer platformer arena shooter is now playable in France, developer Oh BiBi has confirmed.\nAppMagic\nsays it’s also live in Denmark, Finland, Indonesia, Norway, Sweden and the Philippines, and pre-registration is now open.\nScopely\nWWE Generations: Eras Collide\nThis turn-based RPG lets players buil"
+    },
+    {
+      "id": "21d76b1ee4",
+      "title": "对话系统&关卡策划：游戏不好玩，是谁的锅？",
+      "summary": "该文章正文因平台环境异常无法访问。从标题看，内容围绕“对话系统与关卡策划谁该为游戏不好玩负责”的职责划分展开，但无法提炼具体观点。对从业者的价值在于提醒团队在设计返工时关注系统与关卡协作，具体讨论内容缺失。",
+      "url": "https://mp.weixin.qq.com/s/7B7ImBEmLIUpYI8flvTdug",
+      "source": "微信-Hao的游戏PM笔记",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-17T08:58:25",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "fa8c3926ac",
+      "title": "上线一年还在“找定位”？Supercell这款游戏，或许命不久矣！",
+      "summary": "该文章正文因平台环境异常无法访问。标题显示文章质疑Supercell某款上线一年仍在“找定位”的产品，可能讨论其市场表现与未来风险，但无法提供具体分析。",
+      "url": "https://mp.weixin.qq.com/s/NIKTPmNfQlJ9X0ni0jERzA",
+      "source": "微信-GameMarket洞察",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-17T08:19:03",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "3f5d00569d",
+      "title": "三七互娱《无光勇者》，把割草爽感和RPG成长打出了一套组合拳",
+      "summary": "该文章正文因平台环境异常无法访问。标题显示其分析三七互娱《无光勇者》如何结合割草爽感与RPG成长，但无法提供具体机制拆解与市场判断。从业者可关注的方向是国产动作RPG在爽快战斗与长线养成之间的融合，具体证据缺失。",
+      "url": "https://mp.weixin.qq.com/s/FJkClKhhdg0R9kOzGa2p1A",
+      "source": "微信-金角游戏",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-16T20:13:49",
+      "games": [
+        {
+          "name": "无光勇者",
+          "desc": "三七互娱旗下融合割草爽感与RPG成长的新游（根据标题）。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "2bbc5a7f38",
+      "title": "Dragon Nest，为什么能让4个玩家每天回来养龙？",
+      "summary": "该文章正文因平台环境异常无法访问。标题围绕《Dragon Nest》讨论为何能让4名玩家每天回来养龙，可能涉及社交、日常任务与长期留存设计，但无法提供细节。对从业者而言，标题触及多人共玩与养成绑定这一留存课题，具体内容待补。",
+      "url": "https://mp.weixin.qq.com/s/UB0AEXzAT8bI_MhSFf7oaw",
+      "source": "微信-休闲茶点Hui",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-16T18:18:33",
+      "games": [
+        {
+          "name": "Dragon Nest",
+          "desc": "标题中提及的游戏，讨论点与玩家每日养龙、长期留存和多人共同游玩相关。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "7693b43a70",
+      "title": "Apple和Google加大Gamescom参展力度，法庭风波持续",
+      "summary": "谷歌和苹果今年将扩大Gamescom参与力度：谷歌Play将设置奖励中心、Fruit Ninja直播舞台和多游戏试玩区，苹果则举办三场开发者会议并展示《赛博朋克2077》Mac版。文章还报道了苹果在Epic案后公布外部链接交易佣金方案，以及法院要求谷歌整改第三方商店安装障碍。对从业者而言，平台渠道政策和商店分发规则的变化值得持续跟踪。",
+      "url": "https://mobilegamer.biz/apple-and-google-look-set-to-up-their-presence-for-gamescom-2026/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-16T17:30:00",
+      "published_at": "2026-08-17T15:12:24",
+      "games": [
+        {
+          "name": "Fruit Ninja",
+          "desc": "Halfbrick的切水果休闲游戏，将出现在Google Play的Gamescom直播竞技场。"
+        },
+        {
+          "name": "Dave the Diver",
+          "desc": "Mintrocket开发的海洋冒险与经营游戏，在Google Play多游戏试玩区展出。"
+        },
+        {
+          "name": "Subway Surfers City",
+          "desc": "Sybo开发的《地铁跑酷》系列新作，在Google Play展台提供试玩。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "Konami的足球模拟游戏，作为Google Play试玩游戏之一亮相。"
+        },
+        {
+          "name": "Wobbly Life",
+          "desc": "RubberBandGames与Curve Games的物理沙盒派对游戏，在Google Play展台提供试玩。"
+        },
+        {
+          "name": "Asphalt Legends",
+          "desc": "Gameloft的竞速游戏，作为Google Play试玩游戏之一。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt Red的开放世界RPG，苹果开发者会议将展示其在Mac上的表现。"
+        }
+      ],
+      "translated_content": "今年Gamescom上，谷歌和苹果的参展力度似乎都会更大。尽管这两家平台方在往年都采取不介入的态度，但Games@Google的Tony Clark现表示，Google Play在7号馆的活动是其规模最大的区域消费者推广活动，也是十年来首次大规模亮相Gamescom；而苹果将于8月25日（主展会前一天）在Gamescom Dev举办三场开发者会议。\n\n谷歌的展示内容包含一个奖励中心、一个以Halfbrick的Fruit Ninja为特色的现场竞技场，以及运行Dave the Diver（Mintrocket）、Subway Surfers City（Sybo）、eFootball（Konami）、Wobbly Life（RubberBandGames/Curve Games）和Asphalt Legends（Gameloft）的多游戏体验站。\n\n谷歌还将在8月26日举办一场面向发行商/开发者的“Play After Hours”会议，主题是工作室合作与用户留存。\n\n据苹果的Begüm Ağma Erdal透露，苹果的开发者会议包括：展示苹果面向游戏开发者的硬件/软件；与CD Projekt Red的Paweł Sasko和Jakub Smodrzak一同展示Mac版Cyberpunk 2077；以及与Funday Games的Emil Kjaehr一起探讨如何将游戏带到App Store。\n\n这一友好姿态出现在苹果在其正在进行的Epic Games诉讼案中提议对iOS应用内通过外部链接完成的购买收取新佣金数日之后。具体比例为：标准应用15%，新闻/视频/小程序合作伙伴计划和订阅续费10%，小型企业计划开发者5%。苹果在提交的文件中承认，其在这些交易中的实际成本接近于零。\n\n谷歌也面临着类似压力。\n\n一名法官已命令谷歌降低安装竞争对手Android应用商店的难度，此前Epic的律师展示，在Google Play上搜索“store for apps”时根本没有出现任何第三方商店，而且目前列出的唯一竞争对手商店Aptoide显示的是“查看”按钮，而不是“安装”按钮。\n\n法官称这是“反竞争摩擦”，并给谷歌一周时间修复。",
+      "original_content": "Apple and Google up their Gamescom presence as court dramas continue – Mobilegamer.biz\nSkip to content\nBoth Google and Apple will be more visible at Gamescom this year, it seems.\nWhile both platform holders have been hands-off in prior years,\nGames@Google’s Tony Clark has now said\nGoogle Play’s Hall 7 activation is its biggest regional consumer push and first major Gamescom presence in a decade, while Apple is running three developer sessions at Gamescom Dev on August 25, a day before the main show.\nGoogle’s showing includes a rewards hub, a live arena featuring Halfbrick’s Fruit Ninja, and multigaming stations running Dave the Diver (Mintrocket), Subway Surfers City (Sybo), eFootball (Konami), Wobbly Life (RubberBandGames/Curve Games) and Asphalt Legends (Gameloft).\nGoogle is also running a publisher/developer “Play After Hours” session on August 26, on studio partnerships and retention.\nApple’s developer sessions include a showcase of Apple’s hardware/software for game devs, Cyberpunk 2077 on Mac with CD Projekt Red’s Paweł Sasko and Jakub Smodrzak, and bringing games to the App Store with Funday Games’ Emil Kjaehr,\nper Apple’s Begüm Ağma Erdal\n.\nThe goodwill comes days after\nApple proposed new commissions on purchases made via external links in iOS apps\n, in its ongoing Epic Games case: 15% for standard apps, 10% for News/Video/Mini Apps partner programs and subscription renewals, 5% for Small Business Program developers. Apple’s filing conceded that its actual costs for these transactions are close to zero.\nGoogle is facing similar pressure.\nA judge has ordered Google to make it easier to install rival Android app stores\n, after Epic’s lawyers showed a search for “store for apps” on Google Play surfaced no third-party stores at all, and that the one rival store currently listed – Aptoide – showed a “View” button rather than “Install.”\nThe judge called it “anticompetitive friction” and gave Google a week to fix it.\nRead on\nSearch for:\nSearch\nFollow us\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\nStory archive\nSupport this site with a paid newsletter subscription.\nx\nScroll to Top"
+    },
+    {
+      "id": "0cc9726c23",
+      "title": "美国参议院将调查Roblox，称其“优先考虑收入和参与度”而非儿童安全",
+      "summary": "美国参议院司法小组委员会正式调查Roblox，称其将收入和参与度置于儿童安全之上，要求提交2023至2025年间性剥削、欺凌等报告数据与处理记录。Roblox回应称安全是平台根基，并愿意分享保护儿童的事实。对从业者而言，这是平台型UGC游戏在未成年人保护、内容审核和监管合规方面的重要警示。",
+      "url": "https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-17T12:47:28",
       "games": [
         {
           "name": "Roblox",
-          "desc": "多人在线游戏创作平台，用户可自建并分享游戏，以UGC和虚拟经济为核心。"
+          "desc": "在线UGC游戏平台，因儿童安全问题遭美国参议院调查，被指优先考虑收入与参与度。"
         }
       ],
-      "translated_content": "标题：Roblox 代价高昂的善意之年\n\n正文：\nRoblox 在 7 月底发布 2026 年第二季度财报后，市值蒸发了近三分之一。该股目前交易价格接近 37 美元，较 2025 年峰值下跌约 75%，也远低于五年前的上市发行价。过去十二个月内，约 700 亿美元市值化为乌有。\n\nRoblox 的业务并未如此惨烈地下滑。第二季度，营收同比增长 36%，日活跃用户（DAU）同比增长 10%。环比来看，营收持平，而 DAU 正在下降。\n\nRoblox 在 2025 年表现非凡，市场以此为标准对其定价。事实证明，管理层也是如此。因此，这是一次预期重置，而非业务失败。这不仅仅是预期问题：Roblox 的增长本已开始降温，与此同时它又开始推行一系列变革，给增长和变现带来了更大压力。更有趣的问题是，这些变革是暂时的自伤，还是恰好落在一个本就在放缓的业务之上。\n\n看预订量，而非营收\n\nRoblox 公布的营收是一个滞后指标。当用户购买 Robux 时，这笔收入会在付费用户的预计生命周期内（根据公司最近一次披露为 27 个月）逐步确认为营收。这意味着 36% 的同比增长只是去年繁荣的回响。预订量——在 Robux 售出时即计入销售额——才是反映当下状况的数字。\n\n第二季度预订量同比增长 8%，但环比下降。困境体现在季度数据上：DAU 已连续三个季度下降，预订量连续两个季度下降，月度唯一付费用户数也随之下滑。每用户支出同样走低，每 DAU 预订量同比下降 2%，每付费用户预订量下降 6%。玩家更少了，每个人的花费也少了。\n\n有三点值得注意：\n\n下滑先于算法变更而存在。\nDAU 在 2025 年第三季度见顶，预订量在第四季度见顶。4 月的发现算法更新落在一个本已降温的平台上。\n\nRoblox 在最赚钱的地方表现最差。\n美加地区是变现能力最强的市场，那里的预订量与去年同期基本持平。与此同时，欧洲增长 18%，亚太增长 14%，世界其他地区增长 31%。\n\n展望比当季更糟糕。\nRoblox 撤回了全年展望，并预计第三季度营收增长 4%–10%，预订量下降 14%–18%。这是该公司首次给出预订量下滑的指引，也是股价暴跌的主要原因。\n\n部分痛楚是自找的\n\n许多最大的逆风源于管理层有意做出的选择。这并不等于这些选择是对的：关键在于今天的增长损失能否为 Roblox 换来未来更强大的平台。\n\n业务正在走向成熟。\n没有什么是永远以 20% 的速度增长的。Roblox 公开的目标是占据全球游戏内容营收的 10%。它目前在该市场的份额不足 4%。这既是一笔巨大的业务，也距离目标十分遥远。随着基数变大，这个目标本来就越来越难实现。\n\n2025 年是一个尖峰，而不是一条斜坡。\nGrow a Garden 及其后的 brainrot 浪潮打破了同时在线玩家纪录，其变现水平远超 Roblox 可以合理预期复制的程度。娱乐行业是爆款驱动的，平台也不例外。开发者确实在不断进步（当然，现在甚至有了 Grow a Garden 2），但你无法预定闪电。维持 70% 的增长从来都不现实。\n\n安全措施增加了摩擦。\n年龄验证于 1 月成为聊天的强制要求。这非常站得住脚，但它确实在新用户与 Roblox 真正核心的社交互动之间多设置了一个步骤。验证还在纸面上缩小了成年受众：一旦年龄经过验证而非自我申报，Roblox 计入的 18+ 玩家占比就降低了。\n\n发现算法现在优化留存。\nRoblox 将其“为你推荐”算法从 7 天窗口扩展至 28 天窗口，并分别针对第 1 天、第 2–7 天和第 8–28 天设置了独立信号。Roblox 正在有意将较少玩家导向变现最激进的体验，并表示这对北美 13 岁以下用户支出的影响超出了预期。\n\n发现算法和安全措施，与其说是逆风，不如理解为投资。\n\n安全投入是最明确的一项。目前它是摩擦和法律成本。但从长远看，监管是对 Roblox 征的税，也是对所有更小玩家的壁垒。它也是广告业务的前提条件——你无法在不知道受众年龄的情况下出售定向广告库存。\n\n以参与度为导向的发现算法已有先例。YouTube 在 2012 年从点击量转向观看时长，Google 后来将类似思路应用于 Google Play。在早期，UGC 平台需要供给：更多创作者、更多内容、更多",
-      "original_content": "Roblox's Expensive Year of Good Intentions\nSkip to content\nNAAVIK DIGEST\nRoblox’s Expensive Year of Good Intentions\nBy Miikka Ahonen •   August 16, 2026\nSource: Roblo\nx\nRoblox lost nearly a third of its value after\nreport\ning\nit\ns\nQ2 2026 results\nat the end of July. The stock now trades near $37, about 75% below its 2025 peak and well below its listing price from five years ago. Around $70B in market value has evaporated over the past twelve months.\nRoblox's business did not fall as heavily. In Q2, revenue grew 36% and daily active users (DAU) grew 10% YoY. Quarter over quarter, revenue is flat while DAU is declining.\nSource: Naavik analysis\nRoblox had an extraordinary 2025, and the market priced it for more of the same. So, it turns out, did management. That makes this an expectations reset more than a business failure. It is not\nonly\nan expectations problem: Roblox was already cooling as it began making changes that added even more pressure on growth and monetization. The more interesting question is whether those changes are temporary self-inflicted pain or whether they are landing on top of a business that was slowing anyway.\nLook at Bookings, Not Revenue\nRoblox's reported revenue is a lagging indicator. When someone buys Robux, that money is recognized as revenue gradually over the estimated lifetime of a paying user (27 months at the company’s last disclosure). This makes the 36% YoY revenue growth an echo of last year's boom. Bookings, which capture the sale when the Robux is purchased, are the number that tells you what is happening right now.\nSource: Roblox and Naavik analysis\nBookings grew 8% in Q2 year over year but declined quarter over quarter. The quarterly numbers are where the predicament shows up: DAU has declined for three consecutive quarters, bookings for two, and monthly unique payers have fallen alongside them. Spending per user fell too, with bookings per daily user down 2% YoY and bookings per payer down 6%. Fewer players, each spending a little less.\nThree things stand out:\nThe decline predates the algorithm change.\nDAU peaked in Q3 2025 and bookings in Q4. April's discovery update landed on a platform that was already cooling.\nRoblox is doing\nthe\nworst where the money is.\nU.S. and Canada are the best-monetizing markets, and bookings there stayed essentially flat YoY. Meanwhile, Europe grew by 18%, Asia-Pacific by 14%, and the rest of the world by 31%.\nThe outlook is worse than the quarter.\nRoblox withdrew its full-year outlook and guided Q3 to a revenue growth of 4–10% and a bookings decline of 14–18%. It's the first bookings decline the company has ever guided to, and the main reason the stock crashed.\nSome of the Pain is Self-Inflicted\nA number of the biggest headwinds are the result of choices management made deliberately. That does not make them good choices: the case rests on whether today’s lost growth buys Roblox a stronger platform later.\nThe business is maturing.\nNothing grows 20% a year forever. Roblox's stated ambition is 10% of global gaming content revenue. It currently has less than 4% of that market. That is both an enormous business and a long way from the target. The goal was always going to get harder as the base got bigger.\n2025 was a spike, not a slope.\nGrow a Garden\nand the brainrot wave that followed it broke concurrent-player records and monetized far above anything Roblox could reasonably expect to repeat. Entertainment is hit-driven, and platforms are no exception. Developers keep getting better (and of course, there is even\nGrow a Garden 2\nnow), but you cannot commission lightning. Sustaining 70% growth was never realistic.\nSafety adds friction.\nAge checks became mandatory for chat in January. It’s very much defensible, but it does put an extra step between a new user and the social interaction that Roblox is really about. Verification also shrank the adult audience on paper: the share of players Roblox counts as 18+ was lower once ages were verified rather than self-reported.\nDiscovery now optimizes for retention.\nRoblox expanded its Recommended For You algorithm from a 7-day view to a 28-day view, with separate signals for Day 1, Days 2–7, and Days 8–28. Roblox is deliberately sending fewer players toward the experiences that monetized hardest, and it says the effect on under-13 spending in North America was bigger than expected.\nBoth discovery and safety are better understood as investments than as headwinds.\nInvesting in safety is the clearest case. Right now, it is friction and legal expense. But in the long run, regulation is a tax on Roblox and a barrier to everyone smaller. It is also a precondition for the advertising business because you cannot sell targeted inventory against an audience whose ages you do not know.\nEngagement-weighted discovery has precedent. YouTube famously shifted from clicks to watch time in 2012, and Google later applied similar thinking to Google Play. Early on, a UGC platform needs supply: more creators, more content, more reasons to open the app. Eventually, a successful platform drowns in content, and the real job becomes deciding what deserves an audience. This is what Roblox is now trying to solve, and what YouTube, Steam, the App Store, and Google Play all went through.\nRoblox's platform is unusually vertically integrated. It owns discovery, payments, hosting, identity, and currency. Changing discovery redistributes income across an entire economy, which is why developers spent April watching their impressions move and arguing about whether it was a bug or the point. The question is subtler than \"the algorithm hurt me.\" If distribution now depends on 28-day retention, how does a brand-new game ever prove it has any?\nIt also makes Roblox game studios harder to invest in or buy. Anyone writing a check wants to know what a game will earn next year, and that guess assumes traffic keeps behaving as it did last year. Roblox has to keep changing discovery, but predictability is worth something too.\nA stan"
+      "translated_content": "美国参议院将调查Roblox，称其“优先考虑收入和参与度”而非儿童安全\n\n如果你点击链接并购买，我们可能会获得少量佣金。阅读我们的编辑政策。\n\n美国参议院司法委员会下属的犯罪与反恐小组委员会已对Roblox展开调查，称该平台“似乎优先考虑收入和参与度指标”，而非儿童安全。\n\n在致Roblox首席执行官David Baszucki的一封信中（via Kotaku），参议员Josh Hawley和Dick Durbin表示，“Roblox上涉嫌的犯罪活动值得国会进行审查。”\n\n“你们将Roblox宣扬为面向年仅5岁儿童的安全数字游乐场，”参议员们写道，“但公开记录使人们对这一安全承诺产生了严重质疑。”\n\nRoblox首席安全官Matt Kaufman在给PC Gamer的一份声明中表示，该平台“建立在安全的基础上”。\n\n“我们不会在这一承诺上妥协。我们期待分享我们如何保护平台上儿童的事实。”\n\nRoblox已被要求提供有关儿童安全、性虐待或身体虐待、欺凌和经济剥削的记录。公司必须在2026年8月31日前提交这些文件。\n\n委员会要求Roblox提供近30类文件和资料。其中包括2023年、2024年和2025年收到的“涉及对18岁以下用户的性剥削、诱骗或虐待”的报告数量，Roblox如何回应这些报告，以及这些年有多少账户因这类行为被举报。\n\n委员会还寻求细节：这些指控中有多大比例由人工审查，被举报账户有多大比例被封禁，2023年、2024年和2025年涉及18岁以下用户的欺凌举报数量，以及相关的调查率和封禁率。\n\n“在过去十年中，警方逮捕了多人，他们因通过Roblox结识的儿童实施严重的暴力和伤害行为，包括诱骗、性虐待、绑架、强奸甚至谋杀，”信中继续写道。\n\n委员会还指出，Roblox在2025年向国家失踪与受剥削儿童中心报告了超过65,000起疑似儿童剥削案件，是2024年的两倍多。\n\n“Roblox正被用来交易儿童性虐待材料，参与与儿童相关的色情（且往往暴力的）虚拟‘体验’，贿赂和敲诈儿童制作露骨内容，以及诱骗儿童进行线下见面。这令人心碎。”\n\n“让我们明确一点：你们平台上的儿童正在受伤。国会不会视而不见。”\n\n包括路易斯安那州和洛杉矶县在内的多个美国州和地区已以危害儿童为由起诉Roblox。\n\n澳大利亚政府也提出了类似问题，称这些问题“令许多澳大利亚家长和看护者深感担忧”。\n\n近年来，Roblox增加了各种新的安全措施。这些措施包括阻止13岁以下用户使用直接消息的功能、全球面部识别检查、为其“体验”功能添加“敏感问题”内容标签，以及更强有力的审核政策和行动。\n\n本文提及\n法律\nRoblox Corporation",
+      "original_content": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nThe US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched an investigation into Roblox, saying the platform \"appears to prioritise revenue and engagement metrics\" over child safety.\nIn a\nletter\nto Roblox CEO David Baszucki (via\nKotaku\n), Senators Josh Hawley and Dick Durbin said the \"alleged criminal activity on Roblox warrants congressional scrutiny.\"\n\"You trumpet Roblox as a safe digital playground for children as young as five,\" the senators wrote. \"But the public record raises serious questions about this promise of safety.\"\nIn a statement to\nPC Gamer\n, Roblox chief safety officer Matt Kaufman said the platform is \"built on the foundation of safety.\"\n\"We do not compromise on that commitment. We look forward to sharing the facts about how we work to protect children on the platform.\"\nRoblox has been told to provide records about child safety, sexual or physical abuse, bullying, and financial exploitation. The company must submit these documents by August 31, 2026.\nThe committee has asked Roblox for almost 30 types of documents and data. This includes the number of reports received in 2023, 2024, and 2025 \"concerning sexual exploitation, predation, or abuse of users under 18,\" how Roblox responds to these reports, and how many accounts were reported for this behaviour during these years.\nIt is also seeking details on what percentage of these allegations were reviewed by people, what percentage of reported accounts were banned, how many bullying reports involved users under 18 in 2023, 2024, and 2025, and the related investigation and ban rates.\n\"Over the past decade, police have arrested numerous individuals for committing serious acts of violence and harm against children they met via Roblox, including\ngrooming\n,\nsexual abuse\n,\nkidnapping\n,\nrape\n, and even\nmurder\n,\" the letter continued.\nThe committee also noted that Roblox reported over 65,000 suspected child exploitation cases to the National Centre for Missing & Exploited Children in\n2025\n, more than double the number in\n2024\n.\n\"Roblox is being used to trade child sexual abuse material, participate in sexually explicit (and often violent) virtual 'experiences' with children, bribe and extort children into producing explicit content, and lure children into in-person meetings. It is heartbreaking.\"\n\"Let us be clear: children on your platform are hurting. Congress will not look the other way.\"\nSeveral US states, including\nLouisiana\nand\nLos Angeles County\n, have sued Roblox over concerns about child endangerment.\nThe Australian government has\nalso raised similar issues\n, saying they are \"of deep concern to many Australian parents and carers.\"\nIn recent years, Roblox has added various new safety measures. These include protections to stop\nusers under 13 from using direct messaging\n,\nglobal facial recognition checks\n,\na \"sensitive issues\" content tag\nfor its experiences feature, and stronger\nmoderation policies and actions\n.\nMentioned in this article\nLegal\nRoblox Corporation"
     },
     {
-      "id": "e414818b44",
-      "title": "刀光剑影，核周报 8.15",
-      "summary": "本期机核播客周报汇总多款游戏动态：含新作实机展示、经典游戏延期与联动、财报及优惠信息。对从业者提供了近期行业热点与市场事件速览，便于快速把握新品节奏和商业动向。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a7ee70736641f136d883b79",
-      "source": "播客-机核游戏频道",
+      "id": "81aa2b7519",
+      "title": "腾网快手新游下周隔空大战；杭州北京厂商出售游戏业务丨HOT周报",
+      "summary": "该文章正文因平台环境异常无法访问。从标题看是一期HOT周报，涉及腾讯、网易、快手的新游对垒，以及杭州、北京厂商出售游戏业务，但无法获取具体产品与交易信息。",
+      "url": "https://mp.weixin.qq.com/s/sTdRzOn3u575F8GXWfqPOg",
+      "source": "微信-竞核",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-15T15:00:00",
+      "score": 6,
+      "published_at": "2026-08-16T13:04:03",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "67da5a601d",
+      "title": "对话拿到腾讯投资的制作人：黑神话之后，为何还做西幻单机",
+      "summary": "该文章正文因平台环境异常无法访问。标题显示这是一次对获腾讯投资的制作人的访谈，讨论黑神话之后为何仍选择西幻单机方向。访谈可能涉及立项策略、市场窗口与团队能力，但具体内容缺失。",
+      "url": "https://mp.weixin.qq.com/s/7oEOvWkThPZHuGnx1aukuQ",
+      "source": "微信-游戏日报",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-16T10:02:52",
       "games": [
-        {
-          "name": "影之刃零",
-          "desc": "暗黑武侠风格动作游戏，公布了11分钟新实机并开启预购。"
-        },
-        {
-          "name": "战锤40K：战争黎明4",
-          "desc": "战锤40K系列即时战略游戏，延期至12月3日发售。"
-        },
-        {
-          "name": "漫威金刚狼",
-          "desc": "索尼发行的漫威题材动作游戏，公布了限定版主机及手柄。"
-        },
         {
           "name": "黑神话：悟空",
-          "desc": "国产动作RPG，以西游为背景，已开启七折优惠。"
-        },
-        {
-          "name": "空之轨迹 the 2nd",
-          "desc": "经典JRPG轨迹系列重制/新作，公布了最新预告片。"
-        },
-        {
-          "name": "绝地潜兵2",
-          "desc": "合作射击游戏，与战锤40k联动已于8月12日实装。"
-        },
-        {
-          "name": "魔兽世界",
-          "desc": "大型多人在线角色扮演游戏，12.1版本正式上线。"
+          "desc": "标题中提及的国产动作游戏，作为讨论西幻单机立项的背景参照。"
         }
       ],
-      "translated_content": "刀光剑影，核周报 8.15 - 机核游戏频道 | 小宇宙 - 听播客，上小宇宙\n\n我打叶问？\n\n本期主播：龙马 / 萝卜 / 雪豆 / Nadya\n\n本期要闻：《影之刃零》公布11分钟新实机并开启预购；《战锤40K：战争黎明4》延期至12月3日发售；SQUARE ENIX公布最新财报；索尼宣布《漫威金刚狼》限定版主机及手柄；《黑神话：悟空》现已开启七折优惠；《空之轨迹 the 2nd》公布最新预告片；《绝地潜兵2》X《战锤40k》联动已于8月12日实装；《魔兽世界》12.1正式上线等。\n\n本期节目在线图文Shownote：\n\nConsole Timelines | 机核\n\n展开Show Notes\n\n李主任oo\n1 天前\n1\n还是薄彩生做的音乐么\n\n阿吉没用的阿吉\n:\n听说是的\n\nmoomin肥\n20小时前\n0\n1:16:08\n哈哈哈，豆还说阿诺舒华辛力加这个港译。\n\nmoomin肥\n:\n1:17:47 狮子王我看到VHS\n\n大仑丁\n1 天前\n1\n沙发！\n\n黑猴已白金的鲸鱼\n1 小时前\n0\n1:16:13\n泰坦尼克1998\n\n飞影\n5小时前\n0\n1:19:39\n那你天天看啊，龙马就会嘴炮。\n\n煮饭夹生e\n13小时前\n0\n开局辰虫木娄，很长一段时间都是我的铃声\n\n戏说不是胡说\n1 天前\n1\n53:37\n我还真没买黑神话\n\nnnick\n1 天前\n0\n15:53\nps5实机的话没有pssr\n\n在小宇宙打开\n00:00\n00:00",
-      "original_content": "刀光剑影，核周报 8.15 - 机核游戏频道 | 小宇宙 - 听播客，上小宇宙\n我打叶问？\n本期主播：龙马 / 萝卜 / 雪豆 / Nadya\n本期要闻：《影之刃零》公布11分钟新实机并开启预购；《战锤40K：战争黎明4》延期至12月3日发售；SQUARE ENIX公布最新财报；索尼宣布《漫威金刚狼》限定版主机及手柄；《黑神话：悟空》现已开启七折优惠；《空之轨迹 the 2nd》公布最新预告片；《绝地潜兵2》X《战锤40k》联动已于8月12日实装；《魔兽世界》12.1正式上线等。\n本期节目在线图文Shownote：\nConsole Timelines | 机核\n展开Show Notes\n李主任oo\n1 天前\n1\n还是薄彩生做的音乐么\n阿吉没用的阿吉\n:\n听说是的\nmoomin肥\n20小时前\n0\n1:16:08\n哈哈哈，豆还说阿诺舒华辛力加这个港译。\nmoomin肥\n:\n1:17:47 狮子王我看到VHS\n大仑丁\n1 天前\n1\n沙发！\n黑猴已白金的鲸鱼\n1 小时前\n0\n1:16:13\n泰坦尼克1998\n飞影\n5小时前\n0\n1:19:39\n那你天天看啊，龙马就会嘴炮。\n煮饭夹生e\n13小时前\n0\n开局辰虫木娄，很长一段时间都是我的铃声\n戏说不是胡说\n1 天前\n1\n53:37\n我还真没买黑神话\nnnick\n1 天前\n0\n15:53\nps5实机的话没有pssr\n在小宇宙打开\n00:00\n00:00"
+      "translated_content": "",
+      "original_content": ""
     },
     {
-      "id": "6c5d425489",
-      "title": "CF 出新作，居然是 3A 单机？深度对话《穿越火线：潜伏》首席创意官",
-      "summary": "文章是机核播客对《穿越火线：潜伏》首席创意官的深度访谈，解析这款CF世界观下第三人称潜行射击大作的设计思路，回应玩家对IP转型的疑惑。对从业者的价值在于了解传统网游IP向3A单机拓展的创作逻辑与市场定位。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a7b030836641f136d869cf9",
-      "source": "播客-机核游戏频道",
+      "id": "646a410c5b",
+      "title": "好莱坞颠覆者用12人团队打造大型游戏——且不使用生成式AI",
+      "summary": "本文介绍Wolf Haus Studios如何以12人团队开发大型开放世界邪教模拟游戏《Join Us》。团队用好莱坞低成本制作经验、Unreal Engine和可复用工具实现高保真内容，并经过80次融资路演获得Krafton和Lifelike Capital投资。其技术管线与融资思路对小型团队有借鉴价值。",
+      "url": "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-11T11:14:32",
+      "published_at": "2026-08-17T17:43:23",
       "games": [
         {
-          "name": "穿越火线：潜伏",
-          "desc": "CF世界观下的第三人称潜行射击单机大作，已于今年6月首曝。"
+          "name": "Join Us",
+          "desc": "Wolf Haus开发的开放世界邪教模拟游戏，支持合作与招募信徒，风格为黑暗喜剧。"
+        },
+        {
+          "name": "Star Citizen",
+          "desc": "Chris Roberts在离开Ascendant Pictures后投入开发的太空模拟游戏，文中作为团队背景提及。"
         }
       ],
-      "translated_content": "标题：CF 出新作，居然是 3A 单机？深度对话《穿越火线：潜伏》首席创意官\n\nCF出新作，居然是3A单机？深度对话《穿越火线：潜伏》首席创意官 - 机核游戏频道 | 小宇宙 - 听播客，上小宇宙\n欢迎回到“核电波”！今年6月《穿越火线：潜伏》首爆，面对这款CF世界观下的第三人称潜行射击大作，我们和很多玩家一样第一反应是“啊”？上周我们找到了游戏的首席创意官 Taylor，想和他聊聊这到底是一款什么样的游戏？\n本期为机核视频播客节目音频版\n，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的账号【\n核电波\n】\n本期主播：Nadya / Ryoma\n本期嘉宾：智能路障 /《穿越火线：潜伏》首席创意官 Taylor\n展开Show Notes\n一横\n5天前\n1\n有些问题能不笑场真是见功力了😂\n杨卤蛋\n5天前\n0\n10:49\n我觉得他好像没懂哈哈哈哈\n在小宇宙打开\n00:00\n00:00",
-      "original_content": "CF出新作，居然是3A单机？深度对话《穿越火线：潜伏》首席创意官 - 机核游戏频道 | 小宇宙 - 听播客，上小宇宙\n欢迎回到“核电波”！今年6月《穿越火线：潜伏》首爆，面对这款CF世界观下的第三人称潜行射击大作，我们和很多玩家一样第一反应是“啊”？上周我们找到了游戏的首席创意官 Taylor，想和他聊聊这到底是一款什么样的游戏？\n本期为机核视频播客节目音频版\n，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的账号【\n核电波\n】\n本期主播：Nadya / Ryoma\n本期嘉宾：智能路障 /《穿越火线：潜伏》首席创意官 Taylor\n展开Show Notes\n一横\n5天前\n1\n有些问题能不笑场真是见功力了😂\n杨卤蛋\n5天前\n0\n10:49\n我觉得他好像没懂哈哈哈哈\n在小宇宙打开\n00:00\n00:00"
+      "translated_content": "好莱坞颠覆者用12人团队打造大型游戏——且不使用生成式AI | GamesIndustry.biz\n如果你点击链接并购买商品，我们可能会获得少量佣金。\n请阅读我们的编辑政策。\n你可能还记得《Join Us》的预告片在六月份的Xbox Showcase上展出过。它描绘了一款黑暗幽默的合作邪教模拟游戏，身着长袍的邪教成员骑着猪，发射机枪，最后以克苏鲁风格的巨型触手画面收尾。但开发者Wolf Haus Games的首席执行官兼创意总监Joe Dietsch表示，预告片中没有展示蛇枪。\nJoe Dietsch |\n图片来源：\nWolf Haus Games\n“我们一位团队成员的儿子想出了这个点子，”他回忆道。“他们说，‘能不能有一把蛇枪？’我们有一个工具可以快速缩放制作枪支，所以大约半小时内，我就进去做了一把能射出蛇的枪。那对他来说太震撼了。它现在还在游戏里。”\n这个故事体现了《Join Us》中预期会出现的混乱玩法，这是一款开放世界沙盒生存游戏，玩家可以招募追随者——或合作玩家——加入他们70年代风格的邪教。这也体现了团队以技术为核心的方法，这使他们能够用相对极少的开发人员制作出一款大型高保真游戏。Wolf Haus的首席运营官Michael Abbott表示，“我们想成为颠覆者”。\n“我们当时说，‘看，我们不需要一百个人，我们十二个人就能搞定一切’。而每个人都说那不可能，他们就是不相信我们。”然而，团队在预算有限的情况下完成大事方面已有经验。“我们来自独立电影行业，习惯了超越自身能力去拼搏。”团队进行了80次推介，最终才从Krafton和Lifelike Capital获得了资金，两家公司均获得了Wolf Haus的股权。\n家族渊源\nWolf Haus背后的创始团队有着深厚的好莱坞背景。Dietsch在加州查普曼大学学习电影，与Mel Gibson的儿子Louie Gibson（也是Wolf Haus的联合创始人）一起，两人联合编剧并联合执导了电影《Happy Hunting》和《Manifest West》。与此同时，Abbott是好莱坞化妆师Larry Abbott的儿子，曾协助创办了Ascendant Pictures——这家电影制作公司由Chris Roberts在转向《Star Citizen》之前创立。Abbott后来担任了由Jamie Foxx主演的《Fight for '84》等电影的制作人。\nMichael Abbott |\n图片来源：\nWolf Haus Games\n《Join Us》起源于Dietsch在虚幻引擎中随意摆弄。“这是一个非常简单的开端，就是我发现虚幻引擎可以免费下载，”他解释道。“我热爱游戏多年，我看电影的时间和我玩游戏的时间一样长，但感觉在那个领域真正创作东西有极高的门槛。但我拿起了虚幻引擎，开始探索它能实现什么，只是通过YouTube教程学习。”\n尽管之前没有任何经验，Dietsch还是成功制作了几款小游戏，之后决定尝试更大的项目。“我一直回到这个末日邪教模拟器的想法上，因为它结合了我喜欢的许多东西——生存和磨坊电影，将我喜欢的电影和游戏元素融合到一个IP中。”\n他开始制作概念验证。“在我心里，有点像，‘我要尽可能把它推进下去’，我假设在某个时候我会撞到墙——在某个时候会出现技术挑战，让我觉得，‘好吧，这就是为什么我不该做这个’。”他把演示给Abbott看。“然后Michael把它带给了Dooma。”\n《Join Us》- 官方公告预告片 | Xbox Games Showcase 2026\n六月份Xbox Showcase上展示的《Join Us》预告片\n在YouTube上观看\nDooma Wendschuh，Wolf Haus的首席财务官兼叙事总监，在电影行业以制片人和编剧的身份开始职业生涯，但在2000年代初期转向电子游戏行业，创办了Sekretagent Productions，为《波斯王子：王者无双》、《刺客信条》和《蝙蝠侠：阿卡姆起源》提供写作服务。他在2010年代继续创立了几家科技公司，包括大麻配方公司Ebbu，该公司后来以4.3亿加元（3.3亿美元）的价格售出。\n然后他在加拿大一个偏僻小岛上买了一家餐厅，“想着自己已经退休了，可以去海滩遛狗，”他说。但按照最好的好莱坞传统，就在他以为自己已经退出时，他们又把他拉了回来。\nDooma Wendschuh |\n图片来源：\nWolf Haus Games\n“我意外接到了好莱坞山老室友Michael Abbott的电话。他说，‘我的一个哥们做了一款电子游戏’。我接到很多这样的电话。出于对老室友的礼貌，我接了那个电话，看了Joe做的游戏。它简直让我震惊——让我退出了退休生活。”Wendschuh把游戏带给了Reid Schneider，他是华纳兄弟游戏公司的前副总裁，现在是负责",
+      "original_content": "The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nYou might recall the trailer for Join Us being featured in the Xbox Showcase back in June. It depicts a darkly comic co-op cult simulator, with robed cult members riding around on pigs and loosing off machine guns, before ending on an image of Cthulu-like giant tentacles. Not shown was the snake gun, says Joe Dietsch, CEO and creative director of Join Us developer Wolf Haus Games.\nJoe Dietsch  |\nImage credit:\nWolf Haus Games\n\"One of our team member's sons had come up with the idea,\" he recalls. \"They said, 'Can there be a snake gun?' And we had a tool to make a gun that can be very quickly scaled, so in half an hour or something, I went in and made a gun that shoots snakes. That was mind-blowing for him. It's still in the game.\"\nThe story is indicative of the kind of chaotic gameplay to expect in Join Us, an open-world sandbox survival title in which the player can recruit followers – or co-op players – to their 70s-style cult. It's also indicative of the team's tech-focused approach, which has allowed them to make a big, high-fidelity game with a relatively tiny number of developers. Michael Abbott, COO of Wolf Haus, says that \"we wanted to be disruptors\".\n\"We were saying, 'Look, we don't need a hundred people, we could do everything with twelve'. And everybody just said that's impossible, they just wouldn't believe us.\" Yet the team has had experience of doing big things on small budgets. \"We come from indie films, and we're used to really punching above our weight.\" The team did 80 pitches before finally securing funding from Krafton and Lifelike Capital, both of which took an equity stake in Wolf Haus.\nFamily ties\nThe founding team behind Wolf Haus has deep Hollywood roots. Dietsch studied film at California's Chapman University alongside Mel Gibson's son Louie Gibson – another Wolf Haus co-founder – and the pair co-wrote and co-directed the movies Happy Hunting and Manifest West. Abbott, meanwhile, is the son of Hollywood make-up artist Larry Abbott, and helped to set up Ascendant Pictures – the film production company founded by Chris Roberts before he moved on to Star Citizen. Abbott would later work as a producer on films like Fight for '84, starring Jamie Foxx.\nMichael Abbott  |\nImage credit:\nWolf Haus Games\nJoin Us originated from Dietsch fooling around in Unreal. \"It's a very simple beginning, which is that I found that Unreal Engine was free to download,\" he explains. \"I'd loved games for years, I've played games as long as I've watched movies, but it felt like there was this extreme barrier to entry to actually create something in that space. But I picked up Unreal Engine and started exploring what was possible with it, just learning from YouTube tutorials.\"\nDespite having no previous experience, Dietsch managed to create a couple of small games, before deciding to try something bigger. \"I kept coming back to this idea of a doomsday cult simulator, because it combined a lot of things I like with survival and grindhouse cinema, bridging things I like in movies and games into one IP.\"\nHe began work on a proof of concept. \"In my mind, it was sort of like, 'I'll take this as far as I can go', and I assumed at some point I would hit the wall – at some point there would be this tech challenge where it's like, 'Okay, that's why I'm not supposed to do this'.\" He showed the demo to Abbott. \"And Michael then took it to Dooma.\"\nJoin Us - Official Announcement Trailer | Xbox Games Showcase 2026\nThe Join Us trailer shown at the Xbox Showcase in June\nWatch on YouTube\nDooma Wendschuh, chief financial officer and narrative director at Wolf Haus, began his career as a producer and a screenwriter in the film industry, but moved into video games in the early 2000s by setting up Sekretagent Productions, which provided writing services for Prince of Persia: The Two Thrones, Assassin's Creed, and Batman: Arkham Origins. He went on to found several tech firms in the 2010s, including the cannabis formulation company Ebbu, which was later sold for C$430 million ($330 million).\nThen he bought a restaurant on a tiny island in the middle of nowhere in Canada, and \"figured I was just retired and would go to the beach and walk my dog,\" he says. But in the best Hollywood tradition, just when he thought he was out, they pulled him back in.\nDooma Wendschuh  |\nImage credit:\nWolf Haus Games\n\"I got a call out of the blue from my old roommate back in the Hollywood Hills, Michael Abbott. And he said, 'A buddy of mine has made a video game'. I get a lot of calls like that. As a courtesy to my old roommate, I took that call and looked at the video game that Joe had made. And it just blew my mind – and got me out of retirement.\" Wendschuh took the game to Reid Schneider, a former VP at Warner Bros Games and now head of Journey to the Savage Planet maker Raccoon Logic. Schneider joined as a strategic advisor and recruited Pierre-Olivier Chartrand, previously a programmer at Ubisoft Montreal, as chief technology officer.\nThe team was taking shape; the next step was funding, which proved a lot harder. The team started pitching in the summer of 2023, with the industry downturn well advanced. \"People would always see the game we were building and say, 'Oh, this is cool', but it was a challenging time,\" says Dietsch. \"So we did initial outreach, and then subsequently signed with our agents, CAA [Creative Artists Agency] in Los Angeles, and regrouped with them, and went back out for pitches in 2024. And we eventually secured our seed round with Lifelike Capital and Krafton.\"\nThe game is a co-op survival title, slated to release next year. |\nImage credit:\nWolf Haus Games\nWendschuh thinks that the connection with CAA – which also represents titles like 007: First Light – helped a lot, as did the presence o"
+    },
+    {
+      "id": "20387e5a41",
+      "title": "Inner Pocket 是一家新成立的独立游戏发行商，致力于扶持“好奇心游戏”",
+      "summary": "新独立发行商Inner Pocket由Critical Reflex、Gaijin Entertainment和Nozomu Games的老兵创立，专注发行“好奇心游戏”，提供从市场策略、本地化到QA、Steam上架等支持，并可提供最高7.5万美元的收尾资金。其首个发行项目《Burn With Me》将于10月发售。对独立开发者而言，这是一个面向精品小众游戏的发行与融资新渠道。",
+      "url": "https://www.gamedeveloper.com/business/inner-pocket-is-a-new-indie-publishing-label-that-wants-to-champion-intimate-experiences",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T14:15:46",
+      "games": [
+        {
+          "name": "Burn With Me",
+          "desc": "Nozomu Games开发的occult主题卡牌烧牌游戏，是Inner Pocket首发项目之一，预计10月发售。"
+        }
+      ],
+      "translated_content": "标题：Inner Pocket 是一家新成立的独立游戏发行商，致力于扶持“好奇心游戏”\n\n正文：\n资深从业者创立独立发行品牌 Inner Pocket\n商业\n制作\n新闻\nInner Pocket 是一家新成立的独立游戏发行商，旨在扶持“好奇心游戏”\n这家独立发行商由来自 Critical Reflex、Gaijin Entertainment 和 Nozomu Games 的一群资深从业者共同创立。\nChris Kerr\n，新闻高级编辑，\nGameDeveloper.com\n2026年8月17日\n阅读时长1分钟\n图片由 Inner Pocket 提供\n来自 Critical Reflex、Gaijin Entertainment 和 Nozomu Games 的资深从业者共同推出了一家名为 Inner Pocket 的新独立发行品牌。\n这家新兴公司专注于将“亲密且引人入胜的”体验推向市场，为合作伙伴提供涵盖上市策略咨询、优化、预告片制作、用户获取、本地化、功能QA、平台关系等方面的支持。\n对于需要额外帮助来完成、打磨并准备在Steam上发布项目的合作伙伴，Inner Pocket 还将提供最后一公里投资。该品牌表示，其签约的大多数项目所需资金将低于75,000美元。\n此外，Inner Pocket 还计划通过专注于Steam鉴赏家推荐以及与YouTube和Discord上的玩家互动，来培养一个充满热情的社区。\n“我们从一开始就选择了一个非常具体的细分领域，并且会对自己发行的游戏非常挑剔，”Inner Pocket 联合创始人 Yaroslav Kadyshen 表示。\n相关阅读：\nPokemon Pokopia 全球销量突破500万份\n“与此同时，市面上已经有一些优秀的作品恰好捕捉到了我们追求的那种感觉。我们希望从两个方面帮助这个领域成长：作为发行商，通过支持开发好奇心游戏的创作者，帮助更多这样的作品被制作出来；作为鉴赏家，通过发掘那些已经存在的优秀作品——那种多年后你仍会想起、深藏于心的游戏。”\nNozomu Games 的 occult 卡牌烧毁游戏 Burn With Me 将于十月发售，届时将成为 Inner Pocket 的首批发行作品之一。\n了解更多关于：\n游戏发行\n头条新闻\n关于作者\nChris Kerr\n新闻高级编辑，GameDeveloper.com\nGame Developer 新闻编辑 Chris Kerr 是一位屡获殊荣的记者，在游戏行业拥有超过十年的经验。他的署名曾出现在多家知名印刷及数字出版物上，包括 Edge、Stuff、Wireframe、International Business Times 和 PocketGamer.biz。在其职业生涯中，Chris 报道过多个大型行业活动，包括GDC、PAX Australia、Gamescom、Paris Games Week 和 Develop Brighton。\n查看更多来自\nChris Kerr 的内容\n每日新闻、开发博客以及来自 Game Developer 的故事，直接发送至您的邮箱\n保持关注\n最新新闻\n更多新闻\n商业\nPokemon Pokopia 全球销量突破500万份\nPokemon Pokopia 全球销量突破500万份\n作者：\nChris Kerr\n2026年8月17日\n阅读时长1分钟\n在 Game Developer 上持续关注 GDC Festival of Gaming 的最新新闻、访谈和演讲报道\n继续阅读\n最新播客\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin 和 Guido Di Carlo\n2026年8月7日\n音频\nGDC Side Quest - 与不屈的 Sam Beart 对谈\n2026年7月31日\n商业\nJackbox Games 如何度过疫情后销售低迷期，嘉宾：Mike Bilder\n2026年7月24日\nPC\nNexusMods CEO 深入探讨视频游戏模组的动态，嘉宾：Victor Folmann\n2026年7月10日\n查看全部\nGame Developer Collective\n更多\n商业\n销售DLC和内购的游戏似乎从订阅服务中获益最多\n销售DLC和内购的游戏似乎从订阅服务中获益最多\n作者：\nBryant Francis\n2026年1月27日\n阅读时长3分钟\n商业\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n开发者比以往任何时候都更担心生成式AI会降低游戏质量\n作者：\nBryant Francis\n2025年9月16日\n阅读时长4分钟\n游戏设计与营销亮点\n查看更多\n设计\nForbidden Solitaire 如何将纸牌游戏带到台前\nForbidden Solitaire 如何将纸牌游戏带到台前\n营销\nTwitch 会将你献给它的AI主宰，无论你愿不愿意\nTwitch 会将你献给它的AI主宰，无论你愿不愿意",
+      "original_content": "Veterans launch indie publishing label Inner Pocket\nBusiness\nProduction\nNews\nInner Pocket is a new indie publisher looking to champion 'curiosity games'\nThe indie publisher has been established by a group of Critical Reflex, Gaijin Entertainment, and Nozomu Games veterans.\nChris Kerr\n,\nSenior Editor, News\n,\nGameDeveloper.com\nAugust 17, 2026\n1 Min Read\nImage via Inner Pocket\nVeterans from Critical Reflex, Gaijin Entertainment, and Nozomu Games have launched a new indie publishing label called\nInner Pocket\n.\nThe fledging company is focused on bringing \"intimate and engaging\" experiences to market by providing partners with support covering go-to-market counsel, optimization, trailer production, user acquisition, localization, functional QA, platform relations, and more.\nLast-mile investment will also be offered to partners who need extra help to finish, polish, and prepare their project for release on Steam. The label has explained that most projects it signs will need less than $75,000 in funding.\nIn addition, Inner Pocket intends to foster a passionate community by focusing on Steam curation and engaging with players on YouTube and Discord.\n\"We're choosing a pretty specific niche from the start, and we're going to be very picky about the games we publish,\" said Inner Pocket co-founder, Yaroslav Kadyshen.\nRelated:\nPokemon Pokopia has topped 5 million sales worldwide\n\"At the same time, there are already great titles out there that capture exactly the kind of feeling we're after. We want to help grow this space in two ways: as a publisher, by supporting developers making curiosity games and helping more of them get made; and as a curator, by surfacing the great ones that are already out there. The kind you still think about years later—the games you keep close to your heart.\"\nNozomu Games' occult deck-burner\nBurn With Me\nwill become one of Inner Pocket's debut titles when it lands in October.\nRead more about:\nVideo Game Publishing\nTop Stories\nAbout the Author\nChris Kerr\nSenior Editor, News, GameDeveloper.com\nGame Developer news editor Chris Kerr is an award-winning reporter with over a decade of experience in the game industry. His byline has appeared in notable print and digital publications including Edge, Stuff, Wireframe, International Business Times, and PocketGamer.biz. Throughout his career, Chris has covered major industry events including GDC, PAX Australia, Gamescom, Paris Games Week, and Develop Brighton.\nSee more from\nChris Kerr\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nPokemon Pokopia has topped 5 million sales worldwide\nPokemon Pokopia has topped 5 million sales worldwide\nby\nChris Kerr\nAug 17, 2026\n1 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nDesign\nHow Forbidden Solitaire brought solitaire games to the forefront\nHow Forbidden Solitaire brought solitaire games to the forefront\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not"
+    },
+    {
+      "id": "881c17a689",
+      "title": "为游戏行业巨额交易提供建议的人",
+      "summary": "本文采访Aream & Co联合创始人Affan Butt，分享其在110多笔、累计400亿美元游戏并购中的经验。核心观点是交易往往始于多年关系维护，创始人应区分善意接触与公司开发人员的例行工作，并选择在增长曲线最好时结构化谈判。对计划出售公司的创始人具有实操参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/the-man-who-advises-on-gamings-biggest-deals",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T13:28:00",
+      "games": [
+        {
+          "name": "Hay Day",
+          "desc": "Supercell的农场经营手游，2012年刚上线时被用作行业早期背景。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell的策略手游，文中以“Clash”代称，当时尚未正式推出。"
+        }
+      ],
+      "translated_content": "标题：为游戏行业巨额交易提供建议的人 — Deconstructor of Fun\n0\n为游戏行业巨额交易提供建议的人\n商业\n投资/并购\n8月17日\n撰写人\nAylin Yazıcı\n\nAffan Butt联合创立了Aream & Co.，这家投资银行迄今已为超过110笔游戏交易提供顾问服务，交易总额高达惊人的400亿美元。Affan一直坐在创始人一边，代表他们与各种买家谈判。所以我问他，在今天的环境下，创始人在出售公司之前应该知道些什么。\n\n在Deconstructor of Fun收听完整对话\n\nAffan Butt正沿着伦敦的Regent Street行走，身旁是Akin Babaygit，后者正在谈论来自伊斯坦布尔的最新火箭式增长公司。惊人的数据，正在融资。Affan问他们为什么选择融资而不是出售。理由很简单：在混合休闲游戏领域，没人能预见未来，而如果规模足够大，最终你反正会卖给沙特人或中国人。那为什么不趁现在图表还在垂直上升时，就带着结构性地展开这场对话？\n\n这家公司是Loom Games。创立四个月，员工不到十人，一款前景看好但没人能预测六个月后走势的游戏。Affan的公司将其出售给了沙特所有的Scopely，交易金额超过十亿美元。\n\n这家公司就是Aream & Co.，由他与Kartik Parbhakara于2019年共同创立。七年间完成超过110笔交易，交易总额达400亿美元，过去五年游戏行业所有1亿美元以上卖方交易中，超过一半由他们经手。他坐在创始人一边，代表他们与各种买家谈判。所以我问他，在今天的环境下，创始人在出售公司之前应该知道些什么。\n\n交易在交易开始前数年就已萌芽\n\n成功的秘诀在于，你大多数时候只需要被人喜欢。\n\n“2012年，我在LinkedIn上联系了Ilkka Paananen（Supercell的CEO兼联合创始人）。我说，嘿，我只是想来坐坐聊聊。不知为何，他说‘好啊’。”\n\nAffan飞往赫尔辛基，几乎花了一整天时间和Ilkka及Petteri待在一起——后者当时是Supercell的董事会主席，如今是传奇风险投资人。他没有推销任何东西。当时Hay Day刚刚上线，Clash还未问世，Sensor Tower也还不存在，没有什么数据可以拿来卖弄聪明。\n\n同样的模式也发生在伊斯坦布尔。2012年他出现在Sidar（Peak创始人）的办公室时，那里只有四个人。那些行程中有很多都毫无结果。他说，如果十年前就能知道哪些公司会成为独角兽，他会去做投资而不是做顾问。\n\n幕布之后\n\n中间发生的事情归结为准备和心理。\n\n正式的并购流程从首次接触到交割大约需要六个月。但正是关系层面的工作才可能让正式流程花费数年时间，而且这些工作在计时开始之前就已经进行了。这也是为什么Affan对创始人主动找上门的企业发展部门兴趣持怀疑态度。创始人往往把大公司发来的热情洋溢的邮件当作对自己的认可，而实际上，那只是企业发展专业人士工作职责的一部分。\n\n关于准备，他讲了一个隐去名字的故事。他们做了推介，就估值、买家名单、时间表和费用达成一致，并签了约。一周后，在尽职调查启动会议上，创始人把自己的预测下调了百分之二十五。信任就此丧失，交易也崩了。\n\n当FOMO适得其反时\n\n今天的收购方池子也比过去更小，这就是为什么竞购战可能适得其反。\n\n关于FOMO（错失恐惧），他拒绝接受那种奉承式的回答。“我们当然希望认为我们（银行家）是魔术师，但现实是，是游戏和团队本身创造了真正的FOMO。”银行家增加的价值是让事情具有可执行性的可信度。\n\n今天的收购方池子也比过去更小，而且不是出于商业原因。地缘政治在讨论价格之前就排除了买家，通常没有任何正式的裁决文件。大家就是心照不宣。\n\n创始人最难相信的一点是：在Loom的交易中，第一天就有更好的报价。但创始人还是选择了Scopely。“如果有人说，‘这是一亿美元，很多钱，比六千万多。就算不行，谁在乎呢？我有一亿了。’但事情不是那样的。对于创始人来说，那是他们的公司，是他们的孩子。”\n\n这就是为什么竞购战可能适得其反。在告诉一个买家你正在进行一场低调的流程之后，又把推介材料群发给每一个有邮箱地址的人——这就是一个小型行业不再信任你的方式。代价会落在签约到交割之间那三个月里，那期间总会有事情出岔子。\n\n“如果你表现得纯粹交易导向，你唯一关心的就是最后一分钱，那么当任何事出了岔子时，买家就会说，‘实际上，我想要回一部分钱。’而另一种情况是，我们说好了签了约，别担心，我们一起解决。每个人都同样满意或同样不满意，才是正确的交易。”\n\n与直觉相反的是，Affan也经常告诉创始人不要出售，频率比你想象的要高，通常是因为他了解买家那边的情况。",
+      "original_content": "The Man Who Advises on Gaming’s Biggest Deals — Deconstructor of Fun\n0\nThe Man Who Advises on Gaming’s Biggest Deals\nBusiness\nInvesting / M&A\nAug 17\nWritten By\nAylin Yazıcı\nAffan Butt’s co-founded\nAream & Co\n., an investment bank that has advised on over 110 gaming deals worth an astonishing $40 billion to date. Affan has sat on the founder's side of the table, negotiating with every kind of buyer on their behalf. So I asked him what a founder should know before selling today.\nListen to the full conversation on Deconstructor of Fun\nAffan Butt\nwas walking down London’s Regent Street with\nAkin Babaygit\n, who was talking about the latest rocket ship out of Istanbul. Astonishing metrics, raising money. Affan asked why they were raising instead of selling. The argument was simple: nobody can see around the corner in hybridcasual, and if it gets big enough, you end up selling to the Saudis or the Chinese anyway. So why not have that conversation now, with structure, while the chart is still vertical?\nThe company was\nLoom Games\n. Four months old, fewer than a dozen people, one promising game nobody could forecast six months out. Affan's firm sold it to Saudi-owned\nScopely\nfor over a billion dollars.\nThat firm is Aream & Co, which he set up in 2019 with\nKartik Parbhakara\n. Over 110 transactions in seven years, $40 billion in value, more than half of all $100M-plus sell-side deals in gaming over the last five years. He sits on the founder’s side of the table and negotiates with every kind of buyer on their behalf. So I asked him what a founder should know before selling today.\nHOW DEALS START YEARS BEFORE THE DEAL\nThe secret to being successful is that you mostly just have to be liked.\n\"In 2012, I reached out to\nIlkka Paananen\n(CEO and co-founder of Supercell) on LinkedIn. I said, hey, I just want to come hang out. And for some reason, he said Sure.\"\nAffan flew to Helsinki and spent almost the entire day with Ilkka and Petteri, then Supercell's president of the board and a legendary venture capitalist today. He pitched nothing. Hay Day had just launched, Clash was still coming, and\nSensor Tower\ndid not exist yet, so there was no data to be clever with.\nSame pattern in Istanbul, where he showed up at the Sidar's (founder of Peak) office in 2012 when there were four people in it. Plenty of those trips went nowhere. If he knew ten years out who the unicorns would be, he says, he would be investing instead of advising.\nBEHIND THE CURTAIN\nWhat happens in between comes down to preparation and psychology.\nThe formal M&A process runs roughly six months from first outreach to close. Yet it’s the relationship work that makes the formal process possibly take years and happens before the clock starts. This is also why Affan treats inbound corporate development interest from founders with suspicion. Founders tend to read a warm email from a big company as validation when it’s, in reality, part of a corporate development professional’s job description.\nOn preparation, he told a story with the name removed. They pitched, agreed on valuation, buyer list, timeline, and fees, and signed. One week later, at the due diligence kickoff meeting, the founders lowered their own projections by twenty-five percent. The trust was lost, and the deal crashed.\nWHEN FOMO BACKFIRES\nThe pool of acquirers is also smaller today than it used to be, which is why a bidding war can backfire.\nOn FOMO, he refused the flattering answer. \"We would love to think we (bankers) are magicians, but the reality is that it is the game and the team that creates the real FOMO.\" What the banker adds is credibility that something is actionable.\nThe pool of acquirers is also smaller today than it used to be, and not for commercial reasons. Geopolitics removes buyers before price is ever discussed, usually with no formal ruling anywhere. It is just understood.\nThe part founders find hardest to believe: on Loom, there were better offers on day one. The founders took Scopely anyway. \"If somebody says, ' Here is a hundred million bucks, that is a lot of money, and it is more than sixty. If it does not work out, who cares? I have a hundred million. But that is not how it works. For founders, it is their company. It is their baby.\"\nWhich is why a bidding war can backfire. Blasting a teaser to everyone with an email account after telling a buyer you were running a quiet process is how a small industry stops trusting you. The cost lands in the three-month gap between signing and closing, when something always goes sideways.\n\"If you have come across as transactional, and the only thing you cared about was the last penny, then when anything goes sideways, the buyer says, ' Actually, I want some of that money back. Versus saying, we signed a deal, do not worry; let us sort this out together. Everybody equally happy or equally unhappy is the right deal.\"\nCounterintuitively, Affan also tells founders not to sell more often than you would expect, usually because he knows the buyer landscape has no market for that profile right now. Some founders take another opinion from another banker and hit the market anyway. His argument is that no one is free.\n\"Why do you want to get twenty no’s when I have high conviction it is going to be a no? It goes in the acquirers’ database. They looked at it and said no. Next time, the bar is just much higher.\"\nSELL, SOME, AND KEEP BUILDING\nThe most expensive mistake is not a bad deal. It is a missed one.\n\"The vast majority of regrets are the ones that did not happen. Theoretically, tomorrow you are always going to be more valuable than today. But that is theoretical, and that is on Excel, and that is in a world where nothing is changing.\"\nThe alternative is taking money off the table, referred to as “secondaries,” where investors buy shares from founders and employees.\nHis reference case is the Supercell 2013 secondary, where everyone from founders to support function sold sixteen percent of their stock and vested options. The investor"
+    },
+    {
+      "id": "c06861aeab",
+      "title": "Pokemon Pokopia 全球销量超500万份",
+      "summary": "《Pokémon Pokopia》是Switch 2独占生活模拟游戏，2026年3月5日发售，截至6月30日全球销量已超500万份。这意味着Switch 2已售主机中约每五台就有一台购买了该作。该数据展示了顶级IP在主机周期早期对硬件和软件销售的拉动作用。",
+      "url": "https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-5-million-sales-worldwide",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T13:14:14",
+      "games": [
+        {
+          "name": "Pokémon Pokopia",
+          "desc": "Switch 2独占生活模拟游戏，全球销量已突破500万份。"
+        }
+      ],
+      "translated_content": "Pokemon Pokopia 全球销量超500万份\n\n商业\n主机\n新闻\n\nPokemon Pokopia 全球销量超500万份\n\n我选择你。\n\nChris Kerr，\n新闻高级编辑，\nGameDeveloper.com\n\n2026年8月17日\n1分钟阅读\n\n图片来自Nintendo\n\n新闻简报：\nSwitch 2 独占\nPokémon Pokopia\n全球销量已超过500万份。Nintendo 和 The Pokemon Company\n公布了这一消息\n并解释该里程碑包括数字版和实体版。\n\n这款热门生活模拟游戏于2026年3月5日在Nintendo Switch 2上发布，并已成为该平台最畅销的游戏之一。截至2026年6月30日，Nintendo Switch 2 在全球已售出2368万台，表明约有五分之一的游戏机用户购买了\nPokémon Pokopia。\n\n了解更多：\n新闻简报\n游戏销售数据\n\n关于作者\nChris Kerr\n新闻高级编辑，GameDeveloper.com\n\nGame Developer 新闻编辑 Chris Kerr 是一位获奖记者，在游戏行业拥有十多年的经验。他的署名曾出现在包括Edge、Stuff、Wireframe、International Business Times和PocketGamer.biz在内的知名纸质和数字出版物上。在他的职业生涯中，Chris报道过GDC、PAX Australia、Gamescom、Paris Games Week和Develop Brighton等主要行业活动。",
+      "original_content": "Pokemon Pokopia has topped 5 million sales worldwide\nBusiness\nConsole\nNews\nPokemon Pokopia has topped 5 million sales worldwide\nI choose you.\nChris Kerr\n,\nSenior Editor, News\n,\nGameDeveloper.com\nAugust 17, 2026\n1 Min Read\nImage via Nintendo\nNewsbrief:\nSwitch 2 exclusive\nPokémon Pokopia\nhas surpassed 5 million sales worldwide. Nintendo and The Pokemon Company\nshared the news\nand explained that milestone includes both digital and physical editions.\nThe popular life simulator launched on March 5, 2026, for the Nintendo Switch 2 and has become one of the system's top-selling titles. The Nintendo Switch 2 had sold precisely 23.68 million units globally as of June 30, 2026, indicating that around one in five console owners have purchased\nPokémon Pokopia\n.\nRead more about:\nNewsbrief\nGame Sales Figures\nAbout the Author\nChris Kerr\nSenior Editor, News, GameDeveloper.com\nGame Developer news editor Chris Kerr is an award-winning reporter with over a decade of experience in the game industry. His byline has appeared in notable print and digital publications including Edge, Stuff, Wireframe, International Business Times, and PocketGamer.biz. Throughout his career, Chris has covered major industry events including GDC, PAX Australia, Gamescom, Paris Games Week, and Develop Brighton.\nSee more from\nChris Kerr\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nInner Pocket is a new indie publisher looking to champion 'curiosity games'\nInner Pocket is a new indie publisher looking to champion 'curiosity games'\nby\nChris Kerr\nAug 17, 2026\n1 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nDesign\nHow Forbidden Solitaire brought solitaire games to the forefront\nHow Forbidden Solitaire brought solitaire games to the forefront\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not"
+    },
+    {
+      "id": "bd0b9b3ab7",
+      "title": "消息称阿里巴巴将以超20亿美元出售游戏部门",
+      "summary": "据Reuters报道，阿里巴巴将以超过20亿美元把游戏部门灵犀互娱出售给投资公司Trustar Capital，最终估值高于此前传闻的7至9亿美元。这次出售是阿里调整非核心资产、聚焦云与AI战略的一部分，灵犀旗下《三国志·战略版》是主要旗舰。对从业者而言，该交易反映中国互联网巨头正在重新评估游戏业务在集团中的定位。",
+      "url": "https://gameworldobserver.com/2026/08/17/report-alibaba-to-sell-gaming-division-for-over-2-billion",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T11:44:12",
+      "games": [
+        {
+          "name": "Three Kingdoms Tactics",
+          "desc": "灵犀互娱推出并运营的三国题材移动策略游戏，是公司旗舰产品。"
+        }
+      ],
+      "translated_content": "消息称阿里巴巴将以超20亿美元出售游戏部门 | Game World Observer\n行业新闻\n开发者访谈\n游戏开发\n市场营销\n市场分析\n交易\n法律\n行业新闻\n17.08.2026 14:44\n17.08.2026 14:44\nadmin\n消息称阿里巴巴将以超20亿美元出售游戏部门\n发布者\nadmin\n标签：\n阿里巴巴\n、\n灵犀互娱\n、\nTrustar Capital\n据称该部门将被投资公司Trustar Capital收购。\n《三国志·战略版》\n一个月前有传闻称，中国企业阿里巴巴计划出售其游戏品牌灵犀互娱。当时，本地媒体报道称阿里巴巴正在与多家公司洽谈，但尚未做出最终决定。据路透社最新发现，该交易确实将要达成。\n值得注意的是，灵犀互娱最初的估值要低得多——介于70亿至90亿元人民币（约10亿至13.3亿美元）之间，但最终决定提高了售价。\n据路透社消息人士透露，阿里巴巴目前正在重新评估非核心资产，这是其业务战略调整的一部分。该公司似乎更关注云技术和人工智能，而非电子游戏，因此与灵犀互娱分道扬镳是合乎逻辑的一步。\n回顾一下，阿里巴巴于2017年以10亿美元收购了灵犀互娱（当时名为广州简悦）。两年后，该部门发布了《三国志·战略版》——一款以中国古代为背景的移动策略游戏，至今仍是灵犀互娱的旗舰产品。\n阿里巴巴、灵犀互娱和Trustar Capital均未对路透社的报道发表评论。\n来源：\n路透社\n有新闻线索想要分享？请通过press@gameworldobserver.com联系我们\n标签：\n阿里巴巴\n灵犀互娱\nTrustar Capital\n发布中....",
+      "original_content": "Report: Alibaba to sell gaming division for over $2 billion | Game World Observer\nIndustry News\nDev Interviews\nGame Development\nMarketing\nMarket Analysis\nDeals\nLegal\nIndustry News\n17.08.2026 14:44\n17.08.2026 14:44\nadmin\nReport: Alibaba to sell gaming division for over $2 billion\nPublished by\nadmin\nTags:\nAlibaba\n,\nLingxi Games\n,\nTrustar Capital\nIt is allegedly going to be acquired by the investment firm Trustar Capital.\nThree Kingdoms Tactics\nRumors that the Chinese corporation Alibaba plans to sell its gaming brand Lingxi Games emerged a month ago. At the time, local media reported that Alibaba was in talks with several companies, but a final decision had not yet been reached. As\nReuters has now discovered\n, the sale is indeed going to happen.\nNotably, the initial valuation of Lingxi Games was significantly lower—between 7 and 9 billion yuan ($1-1.33 billion), but ultimately, the price was decided to be raised.\nAccording to Reuters sources, Alibaba is currently reassessing non-core assets as part of a change in business strategy. It appears that the corporation is more interested in cloud technologies and artificial intelligence rather than video games, making the separation from Lingxi Games a logical step.\nTo recall, Alibaba itself bought Lingxi Games (then known as Guangzhou Ejoy) in 2017 for $1 billion. Two years later, the division released Three Kingdoms Tactics—a mobile strategy game set in Ancient China, which remains the flagship game of Lingxi Games.\nAlibaba, Lingxi Games, and Trustar Capital have not commented on the Reuters information.\nSource:\nReuters\nGot a story you'd like to share? Reach us at\npress@gameworldobserver.com\nTags:\nAlibaba\nLingxi Games\nTrustar Capital\nPosting...."
+    },
+    {
+      "id": "0b26889f4d",
+      "title": "芭比与风火轮母公司美泰成立 Mattel Game Studios",
+      "summary": "美泰成立Mattel Game Studios，整合近300名游戏员工，负责芭比、风火轮、UNO等IP的自主开发、发行与运营，并将进入Roblox、Fortnite等UGC平台制作原创体验。此前美泰刚以3.18亿美元从网易手中收购Mattel163。此举显示玩具公司正将游戏作为品牌组合的核心增长方向，可能带来更多IP授权与合作机会。",
+      "url": "https://www.gamedeveloper.com/business/barbie-and-hot-wheels-owner-mattel-launches-mattel-game-studios",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T11:15:50",
+      "games": [
+        {
+          "name": "UNO!",
+          "desc": "Mattel163发行的经典卡牌游戏《UNO》移动版，累计下载量超过5.5亿。"
+        },
+        {
+          "name": "UNO Wonder",
+          "desc": "Mattel163推出的UNO系列衍生移动游戏。"
+        },
+        {
+          "name": "Phase 10",
+          "desc": "Mattel163发行的卡牌类移动游戏。"
+        },
+        {
+          "name": "Skip",
+          "desc": "Mattel163发行的桌游/卡牌移动游戏。"
+        },
+        {
+          "name": "UNO Wild",
+          "desc": "美泰正在筹备软启动的新UNO移动游戏体验。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "UGC游戏平台，美泰将在此平台制作基于旗下品牌的原创体验。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games的UGC/大逃杀游戏，美泰将在此平台制作原创体验。"
+        }
+      ],
+      "translated_content": "芭比与风火轮母公司美泰成立 Mattel Game Studios\n\n商业\n制作\n移动\n新闻\n\n芭比与风火轮母公司美泰成立 Mattel Game Studios\n\n这家玩具公司希望基于其庞大的品牌组合开发、发行和运营电子游戏。\n\nChris Kerr\n，新闻高级编辑，\nGameDeveloper.com\n2026年8月17日\n1分钟阅读\n\n图片来源：Mattel\n\n玩具制造商美泰已成立 Mattel Game Studios，负责基于公司品牌组合开发、发行和运营游戏作品。\n\n这个新成立的组织将成为 Mattel Digital Studios 的子公司——后者是该公司旗下更广泛的数字游戏组织，涵盖自主发行作品和授权项目——并汇集洛杉矶和杭州近300名游戏从业者。\n\nMattel Game Studios 将负责管理美泰现有的移动端游戏产品组合，并发行新的免费智能手机游戏。此外，值得注意的是，它还将负责在 Roblox 和 Fortnite 等热门用户生成内容平台上制作原创体验。\n\n对这家娱乐巨头而言，这是一次值得关注的举措。该公司旗下拥有芭比、风火轮、UNO、宇宙的巨人、波利口袋、托马斯和朋友等主要品牌。\n\n该消息发布前不久，美泰以3.18亿美元的估值从中国企业集团网易手中收购了移动游戏工作室 Mattel163。\n\nMattel163 在 Facebook 上发布的一篇帖子中确认，其现将成为 Mattel Game Studios 的一部分。\n\n相关：Inner Pocket 是一家致力于推广“好奇心游戏”的新独立发行商\n\nMattel163 的移动游戏产品组合——包括 UNO!、UNO Wonder、Phase 10 和 Skip——自2018年以来已在全球获得超过5.5亿次下载，月活跃玩家约达2000万。\n\nMattel Digital Studios 全球主管 Marcus Liassides 在谈及此举时表示，公司决心“推出更多受我们标志性品牌启发的原创游戏体验。”\n\n基于这一目标，Mattel Game Studios 目前正在开发一款全新的 Hot Wheels 游戏，同时准备软启动一款名为 UNO Wild 的新 UNO 体验。\n\n了解更多：新工作室公告、头条新闻\n\n关于作者\n\nChris Kerr，GameDeveloper.com 新闻高级编辑\n\nGame Developer 新闻编辑 Chris Kerr 是一位屡获殊荣的记者，在游戏行业拥有超过十年的经验。他的名字曾出现在 Edge、Stuff、Wireframe、International Business Times 和 PocketGamer.biz 等知名印刷和数字出版物上。在其职业生涯中，Chris 报道过 GDC、PAX Australia、Gamescom、Paris Games Week 和 Develop Brighton 等重大行业活动。\n\n查看更多来自 Chris Kerr 的内容\n\nGame Developer 的每日新闻、开发者博客和故事直达您的收件箱\n\n保持关注\n\n最新新闻\n更多新闻\n\n商业\nInner Pocket 是一家致力于推广“好奇心游戏”的新独立发行商\nInner Pocket 是一家致力于推广“好奇心游戏”的新独立发行商\n作者：Chris Kerr\n2026年8月17日\n1分钟阅读\n\n在 Game Developer 上了解 GDC Festival of Gaming 的最新新闻、采访和演讲报道\n继续阅读\n\n最新播客\n\n制作\n开发者需要了解的本地化知识，嘉宾：Concha Fernandez Alvarez、Aurelie Perrin 和 Guido Di Carlo\n2026年8月7日\n\n音频\nGDC Side Quest - 与顽强不屈的 Sam Beart 对谈\n2026年7月31日\n\n商业\nJackbox Games 如何应对疫情后的销售低迷，嘉宾：Mike Bilder\n2026年7月24日\n\nPC\nNexusMods CEO 深入探讨游戏模组生态的运作机制，嘉宾：Victor Folmann\n2026年7月10日\n\n查看全部\n\nGame Developer Collective\n更多\n\n商业\n销售 DLC 和应用内购的游戏似乎最能从订阅服务中获益\n销售 DLC 和应用内购的游戏似乎最能从订阅服务中获益\n作者：Bryant Francis\n2026年1月27日\n3分钟阅读\n\n商业\n开发者比以往任何时候都更担心生成式 AI 会降低游戏质量\n开发者比以往任何时候都更担心生成式 AI 会降低游戏质量\n作者：Bryant Francis\n2025年9月16日\n4分钟阅读\n\n游戏设计与营销精选\n查看更多\n\n设计\nForbidden Solitaire 如何将纸牌游戏推向聚光灯下\nForbidden Solitaire 如何将纸牌游戏推向聚光灯下\n\n营销\n无论你喜不喜欢，Twitch 都会把你献祭给它的 AI 霸主\n无论你喜不喜欢，Twitch 都会把你献祭给它的 AI 霸主",
+      "original_content": "Barbie and Hot Wheels owner Mattel launches Mattel Game Studios\nBusiness\nProduction\nMobile\nNews\nBarbie and Hot Wheels owner Mattel launches Mattel Game Studios\nThe toy company wants to develop, publish, and operate video games based on its sprawling brand portfolio.\nChris Kerr\n,\nSenior Editor, News\n,\nGameDeveloper.com\nAugust 17, 2026\n1 Min Read\nImage via Mattel\nToy maker Mattel has\nestablished Mattel Game Studios\nto develop, publish, and operate titles based on the company's brand portfolio.\nThe nascent organisation will be a subsidiary of Mattel Digital Studios—the company's broader digital games organisation spanning self-published titles and licensed projects—and unite almost 300 video game workers across Los Angeles and Hangzhou.\nMattel Games Studios will oversee Mattel's existing mobile portfolio and publish new free-to-play smartphone titles. It will also, notably, oversee the production of original experiences on popular user-generated content platforms such as Roblox and Fortnite.\nIt's a notable move for the entertainment giant, which owns major brands such as Barbie, Hot Wheels, Uno, Masters of the Universe, Polly Pocket, and Thomas and Friends.\nThe news comes shortly after Mattel\nacquired mobile studio Mattel163\nfrom Chinese conglomerate NetEase at a valuation of $318 million.\nIn a post on Facebook\n, Mattel163 confirmed it will now become a part of Mattel Games Studios.\nRelated:\nInner Pocket is a new indie publisher looking to champion 'curiosity games'\nMattel163’s portfolio of mobile games—including\nUNO!\n,\nUNO Wonder\n,\nPhase 10\n, and\nSkip\n—has generated more than 550 million downloads worldwide and reached approximately 20 million monthly active players since 2018.\nDiscussing the move, Mattel Digital Studios global head Marcus Liassides said the company is determined to \"publish more original gaming experiences inspired by our iconic brands.\"\nWith that in mind, Mattel Game Studios is currently developing a fresh Hot Wheel title while preparing to soft launch a new UNO experience dubbed\nUNO Wild\n.\nRead more about:\nNew Studio Announcements\nTop Stories\nAbout the Author\nChris Kerr\nSenior Editor, News, GameDeveloper.com\nGame Developer news editor Chris Kerr is an award-winning reporter with over a decade of experience in the game industry. His byline has appeared in notable print and digital publications including Edge, Stuff, Wireframe, International Business Times, and PocketGamer.biz. Throughout his career, Chris has covered major industry events including GDC, PAX Australia, Gamescom, Paris Games Week, and Develop Brighton.\nSee more from\nChris Kerr\nDaily news, dev blogs, and stories from Game Developer straight to your inbox\nStay Updated\nLatest News\nMore News\nBusiness\nInner Pocket is a new indie publisher looking to champion 'curiosity games'\nInner Pocket is a new indie publisher looking to champion 'curiosity games'\nby\nChris Kerr\nAug 17, 2026\n1 Min Read\nKeep up with the latest News, Interviews, and Talk Coverage from GDC Festival of Gaming right here on Game Developer\nREAD ON\nLatest Podcasts\nProduction\nWhat devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo\nAug 7, 2026\nAudio\nGDC Side Quest - A Sit-Down With The Indomitable Sam Beart\nJul 31, 2026\nBusiness\nHow Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder\nJul 24, 2026\nPC\nNexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann\nJul 10, 2026\nSee all\nGame Developer Collective\nMore\nBusiness\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nGames that sell DLC and in-app purchases appear to benefit most from subscription services\nby\nBryant Francis\nJan 27, 2026\n3 Min Read\nBusiness\nDevs are more worried than ever that generative AI will lower the quality of games\nDevs are more worried than ever that generative AI will lower the quality of games\nby\nBryant Francis\nSep 16, 2025\n4 Min Read\nGame Design & Marketing Highlights\nSee More\nDesign\nHow Forbidden Solitaire brought solitaire games to the forefront\nHow Forbidden Solitaire brought solitaire games to the forefront\nMarketing\nTwitch will sacrifice you to its AI overlord whether you like it or not\nTwitch will sacrifice you to its AI overlord whether you like it or not"
+    },
+    {
+      "id": "704731ffde",
+      "title": "Saber Interactive 为 Steam 上的 Rideshare 添加 AI 声明；CEO 向前主编剧道歉",
+      "summary": "Saber Interactive在争议后为《Rideshare Simulator》Steam页面添加AI披露，说明主线故事由人类撰写，AI用于语音生成、部分本地化和Free Ride模式。此前CEO Matt Karch对前编剧Stella Sacco的贬低言论引发批评，随后道歉。事件反映出AI使用透明度和高管沟通方式对工作室声誉的重要影响。",
+      "url": "https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T10:24:45",
+      "games": [
+        {
+          "name": "Rideshare Simulator",
+          "desc": "Saber Interactive发行的模拟游戏，因AI替代编剧争议在Steam页面添加AI使用披露声明。"
+        }
+      ],
+      "translated_content": "标题：Saber Interactive 为 Steam 上的 Rideshare 添加 AI 声明；CEO 向前主编剧道歉\n\n正文：\nSaber Interactive 为 Steam 上的 Rideshare Simulator 页面添加了 AI 声明，此前该公司被指控解雇了一名参与该游戏开发的编剧，转而使用 AI 撰写的文案，此事引发了争议。\n\n以下是声明全文：\n“主线战役故事、角色和对话由一支人类编剧团队撰写。AI 工具仅用于语音生成和部分本地化。\n\n可选的 Free Ride 模式包含 AI 生成的乘客任务和本地化对话。Free Ride 模式与主线战役相互独立，偏好仅体验人类撰写叙事内容的玩家可以跳过该模式。\n\n游戏还包含一系列混合电台，其中既有真人创作的音乐，也有 AI 生成的音乐。包含 AI 生成音乐的电台在游戏中均有明确标注。”\n\n此次更新之前，Saber CEO Matt Karch 曾就编剧 Stella Sacco 一事发表评论。Sacco 于 2023 年 7 月至 2024 年 7 月期间在 Saber 工作，她表示自己在 Rideshare 开发中途被移除，并由 ChatGPT 取代，同时她还指控游戏开发过程中存在其他当时尚未公开的 AI 使用情况。\n\n对此，Karch 回应称，Sacco“被一位更有才华的人取代，并在几个月后因多种原因被解雇”，并补充道“事后看来，[他] 很乐意用 AI 取代她”。\n\n“Stella 是谁？我不得不去问 Claude，因为我从未和她说过话，也从未见过她，”Karch 告诉 This Week In Videogames。“我们已经说过会在游戏的某些部分使用 AI，一旦我们确定了功能集，就会更新 Steam 页面。”\n\n“我们认为在这款特定游戏中使用 AI——这将是一款定价较低的作品——对消费者来说是一个加分项。”\n\n在本周末的一篇 BlueSky 帖子中，Sacco 写道，Karch“毫无保留地为他媒体上谈论我的糟糕方式道了歉。”\n\n“我从一开始就坚持说我说的都是实话；我想现在我们都同意这一点已经得到了证实。Matt 表示希望弥补我的损失；目前我还不太清楚这对我来说意味着什么，我需要一些时间来慢慢消化，但我至少接受了他的道歉。”\n\nKarch 另外在 LinkedIn 上公开发表了一份声明。“不幸的是，我被后来的一些评论激怒了（出于我不会深入讨论的原因），我不假思索地选择了先发制人的回应方式，”他写道。“这种事时有发生，我也是人。我已经尽我所能去纠正了。”\n\n本文提及\nAI\n开发\nSaber Interactive\nSteam",
+      "original_content": "Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nSaber Interactive has added an AI disclaimer to Rideshare Simulator's\nSteam page\nfollowing controversy over allegations the firm had dismissed a writer working on the game in favour of using AI-written copy.\nHere's the disclosure in full:\nThe main campaign story, characters, and dialogue are written by a team of human writers. AI tools are used for voice generation and some localisation.\nThe optional Free Ride mode includes AI-generated passenger missions and localised dialogue. Free Ride mode is separate from the main campaign and can be skipped by players who prefer to experience only human-written narrative content.\nThe game also includes a mix of radio stations featuring human-made music and AI-generated music. Stations containing AI-generated music are clearly labeled as such in game.\"\nThis update follows\ncomments from Saber CEO Matt Karch\nregarding writer Stella Sacco, who worked at Saber from July 2023 to July 2024, and stated she was removed from Rideshare midway through development and replaced with ChatGPT, while alleging other then-unannounced use of AI in the game's development.\nIn response, Karch stated that Sacco was \"replaced by someone more talented and terminated for a variety of reasons a few months later,\" and added that \"in retrospect [he] would have been happy to replace her with AI.\"\n\"Stella who? I had to ask Claude because I have never spoken to her or seen her,\" Karch told\nThis Week In Videogames\n. \"We have already said we are using AI for certain parts of the game and will update the Steam page once we have finalised the feature set.\"\n\"We look at our use of AI in this particular game, which will be a lower priced title, as a plus for consumers.\"\nIn a\nBlueSky\npost this weekend Sacco wrote that Karch had \"apologised unreservedly for the awful way he spoke about me in the press.\"\n\"I've been firm from the beginning that I was telling the truth; I think we can all now agree that it's been borne out. Matt expressed a desire to make it right with me; at this time I don't really know what that looks like for me, and I'll have to take some time to sit with it, but I do at least accept his apology.\"\nKarch separately posted a public comment on\nLinkedIn\n. \"I unfortunately got triggered by certain later comments (for reasons I won't get into) and shot first and thought second about how to respond,\" he wrote. \"It happens and I am a human being. I have done what I can to rectify.\"\nMentioned in this article\nAI\nDevelopment\nSaber Interactive\nSteam"
+    },
+    {
+      "id": "5379ac50a8",
+      "title": "PUBG Mobile Light 是吃鸡游戏的低占用版本",
+      "summary": "腾讯与Krafton公布低占用版本《PUBG Mobile Light》，初始包体Android约1GB、iOS小于2GB，账号资产与好友关系与正式版互通，预注册8月25日开始。Krafton同时确认BGMI Lite将在2026年底推出，而PUBG系列和《Subnautica 2》推动其上半年收入创纪录。对从业者而言，低配版本是扩展新兴市场与低端设备用户的重要策略。",
+      "url": "https://mobilegamer.biz/pubg-mobile-light-is-a-lower-footprint-version-of-the-battle-royale-hit/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T09:19:10",
+      "games": [
+        {
+          "name": "PUBG Mobile Light",
+          "desc": "低存储/低设备门槛版本的PUBG Mobile，账号物品与好友列表继承正式版。"
+        },
+        {
+          "name": "PUBG Mobile",
+          "desc": "原版大逃杀手游，是PUBG Mobile Light的基础。"
+        },
+        {
+          "name": "Battlegrounds Mobile India",
+          "desc": "面向印度市场的PUBG Mobile版本，简称BGMI，Krafton将推出其精简版。"
+        },
+        {
+          "name": "BGMI Lite",
+          "desc": "Battlegrounds Mobile India的低占用版本，目标在2026年底推出。"
+        },
+        {
+          "name": "Peacekeeper Elite",
+          "desc": "中文版《和平精英》的英文名，属于PUBG系列大逃杀手游。"
+        },
+        {
+          "name": "Subnautica 2",
+          "desc": "深海探索生存游戏续作，PC Early Access销量超500万份，推动Krafton业绩增长。"
+        }
+      ],
+      "translated_content": "PUBG Mobile Light 是吃鸡游戏的低占用版本\n\nPUBG Mobile Light 是这款吃鸡热游的低占用版本——Mobilegamer.biz\n跳至内容\n腾讯和Krafton已宣布推出PUBG Mobile Light，这是PUBG Mobile的一个低占用版本。\n预注册将于8月25日开启，全面上线目标定于今年晚些时候。\n该版本似乎旨在降低存储和设备要求的准入门槛——Android初始下载约1GB，iOS低于2GB，额外内容模块可单独下载，而非预先捆绑。\n该游戏制作人在下方视频中表示，核心地图、补给和战斗设计与主游戏保持一致，现有PUBG Mobile账号、已拥有的物品和好友列表均可延续。\nPUBG Mobile Light与现有应用并行运行，而非替代它，并将同步接收更新。\n这一举措紧随Krafton India的平行公告之后，该公告确认了BGMI Lite，即Battlegrounds Mobile India的精简版，目标于2026年底前推出。\nKrafton的移动端收入（涵盖PUBG Mobile、BGMI和Peacekeeper Elite）在2026年上半年同比增长20.2%，达到8.1亿美元（₩1,1537亿），这是公司整体创纪录半年业绩的一部分。\n总收入达18.7亿美元（₩2.7万亿），同比增长73.3%，主要受PUBG系列增长和Subnautica 2在PC上抢先体验发布（销量已超500万份）的推动。\n营业利润增长38.3%，达到6.83亿美元（₩9725亿），仅用六个月就达到Krafton 2025年全年营业利润的92%。\n继续阅读\n搜索：\n搜索\n关注我们\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\n故事存档\n通过付费新闻通讯订阅支持本站。\nx\n滚动至顶部",
+      "original_content": "PUBG Mobile Light is a lower-footprint version of the battle royale hit – Mobilegamer.biz\nSkip to content\nTencent and Krafton have\nannounced PUBG Mobile Light\n, a reduced-footprint version of PUBG Mobile.\nPre-registration opens August 25, with a full launch targeted for later this year.\nIt appears to be designed to lower the barrier to entry on storage and device requirements – the initial download is around 1GB on Android and under 2GB on iOS, with additional content modules downloadable separately rather than bundled upfront.\nThe game’s producer says in the below video that the core map, supplies and combat are designed to match the main game, and existing PUBG Mobile accounts, owned items and friends lists carry across.\nPUBG Mobile Light runs alongside the existing app rather than replacing it, and will receive updates in step with it.\nThe move follows a parallel announcement from Krafton India confirming BGMI Lite, a lighter version of Battlegrounds Mobile India, targeted for launch by the end of 2026.\nKrafton’s mobile revenue\n, covering PUBG Mobile, BGMI, and Peacekeeper Elite, rose 20.2% year on year to $810m (₩1,153.7bn) in H1 2026, part of a record-breaking half for the company overall.\nTotal revenue hit $1.87bn (₩2.7tn), up 73.3% year on year, driven by PUBG franchise growth and Subnautica 2’s Early Access launch on PC, which has sold over 5m units.\nOperating profit rose 38.3% to $683m (₩972.5bn), reaching 92% of Krafton’s full-year 2025 operating profit in just six months.\nRead on\nSearch for:\nSearch\nFollow us\nLinkedIn\nX\nApple Podcasts\nSpotify\nYouTube\nThreads\nFacebook\nStory archive\nSupport this site with a paid newsletter subscription.\nx\nScroll to Top"
+    },
+    {
+      "id": "0e78ac3866",
+      "title": "首曝PV冲上B站榜二，这款“搜打撤”新游凭什么火了？",
+      "summary": "该文章正文因平台环境异常无法访问。标题指向一款“搜打撤”玩法新游，其首曝PV登上B站榜单第二，文章可能分析其走红原因，但无法获取游戏名称与具体内容。",
+      "url": "https://mp.weixin.qq.com/s/dn12834Ce9d_DbyBOlEc9w",
+      "source": "微信-游讯先锋",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T08:53:52",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "e21cde6944",
+      "title": "匹配平台 Sail.game 在 Gamescom 前为开发者推出免费层级",
+      "summary": "匹配平台Sail.game在Gamescom前推出免费Entry Cruise层级，开发者用SAILFREE码可免99欧元费用，获得项目展示、发行商匹配以及被查看/收藏通知。该平台已有230多家认证发行商与投资人，目标是让开发者的发行触达更高效。对中小团队而言，这是一个低成本获取发行商注意的新工具。",
+      "url": "https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T07:33:37",
+      "games": [],
+      "translated_content": "匹配平台 Sail.game 将在 Gamescom 前为 PC 和主机游戏开发者推出免费层级。\n\n从今天起至 8 月 31 日，用户可使用促销代码 SAILFREE 绕过 99 欧元的费用，访问平台的 Entry Cruise 层级。\n\nEntry Cruise 层级限时提供，但在 Gamescom 期间领取的开发者将获得其游戏的终身访问权限。\n\n该套餐提供以下功能：\n\n- 创建游戏卡片，即面向发行商的结构化项目简介\n- 根据类型、平台、预算和开发阶段等收购标准，与发行商进行匹配\n- 当发行商查看或入围项目时接收通知\n- 让感兴趣的发行商和投资者能够直接联系工作室\n\n虽然“更高层级提供更多曝光和功能”，但 Entry Cruise 套餐“足以帮助开发者获得曝光并找到合适的发行合作伙伴”。\n\n首席执行官 Vladimír Geršl 表示：“许多优秀的游戏难以触达合适的人，不是因为项目缺乏潜力，而是因为开发者根本没有时间、人脉或预算来进行数月的冷联系。”\n\n“我和同事们投身游戏行业近 25 年，在此期间，我们把自己长期积累的人脉变成了一个活跃的发行商网络，这些发行商会与我们分享他们究竟在寻找什么样的项目。Sail.Game 将这些经验带入数字侦察的新时代，帮助开发者更高效地触达合适的合作伙伴。”\n\nGeršl 总结道：“感谢我们的合作伙伴和赞助商，我们现在可以暂时开放免费访问，让更多工作室真正有机会找到资金，同时让他们专注于打造优质游戏。”\n\nGeršl 与董事总经理 Guillaume Jamet 于今年早些时候推出了 Sail.game。\n\n该平台目前拥有超过 230 家经过验证的发行商和投资者，并促成了超过 23,000 次用户互动。\n\nSail.game 的发现服务对合格的发行商免费。Jamet 此前告诉 GamesIndustry.biz，99 欧元的价格是维持其“生态系统完整性”的“必要门槛”。\n\n他说：“团队通常会在活动、差旅或参加结果高度不确定的线上展示上花费更多。我们相信，我们以低得多的成本——无论是金钱还是人力——提供了更高的被注意到的机会。”\n\n本文提及：\n开发\nGamescom 2026\n匹配\n发行",
+      "original_content": "Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom | GamesIndustry.biz\nIf you click on a link and make a purchase we may receive a small commission.\nRead our editorial policy\n.\nMatchmaking platform\nSail.game\nis introducing a free tier for PC and console game developers ahead of Gamescom.\nFrom today through August 31, users can bypass the €99 fee and access the platform's Entry Cruise tier with\nthe promo code SAILFREE\n.\nThe Entry Cruise tier is available for a limited time, but developers who claim it during Gamescom will receive lifetime access for their game.\nThe package offers the following features:\nCreate a game card, a structured project profile for publishers\nAccess matchmaking with publishers based on acquisition criteria such as genre, platform, budget, and development stage\nReceive notifications when publishers view or shortlist a project\nEnable interested publishers and investors to contact studios directly\nWhile the \"higher tiers offer additional exposure and features,\" the Entry Cruise package is \"sufficient to help developers become discoverable and find relevant publishing partners.\"\n\"There are many strong games that struggle to reach the right people, not because the projects lack potential, but because developers simply don't have the time, network, or budget for months of cold outreach,” said CEO Vladimír Geršl.\n\"My colleagues and I have been part of the games industry for almost 25 years, and over that time we've turned our long-standing contacts into an active network of publishers who share with us exactly what kinds of projects they are looking for. Sail.Game takes that knowledge and brings it into a new era of digital scouting, helping developers reach the right partners much more efficiently.\nGeršl concluded: \"Thanks to our partners and sponsors, we can now temporarily open free access and give many more studios a real shot at finding funding, while allowing them to focus on building great games.”\nGeršl and managing director Guillaume Jamet\nlaunched Sail.game earlier this year\n.\nThe platform now features over 230 verified publishers and investors and has facilitated more than 23,000 user interactions.\nSail.game's discovery service is free for qualified publishers. Jamet previously told\nGamesIndustry.biz\nthat the €99 price point is a \"necessary gate\" to maintain the \"integrity of its ecosystem.\"\n\"Teams routinely spend a lot more on events, travel, or participating in online showcases with highly uncertain outcomes,\" he said. \"We believe we offer a much higher chance of getting noticed for a much lower cost, both in cash and in man-hours.\"\nMentioned in this article\nDevelopment\nGamescom 2026\nmatchmaking\nPublishing"
+    },
+    {
+      "id": "3bf4f41209",
+      "title": "时至今日，我们终于可以说：国产动作游戏正自成一派",
+      "summary": "该文章正文因平台环境异常无法访问。标题提出“国产动作游戏正自成一派”的判断，可能结合近年作品讨论风格与工业成熟度，但无法获取具体论据。",
+      "url": "https://mp.weixin.qq.com/s/Y-_UDfG1D92ADB1iKlWtXA",
+      "source": "微信-3DM游戏网",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T23:13:44",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "88559cf0a2",
+      "title": "不止王与马，白导打算搞个影游嘉年华",
+      "summary": "该文章正文因平台环境异常无法访问。标题提到“不止王与马”以及白导计划办影游嘉年华，可能涉及相关IP与跨媒体活动，但无法获得细节。",
+      "url": "https://mp.weixin.qq.com/s/n2wSw9OIrXTeM7ztB4Jm9Q",
+      "source": "微信-3DM游戏网",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T23:13:44",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "cbf505a31a",
+      "title": "10款等候登场的国产3A，黑神话之后的接力名单",
+      "summary": "该文章正文因平台环境异常无法访问。标题称将盘点黑神话之后10款值得期待的国产3A，但无法获取完整名单与点评。",
+      "url": "https://mp.weixin.qq.com/s/_B9tUA1t1g0VwXGQhATs9Q",
+      "source": "微信-橙了个橘",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T22:30:27",
+      "games": [
+        {
+          "name": "黑神话：悟空",
+          "desc": "标题中提到的国产3A游戏，作为后续国产3A接力名单的背景参照。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "34f59ed528",
+      "title": "游族旗下工作室海外新游《Skyrama IslandSurvival》，开着飞机体验数字门",
+      "summary": "该文章正文因平台环境异常无法访问。标题显示游族旗下工作室在海外推出新游戏《Skyrama IslandSurvival》，内容与开飞机、数字门体验有关，但无法获得具体玩法分析。",
+      "url": "https://mp.weixin.qq.com/s/4WOv2lFOAnavOC506xVKxA",
+      "source": "微信-金角游戏",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T20:13:49",
+      "games": [
+        {
+          "name": "Skyrama IslandSurvival",
+          "desc": "游族旗下工作室的海外新游，标题显示包含飞行与数字门相关体验。"
+        }
+      ],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "3d2373f9d5",
+      "title": "本周iOS美区新游Top10｜2026W33",
+      "summary": "该文章正文因平台环境异常无法访问。标题为本期iOS美区新游Top10榜单，但无法获取具体游戏列表与点评。",
+      "url": "https://mp.weixin.qq.com/s/5YaHTIblzjJNz4r7HIqDqw",
+      "source": "微信-熊猫游戏出海",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T17:38:41",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
+    },
+    {
+      "id": "fc50eedc56",
+      "title": "游戏公司老板，如何判断AI时代的人才标准",
+      "summary": "该文章正文因平台环境异常无法访问。标题探讨游戏公司老板如何判断AI时代的人才标准，可能涉及招聘与团队管理，但无法提供具体观点。",
+      "url": "https://mp.weixin.qq.com/s/d0dKwq1JVC5HW6gYSMEIeg",
+      "source": "微信-Hao的游戏PM笔记",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T08:50:40",
+      "games": [],
+      "translated_content": "",
+      "original_content": ""
     }
   ]
 }
