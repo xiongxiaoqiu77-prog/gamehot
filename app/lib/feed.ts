@@ -67,12 +67,19 @@ export function getAllGamesMeta(): Record<string, GameMeta | null> {
   return gamesMeta as Record<string, GameMeta | null>
 }
 
+export interface GameArticleRef {
+  title: string
+  url: string
+  source: string
+  id: string
+}
+
 export interface GameEntry {
   name: string
-  desc: string          // 最近一次出现的介绍
-  count: number         // 被提及次数
-  maxScore: number      // 关联文章最高热度
-  articles: Article[]   // 关联文章列表
+  desc: string
+  count: number
+  maxScore: number
+  articles: GameArticleRef[]
 }
 
 export function getGames(): GameEntry[] {
@@ -82,10 +89,11 @@ export function getGames(): GameEntry[] {
     for (const g of article.games ?? []) {
       if (!g.name) continue
       const existing = map.get(g.name)
+      const ref: GameArticleRef = { title: article.title, url: article.url, source: article.source, id: article.id }
       if (existing) {
         existing.count++
         existing.maxScore = Math.max(existing.maxScore, article.score)
-        existing.articles.push(article)
+        existing.articles.push(ref)
         if (g.desc) existing.desc = g.desc
       } else {
         map.set(g.name, {
@@ -93,7 +101,7 @@ export function getGames(): GameEntry[] {
           desc: g.desc || '',
           count: 1,
           maxScore: article.score,
-          articles: [article],
+          articles: [ref],
         })
       }
     }

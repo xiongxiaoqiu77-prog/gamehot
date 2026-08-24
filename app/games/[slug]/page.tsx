@@ -1,10 +1,10 @@
-import { notFound } from 'next/navigation'
+'use client'
+import { useState, useEffect, use } from 'react'
 import { getGames, getGameMeta, toGameSlug } from '../../lib/feed'
 import type { GameEntry } from '../../lib/feed'
+import type { RealtimeFeed, RealtimeArticle } from '../../types'
 
-export function generateStaticParams() {
-  return getGames().map(g => ({ slug: toGameSlug(g.name) }))
-}
+const REALTIME_URL = 'https://raw.githubusercontent.com/xiongxiaoqiu77-prog/gamehot-data/main/realtime-feed.json'
 
 function sourceIcon(source: string) {
   if (source.startsWith('微信')) return '💬'
@@ -12,14 +12,68 @@ function sourceIcon(source: string) {
   return '📰'
 }
 
-export default async function GameDetailPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params
+export default function GameDetailPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = use(params)
+  const [game, setGame] = useState<GameEntry | null | undefined>(undefined)
+  const meta = game ? getGameMeta(game.name) : null
 
-  const games = getGames()
-  const game: GameEntry | undefined = games.find(g => toGameSlug(g.name) === slug)
-  if (!game) notFound()
+  useEffect(() => {
+    // 先从静态 feed 找
+    const staticGames = getGames()
+    const found = staticGames.find(g => toGameSlug(g.name) === slug)
+    if (found) { setGame(found); return }
 
-  const meta = getGameMeta(game.name)
+    // 静态没有则从实时 feed 合并
+    fetch(`${REALTIME_URL}?t=${Date.now()}`, { cache: 'no-store' })
+      .then(r => r.json())
+      .then((data: RealtimeFeed) => {
+        const map = new Map<string, GameEntry>()
+        for (const a of data.articles) {
+          for (const g of a.games ?? []) {
+            if (!g.name) continue
+            const s = toGameSlug(g.name)
+            const existing = map.get(s)
+            if (existing) {
+              existing.count++
+              existing.maxScore = Math.max(existing.maxScore, a.score)
+              if (g.desc) existing.desc = g.desc
+              existing.articles.push({ title: a.title, url: a.url, source: a.source, id: a.id })
+            } else {
+              map.set(s, {
+                name: g.name,
+                desc: g.desc || '',
+                count: 1,
+                maxScore: a.score,
+                articles: [{ title: a.title, url: a.url, source: a.source, id: a.id }],
+              })
+            }
+          }
+        }
+        const rt = map.get(slug)
+        setGame(rt ?? null)
+      })
+      .catch(() => setGame(null))
+  }, [slug])
+
+  if (game === undefined) {
+    return (
+      <div className="min-h-screen flex items-center justify-center" style={{ background: 'var(--bg)' }}>
+        <p className="text-sm" style={{ color: 'var(--muted)' }}>加载中…</p>
+      </div>
+    )
+  }
+
+  if (game === null) {
+    return (
+      <div className="min-h-screen flex items-center justify-center" style={{ background: 'var(--bg)' }}>
+        <div className="text-center">
+          <p className="text-3xl mb-3">🎮</p>
+          <p className="text-sm mb-4" style={{ color: 'var(--muted)' }}>找不到该游戏</p>
+          <a href="/games" className="text-sm" style={{ color: 'var(--accent)' }}>← 游戏库</a>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg)' }}>
@@ -36,7 +90,6 @@ export default async function GameDetailPage({ params }: { params: Promise<{ slu
       </header>
 
       <main className="max-w-2xl mx-auto px-4 py-8">
-        {/* 游戏头部：icon + 名称 + 基本信息 */}
         <div className="flex gap-5 mb-8">
           {meta?.icon ? (
             <img
@@ -79,7 +132,6 @@ export default async function GameDetailPage({ params }: { params: Promise<{ slu
           </div>
         </div>
 
-        {/* AI 提取的一句话介绍 */}
         {game.desc && (
           <section className="rounded-2xl p-5 mb-6" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
             <h2 className="text-xs font-semibold mb-2 uppercase tracking-widest" style={{ color: 'var(--accent)' }}>简介</h2>
@@ -87,7 +139,6 @@ export default async function GameDetailPage({ params }: { params: Promise<{ slu
           </section>
         )}
 
-        {/* App Store 描述 */}
         {meta?.description && (
           <section className="rounded-2xl p-5 mb-6" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
             <h2 className="text-xs font-semibold mb-3 uppercase tracking-widest" style={{ color: 'var(--accent2)' }}>App Store 介绍</h2>
@@ -97,7 +148,6 @@ export default async function GameDetailPage({ params }: { params: Promise<{ slu
           </section>
         )}
 
-        {/* 截图 */}
         {meta?.screenshots && meta.screenshots.length > 0 && (
           <section className="mb-8">
             <h2 className="text-xs font-semibold mb-4 uppercase tracking-widest" style={{ color: 'var(--muted)' }}>截图</h2>
@@ -116,7 +166,6 @@ export default async function GameDetailPage({ params }: { params: Promise<{ slu
           </section>
         )}
 
-        {/* 相关文章 */}
         <section>
           <h2 className="text-xs font-semibold mb-4 uppercase tracking-widest" style={{ color: 'var(--muted)' }}>相关文章</h2>
           <div className="flex flex-col gap-3">
