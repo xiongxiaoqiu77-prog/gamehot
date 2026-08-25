@@ -3509,5 +3509,114 @@
     ],
     "store_url": "https://apps.apple.com/us/app/slay-the-spire/id1491530147?uo=4",
     "store": "appstore"
-  }
+  },
+  "Among Us 3D": {
+    "name": "Among Us 3D",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168600/23ed05c97630dee1c1b3cbab869d993151adb1fa/header.jpg?t=1775581014",
+    "description": "The definitive social deduction party game in three dimensions! Can the Crewmates survive, or will Impostors take over? Roles, Emergency Meetings, deception, sabotages, tasks: enjoy your favorite brand of chaos from the original Among Us with a 3D twist.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168600/26bff7b930157ee41a5e864d066c8acaa45d2402/ss_26bff7b930157ee41a5e864d066c8acaa45d2402.600x338.jpg?t=1775581014",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168600/ss_c7468f31d5d86053a21b159cc6b90322ec370c1b.600x338.jpg?t=1775581014",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168600/bdff265684202b706193d72835dd4bda86760473/ss_bdff265684202b706193d72835dd4bda86760473.600x338.jpg?t=1775581014",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168600/ss_dd03518b81459952646602b56bea4664374e8a30.600x338.jpg?t=1775581014"
+    ],
+    "store_url": "https://store.steampowered.com/app/3168600",
+    "store": "steam"
+  },
+  "I Expect You to Die": {
+    "name": "I Expect You To Die",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ff75e38bc199b80152c038b415867586d1e47a65/header.jpg?t=1785422951",
+    "description": "Test your problem-solving skills in this virtual reality escape-the-room puzzle game. Play as a secret agent armed with telekinetic abilities on a mission to stop Zoraxis, an evil corporation with plans for world domination.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_d1181b6d9395cabc3b7a25cbce16391972c40151.600x338.jpg?t=1785422951",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_7718614811a9120789a853bd7bec83973f1a4eeb.600x338.jpg?t=1785422951",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_70a44f89ccec2d337aa2db83aefafd7b826d5123.600x338.jpg?t=1785422951",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_61a0f72991ff2378d97a60eb68cc65c879947503.600x338.jpg?t=1785422951"
+    ],
+    "store_url": "https://store.steampowered.com/app/587430",
+    "store": "steam"
+  },
+  "Alan Wake 2": null,
+  "Call of Duty: Black Ops 7": null,
+  "Gears of War: E-Day": {
+    "name": "Gears of War: E-Day",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1787682414",
+    "description": "Experience Emergence Day – the brutal origin story of one of gaming’s most acclaimed third-person shooter franchises.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/e3833eef1e791059ccc552657987135061dd1e22/ss_e3833eef1e791059ccc552657987135061dd1e22.600x338.jpg?t=1787682414",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/9f53d13358740a67674a6adb86fbb7a8289bde0f/ss_9f53d13358740a67674a6adb86fbb7a8289bde0f.600x338.jpg?t=1787682414",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/b5ba5567b6da5c30f4825517750aad1c16c2806a/ss_b5ba5567b6da5c30f4825517750aad1c16c2806a.600x338.jpg?t=1787682414",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/e3a1b5dd47f876eb7817a7c5ef321ee22b75bd20/ss_e3a1b5dd47f876eb7817a7c5ef321ee22b75bd20.600x338.jpg?t=1787682414"
+    ],
+    "store_url": "https://store.steampowered.com/app/3010850",
+    "store": "steam"
+  },
+  "Control Resonant": {
+    "name": "CONTROL Resonant",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1787683983",
+    "description": "Explore a warped Manhattan on the brink of paranatural annihilation in this thrilling action-adventure RPG. Unleash the extraordinary powers of Dylan Faden as he fights for his humanity and our survival against a reality-bending cosmic threat.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/422f3eed36d3033c4b0f4fde485c29b980e49454/ss_422f3eed36d3033c4b0f4fde485c29b980e49454.600x338.jpg?t=1787683983",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/8b78ebe9024b52aded07863c0da0cbb08c1a966f/ss_8b78ebe9024b52aded07863c0da0cbb08c1a966f.600x338.jpg?t=1787683983",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/4ce55d730791b45afae9fe2573ff764b34103a75/ss_4ce55d730791b45afae9fe2573ff764b34103a75.600x338.jpg?t=1787683983",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/3cd16ad00ff2e2f7a2e5c5d7781597fdd32ed6c0/ss_3cd16ad00ff2e2f7a2e5c5d7781597fdd32ed6c0.600x338.jpg?t=1787683983"
+    ],
+    "store_url": "https://store.steampowered.com/app/3669870",
+    "store": "steam"
+  },
+  "Aion 2": {
+    "name": "AION 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/8ba6511e1889fd45561956e603d04fac1a89645e/header.jpg?t=1783623842",
+    "description": "AION 2 is the only MMORPG built around a world where the sky is the battlefield. Choose your faction, ascend as a Daeva, and fight a faction war across a world 36 times larger than the original. PC only, on Unreal Engine 5.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/1e850ef48837ade53b7b20f777d32af6d8650f48/ss_1e850ef48837ade53b7b20f777d32af6d8650f48.600x338.jpg?t=1783623842",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/a96f14cfe58c052192f5425a154f389069ddd7ca/ss_a96f14cfe58c052192f5425a154f389069ddd7ca.600x338.jpg?t=1783623842",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/a2f4f44f1d3b0b68ae450f2d5f4a08877186d78e/ss_a2f4f44f1d3b0b68ae450f2d5f4a08877186d78e.600x338.jpg?t=1783623842",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/caa60f1a365dd7802a523b18c870bb31550fb2f5/ss_caa60f1a365dd7802a523b18c870bb31550fb2f5.600x338.jpg?t=1783623842"
+    ],
+    "store_url": "https://store.steampowered.com/app/3393110",
+    "store": "steam"
+  },
+  "Black State": {
+    "name": "Black",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/09/cf/3709cf97-ed9a-659a-19dd-3474b5b19101/AppIcon-0-1x_U007emarketing-0-5-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+    "description": "Black® collects the news & stories from the world’s greatest influencers of black culture. With all of your black news in one place, it has never been easier to discover the stories that keep you informed, engaged, and inspired. \n \nJOIN US ON OUR MISSION TO CHANGE THE GAME.\n- Create your own feed of stories from the publications you know and trust.  \n- Read, recommend, and share stories with your friends using Facebook, Twitter, iMessage, and Email. \n- Explore stories that are just for you and based on your interests.\n- Receive timely push notifications that will keep you in the know.\n\nFeatured Publications:\n- The Root\n- Atlanta Black Star\n- OkayAfrica\n- News One\n- Blavity\n- BET\n- Black Enterprise\n- Ebony\n- Essence\n- HuffPost Black Voices\n- Hello Beautiful\n- and more!\n\nWe'd love to hear any feedback you have about Black®. Reach out to our team at team@black.news. Oh, did we mention that we're 100% Black Owned?",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/95/bd/1c95bd61-491b-055e-dc39-e6fc7a8739b6/180f3b37-f0f7-4ff4-999b-4603cc67436d_App-p1-55.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/08/c9/e4/08c9e499-2444-e5fe-c0ab-c7455f4924ff/cd02ffbd-527b-4539-b355-57643d8d97ae_App-p4-55.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1e/ad/37/1ead37da-c6c1-ba13-aabe-36d962bb6aeb/5b411aac-7fb9-41b7-9ac4-e557258053b0_App-P2-55.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1f/4a/af/1f4aaf4a-f536-db38-f631-dc27ca3c177f/4c7c23ca-7090-4232-9acf-daa0a5daf4f6_App-p5-55.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/black/id1282248048?uo=4",
+    "store": "appstore"
+  },
+  "Ananta": {
+    "name": "Ananta Living",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b2/ac/11b2acf8-6388-9336-dc2e-f4a1d9319a2e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "description": "Ananta Living's app is your gateway to a world of luxury and convenience, crafted specifically for our esteemed residents. With a sleek and intuitive design, this app is your personal concierge, ensuring that every aspect of your retirement living is tailored to your unique preferences.Explore a curated calendar of events and activities, from social gatherings to educational workshops, and seamlessly reserve your spot with just a few taps. Indulge in our on-site culinary experiences by making reservations at our exquisite dining venues, or arrange for convenient in-apartment dining services.Need transportation? Our app allows you to effortlessly schedule pick-up and drop-off services, ensuring you can navigate the local area with ease. Additionally, you can request housekeeping services, maintenance support, or any other assistance you may require, all at the touch of a button.Stay connected with your loved ones by sharing updates and photos through the app's secure messaging platform, fostering a sense of community within our vibrant retirement community.At Ananta Living, we understand the importance of personalized care and attention. Our app offers a seamless platform to communicate your preferences and special requests, ensuring that every detail is meticulously attended to, elevating your retirement experience to new heights of luxury and comfort.Experience the future of retirement living with Ananta Living's app – a harmonious blend of cutting-edge technology and unparalleled service, designed to make every moment of your journey truly memorable.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/2f/1f/e12f1fcc-ff44-06b2-855a-d00029a03cf0/ffb08cf4-7227-47c4-875c-6a91f3b7a761_1242X2208-1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ba/46/bcba463b-2e24-d6ab-08c3-7cabf9bfebfa/64ebc621-1535-4cc9-9845-bc000b53d824_1242X2208-2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/61/f6/a661f6b1-f580-3f54-2053-a87d1d182893/b9126566-0ec4-4646-8868-286e2a5aa1cf_1242X2208-3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/c3/cb/50c3cb49-db4a-49b6-f4f7-573540242572/6e02bf60-5b39-4b7b-b763-2c61c440b36d_1242X2208-4.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/ananta-living/id6503251469?uo=4",
+    "store": "appstore"
+  },
+  "EA Sports F1 25": null,
+  "Apex Legends": {
+    "name": "Stats & Tools for APEX Legends",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/05/b8/db/05b8db5d-b34a-1e7d-8058-35733390f822/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "description": "APEX Legends Companion is a helper and ally app: Review your Profile Stats & Analytics; View all Map locations and Loot; Receive new items and in-game notifications; Includes the coolest  iMessage and WhatsApp Stickers, Consult all the different weapons stats and sounds, Stay Up to Date with the News Section, Follow Top Players and much more. \n\n** Full Features List **\n\n* Map for Treasure Locations: View all the Chests, Loot, Weapons, Ammo, Supply Bins, Nessie’s & Much more.\n* iMessage & WhatsApp Stickers: Be unique and send your friends messages with all the APEX Legends Characters. \n* Profile Stats & Analytics: Keep track of all your progress in the game, you can also follow other players, scores, win rate, kills, etc.\n* Weapons: Want to know which are the best weapons in the game?, check out all the weapons in the game.\n* News Room: Never miss an update and check out all the game’s latest features, updates, and upcoming map changes with all your favorite youtubers.\n* Leaderboards: Follow your favorite players and track their progress, checkout the current leaderboards by different stats.\n….and much more coming soon!\n\n--> Prepare for Battle!!\n\n--> Download Now! * APEX Legends Companion - Stats & Tools * for FREE in App Store!\n\nDisclaimer\nPortions of the materials used are trademarks and/or copyrighted works of Electronic Arts Inc and APEX Legends. All rights reserved by EA. This material is not official and is not endorsed by Electronic Arts Inc. or APEX Legends.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/75/d0/5b/75d05b30-caa3-98a9-4532-03d41e556e0d/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e5/88/99/e588994c-1e89-5b26-0740-69dbae5a7e36/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/b2/c0/0fb2c0d2-6a2f-e19c-80b3-35d89bb1e335/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/de/1f/68de1ff2-7f2d-ffb5-94b4-5ba31bc01422/pr_source.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/stats-tools-for-apex-legends/id1463608811?uo=4",
+    "store": "appstore"
+  },
+  "Painkiller RTX": null,
+  "Morrowind RTX": null
 }
