@@ -3618,5 +3618,74 @@
     "store": "appstore"
   },
   "Painkiller RTX": null,
-  "Morrowind RTX": null
+  "Morrowind RTX": null,
+  "Nodusfall": null,
+  "Cinder City": {
+    "name": "CINDER CITY",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651830/0890d231798f7b24a48c10372187beed241af7f2/header.jpg?t=1786068922",
+    "description": "CINDER CITY is an open-world cinematic third-person shooter set in a fallen near-future Seoul. Fight alongside allies, push back against overwhelming threats, and reclaim the city from the forces tearing it apart.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651830/38511ad1584c7b795763d37017ad5712fb618fb0/ss_38511ad1584c7b795763d37017ad5712fb618fb0.600x338.jpg?t=1786068922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651830/a9d33fcfa3f0cf63643089a29be4e76905626e09/ss_a9d33fcfa3f0cf63643089a29be4e76905626e09.600x338.jpg?t=1786068922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651830/084b7613f4096cfce63485bb66f297f8ba7ec705/ss_084b7613f4096cfce63485bb66f297f8ba7ec705.600x338.jpg?t=1786068922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651830/b4b846a6040dcfc87f3427065edc97465a718753/ss_b4b846a6040dcfc87f3427065edc97465a718753.600x338.jpg?t=1786068922"
+    ],
+    "store_url": "https://store.steampowered.com/app/4651830",
+    "store": "steam"
+  },
+  "Like or Die": {
+    "name": "Like or Die",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559400/c1c80a35973c634c8b61b764706100c759b6099a/header.jpg?t=1787686235",
+    "description": "A team-based survival FPS where streamers clash in a fierce battle for survival. Cosmic platform &quot;Quaya Stream&quot; broadcasts your every moment live. Reshape the battlefield with blocks and create new twists. In a world where wins and deaths become content, the survival stream is about to begin.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559400/65bfec422ea83de5585158fa89ebff5877efa9e2/ss_65bfec422ea83de5585158fa89ebff5877efa9e2.600x338.jpg?t=1787686235",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559400/f8ccfd5b63bec8514048fbbf935b26ed0b5b723b/ss_f8ccfd5b63bec8514048fbbf935b26ed0b5b723b.600x338.jpg?t=1787686235",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559400/8121aef23831420fc5e5581521f506f3e7de6aa8/ss_8121aef23831420fc5e5581521f506f3e7de6aa8.600x338.jpg?t=1787686235",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559400/07d949788d2900d96a0b585d2fa26547eb873c13/ss_07d949788d2900d96a0b585d2fa26547eb873c13.600x338.jpg?t=1787686235"
+    ],
+    "store_url": "https://store.steampowered.com/app/4559400",
+    "store": "steam"
+  },
+  "PUBG: Ded.Net": {
+    "name": "PUBG: DED.NET",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726580/bff134ef0c79e105abb59a65a04bc1bde7917064/header.jpg?t=1787683401",
+    "description": "PUBG: DED.NET is a multi-player FPS with roguelite elements set in 1990’s Cascadia.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726580/58dd8f5f170ccba7bc66135e0a0dd0026f9b4b59/ss_58dd8f5f170ccba7bc66135e0a0dd0026f9b4b59.600x338.jpg?t=1787683401",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726580/a81a8af0e5736737f81a041fb202a9157e6e6771/ss_a81a8af0e5736737f81a041fb202a9157e6e6771.600x338.jpg?t=1787683401",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726580/dfbf045a1524d03a30726777d4b176086b972870/ss_dfbf045a1524d03a30726777d4b176086b972870.600x338.jpg?t=1787683401",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726580/c3469f186d3ed1d9abb7857993779eea83b49605/ss_c3469f186d3ed1d9abb7857993779eea83b49605.600x338.jpg?t=1787683401"
+    ],
+    "store_url": "https://store.steampowered.com/app/2726580",
+    "store": "steam"
+  },
+  "Sea of Remnants": {
+    "name": "Sea of Remnants",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633680/580ba61ac8ebbc47c64725be35fe751760e93b0a/header.jpg?t=1787210900",
+    "description": "Sea of Remnants is a visually rich ocean adventure RPG. As a puppetfolk sailor seeking lost memories, you’ll brave dynamic seas, battle strange monsters, build your fleet, bond with companions, and shape the evolving pirate city of Orbtopia through every choice you make.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633680/a78154de5a87c077a113b617acb932e9639689ff/ss_a78154de5a87c077a113b617acb932e9639689ff.600x338.jpg?t=1787210900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633680/8e20e7f084585d955f24c62c10531f7a5e0b1b6e/ss_8e20e7f084585d955f24c62c10531f7a5e0b1b6e.600x338.jpg?t=1787210900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633680/fc7dc4d17d46c722867c378123e026ad6932714f/ss_fc7dc4d17d46c722867c378123e026ad6932714f.600x338.jpg?t=1787210900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633680/e4ed8cf8e6c14a21396ff6ea602a52c96c080959/ss_e4ed8cf8e6c14a21396ff6ea602a52c96c080959.600x338.jpg?t=1787210900"
+    ],
+    "store_url": "https://store.steampowered.com/app/3633680",
+    "store": "steam"
+  },
+  "Zoopunk": null,
+  "Tides of Annihilation": {
+    "name": "Tides of Annihilation",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/header.jpg?t=1787682609",
+    "description": "Tides of Annihilation is an action-adventure game steeped in the legends of King Arthur. When an otherworldly invasion shatters London, Gwendolyn, a lone survivor, embarks on a desperate quest to fight back and uncover the truth that lies beyond the veil.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/ss_dcff0d70a39ae36f02eaee7e4a3c7be3a1bbe77c.600x338.jpg?t=1787682609",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/17953b33703072b22fd15334d799499861554d34/ss_17953b33703072b22fd15334d799499861554d34.600x338.jpg?t=1787682609",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/ss_ecc4237ae93410c441f78d9d9b2813dee3572b45.600x338.jpg?t=1787682609",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/e51ac89969f614082628bfc7345cd3a5f8e4dc98/ss_e51ac89969f614082628bfc7345cd3a5f8e4dc98.600x338.jpg?t=1787682609"
+    ],
+    "store_url": "https://store.steampowered.com/app/3292470",
+    "store": "steam"
+  },
+  "Final Fantasy 7: Revelation": null,
+  "The Witcher 3: Wild Hunt — Remastered": null
 }
