@@ -1,5 +1,10 @@
-import { getGames, getFeed, getGameMeta, toGameSlug } from '../lib/feed'
+'use client'
+import { useState, useEffect, useMemo } from 'react'
+import { getGames, getGameMeta, toGameSlug } from '../lib/feed'
 import type { GameEntry } from '../lib/feed'
+import type { RealtimeFeed } from '../types'
+
+const REALTIME_URL = 'https://raw.githubusercontent.com/xiongxiaoqiu77-prog/gamehot-data/main/realtime-feed.json'
 
 function HeatBar({ score }: { score: number }) {
   return (
@@ -23,7 +28,6 @@ function GameCard({ game }: { game: GameEntry }) {
       className="group rounded-2xl p-4 border flex gap-3 transition-all duration-200 hover:-translate-y-0.5"
       style={{ background: 'var(--surface)', borderColor: 'var(--border)' }}
     >
-      {/* Icon */}
       {meta?.icon ? (
         <img
           src={meta.icon}
@@ -42,7 +46,6 @@ function GameCard({ game }: { game: GameEntry }) {
         </div>
       )}
 
-      {/* 右侧信息 */}
       <div className="flex-1 min-w-0">
         <div className="flex items-start justify-between gap-2 mb-1">
           <h2 className="font-semibold text-white text-sm leading-snug group-hover:text-white transition-colors truncate">
@@ -74,8 +77,40 @@ function GameCard({ game }: { game: GameEntry }) {
 }
 
 export default function GamesPage() {
-  const games = getGames()
-  const feed = getFeed()
+  const staticGames = getGames()
+  const [realtimeArticles, setRealtimeArticles] = useState<RealtimeFeed['articles']>([])
+
+  useEffect(() => {
+    fetch(`${REALTIME_URL}?t=${Date.now()}`, { cache: 'no-store' })
+      .then(r => r.json())
+      .then((data: RealtimeFeed) => setRealtimeArticles(data.articles))
+      .catch(() => {})
+  }, [])
+
+  const games = useMemo(() => {
+    const map = new Map<string, GameEntry>()
+    for (const g of staticGames) map.set(g.name, { ...g, articles: [...g.articles] })
+    for (const a of realtimeArticles) {
+      for (const g of a.games ?? []) {
+        if (!g.name) continue
+        const existing = map.get(g.name)
+        if (existing) {
+          existing.count++
+          existing.maxScore = Math.max(existing.maxScore, a.score)
+          if (g.desc) existing.desc = g.desc
+        } else {
+          map.set(g.name, {
+            name: g.name,
+            desc: g.desc || '',
+            count: 1,
+            maxScore: a.score,
+            articles: [{ title: a.title, url: a.url, source: a.source, id: a.id }],
+          })
+        }
+      }
+    }
+    return [...map.values()].sort((a, b) => b.count - a.count || b.maxScore - a.maxScore)
+  }, [staticGames, realtimeArticles])
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg)' }}>
@@ -86,20 +121,19 @@ export default function GamesPage() {
               <span className="text-xl font-black tracking-tight" style={{ color: 'var(--accent)' }}>GAME</span>
               <span className="text-xl font-black tracking-tight text-white">HOT</span>
             </a>
-            <span className="text-sm font-medium text-white">游戏库</span>
+            <span className="text-sm font-medium text-white">游戏榜</span>
           </div>
-          <span className="text-xs" style={{ color: 'var(--muted)' }}>更新于 {feed.updated}</span>
         </div>
       </header>
 
       <main className="max-w-3xl mx-auto px-4 py-8">
         <div className="mb-8">
           <div className="flex items-baseline gap-3 mb-1">
-            <h1 className="text-2xl font-bold text-white">游戏库</h1>
+            <h1 className="text-2xl font-bold text-white">游戏榜</h1>
             <span className="text-sm" style={{ color: 'var(--muted)' }}>{games.length} 款</span>
           </div>
           <p className="text-sm" style={{ color: 'var(--muted)' }}>
-            从历史日报文章中提取，按提及频次排序
+            从实时文章中提取，按提及频次排序
           </p>
         </div>
 
@@ -108,7 +142,7 @@ export default function GamesPage() {
         {games.length === 0 ? (
           <div className="text-center py-20" style={{ color: 'var(--muted)' }}>
             <p className="text-4xl mb-4">🎮</p>
-            <p>今日数据更新后将自动显示</p>
+            <p>加载中…</p>
           </div>
         ) : (
           <div className="flex flex-col gap-3">
