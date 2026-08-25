@@ -3430,5 +3430,58 @@
     ],
     "store_url": "https://apps.apple.com/us/app/supercity-my-town-life-sim/id1114748125?uo=4",
     "store": "appstore"
-  }
+  },
+  "Star Trek Fleet Command": {
+    "name": "Star Trek Fleet Command",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/24/f22024f8-9d35-e953-4ba0-3b0ee8938bcc/AppIcon-0-0-1x_U007emarketing-0-8-0-512MB-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Star Trek: Fleet Command - an immersive, online open world intergalactic strategy game! Strategically harness your combat, diplomatic, and leadership abilities to conquer the universe.\n \nAs the commander of an advanced star base at the edge of the final frontier, you will recruit hundreds of iconic officers like James T. Kirk, Spock, and Nero and build a powerful fleet including ships like the infamous U.S.S. Enterprise, the Romulan Warbird, and Klingon Bird of Prey. Enter a galaxy on the brink of war as Federation, Klingon, and Romulan forces fight for control of the Alpha and Beta quadrants. Discover an ancient secret that could tip the scales of power forever.\n \nExplore strange new worlds, seek out new life and new civilizations, boldly go where no one has gone before! You have the conn, commander. The final frontier is yours.\n \n[Key Features]\n \n[Epic Galactic Conflict] Become a powerful commander and engage in a vast, dynamic galaxy-spanning conflict featuring iconic ships and characters and experience the thrills of commanding ships and interacting with famous Star Trek characters through an immersive storyline set in the Kelvin Timeline.\n \n[Deep Strategic RPG Gameplay] Collect, build, and upgrade ships. Deploy famous officers with unique tactical abilities. Take on various roles like helping locals, fighting pirates, or negotiating peace through hundreds of unique storylines and missions.\n \n[The ultimate Star Trek experience] The best storylines true to the franchise spanning the J.J. Abrams films, the original series, Deep Space Nine, The Next Generation, Discovery, Strange New Worlds, Lower Decks, and much more.\n \n[Dynamic Online Multiplayer Experience] Join or create powerful player alliances to dominate star systems. Engage in fierce battles and co-operate with thousands of players online. \n \n[Resource and Technology Management] Build, upgrade, and defend your star base while discovering new technologies and resources essential for advancement.\n \n[Interactive and Evolving Universe] Encounter and interact with a variety of characters and environments in a continually evolving storyline with monthly free live updates.\n \n[Accessibility and Reach] Enjoy the game in multiple language options\n \nDownload Now -\nEmbark on your journey in the Star Trek universe. Command your ship, crew, and fleet in a quest for peace and power. Download Star Trek Fleet Command today and boldly go where no one has gone before!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/d4/3d/ccd43df8-731c-a510-cb04-251c1b3179ae/PRIME-44329_ASO_Ship_RPG_Themed_Screenshot1_Fixed_2778x1284_q6xk1qaico.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/67/9f/1d679fb8-3091-2c46-5c7e-d52c9417cba2/PRIME-44329_ASO_Ship_RPG_Themed_Screenshot2_2778x1284_i5hiawuvuo.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9a/4a/549a4a14-12ce-4a3a-1208-b6b5ad23501e/PRIME-44329_ASO_Ship_RPG_Themed_Screenshot3_2778x1284_leb5jp4xsh.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/b1/f1/bcb1f107-4239-12e9-affa-9ec331948671/PRIME-44329_ASO_Ship_RPG_Themed_Screenshot4_2778x1284_khhecx2jbt.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/star-trek-fleet-command/id1427744264?uo=4",
+    "store": "appstore"
+  },
+  "Forza Horizon": {
+    "name": "Forza Horizon 6",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1786467254",
+    "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.600x338.jpg?t=1786467254",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.600x338.jpg?t=1786467254",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.600x338.jpg?t=1786467254",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.600x338.jpg?t=1786467254"
+    ],
+    "store_url": "https://store.steampowered.com/app/2483190",
+    "store": "steam"
+  },
+  "Colony": {
+    "name": "Colony Flow!",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/47/8d/9c478df2-9244-ca2c-cce0-8a9d97a89220/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Colony Flow — a relaxing ant colony puzzle where every tiny worker has a mission: carry colorful cubes, follow the trail, and help you discover beautiful pixel art!\n\nDeep inside the colony, the ants are ready to work together. Simply tap a cube stack to send an ant marching. Each ant picks up colorful cubes and carries them to the matching color hole. Sort every color, clear the board, and discover vibrant pixel art along the way.\n\nLead the colony with smart moves.\nSend worker ants from each cube stack.\nMatch cubes by color.\nGuide cubes to the correct color holes.\nManage limited colony slots.\nClear the entire board.\nDiscover beautiful pixel art.\n\nBut the colony needs a great leader! Sorting space is limited, so one wrong move can block the trail. Plan ahead, free up space, and guide your ants in the perfect order to complete every puzzle.\n\nExplore hundreds of colorful colony missions featuring adorable pixel art themes, including animals, fruits, food, flowers, nature, holidays, toys, rockets, castles, and many more surprises.\n\nWith cute ants, smooth marching animations, calming music, and no time pressure, Colony Flow is the perfect game to enjoy during a relaxing break, a cozy evening, or anytime you want to play offline.\n\nFeatures:\n\n* Charming ant colony gameplay\n* Tiny worker ants carrying colorful cubes\n* Relaxing color sorting puzzles\n* Unlock beautiful pixel art\n* Simple one-tap controls\n* Fun and challenging brain teasers\n* No timer, no pressure\n* Play offline anytime, anywhere\n* From easy levels to tricky colony missions\n\nCommand the colony, sort the cubes, clear the trail, and complete beautiful pixel art in Colony Flow!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/dd/8d/62dd8da1-70c3-40af-7869-d65b6de8b55f/7.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/ca/d0/14cad0a4-78ed-ea0e-ec56-c5f0d3e8a1f8/9.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/04/72/d10472ee-7fc0-ea49-ffa2-936e152f69e7/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/a6/5a/92a65a08-b6d5-3769-409a-8f563485571e/2.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/colony-flow/id6779167923?uo=4",
+    "store": "appstore"
+  },
+  "The Ultimatum: Choices": {
+    "name": "The Ultimatum: Choices NETFLIX",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/2b/0d/792b0d51-0de3-76ab-4e89-2a8d175e8c88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "NETFLIX MEMBERSHIP REQUIRED.\n\nYour relationship is on the line in this interactive story game based on the hit series. Are you ready to say \"I do,\" or will you find someone new?\n\nJump into the whirlwind social experiment of \"The Ultimatum\" in this narrative dating sim, where you'll create a character and make high-stakes choices to shape your own love story. You and your partner Taylor have signed on to participate in the show, with \"Too Hot to Handle\" and \"Perfect Match\" star Chloe Veitch as host. You'll meet other questioning couples, choose someone new to live with in a trial marriage, and then make a life-changing choice: Will you fully commit to your relationship, or pursue love with someone else?\n\nCREATE YOUR DREAM CHARACTER\n\nCustomize every detail of your look (and your partner's) with a huge range of avatar creation choices, from gender to eyebrows and accessories. You'll choose specific interests and hobbies, decide what you value most in a relationship and pick fresh new outfits for big date nights and story events.\n\nYOUR CHOICES SHAPE YOUR STORY\n\nTell the story that's true to you by making key choices as you interact with other characters. Will you lean into spicy, seductive moments or hold back? Will you start drama or play the peacemaker? So many different possible love stories could unfold, and a single choice can make a big difference. \n\nWIN THE GAME OF LOVE\n\nAs you progress through the game's story, you'll complete achievements and earn reward diamonds you can use to unlock extra outfits, bonus pictures and new story events. You'll also see other characters rise and fall on your Love Leaderboard as you make each choice about who to flirt with, fight with or fall for.\n\nLOVE TRIANGLES AND TROUBLES\n\nThis experiment is a chance for you and your partner to grow, but will it be together — or apart? As you each start dating other people and choose a new trial spouse, things are guaranteed to get complicated. Buckle up and get ready to ride this romantic roller coaster!\n\n- Created by XO Games.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/4a/a0/3c4aa0b7-b7e0-4366-a610-8120f41e4837/99e31f38-035f-42e5-b69d-983e4bd991ab_1_GAME_SCREENSHOT_IOS_MOBILE_VERTICAL_5_5_INCH_16_83429570-6f15-11ef-84a0-12ce80bade51.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/7d/28/607d2883-c89b-3357-1d39-7897068f9733/8b6e6238-feac-43ca-bc9b-3ee5daee96dd_2_GAME_SCREENSHOT_IOS_MOBILE_VERTICAL_5_5_INCH_13_8a0deee0-6f15-11ef-9b60-0affe2ebb5b9.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/68/c1/b168c13d-0ff2-a34e-9f1a-b0dafe8b0949/3dde27c3-6051-4512-a78c-0e86dbe6a776_3_GAME_SCREENSHOT_IOS_MOBILE_VERTICAL_5_5_INCH_11_90305e20-6f15-11ef-a580-1223906cfb4d.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/f6/a1/f0f6a155-5376-1782-cdda-bac31a310741/d584a2fb-3bfd-47fd-9891-f9c46b12d7eb_4_GAME_SCREENSHOT_IOS_MOBILE_VERTICAL_5_5_INCH_7_960bb240-6f15-11ef-a6fc-12b13a56bbcb.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/the-ultimatum-choices-netflix/id6477545472?uo=4",
+    "store": "appstore"
+  },
+  "Single's Inferno: Choices": null
 }
