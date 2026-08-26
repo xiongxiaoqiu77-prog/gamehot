@@ -1,357 +1,413 @@
 {
-  "updated": "2026-08-26",
-  "generated_at": "2026-08-26T07:00:28.472319",
+  "updated": "2026-08-27",
+  "generated_at": "2026-08-27T07:00:13.522517",
   "articles": [
     {
-      "id": "0f5484a8c7",
-      "title": "从 SportVille 到常青游戏：SuperCity 如何长跑 15 年并把年龄变成优势",
-      "summary": "文章复盘 Playkot 旗下城市建造手游 SuperCity 从网页端产品演变为常青游戏的历程，累计收入超 1 亿美元、安装量达 4000 万。对关注长线运营、产品转型和 LiveOps 的休闲/手游从业者有参考价值。",
-      "url": "https://gameworldobserver.com/2026/08/25/from-sportville-to-an-evergreen-game-how-supercity-has-been-running-for-15-years-and-turned-age-into-an-advantage",
-      "source": "Game World Observer",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-08-25T15:39:41",
-      "games": [
-        {
-          "name": "SportVille",
-          "desc": "SuperCity最初的概念，体育主题城市建造游戏"
-        },
-        {
-          "name": "Fitness City",
-          "desc": "SuperCity的英文版本名称"
-        },
-        {
-          "name": "SuperCity",
-          "desc": "Playkot开发的长期运营的城市建造游戏"
-        }
-      ]
-    },
-    {
-      "id": "b65053012a",
-      "title": "欧洲游戏行业2024年创造240亿欧元收入，工作室达6600家，从业者超95000人",
-      "summary": "据GamesIndustry.biz报道，2024年欧洲游戏行业总营业额达240亿欧元，拥有超过6600家工作室和95000名从业者。该数据有助于从业者了解欧洲市场整体规模与竞争格局，作为休闲游戏出海或投资决策的宏观参考。",
-      "url": "https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-25T11:31:09",
-      "games": []
-    },
-    {
-      "id": "3b6692ef41",
-      "title": "Rovio 哥本哈根工作室将关闭，Sonic Blitz 被取消",
-      "summary": "Sonic Blitz 因留存不及预期被取消，Rovio 哥本哈根工作室也将关闭，约 20 人参与该项目。该消息对休闲手游团队在立项测试和留存验证阶段具有警示意义。",
-      "url": "https://mobilegamer.biz/rovio-copenhagen-to-close-after-sonic-blitz-cancellation/",
+      "id": "00bdb40451",
+      "title": "谁在 Gamescom 展位上花了最多钱？",
+      "summary": "文章推测 Gamescom 展位投入最高的厂商可能是腾讯，并提到 NetEase、Hoyoverse、Gryphline、Infold 等都有大型展位，西方厂商存在感被稀释。对从业者了解大厂线下营销投入和展会格局有参考价值。",
+      "url": "https://mobilegamer.biz/who-spent-the-most-money-on-their-gamescom-booth/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-25T12:12:55",
+      "published_at": "2026-08-26T17:39:16",
       "games": [
         {
-          "name": "Sonic Blitz",
-          "desc": "结合跑酷和卡牌收集的移动游戏，已被取消"
-        }
-      ]
-    },
-    {
-      "id": "11a49c3ca0",
-      "title": "550吨美元砸向EA的沙特，盯上了中国电竞",
-      "summary": "报道沙特向EA投资巨额资金并关注中国电竞市场，反映国际资本对电竞领域的布局。对休闲游戏从业者了解跨界资本动态有一定信息价值，但关联度一般。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ndl9tN3M1eng1eG82ajllN0hrcDl2bkpBZDRIOTMwSzB0M0xBa0dDUlZrUktEMmxqRFVYdzBOck5HU1pFd2NVZ1V1aXlEVDRFc2NSZXhCbVBITy1oYzJFclE5WnVLWjhwVUNrSg?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-25T08:55:30",
-      "games": []
-    },
-    {
-      "id": "9f3268cdd1",
-      "title": "Riot Games 将于 12 月停止 2XKO 的积极开发",
-      "summary": "Riot 表示尚未看到足够玩家持续游玩以走向可持续发展，决定在 12 月缩减 2XKO 的积极开发。对关注竞技产品运营与研发收缩信号的人有一定参考价值。",
-      "url": "https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T17:01:51",
-      "games": [
-        {
-          "name": "2XKO",
-          "desc": "Riot Games 开发的免费格斗游戏，因玩家留存不足而于2026年12月停止积极开发。"
-        }
-      ]
-    },
-    {
-      "id": "3185c98079",
-      "title": "报道：Among Us 3D 联合开发商 Schell Games 裁员",
-      "summary": "Schell Games 曾多年对外分享避免裁员的经验，如今仍被曝出人员缩减。此事件可作为游戏工作室在项目波动下维持团队稳定难的案例参考。",
-      "url": "https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-games-lays-off-staff",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T15:28:59",
-      "games": [
-        {
-          "name": "Among Us 3D",
-          "desc": "Schell Games 联合开发的 3D 版《Among Us》游戏。"
+          "name": "Petit Planet",
+          "desc": "在Hoyoverse展台展示的新游戏。"
         },
         {
-          "name": "I Expect You to Die",
-          "desc": "Schell Games 制作的 VR 解谜游戏系列。"
-        }
-      ]
-    },
-    {
-      "id": "a0673baf8b",
-      "title": "Nvidia 在 Gamescom 2026 发布光线追踪 Nanite、原生反作弊与 DLSS 4.5",
-      "summary": "Nvidia 在 Gamescom 公布多项开发者向更新，涉及 DLSS、RTX 及 GeForce Now 云平台。对关注跨平台渲染和反作弊方案的手游团队参考价值有限。",
-      "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T18:44:44",
-      "games": [
-        {
-          "name": "Cyberpunk 2077",
-          "desc": "支持 DLSS 4.5 Ray Reconstruction 的游戏之一。"
+          "name": "Honkai Nexus Anima",
+          "desc": "在Hoyoverse展台展示的新游戏。"
         },
         {
-          "name": "Alan Wake 2",
-          "desc": "支持 DLSS 4.5 Ray Reconstruction 的游戏之一。"
+          "name": "Genshin Impact",
+          "desc": "Hoyoverse的现有游戏。"
         },
         {
-          "name": "Call of Duty: Black Ops 7",
-          "desc": "支持 DLSS 4.5 Ray Reconstruction 的游戏之一。"
+          "name": "Star Rail",
+          "desc": "Hoyoverse的现有游戏。"
         },
         {
-          "name": "Gears of War: E-Day",
-          "desc": "将引入 RTX Mega Geometry 技术的游戏。"
+          "name": "Zenless Zone Zero",
+          "desc": "Hoyoverse的现有游戏。"
         },
         {
-          "name": "Control Resonant",
-          "desc": "Remedy 的新作，支持 DLSS 4.5 全套技术。"
+          "name": "Nodus Fall",
+          "desc": "Hoyoverse新公布的类Elden Ring风格的游戏。"
         },
         {
-          "name": "007 First Light",
-          "desc": "IO Interactive 的游戏，添加路径追踪和光线重建。"
+          "name": "Silver Palace",
+          "desc": "来自中国的大型RPG，在Gamescom的ONL上展出。"
         },
         {
-          "name": "Aion 2",
-          "desc": "即将支持 DLSS 4.5 或光线追踪的游戏之一。"
+          "name": "EA FC",
+          "desc": "EA展台展示的足球模拟游戏。"
         },
         {
-          "name": "Black State",
-          "desc": "即将支持 DLSS 4.5 或光线追踪的游戏之一。"
-        },
-        {
-          "name": "Ananta",
-          "desc": "即将支持 DLSS 4.5 或光线追踪的游戏之一。"
-        },
-        {
-          "name": "EA Sports F1 25",
-          "desc": "支持 RTX Spark 平台的 EA 游戏。"
-        },
-        {
-          "name": "Apex Legends",
-          "desc": "支持 RTX Spark 平台的 EA 游戏。"
+          "name": "Aniimo",
+          "desc": "FunPlus支持的跨平台生物收集游戏。"
         },
         {
           "name": "Arc Raiders",
-          "desc": "支持 RTX Spark 平台的 Embark Studios 游戏。"
+          "desc": "Nexon推出的PC/console游戏。"
         },
         {
-          "name": "Painkiller RTX",
-          "desc": "RTX Remix 更新重制版游戏，支持 DLSS 4.5。"
+          "name": "Star Wars Galactic Racer",
+          "desc": "星球大战主题的赛车游戏。"
         },
         {
-          "name": "Morrowind RTX",
-          "desc": "基于《上古卷轴3：晨风》的 RTX 重制 mod，覆盖 Seyda Neen 和 Balmora 地区。"
-        }
-      ]
-    },
-    {
-      "id": "a01c6ce0fd",
-      "title": "Entity融资580万美元打造基于浏览器的'主机级画质'游戏平台",
-      "summary": "爱尔兰初创公司Entity获得580万美元种子融资，用于构建无需下载安装即可游玩主机级画质游戏的浏览器平台。这一动态对关注云游戏和免安装游戏趋势的从业者有参考意义。",
-      "url": "https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T16:56:48",
-      "games": [
-        {
-          "name": "Star Trek Fleet Command",
-          "desc": "以星际迷航为背景的移动端策略游戏，玩家建造基地、指挥舰队进行太空征战。"
-        }
-      ]
-    },
-    {
-      "id": "8f6f8e94b6",
-      "title": "私募股权买不下的游戏服务器托管公司",
-      "summary": "Naavik播客专访BisectHosting联合创始人兼CEO Max Podkidkin，回顾其从Minecraft服务器宕机三天到发展为服务数十万客户的基础设施生意。适合关注游戏后端服务器与托管赛道的从业者了解这一细分市场的成长逻辑。",
-      "url": "https://naavik.co/podcast/the-game-server-hosting-company-private-equity-couldnt-buy/",
-      "source": "Naavik",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T15:38:56",
-      "games": [
-        {
-          "name": "Minecraft",
-          "desc": "沙盒生存建造游戏，文章提到其服务器曾宕机三天，由此催生了 BisectHosting 的托管业务。"
-        }
-      ]
-    },
-    {
-      "id": "d7127ecca1",
-      "title": "印度游戏开发者协会为首届 Supernova 孵化计划选出 15 家工作室",
-      "summary": "GDAI从260多份申请中选出15家工作室进入Supernova孵化项目，反映印度游戏创作者的生态活力。适合关注印度市场与新兴团队布局的从业者参考。",
-      "url": "https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T15:42:22",
-      "games": []
-    },
-    {
-      "id": "ac10638e79",
-      "title": "Maverick Games 与 Focus Entertainment 合作发行竞速游戏处女作《Clutch》",
-      "summary": "Focus Entertainment将发行Maverick Games的首款竞速游戏Clutch，标志这家新工作室的首款作品正式确定发行合作伙伴。对竞速品类和发行合作模式关注的从业者可以留意。",
-      "url": "https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T13:41:50",
-      "games": [
-        {
-          "name": "Clutch",
-          "desc": "开放世界竞速游戏，Maverick Games 的处女作，由 Focus Entertainment 发行，预计 2027 年春季登陆 PS5、Xbox Series X|S 和 PC。"
+          "name": "The Blood of Dawnwalker",
+          "desc": "在Gamescom展台上的PC/console游戏。"
         },
         {
-          "name": "Forza Horizon",
-          "desc": "开放世界赛车游戏系列，Maverick 创始人 Mike Brown 曾担任该系列创意总监。"
+          "name": "Farming Simulator",
+          "desc": "以拖拉机为标志的农场模拟游戏。"
+        },
+        {
+          "name": "Sea of Remnants",
+          "desc": "NetEase推出的游戏，有引人注目的展示。"
+        },
+        {
+          "name": "Where Winds Meet",
+          "desc": "NetEase的PC/console游戏。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "NetEase的PC/console游戏。"
+        },
+        {
+          "name": "Halo",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "COD",
+          "desc": "Xbox展台上的游戏（通常指《使命召唤》）。"
+        },
+        {
+          "name": "Gears",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "Fable",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "Forza",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "Arknights: Endfield",
+          "desc": "在Hall 8有巨大展台的游戏。"
         }
       ]
     },
     {
-      "id": "beb132f340",
-      "title": "Gamescom Dev 负责人称小型工作室是游戏市场最大机会",
-      "summary": "Gamescom Dev新任负责人Frederik Hammes引用开发者调研指出，小型工作室当前拥有最大的市场机遇。对独立团队和中小研发商评估发行与参展策略有参考意义。",
-      "url": "https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market",
+      "id": "728a2fca5f",
+      "title": "Roblox 对 Roblox Kids 和 Select 中含“奖励驱动媒体流”的游戏实施限制",
+      "summary": "Roblox 推出新政策，限制儿童接触游戏中的“奖励驱动媒体流”（reward-driven media feeds），涉及 Roblox Kids 与 Select 环境。这反映儿童保护政策对游戏内激励和广告设计的约束，休闲与 UGC 手游从业者需关注合规风险。",
+      "url": "https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T11:00:00",
-      "games": []
+      "score": 6,
+      "published_at": "2026-08-26T08:10:26",
+      "games": [
+        {
+          "name": "Steal an Egg",
+          "desc": "宠物收集模拟游戏，因包含鼓励观看媒体流的奖励机制而被移出 Roblox Kids 和 Select。"
+        }
+      ]
     },
     {
-      "id": "939c9c8605",
-      "title": "Godot 引擎合作公司 W4 Games 获 1800 万美元 B 轮融资，携手腾讯拓展亚洲生态",
-      "summary": "W4 Games完成1800万美元B轮融资，腾讯领投并签署合作协议，以加强Godot在亚洲的生态建设。对使用开源引擎的团队而言，这是引擎工具链与区域服务利好的信号。",
-      "url": "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T08:00:00",
-      "games": []
-    },
-    {
-      "id": "43ca7bc51d",
-      "title": "Google 称区块链工作室 Parallel 的生存模拟游戏《Colony》是值得关注的 AI 游戏",
-      "summary": "谷歌云游戏业务负责人将《Colony》列为重点AI游戏，并举Capcom、Plarium、Nexon、Square Enix等例驳斥AI取代就业的说法。对关注AI在游戏研发应用与云游戏趋势的从业者有参考价值。",
-      "url": "https://mobilegamer.biz/google-says-survival-game-colony-from-blockchain-studio-parallel-is-the-ai-game-to-watch/",
+      "id": "eb48b8b4ae",
+      "title": "数据摘要：Miniclip、Learnings 和 Tripledot 领跑 7 月美国广告收入榜",
+      "summary": "MobileGamer.biz 汇总了 7 月美国手游广告收入排行，Miniclip、Learnings 和 Tripledot 位列前茅，并包含 Smash Fest 数据和融资消息。对关注买量与变现的休闲手游从业者，是了解市场热度和竞品投放的快速参考。",
+      "url": "https://mobilegamer.biz/data-digest-miniclip-learnings-and-tripledot-top-julys-us-ad-revenue-chart-smash-fest-stats-fundraising-news-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T08:44:13",
+      "score": 6,
+      "published_at": "2026-08-26T14:20:48",
       "games": [
         {
-          "name": "Colony",
-          "desc": "Parallel 开发的生存模拟游戏，利用实时 AI 推理让玩家近即时创建 3D 外观，被 Google 称为值得关注的 AI 游戏。"
+          "name": "Arrows Puzzle Escape",
+          "desc": "Miniclip 发行的箭头解谜手游，也是其 7 月美国广告收入最高的产品。"
         },
         {
-          "name": "The Ultimatum: Choices",
-          "desc": "Series Entertainment 为 Netflix 制作的恋爱互动游戏，文中作为 AI 原生工作室案例。"
+          "name": "Arrow Puzzle: Tap Puzzle Games",
+          "desc": "Miniclip 的箭头主题解谜手游，7 月全球下载量领先。"
         },
         {
-          "name": "Single's Inferno: Choices",
-          "desc": "Series Entertainment 基于 Netflix 综艺制作的恋爱互动游戏，文中与 The Ultimatum: Choices 并列提及。"
+          "name": "Amaze GO!",
+          "desc": "Learnings 发行的箭头解谜游戏，7 月下载量超过千万。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "Hungry Studio 的方块消除游戏，贡献了该公司绝大部分广告收入。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "King 的经典三消游戏，是该公司广告收入的主要来源。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "Learnings 旗下的麻将题材游戏，贡献了其近半广告收入。"
+        },
+        {
+          "name": "Smash Fest",
+          "desc": "Flow Games 的混合休闲游戏，上线后迅速进入收入榜并引发大量模仿作品。"
+        },
+        {
+          "name": "Royal Smash – Physics Puzzle",
+          "desc": "Cypher Games 的物理解谜游戏，7 月发布后快速获得大量下载和收入。"
+        },
+        {
+          "name": "Twin Tiles",
+          "desc": "Surge Games 的首款益智解谜游戏，用于测试 AI 驱动的制作流程。"
         }
       ]
     },
     {
-      "id": "43eb6a9681",
-      "title": "《Journey》开发商 thatgamecompany 推出发行品牌 thatgamepublisher，支持“通过玩法打动人”的游戏",
-      "summary": "thatgamecompany 正式推出发行业务 thatgamepublisher，并强调支持能在情感层面打动人心的游戏。其资金来源包括《Sky: Children of the Light》的利润，对关注独立发行与移动游戏内容导向的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/journey-studio-thatgamecompany-launches-thatgamepublisher-to-champion-games-that-move-people-through-play",
-      "source": "GamesIndustry.biz",
+      "id": "23b4b073c2",
+      "title": "Gamescom Opening Night Live 展示网易、Hoyoverse、腾讯等重磅新作",
+      "summary": "报道 Gamescom 开幕夜发布的 NetEase、Hoyoverse、腾讯新作，以及相关测试与预注册窗口信息。休闲手游从业者可借此了解大厂新品品类和营销节点，但文章未涉及玩法拆解。",
+      "url": "https://mobilegamer.biz/gamescoms-opening-night-live-showcases-neteases-ananta-and-sea-of-remnants-hoyoverses-petit-planet-more/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T13:00:00",
+      "score": 6,
+      "published_at": "2026-08-26T10:03:38",
       "games": [
         {
-          "name": "Flow",
-          "desc": "thatgamecompany开发的休闲冒险游戏"
+          "name": "Genshin Impact",
+          "desc": "Hoyoverse 的开放世界动作 RPG，文中作为该开发商代表作被提及。"
         },
         {
-          "name": "Flower",
-          "desc": "thatgamecompany开发的冒险游戏"
+          "name": "Nodus Fall",
+          "desc": "Hoyoverse 公布的类《Elden Ring》动作 RPG，尚未确认是否登陆移动端。"
         },
         {
-          "name": "Journey",
-          "desc": "thatgamecompany开发的冒险游戏"
+          "name": "Elden Ring",
+          "desc": "魂系开放世界动作 RPG，文中用作 Nodus Fall 的风格参照。"
         },
         {
-          "name": "Sky: Children of the Light",
-          "desc": "thatgamecompany开发的社交冒险游戏"
+          "name": "Ananta",
+          "desc": "NetEase 的动漫风格开放世界动作 RPG，确认登陆移动端、PS5 和 Xbox。"
         },
         {
-          "name": "Among Us",
-          "desc": "Innersloth开发的多人社交推理游戏"
+          "name": "Sea of Remnants",
+          "desc": "NetEase 的开放世界 roguelike RPG，计划登陆多平台，12 月开启全球封闭测试。"
         },
         {
-          "name": "Clickolding",
-          "desc": "Outersloth支持的独立游戏"
+          "name": "Monster Hunter Outlanders",
+          "desc": "Timi 开发、Capcom 授权的开放世界生存动作游戏，将《Monster Hunter》带到移动端。"
         },
         {
-          "name": "The Horror at Highrook",
-          "desc": "Outersloth支持的恐怖游戏"
-        },
-        {
-          "name": "Phasmophobia",
-          "desc": "Kinetic Games开发的多人恐怖游戏"
-        },
-        {
-          "name": "Precognition",
-          "desc": "Kinetic Publishing发行的游戏，Sam Barlow的新作"
-        },
-        {
-          "name": "Immortality",
-          "desc": "Sam Barlow开发的互动电影游戏"
+          "name": "Petit Planet",
+          "desc": "Hoyoverse 的可爱风生活模拟游戏，将于 2026 年冬季登陆移动端和 PC。"
         },
         {
           "name": "Palworld",
-          "desc": "Pocketpair开发的开放世界生存制作游戏"
+          "desc": "收集生物的开放世界生存游戏，文中用作 Roco Kingdom 的同类参照。"
         },
         {
-          "name": "Peak",
-          "desc": "Landfall开发的游戏"
+          "name": "Roco Kingdom",
+          "desc": "Morefun Studios/Tencent 的 Palworld 式生物收集游戏，将全球登陆多个平台。"
+        },
+        {
+          "name": "Silver Palace",
+          "desc": "Elementa 的幻想开放世界动作 RPG，在 Gamescom 上公布了多人模式 House of Greed。"
         }
       ]
     },
     {
-      "id": "3589cc6205",
-      "title": "Newzoo：2026 年全球游戏市场规模预计达 2139 亿美元，同比增长 6.1%",
-      "summary": "Newzoo 预计 2026 年全球游戏市场将同比增长 6.1% 至 2139 亿美元，超过一半消费者支出来自中国和美国。该数据为休闲/移动游戏从业者提供了宏观市场参考。",
-      "url": "https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy",
-      "source": "GamesIndustry.biz",
+      "id": "7f95b63178",
+      "title": "数据分析：2026 年全球游戏市场将创收入纪录——得益于 GTA VI",
+      "summary": "Newzoo 预测 2026 年全球游戏市场总收入将达到 2139 亿美元，创历史新高，主要受 GTA VI 推动。休闲游戏从业者可借此了解整体市场增长背景，但文章未深入分析休闲品类。",
+      "url": "https://gameworldobserver.com/2026/08/26/analytics-in-2026-the-global-video-game-market-will-set-a-revenue-record-thanks-to-gta-vi",
+      "source": "Game World Observer",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-25T09:14:43",
+      "score": 6,
+      "published_at": "2026-08-26T13:50:08",
       "games": [
         {
           "name": "Grand Theft Auto VI",
-          "desc": "Rockstar Games开发的开放世界动作冒险游戏"
+          "desc": "Rockstar Games 的开放世界动作游戏，被视为 2026 年全球游戏市场创收入纪录的主要推动力。"
         }
       ]
+    },
+    {
+      "id": "eb923bdb7e",
+      "title": "1047 Games停止开发《Empulse》和《Splitgate: Arena Reloaded》，宣布告别服务型射击游戏",
+      "summary": "1047 Games宣布停止《Empulse》和《Splitgate: Arena Reloaded》的积极开发，将两款游戏转为点对点托管，并明确转向非服务型射击游戏方向。该动向反映中小型射击工作室对live service模式成本与竞争的再评估，对休闲游戏LiveOps决策有一定间接参考。",
+      "url": "https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T19:10:37",
+      "games": [
+        {
+          "name": "Empulse",
+          "desc": "6v6移动射击游戏，被定位为《泰坦陨落》的精神续作，处于早期接入阶段。"
+        },
+        {
+          "name": "Splitgate: Arena Reloaded",
+          "desc": "1047 Games开发的竞技场射击游戏，属于服务型射击游戏。"
+        },
+        {
+          "name": "Splitgate 2",
+          "desc": "1047 Games的续作，2025年6月发布，因争议和后续调整备受关注。"
+        },
+        {
+          "name": "Splitgate",
+          "desc": "1047 Games的原创竞技场射击游戏，现已转为对等托管。"
+        }
+      ]
+    },
+    {
+      "id": "fc79f77f59",
+      "title": "Playdate 制造商 Panic 将关税费用退还给客户",
+      "summary": "Playdate 制造商 Panic 决定将因关税政策向客户收取的费用全额退还，称“这不是我们的钱，退回去感觉很好”。这则消息反映了游戏硬件厂商在关税环境下的应对策略，但对三消/休闲手游从业者的直接参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T18:21:55",
+      "games": []
+    },
+    {
+      "id": "eafe6722ad",
+      "title": "Creative UK 推出 Barclays 赞助的屏幕产业成长计划",
+      "summary": "Creative Enterprise 在 Creative UK 旗下推出面向屏幕产业的成长计划，资金来自 BFI National Lottery。该计划旨在支持英国影视、电视与游戏企业发展，可作为了解海外产业扶持动态的参考。",
+      "url": "https://www.gamedeveloper.com/business/creative-uk-launches-barclays-sponsored-growth-program-for-screen-businesses",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T16:11:16",
+      "games": []
+    },
+    {
+      "id": "07cfc090c6",
+      "title": "IGDA 孵化兴趣组将在 Gamescom 发布全球游戏孵化器与加速器首份普查报告",
+      "summary": "IGDA 孵化兴趣组将在 2026 Gamescom 上公布首份全球游戏孵化器和加速器项目普查，为行业提供支持新兴工作室的机构全景。对关注海外早期游戏团队与孵化生态的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/igda-incubation-sig-to-unveil-first-global-census-of-game-incubators-and-accelerators-at-gamescom",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T18:11:00",
+      "games": []
+    },
+    {
+      "id": "138c4178e4",
+      "title": "CD Projekt Red 将在 Blizzard 的 Battle.net 发行《The Witcher 3: The Wild Hunt》",
+      "summary": "CD Projekt Red 与 Blizzard 达成合作，将《The Witcher 3: The Wild Hunt》重制版带到 Battle.net，并包含新扩展内容及《Diablo IV》联动。这属于跨平台发行与头部 IP 合作动态，对从业者了解行业合作风向有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T17:30:18",
+      "games": [
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "备受赞誉的RPG，将在Battle.net上发行重制版，并有新扩展包Songs of the Past。"
+        },
+        {
+          "name": "Songs of the Past",
+          "desc": "The Witcher 3即将推出的扩展包。"
+        },
+        {
+          "name": "Diablo IV",
+          "desc": "将推出以杰洛特为主题的装饰皮肤。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt Red的游戏，销量达4000万份。"
+        },
+        {
+          "name": "Project Sirius",
+          "desc": "代号为Project Sirius的Witcher多人游戏，相关开发人员被解雇。"
+        },
+        {
+          "name": "The Witcher IV",
+          "desc": "正在开发中的Witcher系列新作。"
+        }
+      ]
+    },
+    {
+      "id": "baa625fe8d",
+      "title": "Xbox 将于本月晚些时候让 Insider 用户将实体游戏光盘转换为数字权益",
+      "summary": "Xbox 宣布将于8月31日起让 Insider 用户测试“光盘转数字版”功能，支持将受支持的实体游戏光盘转换为同名数字版权益。该功能反映主机平台数字分发趋势，对游戏发行策略有一定参考价值，但与休闲游戏玩法设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/xbox-to-let-insiders-convert-physical-game-discs-into-digital-entitlements-later-this-month",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T16:17:59",
+      "games": []
+    },
+    {
+      "id": "caa02b3a82",
+      "title": "Ubisoft 推出 Player Council 平台以拓展早期游戏开发反馈",
+      "summary": "Ubisoft 宣布软启动 Player Council 平台，玩家可受邀测试早期概念、原型和实时体验并直接向开发者反馈。它展示了大厂在开发早期引入用户反馈的机制，对休闲游戏团队设计玩家调研和社区反馈流程有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T15:50:50",
+      "games": [
+        {
+          "name": "Riders Republic",
+          "desc": "Ubisoft 的多人户外运动游戏，作为已发售游戏加入 Player Council。"
+        },
+        {
+          "name": "Atomega",
+          "desc": "Ubisoft 的多人竞技场射击游戏，作为已发售游戏供玩家测试。"
+        },
+        {
+          "name": "Codename Split Point",
+          "desc": "代号项目，多人在线战术回合制概念游戏。"
+        },
+        {
+          "name": "Codename Rook",
+          "desc": "代号项目，单人策略体验游戏。"
+        },
+        {
+          "name": "Codename Decagon",
+          "desc": "将在 2026 年秋季加入 Player Council 的合作项目之一。"
+        },
+        {
+          "name": "Codename Harlequin",
+          "desc": "将在 2026 年秋季加入 Player Council 的合作项目之一。"
+        },
+        {
+          "name": "Assassin's Creed Shadows",
+          "desc": "Ubisoft 的潜行动作角色扮演游戏，此前因玩家反馈延期并取得高首日销售额。"
+        }
+      ]
+    },
+    {
+      "id": "99c50adbed",
+      "title": "Rockstar 回应 GTA 6 泄露：“这显然不是我们希望你在这么久之后看到游戏的方式”",
+      "summary": "Rockstar 针对《Grand Theft Auto 6》泄露发布官方回应，表示泄露并非官方预期的展示方式。该事件属于 AAA 游戏营销与信息管控案例，对休闲游戏从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T12:57:20",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games 的开放世界动作冒险游戏，因近期泄露事件和将在 11 月 19 日发售而受到关注。"
+        }
+      ]
+    },
+    {
+      "id": "c7ba251c13",
+      "title": "Testronic 扩大高级管理团队，Mike Guttman 出任高级合作副总裁",
+      "summary": "Testronic 在全球多地扩张高级管理层，Mike Guttman 被任命为高级合作副总裁。这是游戏 QA 与本地化服务公司的商务和人事动态，对休闲游戏从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T09:39:21",
+      "games": []
     }
   ]
 }
