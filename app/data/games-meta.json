@@ -3782,5 +3782,130 @@
     ],
     "store_url": "https://apps.apple.com/cn/app/%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7-%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E8%81%94%E5%8A%A8/id6755943637?uo=4",
     "store": "appstore"
+  },
+  "Riders Republic": {
+    "name": "Riders Republic",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/c384df0cbfeba26c167fab3d30961f3850b17b3d/header.jpg?t=1782492474",
+    "description": "Jump into a massive multiplayer playground! Bike, ski, snowboard, or wingsuit across an open world sports paradise where the rules are yours to make or break.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/cf8d5ad6024b6be50e09bd2f2fac85a81fa7453c/ss_cf8d5ad6024b6be50e09bd2f2fac85a81fa7453c.600x338.jpg?t=1782492474",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/72d2aa7cdaa61a0ad947ee86a8fff210febcbf03/ss_72d2aa7cdaa61a0ad947ee86a8fff210febcbf03.600x338.jpg?t=1782492474",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/2f80a42936e626fb6ef89e5c680e61c85b1b15cc/ss_2f80a42936e626fb6ef89e5c680e61c85b1b15cc.600x338.jpg?t=1782492474",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/d0e9407cdc37f3bf8e4e9b86085bbe1c36f75ae0/ss_d0e9407cdc37f3bf8e4e9b86085bbe1c36f75ae0.600x338.jpg?t=1782492474"
+    ],
+    "store_url": "https://store.steampowered.com/app/2290180",
+    "store": "steam"
+  },
+  "Atomega": {
+    "name": "ATOMEGA",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619880/798ae5110e6088d3b6ba1e5f74173c6698e03209/header.jpg?t=1785502880",
+    "description": "The fast-paced first-person multiplayer arena shooter with an evolution twist. Collect mass as you race around the map to take on increasingly powerful new forms – from the glowing Atom to the majestic Omega. Battle for supremacy with up to seven other players as you compete to dominate the arena.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619880/ss_83cb48792715793ce0533176cad7245ae9e3707e.600x338.jpg?t=1785502880",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619880/ss_27ba3f857dd0cd3c35de589de3af834ea12f8901.600x338.jpg?t=1785502880",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619880/ss_37825752d7b7f6550863000abe2c6508aba78686.600x338.jpg?t=1785502880",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619880/ss_6a15239d9ac7daf4a55a0876cf38856e10858d0d.600x338.jpg?t=1785502880"
+    ],
+    "store_url": "https://store.steampowered.com/app/619880",
+    "store": "steam"
+  },
+  "Codename Split Point": null,
+  "Codename Rook": null,
+  "Codename Decagon": null,
+  "Codename Harlequin": null,
+  "Assassin's Creed Shadows": {
+    "name": "Assassin's Creed Shadows - Premium Starter Pack",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362570/f1906ce7d2fb7f9f70df8debb06ac53efbe43083/header.jpg?t=1764869126",
+    "description": "The Premium Starter Pack contains 2 exclusive new weapons for Naoe and Yasuke, 5 mastery points, and 4,200 Helix Credits, including 700 bonus Helix Credits, which can be used to unlock extra items, in-game currency, resources, and more.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362570/06ddada3ec1136625baebacc6131d7c8995708ad/ss_06ddada3ec1136625baebacc6131d7c8995708ad.600x338.jpg?t=1764869126",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362570/5eeae756dd4281a400371e04d705d9135dc98ef0/ss_5eeae756dd4281a400371e04d705d9135dc98ef0.600x338.jpg?t=1764869126",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362570/b4bed1adf727fad580c73ae13dd3065c9de63bab/ss_b4bed1adf727fad580c73ae13dd3065c9de63bab.600x338.jpg?t=1764869126",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3362570/4e9fd21649583759b7fa770a79083d0fa7317ed8/ss_4e9fd21649583759b7fa770a79083d0fa7317ed8.600x338.jpg?t=1764869126"
+    ],
+    "store_url": "https://store.steampowered.com/app/3362570",
+    "store": "steam"
+  },
+  "Steal an Egg": {
+    "name": "Egg",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/34/36/94/34369457-69bd-5adc-05ad-2f18dc21dce1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+    "description": "Egg!\n\nThe chicken want to go home...\nbut there are many obstacles on the road.\n\nCan you help the bird go home safely?\n\nTap to lay an egg and make your record!\n\nYou won't be able to stop anymore!\n\nEggjoy!\n\nEgg!!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bc/97/80/bc978027-9952-4651-3584-e187c8f1340b/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/b5/90/05b59092-cc1f-c41d-6646-fe7200a64c81/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d9/cf/86/d9cf8610-b536-ebfd-3f02-94852ea86e11/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ed/55/4b/ed554b4c-6f5c-200a-10ae-935e58053ae5/pr_source.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/egg/id1505215766?uo=4",
+    "store": "appstore"
+  },
+  "Arrows Puzzle Escape": null,
+  "Arrow Puzzle: Tap Puzzle Games": null,
+  "Amaze GO!": {
+    "name": "Amaze GO!",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/15/0f/97150fd4-39cd-0fcf-b8e2-e53744a888e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Amaze GO! A clean arrows puzzle game built to calm a busy mind. Every arrow points the way — what you need to do is to choose the right order. The design cuts visual noise, reduces chaos, and helps you organize thoughts as you play. Pick up an arrow. Find its lane. Repeat until the grid is yours. Enjoy the quiet flow offline anywhere and anytime.\n\nWhat makes Amaze GO! great\n1. Streamlined arrows puzzle that declutters the screen and the mind\n2. Works offline with a clean interface that keeps attention on the board\n3. Calm play loop for smart brains: think clearly, move each arrow with strategy\n4. Smooth tap controls, clear path feedback, and satisfying release moments like ASMR\n\nHow to Play\n- Find an arrow with a free path to the edge\n- Tap to slide that arrow off the grid and open a lane for the next move\n- Plan the order to secure a safe route and a clean board\n- Long-Press to use Guidance to highlight directions when your path is unclear\n- A wrong tap costs a heart for the level\n- Clear the board to finish the level and aim for a perfect run\n- Hints help focus when the grid feels tight\n\nWhy love this arrow puzzle\n· Simple rules, profound strategy, and a meditative arrows puzzle\n· Short breaks ease stress and sharpen focus\n· The last arrow leaves the board with a satisfying mental reset\n· Cognitive workout for sequencing and brain teasers\n· Quiet visuals, plus a satisfying whoosh as each arrow flies off the grid — feedback that soothes instead of nags\n\nMade for the in-between moments\n- The ten minutes before a meeting starts \n- The metro ride too short for a podcast \n- The flight where your signal drops\n- The wind-down after a noisy workday \n\nAmaze GO! - Puzzle Games is a quiet arrows puzzle made for sharp minds and calm moments. Learn fast, then master timing and order. Send every arrow off the board, untangle the grid, and feel disorder turn into clarity. Amaze GO! is the arrows puzzle you reach for when the rest of the day was too loud — one good move, then another, then a quiet board. Download now, plan smart paths, keep hearts safe, and enjoy pure focus anytime, anywhere!\n\nPrivacy Policy: https://oakevergames.com/pp.html\nTerms of Service: https://oakevergames.com/tos.html\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/ac/e7/ceace7c6-81cb-cea6-fb49-ee8160754ae8/P1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/23/5e/99235ea1-00f7-6846-f768-75010b5dbc13/20260507-150724.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/23/e5/2823e548-e948-fb51-91ef-ea962479d824/Game_U98751242_2688.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/b8/8d/64b88d02-8280-2734-40c9-3c5603148ce2/Group_36__U00281_U0029.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/amaze-go/id6758326278?uo=4",
+    "store": "appstore"
+  },
+  "Royal Smash – Physics Puzzle": null,
+  "Twin Tiles": {
+    "name": "Twin Tiles!",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/66/11/716611de-d5ec-3613-58e7-904fa97069c3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Twin Tiles!\n\nGet ready for a fresh twist on the tile puzzle genre. In Twin Tiles!, you don't just match colors, you find the perfect connection. Spot two matching twins, tap the space between them, and watch them match away with a satisfying pop!\n\nWith its toy-like glossy aesthetic and tactile feedback, Twin Tiles! is designed to be as visually pleasing as it is mentally stimulating. Sharpen your spatial logic or simply unwind with the most satisfying puzzle on the store.\n\nWhy You'll Love Twin Tiles!\n\nUnique Tap Mechanic: Tap between two matching twins to match them. Connect them in a line, or around a corner — a fresh challenge for puzzle lovers!\n\nTactile & Satisfying: Enjoy high-quality glossy visuals and smooth animations that make every tap feel rewarding.\n\nBrain-Boosting Levels: Plan your moves carefully, outsmart tricky blockers, and clear the board. Perfect for keeping your mind sharp.\n\nStunning Toy Aesthetic: Featuring stylized lighting and rounded, vibrant materials that pop off your screen.\n\nPlay at Your Own Pace: No timers, no stress. Just pure, satisfying puzzle-solving whenever you have a spare moment.\n\nHow to Play:\nLook for two matching twins on the board.\nTap the line between them — or the corner where they meet.\nWatch them match and clear away!\nChain your moves into combos and keep the board from filling up.\n\nReady for a new kind of match? \nDownload Twin Tiles! today!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/92/ea/4892eae2-beb6-ecca-a088-b5a9276d2cd3/iOS1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/29/07/2f2907db-9f3f-52f3-1766-4799c9d3360e/iOS2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/be/df/19bedfb7-210c-ec1b-27e0-9defe6881f48/iOS3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/ac/7b/55ac7b09-e4c1-cfbd-ac8a-5eaa2fd36804/iOS4.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/twin-tiles/id6763920066?uo=4",
+    "store": "appstore"
+  },
+  "Nodus Fall": null,
+  "Monster Hunter Outlanders": {
+    "name": "Monster Hunter Outlanders",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/5d/4b/a75d4b6a-ee58-6865-cf92-4fb39cc3e89f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "Monster Hunter Outlanders is a Monster Hunter exploration hunting action game on mobile, officially licensed by CAPCOM and developed by TiMi Studio Group. The game preserves the classic weapons and hunting experience the IP is known for, while introducing a brand-new world, original Adventurers, Buddies, and exclusive new Monsters.\n\n① Hunt & Explore in the Living Aesoland.\nA new adventure awaits on your phone! Built for mobile play, with portable controls that allow you to dive into the action instantly!\n\n② Exclusive Radiant Species, Only in Monster Hunter Outlanders.\nShaped by the ever-changing environment, Radiant Monsters are here to bring new adventures and challenges!\n\n③ No Quest is Too Great, Team Up Anytime! \nExplore the vast field solo, or rally your friends with a single tap to form a 4-player hunting squad. No matter when or where, as long as you've got companions by your side, no monster is too fearsome to face!\n\n④ Original Adventurers & Classic Weapons, Unleash All-new Hunting Arts\nThe seven classic weapon types are here: Great Sword, Long Sword, Dual Blades, Hammer, Lance, Heavy Bowgun, and Bow. Each weapon forms a unique combination with Adventurers, preserving the core hunting experience while unlocking all-new Follow-up moves! More weapons will join the hunt in future updates.\n\n⑤ Meet New Buddies. \nPalico, Rutaco, and Trillan—three Buddies, each with their own unique personality—will join you on the hunt, adding color to your adventure through a wealth of events and happenings.\n\n⑥ Born For Mobile. \nFaithful recreations of the series' classic weapons and hunting gameplay, deeply optimized for mobile devices to deliver a smoother, more freeform experience—hunt wherever, whenever!\n\nPre-register Now and Happy Hunting!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b8/18/c2b8182e-65c4-6d05-e90f-028e95a68acf/_U5356_U70b9_U56fe-_U4e3bKV-2778x1284.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/b9/df/a3b9df6f-ac1f-e11b-61cf-723b1404fd7d/mh-_U5356_U70b9_U56fe-_U82f1_U6587_U72481-2778x1284.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/17/e4/7817e420-1e16-c419-2c3a-4a372401a7c1/mh-_U5356_U70b9_U56fe-_U82f1_U6587_U72482-2778x1284.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/24/06/342406a1-7c7e-b94f-71b2-f09a41304c04/mh-_U5356_U70b9_U56fe-_U82f1_U6587_U72483-2778x1284.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/monster-hunter-outlanders/id6444520814?uo=4",
+    "store": "appstore"
+  },
+  "Roco Kingdom": {
+    "name": "Roco Kingdom",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821880/154e7b980954c5c213dc1cb28dd8afc5065bccbc/header.jpg?t=1787623102",
+    "description": "Roco Kingdom is a new evolution of open-world creature collecting games, where players become Rocos and set out to meet Jinies in the continent of Carosia. Discover 400+ unique Jinies in this living open world. Form bonds with them as you grow together.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821880/acf68242e105001deff706fd7ad98583694622bc/ss_acf68242e105001deff706fd7ad98583694622bc.600x338.jpg?t=1787623102",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821880/bbd04928569e48ce1ac73d094836e64381b2b674/ss_bbd04928569e48ce1ac73d094836e64381b2b674.600x338.jpg?t=1787623102",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821880/047086b75c834ab1b0d99c5e24c975b49867d469/ss_047086b75c834ab1b0d99c5e24c975b49867d469.600x338.jpg?t=1787623102",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821880/14b6d2046a54d7777c5814a6fb649a699c86ce42/ss_14b6d2046a54d7777c5814a6fb649a699c86ce42.600x338.jpg?t=1787623102"
+    ],
+    "store_url": "https://store.steampowered.com/app/4821880",
+    "store": "steam"
+  },
+  "Silver Palace": {
+    "name": "Silver Palace Bengaluru",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ba/38/0eba38eb-f68b-e45f-2350-f5702383026c/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+    "description": "To explore the app's features and access product specifications, users must first install the jewelry app and create an account by providing their relevant information. Once this step is complete, the e-commerce app is ready for use!\n\nUpon logging in, users are greeted with banners showcasing various categories and product types, including 'Top Trending,' 'New Arrival,' 'Special Selection,' and 'Recent Views.' Users have the option to add items to their wishlist and cart for future reference.\n\nPlease note that this application does not support direct payments. After adding products to the cart, users can review the list of items in their cart. When a user places an order, the admin is notified, and offline arrangements are made for both payment and delivery. Users can view a list of their placed orders in the cart section.\n\nFor easy product discovery, we've included a search feature that allows users to find specific products or categories. Additionally, users can conveniently communicate with the store via WhatsApp.\n\nIn the 'Edit Profile' section, users have the option to update their personal information. We've also introduced a feature for users to add and manage multiple addresses within the app.\n\nIf you have any inquiries, please feel free to contact us, and we'll provide you with all the information you need about the shop",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/ca/ea/17caea04-56da-ae32-5715-d951cf09f763/playstore_images-01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/a7/ae/67a7ae36-89ab-403e-07fc-a5a0eb7f6f3d/playstore_images-02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/26/bc/9b26bc29-3b49-cb3b-53d6-c4386834f24e/playstore_images-03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/27/3b/80273b28-ec9e-1c2a-b388-ac8ceb432d3c/playstore_images-05.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/silver-palace-bengaluru/id6747030376?uo=4",
+    "store": "appstore"
   }
 }
