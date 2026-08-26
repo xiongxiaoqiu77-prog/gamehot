@@ -3687,5 +3687,100 @@
     "store": "steam"
   },
   "Final Fantasy 7: Revelation": null,
-  "The Witcher 3: Wild Hunt — Remastered": null
+  "The Witcher 3: Wild Hunt — Remastered": null,
+  "巫师3：重制版": null,
+  "魔法门之英雄无敌3：重制版": null,
+  "最终幻想 VII 启示录": null,
+  "百战天虫：银河智战": null,
+  "模拟火车世界7": null,
+  "过山车大亨 Wonderworks": null,
+  "Animo": {
+    "name": "Animo Therapy",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/35/95/96359537-21c8-dd6e-4617-5542e88d29de/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+    "description": "Animo helps you address stress, depression, anxiety and general emotional fitness in a safe and secure self-guided environment.\n\nComplete a brief emotional fitness survey and then choose one of the suggested modules. Each module has five short competency-building sessions that include a combination of videos, audio lessons and coursework designed to help you foster meaningful and lasting behavioral change. After watching a three-minute video, you can begin working on the first session immediately. \n\nYou’ll receive motivation and assignments to support your progress between sessions. Use the personal Emotional Health Tracker to record your day-to-day outlook. You can also find toolkits, tip sheets, guides and even stress-reducing games that improve focus and mental awareness.\n\nTo get started, download the app, enter your group code and log into your personalized profile.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/01/07/eb/0107eb0a-23b6-2294-9be4-1876849d2fdd/ce02b6a2-0211-49bc-943a-972fae98e386_5_5_animo-preview01.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/3f/9e/483f9e15-e7c5-33b3-3af6-196eafc2c0c7/b3e842e4-5e05-425e-b42d-6b6ecf760932_5_5_animo-preview02.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/66/63/d5/6663d59f-4b16-38a9-7ad7-aa1c6fd5c569/ce5a48a6-23f1-48fc-bdb9-d1f265789e50_5_5_animo-preview03.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/31/94/a9/3194a91f-2f2c-a98a-6424-44f1307114a3/9a2d6f8a-6f44-4558-baf4-0e261563e0d4_5_5_animo-preview04.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/animo-therapy/id1437294458?uo=4",
+    "store": "appstore"
+  },
+  "Perceptum": {
+    "name": "Perceptum",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124340/b132dcdfe2dd4517e0a52fa283d801914001d317/header.jpg?t=1787702922",
+    "description": "A psychological horror game where you play as a medium investigating the disappearance of a family. Explore a house with an oppressive atmosphere, close your eyes to hear the beyond, use your mirror to see what should not exist and uncover the truth hidden within its walls.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124340/f113e9c46103b22b8a4cfb3af1f8e2531c6d6be6/ss_f113e9c46103b22b8a4cfb3af1f8e2531c6d6be6.600x338.jpg?t=1787702922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124340/0241ee69d3f3513e7ca57af5c5121083e6b2bbc7/ss_0241ee69d3f3513e7ca57af5c5121083e6b2bbc7.600x338.jpg?t=1787702922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124340/a2a06762d8a63a2916aafeadb23a3c5dc191f46a/ss_a2a06762d8a63a2916aafeadb23a3c5dc191f46a.600x338.jpg?t=1787702922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124340/d79267df47df03fd295eaf2a1a9576808f1b59e4/ss_d79267df47df03fd295eaf2a1a9576808f1b59e4.600x338.jpg?t=1787702922"
+    ],
+    "store_url": "https://store.steampowered.com/app/4124340",
+    "store": "steam"
+  },
+  "Acornia: Mirror Worlds": {
+    "name": "Acornia: Mirror Worlds",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415640/bd8d7b25ba8133f36900936985c21336d9bfa0f5/header.jpg?t=1787679852",
+    "description": "Acornia: Mirror Worlds is a bake-and-brawl management adventure game! Run your shop in one dimension, fight angry spirits in the other. Your special skill? Stuffing your bottomless cheek pouches with treats - to plate up or shoot up enemies!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415640/e555feedff9258a6b3691c7d3d7a6ca80fb2d283/ss_e555feedff9258a6b3691c7d3d7a6ca80fb2d283.600x338.jpg?t=1787679852",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415640/9c4ab98ce116990a51040e20c4731f6c08060246/ss_9c4ab98ce116990a51040e20c4731f6c08060246.600x338.jpg?t=1787679852",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415640/c594728b70a471ea56165693be91a697a2ea5a36/ss_c594728b70a471ea56165693be91a697a2ea5a36.600x338.jpg?t=1787679852",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415640/fa829c94bf0ed6563835386e5b779d7566885c62/ss_fa829c94bf0ed6563835386e5b779d7566885c62.600x338.jpg?t=1787679852"
+    ],
+    "store_url": "https://store.steampowered.com/app/3415640",
+    "store": "steam"
+  },
+  "不朽遗志": null,
+  "坦克狂途": null,
+  "人类2": null,
+  "艾尔塔：逆神": null,
+  "Age Twisters": {
+    "name": "Age Twisters",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2643540/f3ea463e77355d127dcf16d838e3e2fdb8d37a51/header.jpg?t=1787680853",
+    "description": "Age Twisters is a 2-player co-op narrative adventure game that allows you to send a free invite to friends via the Friend’s Pass. Play as a grandfather and granddaughter to solve puzzles by freely changing your age and reveal the dark secrets hidden beneath a facade of lies.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2643540/408d705ef5c3a241db18fed275fcc9ad3d01d4fc/ss_408d705ef5c3a241db18fed275fcc9ad3d01d4fc.600x338.jpg?t=1787680853",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2643540/1d7448ad1f8919e718c1a6f7635b3f80b78594a6/ss_1d7448ad1f8919e718c1a6f7635b3f80b78594a6.600x338.jpg?t=1787680853",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2643540/04fc3efe8694eeb9a29b5daab33f6ce4f69a1e42/ss_04fc3efe8694eeb9a29b5daab33f6ce4f69a1e42.600x338.jpg?t=1787680853",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2643540/0e3277a767b0680bb09a6eceeac7accff4a93090/ss_0e3277a767b0680bb09a6eceeac7accff4a93090.600x338.jpg?t=1787680853"
+    ],
+    "store_url": "https://store.steampowered.com/app/2643540",
+    "store": "steam"
+  },
+  "鬼武者剑之道": null,
+  "Mariachi Legends": {
+    "name": "Mariachi Legends",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376260/07112e2fd4a5272bb6baa895ca302b1bd1caf387/header.jpg?t=1777481383",
+    "description": "Mariachi Legends is a brutal, pixel art, combat-oriented Metroidvania set in the heart of Mexico.You play as Pablo Cruz, a detective who has agreed to a deal with Death herself. She has given Pablo the ability to transform into the mighty La Sombra allowing him to fight back against evil.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376260/ss_584d7a6d5307a3656b44bef610c282ff046fbba4.600x338.jpg?t=1777481383",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376260/a522890c7e8767c16955a8b59ec630a8bffb3c08/ss_a522890c7e8767c16955a8b59ec630a8bffb3c08.600x338.jpg?t=1777481383",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376260/ss_2f6d62c4014c7586fe814603903bf89ae887e58f.600x338.jpg?t=1777481383",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376260/a84083c031c910e1d01326ccd9e985a072d439ba/ss_a84083c031c910e1d01326ccd9e985a072d439ba.600x338.jpg?t=1777481383"
+    ],
+    "store_url": "https://store.steampowered.com/app/2376260",
+    "store": "steam"
+  },
+  "源初之结": null,
+  "彩虹六号：战术小队": null,
+  "战争机器 事变日": null,
+  "无限大": null,
+  "寂静岭：Townfall": null,
+  "共鸣：瘟疫传说传承": null,
+  "遗忘之海": {
+    "name": "遗忘之海-海绵宝宝联动",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/70/da/3370dafc-14ae-ca21-e533-138e3236807f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "听着，我的船长。\n在别的地儿，你忙着拯救世界、扬名立万。可在这儿？除了搜刮大海上的金银财宝以外，你还要把丢了的“脑子”找回来。\n你并不孤单，你的伙伴、那个叫艾丝的机灵鬼，自称天才冒险家。但她口袋里除了一些只会爆炸的奇怪发明，也没比你强多少。因为她跟你一样，也是个把过去忘了个精光的倒霉蛋——显然她自己并不这么想。\n\n总之，欢迎你来到《遗忘之海》！\n\n想要自由？这片大海就没有“规则”这俩字！\n想当航海王？还在等什么？去把每一个你看不爽的家伙打飞！掌好船舵出发，这里的每一处海域、每一座岛，都等着你去探索！尽情搜刮藏在大海上的宝藏，再回到奥托皮亚挥霍个痛快吧！\n\n想要船员？这里才华横溢的怪人可太多了！\n这片海上多得是跟你和艾丝一样古怪但有实力的家伙：从梦中获取灵感的裁缝、曾是传奇海盗的颓废懒鬼、叛出贵族世家的军舰长官……先试试看和他们相处吧，至于是和他们成为伙伴，还是被他们扔到海里喂鱼，谁知道呢！\n\n想要战斗？快亮出你全副武装的战船！\n探索广袤的岛屿，记得带上最靠谱的伙伴组成小队迎击敌人。招惹海上的巨怪，就得亮出船队最坚固的装甲和最精良的大炮！见过那只扛着大炮的大猩猩么，它只是众多激烈海战里的开胃小菜！\n\n想要乐子？去奥托皮亚城里逛逛吧！\n真正的宝藏，藏在麻将一声声碰胡的欢乐时光里，藏在暗巷夜市昏暗神秘的灯光后……不管是在奥托皮亚城还是海岛的小营地，抓鸡、套圈、下棋、打麻将，你想玩啥就玩啥！\n\n为什么全是木偶？哈哈，我们也忘了！\n来吧！是时候向着遗忘之海启航，一起去找回咱们丢掉的记忆了！",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/37/41/ef37418b-5d7a-c12a-70b3-64ec4fa382d5/2796x1290.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/0b/21/f30b21f1-7f60-9d37-ac25-b658242b7e63/2796x1290-1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/37/1f/7c371f65-7f84-39ac-3c31-3eea1c35b311/2796x1290-2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/08/fe/d008fea5-e7f3-032b-e2ad-ed48dc5f901d/2796x1290-3.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7-%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E8%81%94%E5%8A%A8/id6755943637?uo=4",
+    "store": "appstore"
+  }
 }
