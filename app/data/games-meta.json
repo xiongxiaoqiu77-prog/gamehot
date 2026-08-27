@@ -4265,5 +4265,34 @@
     ],
     "store_url": "https://apps.apple.com/us/app/the-witcher-3-map-companion/id1618685296?uo=4",
     "store": "appstore"
-  }
+  },
+  "EA Sports FC26": null,
+  "FC25": null,
+  "Battlefield 6": {
+    "name": "Battlefield 6 Meta and Stats",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/1c/40/4b1c40b5-f26e-cf86-e79b-abf737f634e6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "BFHUB presents the ultimate meta loadouts for Battlefield 6 and \"RedSec\" BR mode players!\n\nGet ready for the upcoming \"RedSec\" battle-royale mode starting October 28th with the most up-to-date, real-time optimized loadouts for every weapon in the game. \n\t•\tBattle Royale and Multiplayer META\n\t•\tBest builds, several options for each weapon\n\t•\tCamo Tracker for \"Unstoppable Force\" mastery camo\n\t•\tReal-time updates\n\t•\tPlaylist tracker\n\t•\tLoadout generator\n\nWhat’s coming next:\n\t•\tPlayer's stats coming back in the next update\n\t•\tInteractive maps for BR mode \"RedSec\"\n\nCreated by the team behind WZHUB & Deltahub – trusted platforms for meta tracking in top shooters.\n\nDisclaimer: This is an unofficial companion app and is not affiliated with, endorsed, or sponsored by EA or DICE. All in-game content, names, and images are the property of their respective owners.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/74/d1/fc74d1ad-f218-094f-0f49-897fcb0ea4f7/01.jpeg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/96/71/d09671ce-a403-e6b2-e66b-8878ed98f33f/02.jpeg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/fb/e8/e1fbe8db-fe01-c441-a552-4d8a838b2483/03.jpeg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/d5/d4/8fd5d46a-f200-efcf-f94d-e83b155a9b61/04.jpeg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/battlefield-6-meta-and-stats/id6749641021?uo=4",
+    "store": "appstore"
+  },
+  "Red Dead Redemption 2": {
+    "name": "Red Dead Redemption 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+    "description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.600x338.jpg?t=1759502961",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.600x338.jpg?t=1759502961",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.600x338.jpg?t=1759502961",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.600x338.jpg?t=1759502961"
+    ],
+    "store_url": "https://store.steampowered.com/app/1174180",
+    "store": "steam"
+  },
+  "Grand Theft Auto 5": null
 }
