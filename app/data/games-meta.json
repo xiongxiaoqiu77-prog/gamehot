@@ -4106,5 +4106,57 @@
     ],
     "store_url": "https://store.steampowered.com/app/2918300",
     "store": "steam"
+  },
+  "Dragon Age: Origins": {
+    "name": "Dragon Age: Origins - Ultimate Edition",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/header.jpg?t=1782471846",
+    "description": "Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures. The Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_7fe94447069d399c8b32c125d684ec7b255600ba.600x338.jpg?t=1782471846",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.600x338.jpg?t=1782471846",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_6d3f7f75d007bc2efe93b1f230b66850757001db.600x338.jpg?t=1782471846",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.600x338.jpg?t=1782471846"
+    ],
+    "store_url": "https://store.steampowered.com/app/47810",
+    "store": "steam"
+  },
+  "Gabriel Knight: Sins of the Fathers": {
+    "name": "Fathers",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/5e/70/b05e705b-c9b6-7ec3-d0ca-188a029003f4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+    "description": "FathersApp: Wisdom of the Early Church, Offline\n\"‘In the beginning was the Word’ (John 1:1)—what did the early Christian Fathers think of this and every other verse in the Bible? FathersApp brings you a deep dive into their timeless insights, right at your fingertips, no internet required.\"\nExplore the thoughts of the Church Fathers—figures like Augustine, Origen, and Tertullian—on every chapter and verse of Scripture. From Genesis to Revelation, uncover how these foundational thinkers interpreted the Word, offering wisdom that shaped the early Church. Whether you’re a scholar, pastor, or curious believer, FathersApp delivers a rich, offline resource for study and reflection.\nMirroring the acclaimed jennica.github.io with full authorization from Jennica, FathersApp takes her online treasury offline. Access this wealth of commentary anytime, anywhere—no Wi-Fi, no data, just you and the Fathers’ words.\nKey Features:\nCommentary on every Bible verse by early Church Fathers.\n\nFully offline—perfect for travel, retreats, or spotty connections.\n\nAuthorized mirror of jennica.github.io, crafted with Jennica’s approval.\n\nSimple, intuitive design for seamless exploration.\nDive into the roots of Christian thought with FathersApp—download now and let the Fathers guide your journey through Scripture!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/25/a6/6925a6c9-5d01-c8be-1690-31cacce4c26c/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-06_at_22.21.00.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/fb/75/24fb7527-0dfd-c867-3ea7-74f6f3512839/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-06_at_22.21.11.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3c/6c/ac3c6c40-c3df-b657-69c2-247fc2f30579/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-06_at_22.21.19.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/fathers/id6744301843?uo=4",
+    "store": "appstore"
+  },
+  "Sacrifice": {
+    "name": "Sacrifices",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/63/fe/9563fe26-5914-a387-3038-d930447b2678/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+    "description": "Rule and guide a mesoamerican village through the vicissitudes of everyday life in the heart of a ruthless jungle.\nManage a cute rural village, be the heartless divinity you always intended to be and suffer our debatable humor in this god-game-meets-town-sim.\nDecide who is worthy of your tremendous powers, earn the faith of your followers, and gift them with divine knowledge to rebuild the great city that is now in ruins.\nWelcome to a world where you live only through the faith of your followers! Keep them in line, but be careful, as they could lose faith and you may very well be just another forgotten god...\n\n\nFEATURES\n● Manage your village and followers needs (food, medicinal herbs, wood, stone…)\n● Use your godly powers to answer prayers from your followers and defend them against rival tribes\n● Craft more than 150 different weapons and outfits\n● Send expeditions through the wild jungle and discover its many treasures\n● And of course, Sacrifice some of your most fervent followers to unlock more knowledge and therefore restore and expand your village\n\nSupport\nAre you having problems? Send us an email: we@spooky.games\nWe'll do our best to resolve your issue.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/05/9c/c2059ccf-8107-c2fd-2bf6-fa6b92122398/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/6f/71/d96f71ee-d349-f51b-bbfc-adb4b909ae96/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/70/a2/99/70a299e0-0522-b6f8-5f29-d0bb50ddcbfa/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/27/ff/29/27ff29e3-3b3c-659d-10d7-0cd4d7ed5733/pr_source.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/sacrifices/id1273760699?uo=4",
+    "store": "appstore"
+  },
+  "Brütal Legend": null,
+  "Command & Conquer: Red Alert 3": {
+    "name": "Command & Conquer: Red Alert 3 - Uprising",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24800/header.jpg?t=1779987212",
+    "description": "Red Alert 3: Uprising features four new mini-campaigns, giving players a deeper dive into the storyline's of the Soviets, the Allies, the Empire of the Rising Sun and a unique campaign centered on the origins of everyone’s favorite psionic Japanese schoolgirl commando, Yuriko Omega.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24800/ss_7b9a39763b4befa62db7832de9e21c716cf2b4f6.600x338.jpg?t=1779987212",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24800/ss_225d37e17bac35ee6d4edf950d90f2cfd60e3477.600x338.jpg?t=1779987212",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24800/ss_d4c860439767d942ed998492787b86aa593a2d04.600x338.jpg?t=1779987212",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24800/ss_7693282d7e37d74dd93c04c1b1c8b902c75b26f8.600x338.jpg?t=1779987212"
+    ],
+    "store_url": "https://store.steampowered.com/app/24800",
+    "store": "steam"
   }
 }
