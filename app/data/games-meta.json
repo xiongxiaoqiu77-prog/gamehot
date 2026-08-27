@@ -4252,5 +4252,18 @@
     ],
     "store_url": "https://apps.apple.com/us/app/pools/id6670792878?uo=4",
     "store": "appstore"
+  },
+  "The Witcher 3": {
+    "name": "The Witcher 3 Map & Companion",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/b4/22/efb422ee-b1d3-2f17-7f35-003c6c2aa8a6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "The bestest guide for The Witcher 3: Wild Hunt has just arrived. Want to find all places of power or destroy some monster nest? Here you will find a detailed map of all regions of the game, with all the treasures, smiths, monsters and more.\n\nYou'll also be able to save your discovered locations, so you'll be able to keep your map organized and explore new places more easily.\n\nAll features included:\n- All maps, including DLCs\n- All quests\n- Witcher gear\n- Alchemy formulas\n- Bestiary and characters\n- Gwent cards\n\n*Some options are only unlocked after purchase.\n\nPrivacy policy: https://drive.google.com/file/d/1dYOOL100jTo8HzUAK5Q2jWv5vrcmpdZU\nTerms of service: https://drive.google.com/file/d/1eeFVk61fJEJfnfbkvBFkhJvjeeDVcYB6",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/ec/c3/81ecc3d6-1306-50d4-e00d-0b8ae1678c60/0d8deeb9-3bc3-49f3-ada4-e02e2f611ae6_screenshot1.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/8d/a0/a88da0c3-9b19-b3fd-d7f9-bed32e12dac6/957cd14c-d095-4350-9517-333ee576b458_screenshot2.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/60/bc/4760bcc5-e85a-9bce-d2a6-f7390ae17ecb/1b052e90-8d56-4576-98d1-2d837cb118c9_screenshot3.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/42/4b/ee424b7a-2f97-68e9-f2f7-d6162acf3d78/e012d2ff-8ffc-43f3-8a8e-c5420a34f352_screenshot4.jpeg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/the-witcher-3-map-companion/id1618685296?uo=4",
+    "store": "appstore"
   }
 }
