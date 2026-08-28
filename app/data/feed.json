@@ -1,293 +1,419 @@
 {
-  "updated": "2026-08-28",
-  "generated_at": "2026-08-28T07:00:07.873596",
+  "updated": "2026-08-29",
+  "generated_at": "2026-08-29T07:00:06.665972",
   "articles": [
     {
-      "id": "f89ba3b60c",
-      "title": "三消没跑出来，换成二合后，《Hollywood Merge》冲上月流水 Top 1",
-      "summary": "文章复盘了《Hollywood Merge》从三消转向二合玩法的产品经历，分析其在 match-3 赛道未能跑出、换成 merge-2 后月流水冲上 Top 1 的原因。对休闲游戏从业者选择玩法方向、优化留存与商业化具有参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jMXhNNC1BdTlTRDhRcjQyTmhyanFqOUFXejNPZDhtVF9pRlpVN3dnc3RvcGlxNVNob2VpMjFza1U4SGtOT0JNbG9VNFZ5Nk1rbGtPQ0NMQWlDUQ?oc=5",
-      "source": "Google News",
+      "id": "4cf7c89a3f",
+      "title": "战斗通行证的奖励，各个阶段应该怎样投放？",
+      "summary": "围绕战斗通行证的奖励投放节奏展开拆解，讨论不同阶段该放入何种奖励以驱动留存与付费，是游戏商业化与LiveOps设计的高价值内容。",
+      "url": "https://mp.weixin.qq.com/s/dRzRIwPefLHxFi77riA4Pw",
+      "source": "微信-无界游戏学社",
       "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-08-27T10:03:24",
-      "games": [
-        {
-          "name": "Hollywood Merge",
-          "desc": "一款以好莱坞为主题的二合类游戏"
-        }
-      ]
-    },
-    {
-      "id": "6b98888a4e",
-      "title": "苹果App Store团队分享获取推荐位的技巧与建议",
-      "summary": "苹果在Gamescom Dev上罕见介绍了App Store编辑推荐机制，并针对付费游戏营销提出建议。对移动游戏尤其是休闲游戏开发者争取推荐位有实操价值。",
-      "url": "https://mobilegamer.biz/apples-app-store-team-reveal-their-tips-and-tricks-for-getting-featured/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-08-27T11:53:42",
-      "games": [
-        {
-          "name": "Deep Rock Galactic Survivor",
-          "desc": "一款采用“先试后买”付费模式的付费游戏，玩家可免费下载后付费解锁完整版。"
-        },
-        {
-          "name": "Ball x Pit",
-          "desc": "Devolver发行的游戏，因其成功的预购活动被作为案例展示。"
-        },
-        {
-          "name": "A Little to the Left",
-          "desc": "Secret Mode发行的益智整理游戏，曾用A/B测试优化图标。"
-        },
-        {
-          "name": "Pools",
-          "desc": "Apple编辑团队特别喜爱并推荐的游戏，70%下载来自编辑推荐。"
-        }
-      ]
-    },
-    {
-      "id": "0e143b4fc4",
-      "title": "如何用后端为游戏变现——第二部分",
-      "summary": "GameAnalytics探讨BaaS如何帮助游戏团队管理支付、实时运营和安全交易，从而提升收入与玩家体验。适合需要优化后端变现能力的手游团队参考。",
-      "url": "https://www.gameanalytics.com/blog/how-to-monetize-your-game-with-a-backend-part-2",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-08-27T10:53:45",
+      "score": 10,
+      "published_at": "2026-08-28T17:00:17",
       "games": []
     },
     {
-      "id": "f30022e0c0",
-      "title": "你（没错，就是你）也能从 1 对 1 同步游戏测试中受益",
-      "summary": "本文报道了设计师 Brian Cronin 在 2026 GDC Festival of Gaming 上的演讲，主张一对一同步测试对开发者有实际价值。休闲游戏团队可借鉴其测试思路，更早获取玩家反馈并优化体验。",
-      "url": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
-      "source": "Game Developer",
+      "id": "0cb5852f59",
+      "title": "AI拆解｜爆款制造机Voodoo的《Epic Plane Evolution》再创新赛道",
+      "summary": "文章用AI拆解Voodoo新作《Epic Plane Evolution》的品类创新与增长逻辑，分析其为何能成为新赛道爆款，对休闲游戏开发者理解选题方向有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/Er-ijuhrzSMt-Rm1B9PbqA",
+      "source": "微信-独立出海联合体",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-28T18:01:58",
+      "games": []
+    },
+    {
+      "id": "97dc2d5b4e",
+      "title": "天天玩家又跑出一款烹饪二合爆品，8月流水预估超3000万：能否冲破点点与柠檬微趣的围堵？",
+      "summary": "报道一款新烹饪二合游戏月流水预估超3000万的成绩，并分析其与点点、柠檬微趣等头部厂商在合并/消除赛道上的竞争格局，对休闲市场观察者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/Kj-yUYZiRwtjnSG4yOT1tA",
+      "source": "微信-点点出海",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-08-28T12:01:33",
+      "games": []
+    },
+    {
+      "id": "1ec767adb7",
+      "title": "AI陪伴游戏用户不聊天？但这款产品留存却超行业一倍，它做对了什么？",
+      "summary": "拆解一款AI陪伴游戏在用户不聊天的情况下仍能实现超行业一倍留存的机制，分析其差异化的用户引导与内容设计，对关注AI+休闲玩法的从业者有借鉴意义。",
+      "url": "https://mp.weixin.qq.com/s/5yeE_Sdpuo3uPfG0mh1tEw",
+      "source": "微信-独立出海联合体",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-28T18:01:58",
+      "games": []
+    },
+    {
+      "id": "07a5b45e1e",
+      "title": "游戏前7天的留存，运营的调整大约能改到什么程度?",
+      "summary": "从运营实操角度讨论游戏前7天留存能够通过运营调整改变的程度，结合案例分享留存优化的边界与方法，适合关注新手期和LiveOps的从业者。",
+      "url": "https://mp.weixin.qq.com/s/a4NtJkFSSSgGrK9OBqZLCw",
+      "source": "微信-车尔斯基的游戏运营杂谈",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-28T08:00:52",
+      "games": []
+    },
+    {
+      "id": "f41aca094e",
+      "title": "4399的二合游戏吗？",
+      "summary": "来自王董的新游戏，探讨 4399 平台上的二合（Merge）游戏是否属于该品类及其特点。对关注 Merge 合成游戏玩法的从业者有参考意义，可能涉及产品形态与市场定位的分析。",
+      "url": "https://mp.weixin.qq.com/s/gPquhb9hgiraBqfALkXOKg",
+      "source": "微信-王董的新游戏",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-28T09:46:46",
+      "games": []
+    },
+    {
+      "id": "fefb6063d5",
+      "title": "通过Ad Insights提升游戏可发现性 —— GameAnalytics",
+      "summary": "GameAnalytics推出新平台Ad Insights，汇集数十亿广告数据和数百万应用数据，帮助开发者优化投放、追踪竞品、发现市场机会。对休闲游戏买量与运营有实用价值。",
+      "url": "https://www.gameanalytics.com/blog/boost-game-discoverability-with-ad-insights",
+      "source": "GameAnalytics",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-27T16:48:40",
+      "published_at": "2026-08-28T11:54:11",
+      "games": []
+    },
+    {
+      "id": "10d136526f",
+      "title": "《Warlock》的魔法系统建立在打破规则的玩家选择之上",
+      "summary": "文章解析 Warlock 如何围绕玩家打破规则的玩法选择来构建魔法系统，把看似 BUG 的行为变成系统核心特性。对于追求玩家自由度与涌现式设计的系统策划有参考价值。",
+      "url": "https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices",
+      "source": "Game Developer",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-28T12:03:43",
       "games": [
         {
-          "name": "Forbidden Solitaire",
-          "desc": "一种纸牌接龙游戏，将solitaire玩法带入前沿"
+          "name": "Baldur's Gate 3",
+          "desc": "基于D&D规则的角色扮演游戏"
+        },
+        {
+          "name": "Warlock",
+          "desc": "D&D世界观的单机动作冒险游戏，主打魔法系统"
         }
       ]
     },
     {
-      "id": "367119e46a",
-      "title": "欧洲游戏行业2025年收入达300亿欧元",
-      "summary": "据 Video Games Europe 数据，2025年欧洲游戏行业总收入达300亿欧元，其中数字购买占91%。该数据有助于从业者评估欧洲市场大盘规模和数字化趋势，为区域发行与变现策略提供背景参考。",
-      "url": "https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025",
-      "source": "GamesIndustry.biz",
+      "id": "70a7e99a81",
+      "title": "美国 App Store 支出据报十年来首次下滑，Tim Sweeney 发文评论",
+      "summary": "Sensor Tower 数据被 FT 引用显示，美国 App Store 支出十年来首次下降，Epic CEO Tim Sweeney 认为这与外部支付渠道被允许使用有关。对移动游戏从业者理解渠道分成变化和变现模式演进具有参考价值。",
+      "url": "https://mobilegamer.biz/us-app-store-spending-falls-for-the-first-time-in-a-decade-and-tim-sweeney-has-thoughts/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-27T13:39:30",
+      "published_at": "2026-08-28T10:34:36",
       "games": [
         {
-          "name": "EA Sports FC26",
-          "desc": "足球模拟游戏，EA Sports FC系列最新作，2025年欧洲主机市场销量第一"
+          "name": "Fortnite",
+          "desc": "大逃杀射击游戏"
         },
         {
-          "name": "FC25",
-          "desc": "足球模拟游戏，EA Sports FC系列前作，2025年欧洲主机市场销量第二"
+          "name": "Roblox",
+          "desc": "用户生成内容的在线游戏平台"
+        }
+      ]
+    },
+    {
+      "id": "9b5e27adf2",
+      "title": "新游周报：PUBG Mobile Light、Aniimo、Petit Planet、Wobbly Life、Monster Hunter 等",
+      "summary": "汇总过去一周全球新游发布、上线日期和软启动动态，涵盖 PUBG Mobile Light、Aniimo、Petit Planet、Wobbly Life、Monster Hunter 等作品。适合休闲/手游从业者快速获取新游情报与选品参考。",
+      "url": "https://mobilegamer.biz/new-game-digest-pubg-mobile-light-aniimo-petit-planet-wobbly-life-monster-hunter-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-28T10:33:56",
+      "games": [
+        {
+          "name": "PUBG Mobile Light",
+          "desc": "精简版PUBG手游，大逃杀玩法"
         },
         {
-          "name": "Battlefield 6",
-          "desc": "第一人称射击游戏，战地系列新作，2025年欧洲PC市场销量第一"
+          "name": "Aniimo",
+          "desc": "FunPlus发行的生物收集游戏"
+        },
+        {
+          "name": "Petit Planet",
+          "desc": "可爱风格生活模拟游戏"
+        },
+        {
+          "name": "Wobbly Life",
+          "desc": "混乱开放世界沙盒游戏"
+        },
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "怪物猎人IP的移动端狩猎动作游戏"
+        },
+        {
+          "name": "Sea of Remnants",
+          "desc": "开放世界Roguelike RPG"
+        },
+        {
+          "name": "Ananta",
+          "desc": "二次元风格开放世界动作RPG"
+        },
+        {
+          "name": "Roco Kingdom",
+          "desc": "类似宝可梦/幻兽帕鲁的宠物收集游戏"
+        },
+        {
+          "name": "Silver Palace: House of Greed",
+          "desc": "幻想开放世界动作RPG"
+        },
+        {
+          "name": "Sand Blocks: Drop Puzzle",
+          "desc": "物理益智游戏"
+        },
+        {
+          "name": "Dungeons Arise",
+          "desc": "体素画风砍杀RPG"
+        },
+        {
+          "name": "Dogpile",
+          "desc": "遛狗玩法，跨平台游戏"
+        },
+        {
+          "name": "Heroic Legends",
+          "desc": "手绘风格的移动MMO，2011年原版重制"
+        }
+      ]
+    },
+    {
+      "id": "b1f8974e85",
+      "title": "苹果编辑亲述：提前3周提名、善用“先试后买”，推荐位下载占比可达70%",
+      "summary": "苹果编辑分享App Store推荐位的提名周期和“先试后买”等玩法，指出提前3周提名与试用策略最高可让推荐位下载占比达70%，对移动游戏发行运营有实用价值。",
+      "url": "https://mp.weixin.qq.com/s/QptpQ3HhxZ3tBj-yTrjbpQ",
+      "source": "微信-独立出海联合体",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-28T18:01:58",
+      "games": []
+    },
+    {
+      "id": "0eed73cc0e",
+      "title": "GDC Side Quest：走进 Austin Wintory 的协作式作曲过程",
+      "summary": "Game Developer 邀请作曲家 Austin Wintory 对谈，讨论其在游戏配乐中的协作式创作流程与思路。对于从事休闲游戏研发的团队来说，可了解音频与叙事配合的幕后方法，但内容与三消/消除类玩法、变现和运营没有直接关联。",
+      "url": "https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T14:15:00",
+      "games": [
+        {
+          "name": "flOw",
+          "desc": "ThatGamecompany开发的独立休闲游戏，玩家操控微生物在液体中进化。"
+        },
+        {
+          "name": "Aliens Fireteam Elite 2",
+          "desc": "科幻合作射击游戏，玩家与队友对抗异形威胁。"
+        }
+      ]
+    },
+    {
+      "id": "55c59973fb",
+      "title": "GTA 6将对整个行业产生光环效应 | 观点",
+      "summary": "文章认为GTA 6的 hype会带动整个游戏行业受益，并提到预告片评论区中玩家对逝去亲友的怀念。对从业者而言，可参考大作对市场的提振效应。",
+      "url": "https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T14:27:12",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，备受期待，被认为将对整个游戏行业产生光环效应。"
+        }
+      ]
+    },
+    {
+      "id": "fa903887a5",
+      "title": "Rockstar成立新的洛杉矶团队，为GTA 6开发更逼真的NPC",
+      "summary": "Rockstar组建新团队专注于GTA 6的NPC智能与真实感，展示其在开放世界技术上的投入。此为行业动态，与休闲游戏关联较弱。",
+      "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T09:32:46",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，拥有超过60万个NPC动画，地图规模宏大。"
         },
         {
           "name": "Red Dead Redemption 2",
-          "desc": "开放世界动作冒险游戏，Rockstar出品，以其西部题材和沉浸式叙事著称"
+          "desc": "西部主题开放世界动作冒险游戏，以高度细节和互动性著称。"
         },
         {
           "name": "Grand Theft Auto 5",
-          "desc": "开放世界动作冒险游戏，Rockstar出品，以其自由度和犯罪题材闻名"
-        },
-        {
-          "name": "Coin Master",
-          "desc": "休闲手机游戏，结合老虎机与村庄建造玩法，2025年欧洲移动市场收入第一"
-        },
-        {
-          "name": "Royal Match",
-          "desc": "三消类手机游戏，以精美画面和关卡设计著称，2025年欧洲移动收入第二"
-        },
-        {
-          "name": "Candy Crush Saga",
-          "desc": "经典三消游戏，King出品，生命周期长且拥有庞大玩家群体"
+          "desc": "开放世界动作冒险游戏，GTA系列的上一代作品。"
         }
       ]
     },
     {
-      "id": "52e9bc2bd9",
-      "title": "Grand Theft Auto 6 30分钟预告片在Netflix首播",
-      "summary": "Take-Two与Rockstar在Netflix上线了Grand Theft Auto 6的30分钟实机预告，展示该作的跨平台内容分发动向。对休闲游戏从业者来说属于外围行业参考，可观察头部游戏与流媒体平台的联动方式。",
-      "url": "https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix",
+      "id": "f21a1525d6",
+      "title": "Sensor Tower：GTA 6超长预告期间Netflix美国移动观看量增长35%",
+      "summary": "根据Sensor Tower数据，在GTA 6超长预告播出时段，Netflix美国移动端观看量小时环比增长35%。该数据反映大型游戏事件对移动流媒体行为的连带影响。",
+      "url": "https://www.gamesindustry.biz/sensor-tower-netflix-us-mobile-viewership-increased-35-during-gta-6-extended-preview",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-27T19:33:45",
+      "published_at": "2026-08-28T08:09:05",
       "games": [
         {
           "name": "Grand Theft Auto 6",
-          "desc": "开放世界动作冒险游戏，即将于PS5和Xbox Series X/S平台发售"
+          "desc": "开放世界动作冒险游戏，其超长预告导致Netflix观看量激增。"
         }
       ]
     },
     {
-      "id": "3165fd1a55",
-      "title": "Playdate 制造商 Panic 向客户退还关税附加费",
-      "summary": "美国最高法院裁定特朗普关税越权后，Panic 收到政府退款，并将向客户退还此前收取的关税附加费。这是一条涉及游戏硬件与政策影响的行业新闻，对休闲游戏研发/发行有间接成本参考价值，但与三消游戏设计运营无关。",
-      "url": "https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-27T18:26:08",
-      "games": []
-    },
-    {
-      "id": "c2964a29de",
-      "title": "欧洲游戏开发者联合会公布2026-28届理事会，Hendrik Lesser连任主席",
-      "summary": "欧洲游戏开发者联合会（EGDF）公布2026-2028年理事会名单，Hendrik Lesser再次当选主席。该消息属于行业组织动态，可帮助从业者关注欧洲游戏政策与行业协作动向，但对休闲游戏设计运营的直接价值有限。",
-      "url": "https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-27T09:05:35",
-      "games": []
-    },
-    {
-      "id": "11fe79ea8d",
-      "title": "CD Projekt Red：吸取《Cyberpunk 2077》教训后，《The Witcher 4》已在所有目标平台运行",
-      "summary": "CD Projekt Red 联席CEO Michal Nowakowski 向 Game Developer 透露，《The Witcher 4》目前已在所有目标平台可运行，并强调团队吸取了《Cyberpunk 2077》发售时的教训。该报道属于3A项目跨平台开发与发布管理动态，对关注项目管理思路的从业者有一定参考价值，但与休闲手游关联较弱。",
-      "url": "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson",
+      "id": "05c93e517b",
+      "title": "Panic 退还关税费用，1047 Games 从 Splitgate 转向，Gamescom Dev 壮大——Patch Notes #67",
+      "summary": "本期行业周报汇总了 Panic 向玩家退还关税费用、1047 Games 调整 Splitgate 相关方向、Gamescom Dev 扩展等动态；此外 No More Room in Hell 2 在结束重要 Early Access 阶段后玩家数突破 100 万。适合快速了解近期海外游戏业要闻。",
+      "url": "https://www.gamedeveloper.com/business/panic-refunds-tariff-fees-1047-games-pivots-from-splitgate-and-gamescom-dev-grows-patch-notes-67",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-27T16:41:50",
+      "published_at": "2026-08-28T13:47:47",
       "games": [
         {
-          "name": "Cyberpunk 2077",
-          "desc": "开放世界角色扮演游戏，其灾难性发售成为CD Projekt Red的教训。"
+          "name": "Splitgate",
+          "desc": "科幻题材门户传送竞技场射击游戏"
         },
         {
-          "name": "The Witcher 4",
-          "desc": "CD Projekt Red开发的角色扮演游戏，已在所有目标平台上运行。"
+          "name": "No More Room in Hell 2",
+          "desc": "合作丧尸生存恐怖游戏"
         },
         {
-          "name": "The Witcher 3",
-          "desc": "经典角色扮演游戏，将有扩展包和重制版，由Geeksoft协助开发。"
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏"
         }
       ]
     },
     {
-      "id": "e6e624a1a6",
-      "title": "Xbox CEO Asha Sharma 再次强调 Xbox 需要更可负担",
-      "summary": "Xbox CEO Asha Sharma 再次公开表示，Xbox 业务目前并不健康，需要更加注重价格可负担性。该表态反映微软在主机市场面临的压力，可作为平台与硬件战略背景了解，但与休闲游戏设计/运营关联不大。",
-      "url": "https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability",
+      "id": "6a1fe7b22d",
+      "title": "西班牙工会呼吁 Ubisoft Mobile Barcelona 持续罢工",
+      "summary": "报道 Ubisoft Mobile Barcelona 员工工会发起的罢工行动，称公司早在 8 月初就收到通知但至今未正式回应。该事件反映移动游戏工作室的劳资关系和运营风险，值得手游团队关注。",
+      "url": "https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-27T14:40:00",
-      "games": []
-    },
-    {
-      "id": "a600e1b355",
-      "title": "Roblox 将在沙特阿拉伯设立总部，支持 MENA 创作者",
-      "summary": "Roblox 宣布计划在利雅得设立总部，以支持中东和北非（MENA）地区的创作者项目。此举表明 Roblox 正加码区域创作者生态与本地化运营，对关注 UGC 平台和新兴市场扩张的从业者有参考意义。",
-      "url": "https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-27T10:44:11",
+      "published_at": "2026-08-28T09:57:07",
       "games": [
         {
-          "name": "Roblox",
-          "desc": "多人在线创作游戏平台，支持用户生成内容，计划在沙特阿拉伯设立总部。"
+          "name": "Invincible: Guarding the Globe",
+          "desc": "以《无敌少侠》IP改编的移动RPG"
+        },
+        {
+          "name": "Assassin's Creed",
+          "desc": "潜行与动作冒险游戏系列"
         }
       ]
     },
     {
-      "id": "28f38ef208",
-      "title": "Side 与 Modl.ai 签署 AI 质检合作 MOU：AI 是滑动标尺，始终有人参与",
-      "summary": "游戏服务商 Side 与丹麦 AI 公司 Modl.ai 签署谅解备忘录，计划在 QA 测试中使用 AI，同时强调人工审核仍是必要环节。该案例展示了 AI 与人工协作在游戏质量控制中的落地方式，对关注 AI+游戏生产的团队有借鉴价值。",
-      "url": "https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa",
+      "id": "0d17c282f1",
+      "title": "Limbic Entertainment 谈脱离 Bandai Namco 后的发展",
+      "summary": "德国开发商 Limbic Entertainment 在 2025 年 12 月被 Bandai Namco 出售给私人投资者后接受采访，分享公司独立后的定位和项目规划。对关注欧洲工作室并购与独立化的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-namco",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-27T10:34:25",
-      "games": []
+      "published_at": "2026-08-28T12:05:08",
+      "games": [
+        {
+          "name": "Corsair Cove",
+          "desc": "海盗主题的基地建设/模拟经营游戏"
+        },
+        {
+          "name": "Park Beyond",
+          "desc": "主题公园模拟经营游戏"
+        }
+      ]
     },
     {
-      "id": "a1936f1bd1",
-      "title": "Xbox 将允许把实体光盘版游戏转换为数字版",
-      "summary": "微软官方宣布，Xbox One 和 Xbox Series X 用户将可以把手中的游戏光盘转换为数字版，功能将在数日内推出。该措施影响主机玩家的数字资产与二手市场，可作为平台分发动态参考，但与休闲手游关联较弱。",
-      "url": "https://gameworldobserver.com/2026/08/27/xbox-will-allow-converting-disc-versions-of-games-into-digital-versions",
+      "id": "da10717d3c",
+      "title": "Cloud Imperium 将 Squadron 42 延期至 2027 年——“我不想撞上 GTA 6 的注意力绞肉机”",
+      "summary": "《星际公民》衍生作 Squadron 42 宣布推迟到 2027 年 Q2，以避开 GTA 6 引发的巨大关注浪潮。这一决策体现了 3A 大作档期对行业发行节奏的强烈影响。",
+      "url": "https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T11:17:59",
+      "games": [
+        {
+          "name": "Squadron 42",
+          "desc": "《星际公民》的单人剧情太空战斗游戏"
+        },
+        {
+          "name": "Star Citizen",
+          "desc": "大型多人在线太空模拟游戏"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏"
+        },
+        {
+          "name": "Wing Commander",
+          "desc": "经典太空战斗射击游戏系列"
+        }
+      ]
+    },
+    {
+      "id": "13b90b1311",
+      "title": "《The Witcher 3》新资料片首年预计带来近 2 亿美元收入——分析",
+      "summary": "波兰分析机构 DM BOŚ 估算《The Witcher 3: Wild Hunt》资料片 Songs of the Past 首年可能带来约 2 亿美元收入。该分析对理解成熟 IP 内容扩展和单机游戏商业化潜力有参考价值。",
+      "url": "https://gameworldobserver.com/2026/08/28/the-new-expansion-for-the-witcher-3-is-expected-to-generate-nearly-200-million-in-its-debut-year-analysis",
       "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-27T13:55:01",
+      "published_at": "2026-08-28T13:20:01",
       "games": [
         {
-          "name": "Gears of War: E-Day",
-          "desc": "Xbox平台上的游戏作品，被提及用于演示实体光盘转数字版功能。"
-        }
-      ]
-    },
-    {
-      "id": "f0a0fbab22",
-      "title": "Saber高管：游戏行业必须将目光投向北美以外并分散风险",
-      "summary": "Saber首席创意官Tim Willits表示，工作室需要找到可靠收入来支撑大作开发，并强调全球化布局与风险分散的重要性。对游戏公司调整市场策略有一定参考价值。",
-      "url": "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-27T15:00:00",
-      "games": [
-        {
-          "name": "SnowRunner",
-          "desc": "一款越野驾驶模拟游戏，以低成本获得数亿美元收入。"
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "开放世界角色扮演游戏"
         },
         {
-          "name": "World War Z",
-          "desc": "一款由约50人团队开发的丧尸射击游戏，累计玩家达3200万。"
+          "name": "Songs of the Past",
+          "desc": "《巫师3》的付费资料片"
         }
       ]
     },
     {
-      "id": "254d8f89d3",
-      "title": "Newzoo：没有Grand Theft Auto 6，2026年主机收入将同比持平",
-      "summary": "Newzoo报告指出，Grand Theft Auto 6是2026年主机市场增长的关键，否则主机收入将比2025年持平。对关注主机市场走势的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-theft-auto-6",
-      "source": "GamesIndustry.biz",
+      "id": "e6021cf327",
+      "title": "利用竞品情报优化游戏广告素材——GameAnalytics",
+      "summary": "文章讨论在第三方追踪受限的环境下，移动游戏营销团队如何通过竞品情报和广告创意表现数据来优化投放策略。对休闲游戏广告买量与素材分析有实操参考价值。",
+      "url": "https://www.gameanalytics.com/blog/using-competitor-intel-to-optimize-your-game-ad-creatives",
+      "source": "GameAnalytics",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-27T12:22:00",
-      "games": [
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "Rockstar推出的开放世界犯罪题材大作，被预测将带动2026年主机市场增长。"
-        },
-        {
-          "name": "GTA Online",
-          "desc": "《侠盗猎车手》系列的在线多人模式，是持续产生大量收入的常青目录产品。"
-        }
-      ]
+      "published_at": "2026-08-28T11:48:00",
+      "games": []
     },
     {
-      "id": "3659f77469",
-      "title": "Arrowhead CEO Shams Jorjani：游戏行业假设基础已发生根本变化",
-      "summary": "Helldivers 2开发商Arrowhead Game Studios首席执行官表示，游戏行业正处在转型期，过去依赖的假设已经根本改变。适合行业管理者思考战略调整方向。",
-      "url": "https://www.gamesindustry.biz/the-things-that-we-based-our-assumptions-on-have-changed-fundamentally-arrowhead-ceo-shams-jorjani-on-the-games-industrys-rapid-transformation",
-      "source": "GamesIndustry.biz",
+      "id": "aaf2687396",
+      "title": "成功的移动游戏广告：提升用户获取的创意策略——GameAnalytics",
+      "summary": "GameAnalytics 围绕移动游戏用户获取分享可落地的广告创意策略，分析如何在竞争激烈的投放环境中提高买量效率。对休闲/手游发行团队的 UA 工作有一定参考价值。",
+      "url": "https://www.gameanalytics.com/blog/winning-mobile-game-ads",
+      "source": "GameAnalytics",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-27T11:10:08",
-      "games": [
-        {
-          "name": "Helldivers 2",
-          "desc": "Arrowhead Game Studios开发的多人合作射击游戏，以其持续运营和玩家社区著称。"
-        }
-      ]
+      "published_at": "2026-08-28T11:43:31",
+      "games": []
+    },
+    {
+      "id": "6a04eac160",
+      "title": "在玩家所在之处找到他们：用市场研究指导游戏广告投放——GameAnalytics",
+      "summary": "文章讲解如何通过市场研究进行数据驱动的广告定向，使用 Ad Insights 找到更合适的玩家、提升用户获取效率。对移动游戏投放与目标人群定位有实用参考。",
+      "url": "https://www.gameanalytics.com/blog/using-market-research-to-inform-your-game-ads-targeting",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T11:35:23",
+      "games": []
     }
   ]
 }
