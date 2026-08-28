@@ -4415,5 +4415,19 @@
     ],
     "store_url": "https://apps.apple.com/us/app/heroic-legends-reborn/id6480093404?uo=4",
     "store": "appstore"
-  }
+  },
+  "flOw": {
+    "name": "Flow Free",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/04/bf/7404bfeb-a1a7-3e03-0465-af73583583ac/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Flow Free® is a simple yet addictive puzzle game.\n\nConnect matching colors with pipe to create a Flow®. Pair all colors, and cover the entire board to solve each puzzle. But watch out, pipes will break if they cross or overlap!\n\nFree play through hundreds of levels, or race against the clock in Time Trial mode. Gameplay ranges from simple and relaxed, to challenging and frenetic, and everywhere in between. How you play is up to you. So, give Flow Free a try, and experience \"mind like water\"!\n\n*** Flow Free features ***\n\n* Content\n- Over 2,500 free levels available in Free Play mode, and new Daily Puzzles every day!\n- 10 different board sizes\n- Free Classic, Bonus, Bridges, Mania, Extreme, and Jumbo level packs\n- Additional level packs available for purchase\n\n* Challenge\n- Game Center achievements as you solve levels and complete packs\n- Track your completion of each level in Free Play mode\n- Strive for accuracy in Free Play using the fewest, most efficient moves\n- Strive for speed in Time Trial for the most and fastest solves\n- 20 scored Time Trial variants to choose from by board size and duration\n\n* Look & Feel\n- Smooth, polished touch interaction\n- Colorful UI\n- Fun sound effects\n- Clean vector graphics and animations\n- Labels available for color impaired players\n\nEnjoy.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/17/8f/d2178f92-adbb-c03f-29a6-45aa3d097e4b/contsched.cuhuxoym.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ef/a9/56/efa95633-24d6-97c8-8f39-46493073aec7/contsched.dzxqeywo.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cd/b5/66/cdb5660d-046a-7820-1263-78117303d154/contsched.fncqujiq.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/13/8a/04/138a04a2-e82e-2a97-9aee-f775ac1c16be/contsched.yrhsihlb.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/flow-free/id526641427?uo=4",
+    "store": "appstore"
+  },
+  "Aliens Fireteam Elite 2": null
 }
