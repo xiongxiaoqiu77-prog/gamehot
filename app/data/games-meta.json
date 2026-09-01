@@ -4888,5 +4888,44 @@
     ],
     "store_url": "https://apps.apple.com/us/app/moomin-welcome-to-moominvalley/id958904868?uo=4",
     "store": "appstore"
+  },
+  "Doom: The Dark Ages": {
+    "name": "DOOM",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/40/b2/f1/40b2f13e-2872-0501-22cc-6ba1b9bf0b05/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/512x512bb.jpg",
+    "description": "Celebrate DOOM’s 25th anniversary with the  re-release of the original DOOM (1993),  including the expansion, Thy Flesh Consumed, is now available on iOS devices. First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\n\nRelive the birth of the first-person shooter, wherever you go, and experience the classic demon-blasting fun that popularized the genre.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/14/a2/bb14a22f-ab20-98e1-b677-fcd02924664c/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/77/c9/24/77c924ae-c1ee-3cce-400b-4704d808f55c/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/b5/21/f3b52149-cbb4-0fa5-046a-bac8d7b06dc7/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/25/11/c42511d0-aef5-aa18-30a7-9447ec6f99d5/pr_source.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/doom/id336347946?uo=4",
+    "store": "appstore"
+  },
+  "Doom: The Dark Ages - Revelations": {
+    "name": "DOOM",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/40/b2/f1/40b2f13e-2872-0501-22cc-6ba1b9bf0b05/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/512x512bb.jpg",
+    "description": "Celebrate DOOM’s 25th anniversary with the  re-release of the original DOOM (1993),  including the expansion, Thy Flesh Consumed, is now available on iOS devices. First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\n\nRelive the birth of the first-person shooter, wherever you go, and experience the classic demon-blasting fun that popularized the genre.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/14/a2/bb14a22f-ab20-98e1-b677-fcd02924664c/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/77/c9/24/77c924ae-c1ee-3cce-400b-4704d808f55c/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/b5/21/f3b52149-cbb4-0fa5-046a-bac8d7b06dc7/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/25/11/c42511d0-aef5-aa18-30a7-9447ec6f99d5/pr_source.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/doom/id336347946?uo=4",
+    "store": "appstore"
+  },
+  "Doom (2016)": {
+    "name": "DOOM",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/40/b2/f1/40b2f13e-2872-0501-22cc-6ba1b9bf0b05/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/512x512bb.jpg",
+    "description": "Celebrate DOOM’s 25th anniversary with the  re-release of the original DOOM (1993),  including the expansion, Thy Flesh Consumed, is now available on iOS devices. First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\n\nRelive the birth of the first-person shooter, wherever you go, and experience the classic demon-blasting fun that popularized the genre.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/14/a2/bb14a22f-ab20-98e1-b677-fcd02924664c/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/77/c9/24/77c924ae-c1ee-3cce-400b-4704d808f55c/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/b5/21/f3b52149-cbb4-0fa5-046a-bac8d7b06dc7/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/25/11/c42511d0-aef5-aa18-30a7-9447ec6f99d5/pr_source.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/doom/id336347946?uo=4",
+    "store": "appstore"
   }
 }
