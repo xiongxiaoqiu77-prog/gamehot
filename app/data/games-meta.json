@@ -4616,5 +4616,101 @@
   },
   "Call of Duty: Black Ops": null,
   "Rift Raider Extraction": null,
-  "Project Lich": null
+  "Project Lich": null,
+  "Super Stardust HD": null,
+  "Resogun": null,
+  "Matterfall": null,
+  "Returnal": {
+    "name": "Returnal™",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/header.jpg?t=1750956860",
+    "description": "BREAK THE CYCLE Fight to survive as this award-winning third-person shooter brings Selene’s story to PC. Take on roguelike challenges. Engage enemies in bullet hell-fuelled clashes. Share your journey through Returnal™ with another player.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/ss_3c260834df0c87cfc9ac1b457d0ec0eb3b9f367c.600x338.jpg?t=1750956860",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/ss_a91854c29cee0b4975862d174f03ff374ae5e26c.600x338.jpg?t=1750956860",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/ss_e15da2a195556b773ba8a982051f55de50d79a75.600x338.jpg?t=1750956860",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/ss_ea2f5b9dd34cd18e05970343edfb36ed0dade475.600x338.jpg?t=1750956860"
+    ],
+    "store_url": "https://store.steampowered.com/app/1649240",
+    "store": "steam"
+  },
+  "Saros": {
+    "name": "Saros TV - Shorts & Reels",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/45/e4/0145e46f-4000-e7c6-eb98-c69068e80b4e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "standard Apple Terms of Use (EULA)\nhttps://www.apple.com/legal/internet-services/itunes/us/terms.html\n\nDiscover Your Next Obsession\nMade for drama lovers who crave exclusive stories, non-stop updates, and a truly personalized journey.\n\nYour Ultimate Drama Hub\nImmerse yourself in a massive and ever-growing library, powered by 100+ new episodes every week. Be the first to watch premiere exclusives you won’t find anywhere else.\n\nYour Personal Drama Soulmate\nGet your perfect playlist in one tap—zero effort needed. Our smart AI learns your taste daily, so every recommendation feels made for you.\n\nWatch More, Earn More\nDive into trending rankings, unlock rewards as you watch, and never miss what’s worth binging.\n\nStream Smoothly, Binge Freely\nEnjoy thousands of episodes across every genre, all in a seamless, buffer-free experience designed just for drama addicts.\n\nYour next favorite story starts here.\n\nDownload now and dive in!\n\nEnd User License Agreement (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/us/terms.html\n\nWeekly Subscription Description:\n Subscription Period: One week\n Subscription Price: $19.99 per week\n Payment: User confirms the purchase, and payment is charged to the iTunes account\n Cancellation of Renewal: To cancel renewal, manually disable auto-renewal in iTunes/Apple ID settings at least 24 hours before the current subscription expires\nRenewal: The Apple iTunes account will be charged 24 hours before the expiration date, and upon successful payment, the subscription will be extended for another seven days\nPrivacy Policy: https://www.saros-tv.com/privacyPolicy/en_US/\nUser Agreement: https://www.saros-tv.com/userAgreement/en_US/\n\nMonthly Subscription Description:\nSubscription Period: 30 days\nSubscription Price: $39.99 per month\nPayment: User confirms the purchase, and payment is charged to the iTunes account\nCancellation of Renewal: To cancel renewal, manually disable auto-renewal in iTunes/Apple ID settings at least 24 hours before the current subscription expires\nRenewal: The Apple iTunes account will be charged 24 hours before the expiration date, and upon successful payment, the subscription will be extended for another month\nPrivacy Policy: https://www.saros-tv.com/privacyPolicy/en_US/\nUser Agreement: https://www.saros-tv.com/userAgreement/en_US/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/2d/f9/562df962-53d2-64b6-8fe9-8688d9fa27b2/1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/50/28/4a50288c-b678-4f81-d5bb-ac0b4f2f71df/2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/6e/b2/3c6eb2f7-2b13-e29c-668f-baeef871b752/3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/3a/a4/563aa405-0384-37b5-e37d-a78bf100e629/4.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/saros-tv-shorts-reels/id6743736634?uo=4",
+    "store": "appstore"
+  },
+  "Counter-Strike: Global Offensive": null,
+  "Left 4 Dead 2": {
+    "name": "Left 4 Dead 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
+    "description": "Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2eae29fbdfe8e5e8999b96d8bb28c5db70507968.600x338.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_29b3b4f2a3994c889f6fc12e0781d9d4726ef33f.600x338.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_9488e329bb42d792a059fb44cb7135d25b6262f5.600x338.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6ec4ee04d4924b099e25ce79f3d6571c3b623b3b.600x338.jpg?t=1772742214"
+    ],
+    "store_url": "https://store.steampowered.com/app/550",
+    "store": "steam"
+  },
+  "Portal 2": {
+    "name": "Portal 2.0",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/5e/bf/125ebf2e-7c31-dcff-d705-373a768e2744/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "ПОРТАЛ - новое удобное приложение, объединяющее самые популярные инструменты для самопознания и ответа на вопрос: КТО Я? \n\nПриложение разработано для раскрытия собственных внутренних ресурсов и быстрого прогнозирования по личным показателям конкретного человека: дате, времени и месту вашего рождения.\n\nИспользуя приложение вы сможете разобраться в себе и узнать много нового с помощью астропсихологии, дизайна человека, нейрографики, китайской астрологии и различных медитаций. Правильное толкование данных расскажет о ключевых особенностях вашей личности, которые определяют характер и судьбу человека.\n\nПриложение несет в себе информацию познавательного характера с рекомендациями, применяя которые вы сможете:\n・разобраться в своих внутренних переживаниях\n・рассчитать личные показатели\n・получить ответы на вопросы о предназначении\n・узнать больше о своих скрытых или явных талантах и особенностях\n\nНаш ПОРТАЛ перенесет вас в глубины собственного сознания, чтобы понимать, в каких ситуациях нужно быть осторожнее, а когда можно действовать уверенно.\n\nАСТРОПСИХОЛОГИЯ - астрологическая помощь в самопознании и самосовершенствовании. Расскажет о ваших способностях и скрытых резервах. \nДаст совет как реализовать себя в разных сферах жизни.\n\nДИЗАЙН ЧЕЛОВЕКА - система древних знаний для определения ваших ценностей и способностей. Вы получите индивидуальную диаграмму с информацией о вашем здоровье, характере, наклонностях, слабых и сильных местах. \n\nНЕЙРОГРАФИКА - творческий метод работы с подсознанием человека. С помощью рисунков вы задействуете нейронные связи и спроецируете их на жизненные ситуации, привлечете к себе положительные изменения.\n\nПСИХОЛОГИЯ - найти себя через внутренний диалог. Изучение собственных психологических особенностей через занятия, практики и медитации. \n\nКИТАЙСКАЯ АСТРОЛОГИЯ - древняя предсказательная система Китая, основанная на солнечно-лунном календаре. Китайская астрология «Ба Цзы» анализирует вашу жизнь не по движению планет на небе, а по расположению и течению энергий - Дерева, Огня, Земли, Металла и Воды. \n\nНад приложением работают специалисты в сферах психологии, эзотерики, астрологии с огромным опытом практической работы в разных странах.\nПодробно, с каждым экспертом, вы сможете познакомиться в приложении.\n\nМы будем рады вашим отзывам и рекомендация по улучшению приложения.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fc/f6/a9/fcf6a9eb-1392-44a7-e976-9d5099d9ade4/6607ae44-0937-4cb9-b859-e2f53ffa9302__U042d_U043a_U0440_U0430_U043d_17.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/34/25/2f/34252f75-d2b0-067a-15a4-2eba48583a84/6af4e587-5026-4e05-be76-468c71a42193__U042d_U043a_U0440_U0430_U043d_21.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/45/0a/32/450a32ae-b837-5024-c373-a5d7f5ba6ef9/e96c404b-e815-41d5-8e39-ae55c347175a__U042d_U043a_U0440_U0430_U043d_22.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ff/ce/07/ffce0705-dd8d-71f3-0324-7140a2658109/90080e26-7f33-4d44-b082-601921de951f__U042d_U043a_U0440_U0430_U043d_23.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/portal-2-0/id1665629725?uo=4",
+    "store": "appstore"
+  },
+  "Half-Life 2: Episode 3": null,
+  "Batman: Arkham Asylum": {
+    "name": "Batman: Arkham Asylum Game of the Year Edition",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/header.jpg?t=1745966724",
+    "description": "Experience what it’s like to be Batman and face off against Gotham's greatest villians. Explore every inch of Arkham Asylum and roam freely on the infamous island.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/ss_7c61451755b28ffd5254a22aa9a43003d9896b89.600x338.jpg?t=1745966724",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/ss_312e1fccf930e7aad2a531727c4280f05a22c73c.600x338.jpg?t=1745966724",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/ss_ff136f39374639b8e407724be1566fbfb9506113.600x338.jpg?t=1745966724",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35140/ss_5e7c44cb994f2de4acdddd558441b172188d6034.600x338.jpg?t=1745966724"
+    ],
+    "store_url": "https://store.steampowered.com/app/35140",
+    "store": "steam"
+  },
+  "Mimic": {
+    "name": "Mimic - AI Photo Face Animator",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/c6/b1/28c6b175-83f3-6ea1-0003-101c032eea0b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "description": "Choose a photo, pick a song, and make it dance!\nThe result? Videos that are hilarious, bizarre, fun, and ready to share. No dancing lessons are required.\n\nMimic is an AI-powered photo animation app that turns any picture into fun, lively, and unforgettable videos. With advanced AI technology, even a single selfie can transform into a fully animated lip-sync performance, a duet with your favorite song, or a funny speaking portrait.\n\nDon’t limit yourself to ordinary selfies! With Mimic, the possibilities are endless. You can:\n\nMake your baby say their first words in a magical video\nAnimate your pet and let your dog or cat talk\nWatch your boss dance to a funny song\nMake your boyfriend sing a romantic love song\nTurn your friends into meme-style content\nCreate duets by pairing two photos singing together\nGenerate lip-sync videos where your photo matches the music\n\nIt’s simple to use:\nTake or choose a photo from your Photos\nPick a track from the music library\nChoose lip-sync or duet mode\nLet the AI animate the photo into a fun video\nShare your creation with friends and followers\n\nKey Features of Mimic\n\nAI Lip Sync Generator – Your photo moves its lips in sync with the music or voiceover.\n\nDuet Mode – Select two faces and create a duet performance with your photos.\n\nAnimate Babies & Pets – Make your baby smile, talk, or sing. Animate pets with fun voices.\n\nPhoto to Video – Transform static pictures into animated videos.\n\nMeme Maker – Create entertaining content for social media.\n\nMusic Library – Choose tracks for different moods and styles.\n\nEasy Sharing – Share videos with friends or on social platforms.\n\nMimic is more than a photo animation app. Whether you want to surprise your family with a talking baby video, give your pet a voice, or create funny lip-sync duets, Mimic offers creative tools for entertaining content.\n\nWhy Users Love Mimic\n\nEasy to create fun content without editing skills\nBaby and pet animations are entertaining and memorable\nDuet mode lets two photos interact creatively\nRealistic lip-sync animation creates engaging videos\nEvery creation feels unique and fun\n\nYou can explore photo animation features by choosing a photo and turning it into an animated singing or dancing video.\n\nCreate memes, singing portraits, and duet videos with ease. With Mimic, every photo can become an animated performance.\n\nMimic – Turn Any Photo into Fun!\n\n-Copyright-\nAt Scaleup Yazilim Hizmetleri, we highly value confidentiality, intellectual property rights such as copyrights, and the protection of personal data. We strive to maintain transparency in these matters.\nIf you sincerely believe that materials generated or transmitted through the Mimic AI Photo Face Animator App violate your copyright, personal rights, or privacy, you have the option to notify us. You can submit a notice requesting the removal of the material or the blocking of access to it by sending the Rights Policy Form. (You can reach via: https://mimicapp.co/rights-policy or download app--> settings--> “Rights Policy” section.)  Additional details can be found in the app’s Rights Policy for further guidance.\n\nSubscriptions are offered as auto-renewable plans on a weekly, monthly, or yearly basis (pricing may vary by country). Payment will be charged to your Apple ID account at confirmation of purchase. Your subscription will automatically renew unless it is canceled at least 24 hours before the end of the current billing period, and your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscription at any time through your Account Settings after purchase. If a free trial is offered, any unused portion of the trial period will be forfeited upon purchasing a subscription.\n\nPrivacy Policy: https://mimicapp.co/privacy.html\nTerms of Service: https://mimicapp.co/terms",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/69/98/ff699872-8be8-f5a5-560f-10a1976465fa/dcca582f-3180-4da2-b7a6-cdd116ccc274_5.5_-_Screen_1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/be/03/c4/be03c4fd-5b52-650f-b04f-f23216a0ab2e/311f3a03-46b8-4b19-81a8-da1d68508523_5.5_-_Screen_2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3b/ed/e7/3bede70b-106b-d624-8e9c-c97db920d4b8/3a61ca64-30fe-4414-8104-5c201d199d4e_5.5_-_Screen_3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/09/86/61/098661ad-adcb-1f35-80c1-e6bcb0d6c3ff/b1905696-c3f4-4e58-959e-2e480d8b89fe_5.5_-_Screen_4.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mimic-ai-photo-face-animator/id1590841930?uo=4",
+    "store": "appstore"
+  },
+  "Cyberpunk 2": {
+    "name": "Cyberpunk 2077",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+    "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1784714077",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1784714077",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.600x338.jpg?t=1784714077",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.600x338.jpg?t=1784714077"
+    ],
+    "store_url": "https://store.steampowered.com/app/1091500",
+    "store": "steam"
+  }
 }
