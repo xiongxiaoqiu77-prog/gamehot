@@ -4823,5 +4823,44 @@
     ],
     "store_url": "https://store.steampowered.com/app/2075800",
     "store": "steam"
+  },
+  "Another Crab's Treasure": {
+    "name": "Another Crab's Treasure",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/header.jpg?t=1785949147",
+    "description": "In a vibrant undersea kingdom on the verge of collapse, a hermit crab embarks on a treasure hunt to buy back his repossessed shell. The second game from AGGRO CRAB.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/ss_e1010f650543b2e53249ff3ab43f04dbdbfef7ea.600x338.jpg?t=1785949147",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/ss_10836c42549d86386bdae21c997a58630137d603.600x338.jpg?t=1785949147",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/ss_c29cfaabd50ec6bd33e1da10ff8a74ca7be3a9f4.600x338.jpg?t=1785949147",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/ss_cd81b479b5c56b671376d13bbbf8d56dbb7d1f36.600x338.jpg?t=1785949147"
+    ],
+    "store_url": "https://store.steampowered.com/app/1887840",
+    "store": "steam"
+  },
+  "Rebounder": {
+    "name": "Mr. Rebounder",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1d/85/241d855b-22fd-85dc-c1e9-134b68985900/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "With the Mr. Rebounder app you can pick from one of our pre-made exercise routines or create your own. The Mr. Rebounder app gives you the flexibility to exercise how you want, when you want. Why workout when you can play in, we make exercise fun again.  This app uses the Apple Health app to read user heart beats with each exercise, It also update user calories of each exercise to Apple Health app.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/cd/30/37cd30dc-0838-5cd9-3c65-126d9fc91cb6/73a4a8c8-14c4-4a5b-af63-c6d38f85fd1c_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-17_at_20.29.43.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/a6/06/26a60622-6a43-9300-ccfc-45496f09419e/d045725d-efc2-4d2b-ac20-92e346893605_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-17_at_20.28.58.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/18/d1/8d18d11b-2d48-edf2-b3d1-79def121fabf/7e1978f2-b9b7-4e1f-9ddf-d24c44f5b772_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-17_at_20.28.46.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/7a/8b/477a8baf-9ef5-5e4c-a713-5dffee07bf58/df13aae8-71ad-47f1-b5a1-769f2869d425_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-17_at_20.29.22.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mr-rebounder/id1300713793?uo=4",
+    "store": "appstore"
+  },
+  "Subway Midnight": {
+    "name": "Subway Midnight",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750570/header.jpg?t=1785949205",
+    "description": "Board the train! Run away from a weirdo! Solve some puzzles! Make friends with some ghosts! Try not to become a ghost yourself!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750570/ss_a6bfbea8903c26c8350454c1f13b99394a14e5cd.600x338.jpg?t=1785949205",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750570/ss_fb9c58c7dba8000db0dff6c058ce16a8f6d90a8a.600x338.jpg?t=1785949205",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750570/ss_5a2a3bd76565d284f6e9f376289529a2aab9abae.600x338.jpg?t=1785949205",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750570/ss_aec187497596b9cbd11c0d7ff0d7528f59e87209.600x338.jpg?t=1785949205"
+    ],
+    "store_url": "https://store.steampowered.com/app/1750570",
+    "store": "steam"
   }
 }
