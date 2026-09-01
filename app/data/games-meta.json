@@ -4713,5 +4713,37 @@
     "store_url": "https://store.steampowered.com/app/1091500",
     "store": "steam"
   },
-  "007：初露锋芒": null
+  "007：初露锋芒": null,
+  "Antivirus Survivors 2003 Professional": {
+    "name": "Antivirus Survivors 2003 Professional",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/19ec8cf9c754e295d6bc29870e1ed65f04b69988/header.jpg?t=1786974996",
+    "description": "The family computer is infected again and it’s your job to fend off waves of viruses and adware foes with an arsenal of nostalgic Y2K-inspired weapons. Antivirus Survivors 2003 Professional is a survivor-like auto-shooter filled with nods to the days when computers were actually fun.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/196a851b31219e9a18e85108783dad03c3864b23/ss_196a851b31219e9a18e85108783dad03c3864b23.600x338.jpg?t=1786974996",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/158bfb20a0d74809de2c05684431bd5a19ebf7ec/ss_158bfb20a0d74809de2c05684431bd5a19ebf7ec.600x338.jpg?t=1786974996",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/c15ff69c81f342ab37dc8bd5b4645fc6f9b96b53/ss_c15ff69c81f342ab37dc8bd5b4645fc6f9b96b53.600x338.jpg?t=1786974996",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832490/3ec287e4d6d69e846cdd3e87020dbac1b14f4df0/ss_3ec287e4d6d69e846cdd3e87020dbac1b14f4df0.600x338.jpg?t=1786974996"
+    ],
+    "store_url": "https://store.steampowered.com/app/3832490",
+    "store": "steam"
+  },
+  "Untitled Goose Game": {
+    "name": "Untitled Goose Game",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg?t=1699052664",
+    "description": "It's a lovely morning in the village and you are a horrible goose.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_deb5b83b07d3f7c1050ea46b51117109da06952b.600x338.jpg?t=1699052664",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_7576323f465966792d0fb021acf5a8a81a16e9f9.600x338.jpg?t=1699052664",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_f77f22299e196a9e8e702bd36fbba9951a6c0a01.600x338.jpg?t=1699052664",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_4f8a37c4fe9882876c891333dc2a76060a3e5652.600x338.jpg?t=1699052664"
+    ],
+    "store_url": "https://store.steampowered.com/app/837470",
+    "store": "steam"
+  },
+  "塞尔达传说：旷野之息": null,
+  "潜龙谍影 大师合辑 Vol. 2": null,
+  "潜龙谍影 4：爱国者之枪": null,
+  "潜龙谍影：和平行者": null,
+  "Metal Gear: Ghost Babel": null,
+  "潜龙谍影 V": null
 }
