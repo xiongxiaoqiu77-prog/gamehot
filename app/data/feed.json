@@ -1,262 +1,198 @@
 {
-  "updated": "2026-09-02",
-  "generated_at": "2026-09-02T07:00:42.043909",
+  "updated": "2026-09-03",
+  "generated_at": "2026-09-03T07:00:05.074191",
   "articles": [
     {
-      "id": "6e7227bb1d",
-      "title": "近期SLG和休闲Puzzle测试产品汇总",
-      "summary": "汇总近期SLG与休闲Puzzle赛道测试产品，帮助从业者快速了解新游方向、赛道竞争和测试动态。适合做竞品监测和立项参考。",
-      "url": "https://mp.weixin.qq.com/s/9rfT_VE_J61X2r5Uxy_5Yg",
-      "source": "微信-王董的新游戏",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-09-01T09:46:48",
-      "games": []
-    },
-    {
-      "id": "c58f1f2d96",
-      "title": "报道：Savvy Games Group CEO Brian Ward 离职",
-      "summary": "Savvy Games Group CEO Brian Ward 将离职，公司称其进入下一阶段转型增长，这是引入新领导层的合适时机。Savvy 是沙特重要游戏投资公司，旗下拥有 Scopely 等移动游戏资产，高层变动对全球手游市场格局有一定观察价值。",
-      "url": "https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian-ward-departs-company",
-      "source": "Game Developer",
+      "id": "5acf7a6201",
+      "title": "Supercell 对 Metacore 的收购预计于 2026 年 9 月底完成",
+      "summary": "Supercell 与 Metacore 已签署收购协议，交易预计在本月底完成。由于两家都是移动游戏公司，这笔收购对休闲/移动游戏行业竞争格局和工作室整合有一定信号意义。",
+      "url": "https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-01T21:42:52",
-      "games": [
-        {
-          "name": "Pokémon Go",
-          "desc": "基于位置的增强现实手游"
-        },
-        {
-          "name": "Battlefield",
-          "desc": "以多人对战为特色的军事射击游戏系列"
-        },
-        {
-          "name": "The Sims",
-          "desc": "模拟人生系列生活模拟游戏"
-        },
-        {
-          "name": "Doom: The Dark Ages",
-          "desc": "第一人称射击游戏，Doom系列新作"
-        }
-      ]
-    },
-    {
-      "id": "4f6ae3e7bf",
-      "title": "世嘉旗下 Rovio 关闭哥本哈根工作室",
-      "summary": "Rovio 在取消《Sonic Blitz》后关闭哥本哈根工作室，具体裁员人数尚未确认。作为 Angry Birds 开发商，Rovio 的收缩与世嘉收购后的业务整合对休闲游戏从业者有一定参考价值。",
-      "url": "https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-01T15:37:36",
-      "games": [
-        {
-          "name": "Angry Birds",
-          "desc": "Rovio旗下知名的物理益智游戏系列。"
-        },
-        {
-          "name": "Sonic Blitz",
-          "desc": "一款混合跑酷与卡牌收集的手机游戏，已被取消。"
-        },
-        {
-          "name": "Moomin",
-          "desc": "Rovio此前关闭的移动端游戏。"
-        }
-      ]
-    },
-    {
-      "id": "29fd3c205e",
-      "title": "Paradox Interactive 的《Afterworld》想用诱人的 RPG 钩子吸引新玩家进入大战略游戏",
-      "summary": "游戏总监 Dan Lind 分享了《Afterworld》如何通过 RPG 成长钩子和更易上手的引导，来降低大战略游戏的门槛。虽然题材不是休闲品类，但其新手引导和跨品类融合思路对休闲游戏设计仍有参考价值。",
-      "url": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
-      "source": "Game Developer",
-      "category": "深度拆解",
-      "score": 6,
-      "published_at": "2026-09-01T13:00:00",
-      "games": [
-        {
-          "name": "Afterworld",
-          "desc": "后末日背景的大战略游戏，融合RPG元素，玩家引导部落在重建世界中生存与发展。"
-        },
-        {
-          "name": "Sid Meier's Civilization",
-          "desc": "经典回合制4X策略游戏，玩家建设帝国并引领文明发展。"
-        },
-        {
-          "name": "Hearts of Iron",
-          "desc": "以二战为主题的大战略游戏，玩家控制国家进行战争与决策。"
-        },
-        {
-          "name": "Crusader Kings",
-          "desc": "中世纪战略角色扮演游戏，玩家控制王朝家族进行政治和军事斗争。"
-        }
-      ]
-    },
-    {
-      "id": "9ce1990371",
-      "title": "Supercell 收购《Merge Mansion》开发商 Metacore 将于本月完成",
-      "summary": "Supercell 对 Metacore 的收购预计本月完成，交易金额未披露，此前 Metacore 已裁员约 160 人并关闭瑞典和德国办公室。这是 merge 品类与休闲手游市场整合的关键动态，对关注并购和团队变化的从业者很有参考价值。",
-      "url": "https://mobilegamer.biz/supercells-acquisition-of-merge-mansion-maker-metacore-should-be-final-this-month/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-01T10:09:11",
+      "published_at": "2026-09-02T08:37:20",
       "games": [
         {
           "name": "Merge Mansion",
-          "desc": "移动端的合并解谜游戏，被认为是合并类型的开创者。"
+          "desc": "Metacore 开发的合并玩法移动解谜游戏，玩家通过合成物品推进庄园翻新和剧情。"
         },
         {
-          "name": "Everdale",
-          "desc": "Supercell的软启动游戏，曾被Metacore收购尝试重做但最终关闭。"
+          "name": "Clash Royale",
+          "desc": "Supercell 推出的实时卡牌对战手游，以卡牌收集和击毁敌方塔为核心。"
         }
       ]
     },
     {
-      "id": "dba8a1d805",
-      "title": "《Doom: The Dark Ages》的大部分DLC是在“三四个月”内完成的",
-      "summary": "据报道，团队为按期交付每周工作60到80小时。文章披露了3A游戏DLC的压缩开发周期与加班现状，属于游戏行业动态，但与休闲游戏的设计、运营和变现关联有限。",
-      "url": "https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months",
-      "source": "Game Developer",
+      "id": "bf67a031df",
+      "title": "数据摘要：CookieRun、NYT 与 Valorant 取得里程碑，更多 Skillz-Papaya 纠纷以及中国、日本和 D2C 数据",
+      "summary": "本辑数据快报涵盖 CookieRun、NYT Games、Valorant 的里程碑，Skillz 与 Papaya 的最新纠纷，并附中国、日本及 D2C 统计。适合手游从业者快速抓取近期市场热点，但缺乏对单个玩法/变现机制的深度拆解。",
+      "url": "https://mobilegamer.biz/data-digest-cookierun-crumble-nyt-games-and-valorant-hit-milestones-more-skillz-papaya-drama-plus-china-japan-and-d2c-stats/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-01T18:03:04",
+      "score": 6,
+      "published_at": "2026-09-02T14:09:12",
       "games": [
         {
-          "name": "Doom: The Dark Ages",
-          "desc": "第一人称射击游戏，文章聚焦其DLC在高压加班下开发完成的情况。"
+          "name": "CookieRun: Crumble",
+          "desc": "Devsisters 推出的 CookieRun 系列手游，上线四周收入超过 1400 万美元。"
         },
         {
-          "name": "Doom: The Dark Ages - Revelations",
-          "desc": "《Doom: The Dark Ages》的DLC，据称在三四个月内加班赶工完成。"
+          "name": "NYT Games: Wordle & Crossword",
+          "desc": "纽约时报旗下的文字益智游戏合集，包含 Wordle 拼字与填字玩法。"
         },
         {
-          "name": "Doom (2016)",
-          "desc": "经典FPS系列重启作品，文中提到其部分老开发者在裁员中受影响。"
+          "name": "Valorant Mobile",
+          "desc": "Valorant 的移动战术射击版本，中国限定版上线一年收入接近 3 亿美元。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "Konami 推出的足球模拟类手游，在日本上半年手机游戏收入榜中领先。"
         }
       ]
     },
     {
-      "id": "e43a39389d",
-      "title": "Aggro Crab 推出发行品牌，投入 Peak 资金",
-      "summary": "Aggro Crab 宣布成立发行品牌，将支持风格强烈、有态度的游戏，并明确表示对生成式 AI 内容不感兴趣。该消息属于独立游戏发行领域动态，对观察中小团队向发行业务延伸的趋势有一定参考，但与休闲三消赛道关联较弱。",
-      "url": "https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash",
-      "source": "Game Developer",
+      "id": "946e005479",
+      "title": "有新游正在冲击“数字门SLG”第3席：月流水连续翻倍，近一月收入破2300万元",
+      "summary": "文章报道一款新手游在“数字门SLG”细分赛道上的高速增长，月流水连续翻倍，近一月收入已突破 2300 万元，正向品类前三发起冲击。对关注 SLG 手游收入排名和市场动态的从业者有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfdWlLcEJza2lGZ2g2N28wSnFjNnZhRDJrNE5icmk1Uy1PQWlseFA4NFNFdmN1UU93YzhYa21MT1Ezek5vbXd3T19rRWI?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-02T10:07:20",
+      "games": []
+    },
+    {
+      "id": "159a7d8f1e",
+      "title": "CD Projekt Red 2026年上半年利润增长37%",
+      "summary": "CD Projekt Red在2026年上半年实现营收约1.165亿美元，同比增长23%，利润同比增长37%。这是典型游戏公司财务动态，可帮助从业者了解重点厂商经营状况，但与休闲游戏玩法或运营关系不大。",
+      "url": "https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-01T17:02:48",
+      "published_at": "2026-09-02T19:44:30",
       "games": [
         {
-          "name": "Another Crab's Treasure",
-          "desc": "Aggro Crab 开发的类魂动作游戏，以螃蟹为主角。"
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "开放世界角色扮演游戏，系列销量超9000万，即将推出重制版"
         },
         {
-          "name": "Peak",
-          "desc": "Aggro Crab 推出的社交攀爬游戏，玩家超2000万。"
+          "name": "Cyberpunk 2077",
+          "desc": "开放世界动作角色扮演游戏，销量超4000万"
         },
         {
-          "name": "Rebounder",
-          "desc": "ThirtyThree 开发的精确平台跳跃游戏。"
+          "name": "Phantom Liberty",
+          "desc": "《赛博朋克2077》的谍战剧情扩展包，销量达1500万"
         },
         {
-          "name": "Subway Midnight",
-          "desc": "Bubby Darkstar 制作的迷幻恐怖游戏。"
+          "name": "Wuthering Waves",
+          "desc": "开放世界动作角色扮演游戏，与赛博朋克IP联动"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "免费战术竞技射击游戏，与赛博朋克IP联动"
         }
       ]
     },
     {
-      "id": "3ce93a47eb",
-      "title": "《Star Wars Zero Company》发售前夕，Bit Reactor 让员工无薪休假",
-      "summary": "Bit Reactor 证实，因担心首款作品《Star Wars Zero Company》的市场表现，已在发售前临时让部分员工无薪停工。该事件反映项目发行前的现金流与团队稳定性压力，可作为行业经营状况的参考。",
-      "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch",
-      "source": "Game Developer",
+      "id": "76bdc786a7",
+      "title": "Nexus Mods 收购 SteamDB",
+      "summary": "Nexus Mods 宣布收购 Steam 数据追踪平台 SteamDB，双方已确认这一合作。该动态属于游戏行业公司整合消息，对关注 PC 游戏 Mod 生态与 Steam 数据变化的从业者有一定参考价值，但与休闲手游设计/运营关联不大。",
+      "url": "https://www.gamesindustry.biz/nexus-mods-acquires-steamdb",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-01T09:19:23",
+      "published_at": "2026-09-02T19:14:24",
+      "games": []
+    },
+    {
+      "id": "fbae5ab3f2",
+      "title": "Square Enix 否认私有化计划，相关报道曾致股价大涨",
+      "summary": "Square Enix 发布声明，否认正在考虑私有化，此前日本商业杂志 Sentaku 的报道称该公司已吸引外国投资基金兴趣，消息曾推动股价上涨。该动态属于游戏公司资本层面消息，对休闲游戏玩法或变现研究没有直接参考价值。",
+      "url": "https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T16:02:35",
+      "games": []
+    },
+    {
+      "id": "0a83400713",
+      "title": "“有时需要新鲜视角”——外部开发如何帮助 Tomb Raider: Legacy of Atlantis",
+      "summary": "文章回顾了 Gamescom 上 Tomb Raider: Legacy of Atlantis 的演示，强调本作并非 1996 年原版的简单复刻，而是对 Lara Croft 首次冒险的重新制作。外部开发团队带来的新思路可供大型 IP 项目参考，但与休闲三消手游的设计和运营关联较弱。",
+      "url": "https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T13:00:00",
       "games": [
         {
-          "name": "Star Wars Zero Company",
-          "desc": "星战题材的战术回合制游戏，由Bit Reactor开发，EA发行。"
+          "name": "Tomb Raider: Legacy of Atlantis",
+          "desc": "基于1996年原版古墓丽影的完全重制，加入了制作和技能树等新机制，由Crystal Dynamics与Flying Wild Hog合作开发。"
+        },
+        {
+          "name": "Tomb Raider: Catalyst",
+          "desc": "古墓丽影系列的新作，由Amazon发行，是继Legacy of Atlantis之后的下一个游戏。"
         }
       ]
     },
     {
-      "id": "f0daf26c52",
-      "title": "大图景：关于当下游戏行业持续重置，你需要知道的事",
-      "summary": "Gamescom Dev 开幕演讲以“游戏行业重置”为主题，Amir Satvat 系统梳理了裁员、融资环境变化和人才流动等行业现状。对从业者了解 2026 年游戏行业整体走向有参考价值。",
-      "url": "https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset",
+      "id": "5100fa471b",
+      "title": "Moon Studios 将 No Rest for the Wicked 延期至 2027 年 3 月，称不会在品质标准上妥协",
+      "summary": "Ori 系列开发商 Moon Studios 宣布 No Rest for the Wicked 完整版将延期至 2027 年 3 月，官方解释称这是为了坚持游戏品质标准。这属于主机/PC 单机游戏行业动态，对休闲手游从业者的直接参考意义有限。",
+      "url": "https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-01T16:19:14",
-      "games": []
+      "published_at": "2026-09-02T10:44:18",
+      "games": [
+        {
+          "name": "No Rest for the Wicked",
+          "desc": "Moon Studios开发的动作RPG，于2024年4月进入抢先体验，预计2027年3月正式推出。"
+        },
+        {
+          "name": "Ori and the Will of the Wisps",
+          "desc": "Moon Studios此前开发的平台冒险游戏，曾作为该工作室背景被提及。"
+        }
+      ]
     },
     {
-      "id": "cfcbd89d7b",
-      "title": "九月行业人事动态：Amir Satvat 加入 1Up Ventures 任普通合伙人",
-      "summary": "本期人事汇总重点包括 Amir Satvat 离开腾讯后加入 1Up Ventures 担任普通合伙人。适合追踪游戏行业人才流动、基金投资和关键公司决策层变化。",
-      "url": "https://www.gamesindustry.biz/jobs-roundup-september-2026-amir-satvat-joins-1up-ventures-as-a-general-partner",
+      "id": "1ecbf02df0",
+      "title": "Steam 单周上线游戏首次超过 700 款，但 74% 评论数不足 10 条",
+      "summary": "Steam 首次在一周内发布超过 700 款游戏，然而其中 74% 仅获得不到 10 条评论。该数据反映商店内容供给过剩和曝光困境，对观察小团队发行与流量环境有参考价值，但并未深入休闲手游领域。",
+      "url": "https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-01T13:41:11",
+      "published_at": "2026-09-02T09:55:59",
       "games": []
     },
     {
-      "id": "1c46c14761",
-      "title": "UKIE 联合 Discord 推出 Go To Market Academy，扶持早期独立开发者",
-      "summary": "UKIE 与 Discord、GameFlex 合作推出面向英国独立工作室的 Go To Market Academy 商业课程。对关注独立游戏发行、市场启动和开发者扶持项目的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-academy-a-business-program-to-support-early-stage-indie-devs",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-01T12:42:51",
-      "games": []
-    },
-    {
-      "id": "768139f776",
-      "title": "Gamescom 2026 参观人数增长 6%，达 36.8 万人",
-      "summary": "Gamescom 2026 吸引来自 131 个国家的 36.8 万名观众，同比上涨 6%。该数据可作为线下展会活跃度和游戏行业复苏情况的参考指标。",
-      "url": "https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-visitors",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-01T10:32:51",
-      "games": []
-    },
-    {
-      "id": "269cb923fc",
-      "title": "Steam 游戏收入中位数已连续 12 年下降",
-      "summary": "2026 年发行游戏在 Steam 的收入中位数仅为 1,728 美元，较 2016 年下降超十倍。该数据揭示了 Steam 长尾竞争愈发激烈，对关注跨平台发行和游戏商业化策略的从业者有参考价值。",
-      "url": "https://gameworldobserver.com/2026/09/01/the-median-revenue-of-games-on-steam-has-been-declining-for-12-consecutive-years",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-01T16:37:27",
-      "games": []
-    },
-    {
-      "id": "63a7a60080",
-      "title": "韩国巨头 NC 已斥资 3 亿美元收购四家工作室，未来将继续投资",
-      "summary": "前 Tripledot 高管 Anel Ceman 表示，NC 正寻找年收入 5000 万至 1 亿美元的成熟工作室，覆盖所有品类和商业模式。这反映了手游并购市场的最新动向，对休闲游戏团队评估资本合作有参考意义。",
-      "url": "https://mobilegamer.biz/korean-giant-nc-has-spent-300m-on-four-studios-and-isnt-stopping-there/",
+      "id": "a4162b8f67",
+      "title": "Overwatch Rush 在菲律宾、马来西亚和印度尼西亚开启软启动",
+      "summary": "Blizzard 的手机平台独占英雄射击游戏 Overwatch Rush 从 8 月 31 日起在上述东南亚市场开启测试。该动态有助于观察头部厂商的手游软启动与区域测试节奏，不过不属于休闲消除类玩法。",
+      "url": "https://mobilegamer.biz/overwatch-rush-enters-soft-launch-in-the-philippines-malaysia-and-indonesia/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-01T12:17:35",
-      "games": []
-    },
-    {
-      "id": "ed4558f783",
-      "title": "Eddy Cue 接管 App Store，Phil Schiller 卸任",
-      "summary": "苹果 App Store 管理层发生变动，Eddy Cue 接手相关业务，Phil Schiller 卸任。App Store 的负责人更替可能影响移动游戏的分发和审核策略，值得手游从业者关注。",
-      "url": "https://mobilegamer.biz/eddy-cue-to-take-over-the-app-store-as-phil-schiller-steps-down/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-01T10:54:46",
-      "games": []
+      "published_at": "2026-09-02T09:49:58",
+      "games": [
+        {
+          "name": "Overwatch Rush",
+          "desc": "暴雪推出的俯视角、专为移动端设计的《守望先锋》主题射击游戏，已在菲律宾等地软启动。"
+        },
+        {
+          "name": "Hearthstone",
+          "desc": "暴雪旗下的卡牌策略游戏，移动端月收入据估计约为 300 万至 500 万美元。"
+        },
+        {
+          "name": "Diablo Immortal",
+          "desc": "暴雪与网易合作开发的暗黑破坏神 IP 动作 RPG 手游，累计收入超 4.2 亿美元。"
+        },
+        {
+          "name": "Warcraft Rumble",
+          "desc": "暴雪推出的魔兽 IP 策略手游，文章称其已停止添加新内容。"
+        }
+      ]
     }
   ]
 }
