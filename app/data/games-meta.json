@@ -5006,5 +5006,45 @@
     ],
     "store_url": "https://apps.apple.com/us/app/warcraft-rumble/id1600575058?uo=4",
     "store": "appstore"
+  },
+  "Tomb Raider: Legacy of Atlantis": {
+    "name": "Tomb Raider: Legacy of Atlantis",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/d0d4229807e9bd939c2374cb94a1264aa1386398/header.jpg?t=1780440913",
+    "description": "Experience a stunning reimagining of Lara Croft’s debut adventure to discover the lost secrets of Atlantis with jaw-dropping visuals, modern gameplay, and new surprises that honor the spirit of the original.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/53ebb702379303bc89a71106d74650a8ce8c5411/ss_53ebb702379303bc89a71106d74650a8ce8c5411.600x338.jpg?t=1780440913",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/ed2cab36765386632d74491a6e53d4b461e185e3/ss_ed2cab36765386632d74491a6e53d4b461e185e3.600x338.jpg?t=1780440913",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/5403be801ad2b300abf174f3937c989fdb4007a5/ss_5403be801ad2b300abf174f3937c989fdb4007a5.600x338.jpg?t=1780440913",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/b9154d52d41a8676bab28f8e74a459532990734b/ss_b9154d52d41a8676bab28f8e74a459532990734b.600x338.jpg?t=1780440913"
+    ],
+    "store_url": "https://store.steampowered.com/app/3558670",
+    "store": "steam"
+  },
+  "Tomb Raider: Catalyst": null,
+  "No Rest for the Wicked": {
+    "name": "No Rest for the Wicked",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/331de7e745f43867f0a220339153ac6019822ea4/header.jpg?t=1784886886",
+    "description": "From Moon Studios, the award-winning creators of Ori and the Blind Forest and Ori and the Will of the Wisps, comes No Rest for the Wicked, a unique, visceral Action RPG set in a hand-crafted world with Souls-like combat. Featuring co-op for up to four players.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/079327abaf4866604f9f77200ded37da18d7089e/ss_079327abaf4866604f9f77200ded37da18d7089e.600x338.jpg?t=1784886886",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/56066f44f29e8b042c482e0b0680bc101bf1ecd5/ss_56066f44f29e8b042c482e0b0680bc101bf1ecd5.600x338.jpg?t=1784886886",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/1163c9191d2261d845aa96cbc011ed6490182ae8/ss_1163c9191d2261d845aa96cbc011ed6490182ae8.600x338.jpg?t=1784886886",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_01a87d9ec6cef10244eb5dd8d3f55047060da954.600x338.jpg?t=1784886886"
+    ],
+    "store_url": "https://store.steampowered.com/app/1371980",
+    "store": "steam"
+  },
+  "Ori and the Will of the Wisps": {
+    "name": "Ori and the Will of the Wisps",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+    "description": "Play the critically acclaimed masterpiece. Embark on a new journey in a vast, exotic world where you’ll encounter towering enemies and challenging puzzles on your quest to unravel Ori’s destiny.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_0cf0ec6681ae5771173790dbc99ddb3bf3b886ad.600x338.jpg?t=1759530749",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_f8ac174b7949e89fe1939a7bd2c471785dee55f0.600x338.jpg?t=1759530749",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_3ae04b208aaff3869f69617c47449ec1d7a06513.600x338.jpg?t=1759530749",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_608e317acbb76258bedcf1a79e6673a61475908f.600x338.jpg?t=1759530749"
+    ],
+    "store_url": "https://store.steampowered.com/app/1057090",
+    "store": "steam"
   }
 }
