@@ -5072,5 +5072,18 @@
     ],
     "store_url": "https://apps.apple.com/us/app/wuthering-waves/id6475033368?uo=4",
     "store": "appstore"
+  },
+  "NBA 2K27": {
+    "name": "NBA 2K27",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1787958027",
+    "description": "The hustle doesn’t stop and the run never ends in NBA 2K27. Chase greatness around the clock in MyCAREER, MyTEAM, and MyNBA, and make your hoop dreams a reality.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.600x338.jpg?t=1787958027",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/2a04508bf934834c93cfe5c91f27f45d3043a83d/ss_2a04508bf934834c93cfe5c91f27f45d3043a83d.600x338.jpg?t=1787958027",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/57773a1574208a10b2a5a12fdf3e0be991461475/ss_57773a1574208a10b2a5a12fdf3e0be991461475.600x338.jpg?t=1787958027",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/8650f68a3903425f66263a256aa1e010b2c80334/ss_8650f68a3903425f66263a256aa1e010b2c80334.600x338.jpg?t=1787958027"
+    ],
+    "store_url": "https://store.steampowered.com/app/4356430",
+    "store": "steam"
   }
 }
