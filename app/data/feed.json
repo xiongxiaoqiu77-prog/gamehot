@@ -1,196 +1,374 @@
 {
-  "updated": "2026-09-03",
-  "generated_at": "2026-09-03T07:00:05.074191",
+  "updated": "2026-09-04",
+  "generated_at": "2026-09-04T07:00:25.312076",
   "articles": [
     {
-      "id": "5acf7a6201",
-      "title": "Supercell 对 Metacore 的收购预计于 2026 年 9 月底完成",
-      "summary": "Supercell 与 Metacore 已签署收购协议，交易预计在本月底完成。由于两家都是移动游戏公司，这笔收购对休闲/移动游戏行业竞争格局和工作室整合有一定信号意义。",
-      "url": "https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-02T08:37:20",
-      "games": [
-        {
-          "name": "Merge Mansion",
-          "desc": "Metacore 开发的合并玩法移动解谜游戏，玩家通过合成物品推进庄园翻新和剧情。"
-        },
-        {
-          "name": "Clash Royale",
-          "desc": "Supercell 推出的实时卡牌对战手游，以卡牌收集和击毁敌方塔为核心。"
-        }
-      ]
-    },
-    {
-      "id": "bf67a031df",
-      "title": "数据摘要：CookieRun、NYT 与 Valorant 取得里程碑，更多 Skillz-Papaya 纠纷以及中国、日本和 D2C 数据",
-      "summary": "本辑数据快报涵盖 CookieRun、NYT Games、Valorant 的里程碑，Skillz 与 Papaya 的最新纠纷，并附中国、日本及 D2C 统计。适合手游从业者快速抓取近期市场热点，但缺乏对单个玩法/变现机制的深度拆解。",
-      "url": "https://mobilegamer.biz/data-digest-cookierun-crumble-nyt-games-and-valorant-hit-milestones-more-skillz-papaya-drama-plus-china-japan-and-d2c-stats/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-02T14:09:12",
-      "games": [
-        {
-          "name": "CookieRun: Crumble",
-          "desc": "Devsisters 推出的 CookieRun 系列手游，上线四周收入超过 1400 万美元。"
-        },
-        {
-          "name": "NYT Games: Wordle & Crossword",
-          "desc": "纽约时报旗下的文字益智游戏合集，包含 Wordle 拼字与填字玩法。"
-        },
-        {
-          "name": "Valorant Mobile",
-          "desc": "Valorant 的移动战术射击版本，中国限定版上线一年收入接近 3 亿美元。"
-        },
-        {
-          "name": "eFootball",
-          "desc": "Konami 推出的足球模拟类手游，在日本上半年手机游戏收入榜中领先。"
-        }
-      ]
-    },
-    {
-      "id": "946e005479",
-      "title": "有新游正在冲击“数字门SLG”第3席：月流水连续翻倍，近一月收入破2300万元",
-      "summary": "文章报道一款新手游在“数字门SLG”细分赛道上的高速增长，月流水连续翻倍，近一月收入已突破 2300 万元，正向品类前三发起冲击。对关注 SLG 手游收入排名和市场动态的从业者有参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfdWlLcEJza2lGZ2g2N28wSnFjNnZhRDJrNE5icmk1Uy1PQWlseFA4NFNFdmN1UU93YzhYa21MT1Ezek5vbXd3T19rRWI?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-02T10:07:20",
+      "id": "6eeff1bdb4",
+      "title": "2026 年有效的 5 种移动游戏广告形式",
+      "summary": "文章梳理了 2026 年真正有效的 5 种移动游戏广告格式：短视频、激励视频、可玩广告、可玩结尾卡片与插屏广告，并说明各自适合的时机和研究方法。对休闲游戏在买量素材和广告变现优化上有直接实操价值。",
+      "url": "https://www.gameanalytics.com/blog/popular-mobile-game-ad-formats",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T12:09:57",
       "games": []
     },
     {
-      "id": "159a7d8f1e",
-      "title": "CD Projekt Red 2026年上半年利润增长37%",
-      "summary": "CD Projekt Red在2026年上半年实现营收约1.165亿美元，同比增长23%，利润同比增长37%。这是典型游戏公司财务动态，可帮助从业者了解重点厂商经营状况，但与休闲游戏玩法或运营关系不大。",
-      "url": "https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026",
+      "id": "94eb23251d",
+      "title": "移动游戏微交易解析：运作方式、重要性及未来变化",
+      "summary": "文章全面解析移动游戏微交易的定义、顶级工作室玩法、伦理争议与 2026 年付费模式的演进方向。对于休闲游戏设计内购、混合变现和规避付费陷阱具有重要的实践指导意义。",
+      "url": "https://www.gameanalytics.com/blog/microtransactions-games-good-bad-ugly",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:09:02",
+      "games": [
+        {
+          "name": "The Tribez",
+          "desc": "一款模拟经营游戏，玩家可通过微交易加速游戏进程。"
+        }
+      ]
+    },
+    {
+      "id": "484c540c29",
+      "title": "核心游戏循环：如何设计、测试并优化",
+      "summary": "文章给出核心游戏循环的设计、测试与优化方法，并以高收入作品为例说明如何让玩家产生重复游玩动力。对依赖短周期反馈和长期留存的休闲游戏/三消产品尤其适用。",
+      "url": "https://www.gameanalytics.com/blog/how-to-perfect-your-games-core-loop",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:08:35",
+      "games": [
+        {
+          "name": "Super Mario Bros.",
+          "desc": "任天堂的经典横版平台跳跃游戏，核心循环是走、跑、跳与闯关。"
+        }
+      ]
+    },
+    {
+      "id": "5ecaf2e7e0",
+      "title": "每个游戏开发者都应跟踪的 22 项指标（以及计算方法）",
+      "summary": "文章定义了 DAU、留存率、ARPU、LTV 等 22 项游戏关键指标，并给出计算公式和真实决策场景中的用法。对休闲游戏团队搭建数据化运营体系、优化买量与留存非常有帮助。",
+      "url": "https://www.gameanalytics.com/blog/metrics-all-game-developers-should-know",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:05:44",
+      "games": []
+    },
+    {
+      "id": "a33f80e185",
+      "title": "游戏变现策略：2026 年有效模式的完整指南",
+      "summary": "文章系统梳理了 2026 年有效的游戏变现模式：内购、广告、混合变现、订阅制与 Battle Pass，并结合品类和研发阶段给出选择建议。休闲游戏发行与变现负责人可将其作为策略参考。",
+      "url": "https://www.gameanalytics.com/blog/traditional-monetization-strategies",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:05:10",
+      "games": []
+    },
+    {
+      "id": "a888725c54",
+      "title": "Dead Rails 如何成为 Roblox 爆款：数据解析其成功",
+      "summary": "文章结合数据拆解 Roblox 游戏 Dead Rails 在玩法、KOL 策略与平台算法层面的成功方法。这些经验对关注 UGC 平台、社交裂变或新型分发渠道的休闲游戏团队有借鉴意义。",
+      "url": "https://www.gameanalytics.com/blog/dead-rails-and-the-hit-makers-formula",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-09-03T11:06:40",
+      "games": [
+        {
+          "name": "Dead Rails",
+          "desc": "Roblox 上的狂野西部题材僵尸生存游戏，近期成为热门爆款。"
+        }
+      ]
+    },
+    {
+      "id": "192243f166",
+      "title": "塔防游戏：头部畅销作品背后的关键指标",
+      "summary": "文章从数据角度分析了头部塔防游戏与一般产品的留存、变现和参与度差异。塔防与三消同属热门休闲品类，其指标体系和方法论可供休闲游戏团队对标。",
+      "url": "https://www.gameanalytics.com/blog/metrics-behind-successful-tower-defense-games",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-09-03T11:03:59",
+      "games": []
+    },
+    {
+      "id": "7fbdcd6cef",
+      "title": "从《Gossip Harbor》到《Mystery Town》：30万条素材背后，二合买量到底有多卷？",
+      "summary": "本文通过分析30万条买量素材，复盘《Gossip Harbor》《Mystery Town》等二合游戏在素材投放上的竞争烈度与趋势。对休闲游戏从业者了解二合赛道的买量打法、素材策略和市场内卷程度有较高的参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VXNPV1VyUXI0RmpYT3NEb0JtRWxWdDhWbWc3anF1SG1jeV8xNXl4cmtxYWVENDBSNEVWUTVlWGMweURxME9kMlc2WjhrdVdIeEZyUU5BTEdoZw?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-03T10:31:10",
+      "games": [
+        {
+          "name": "Gossip Harbor",
+          "desc": "剧情向二合（合并）休闲游戏"
+        },
+        {
+          "name": "Mystery Town",
+          "desc": "神秘主题二合解谜游戏"
+        }
+      ]
+    },
+    {
+      "id": "3993df995c",
+      "title": "英国应用开发者就 App Tracking Transparency 向苹果提出 20 亿英镑索赔",
+      "summary": "该索赔指出苹果在 ATT 规则上对开发者执行更严标准却未限制自身，且苹果广告业务已增长至 74 亿美元。案件将影响移动广告生态与隐私政策走向，涉及广告变现的休闲游戏团队需持续跟进。",
+      "url": "https://mobilegamer.biz/apple-faces-2bn-claim-from-uk-app-developers-over-app-tracking-transparency/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-03T10:04:27",
+      "games": []
+    },
+    {
+      "id": "cf089ec1b3",
+      "title": "Bartle 玩家类型分类法：理解你的游戏受众",
+      "summary": "文章系统介绍了 Bartle 玩家分类法中的四种玩家类型：杀手、成就者、社交家与探索者，并讨论如何围绕各类型进行受众理解与游戏设计。该框架对休闲游戏玩家分层、内容设计有通用参考价值。",
+      "url": "https://www.gameanalytics.com/blog/understanding-your-audience-bartle-player-taxonomy",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-09-03T11:10:14",
+      "games": []
+    },
+    {
+      "id": "671213796b",
+      "title": "如何打造一款 iMessage 游戏：iOS 信息扩展开发者指南",
+      "summary": "文章为想开发 iMessage 游戏的开发者提供了从 Xcode 配置、信息扩展实现、参与机制到发布推广的全流程指南。休闲小游戏团队可借此探索苹果即时通讯生态的获客裂变场景。",
+      "url": "https://www.gameanalytics.com/blog/how-to-make-an-imessage-game",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-09-03T11:09:52",
+      "games": []
+    },
+    {
+      "id": "d7681df7aa",
+      "title": "如何为你的游戏建立 Discord 社区：5 步指南",
+      "summary": "文章提供了一套从服务器搭建、角色划分、内容运营到社群治理的 Discord 社区建设方法。对希望建立核心玩家社群、提升长期留存和口碑传播的游戏团队是实用指南。",
+      "url": "https://www.gameanalytics.com/blog/building-discord-community",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-09-03T11:06:14",
+      "games": []
+    },
+    {
+      "id": "c0fc0fd7dd",
+      "title": "Supercell 对 Metacore 的收购预计本月完成",
+      "summary": "Supercell 收购 Metacore 的交易预计于本月正式完成，Merge Mansion 将正式纳入 Supercell 的现运营游戏产品组合。对休闲游戏从业者而言，这是 Merge 品类头部产品归属及发行资源整合方面的重要行业动态。",
+      "url": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-03T16:06:04",
+      "games": [
+        {
+          "name": "Clash Royale",
+          "desc": "Supercell 旗下的卡牌策略对战手游。"
+        },
+        {
+          "name": "Brawl Stars",
+          "desc": "Supercell 旗下的多人实时对战手游。"
+        },
+        {
+          "name": "Merge Mansion",
+          "desc": "Metacore 开发的合并玩法休闲手游，是本次收购的核心游戏。"
+        }
+      ]
+    },
+    {
+      "id": "3706ab8b38",
+      "title": "不适用于 VR 的游戏设计套路",
+      "summary": "文章总结了当前难以直接平移至 VR 的常见游戏设计套路，并提供了克服这些问题的设计思路。虽然主题是 VR 而非休闲手游，但对跨品类玩法创新有一定参考意义。",
+      "url": "https://www.gameanalytics.com/blog/game-design-tropes-that-dont-translate-to-vr",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-09-03T11:11:41",
+      "games": []
+    },
+    {
+      "id": "3587a5a38a",
+      "title": "GungHo 的 Disney Pixel RPG 将于 9 月 30 日停运",
+      "summary": "GungHo 宣布旗下 Disney Pixel RPG 将于 2026 年 9 月 30 日停运，游戏将在推出最终故事内容与活动后结束运营。对从业者而言，这是一条观察手游产品生命周期与 IP 授权项目取舍的行业动态。",
+      "url": "https://mobilegamer.biz/gunghos-disney-pixel-rpg-shutting-down-on-september-30/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T17:53:43",
+      "games": [
+        {
+          "name": "Disney Pixel RPG",
+          "desc": "GungHo开发的移动端复古风格角色扮演游戏，将于9月30日停运。"
+        }
+      ]
+    },
+    {
+      "id": "f1f9882335",
+      "title": "“最佳工作场所奖”特别类别投票延期",
+      "summary": "GamesIndustry.biz 宣布今年“最佳工作场所奖”特别类别的提名截止日期延长，常规奖项已进入评审阶段。这是游戏行业人才与公司文化方面的动态，对了解欧美游戏公司雇主品牌和行业评选节奏有参考价值。",
+      "url": "https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-02T19:44:30",
+      "published_at": "2026-09-03T16:30:22",
+      "games": []
+    },
+    {
+      "id": "bafbd74344",
+      "title": "英伟达以近 130 亿美元收购 Hugging Face",
+      "summary": "报道英伟达拟以近 130 亿美元收购 AI 模型托管平台 Hugging Face，被视为今年重大 AI 交易之一。对依赖 AI 工具和关注模型托管、开源生态的游戏开发者有间接影响。",
+      "url": "https://gameworldobserver.com/2026/09/03/nvidia-is-acquiring-hugging-face-for-nearly-13-billion",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T16:02:07",
+      "games": []
+    },
+    {
+      "id": "d2a733c875",
+      "title": "AnalyticsIQ：将玩家数据转化为增长决策——GameAnalytics",
+      "summary": "GameAnalytics 介绍旗下 IQ Suite 分析工具组合，强调将长期的数据能力转化为帮助工作室理解玩家并做出增长决策的产品。对移动与休闲游戏团队了解数据平台能力有参考价值，但本质仍是厂商产品宣传而非深度方法拆解。",
+      "url": "https://www.gameanalytics.com/blog/analyticsiq",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T11:11:26",
+      "games": []
+    },
+    {
+      "id": "44d9ba1b54",
+      "title": "Gamecity Hamburg 启动第二轮原型资助计划",
+      "summary": "Gamecity Hamburg 宣布启动第二轮原型资助计划，为在该地区开展业务的开发者提供最高 8 万欧元资金。该计划面向处于早期验证阶段的项目，对想进入德国市场的中小团队具有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T14:49:10",
+      "games": []
+    },
+    {
+      "id": "5eaf401563",
+      "title": "CD Projekt Red 不会放弃实体版发行",
+      "summary": "CD Projekt Red 表示未来不会放弃实体版发行，并强调会推出值得玩家购买的实体包装。这条消息主要面向主机/PC 市场，对休闲游戏研发与发行的直接价值有限。",
+      "url": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T10:55:48",
       "games": [
         {
-          "name": "The Witcher 3: Wild Hunt",
-          "desc": "开放世界角色扮演游戏，系列销量超9000万，即将推出重制版"
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red 开发的《巫师》系列新作，尚未发布的动作角色扮演游戏。"
         },
         {
           "name": "Cyberpunk 2077",
-          "desc": "开放世界动作角色扮演游戏，销量超4000万"
+          "desc": "CD Projekt Red 开发的开放世界科幻角色扮演游戏。"
         },
         {
-          "name": "Phantom Liberty",
-          "desc": "《赛博朋克2077》的谍战剧情扩展包，销量达1500万"
+          "name": "The Witcher 3",
+          "desc": "CD Projekt Red 开发的开放世界角色扮演游戏，以丰富的实体特典内容著称。"
         },
         {
-          "name": "Wuthering Waves",
-          "desc": "开放世界动作角色扮演游戏，与赛博朋克IP联动"
-        },
-        {
-          "name": "Apex Legends",
-          "desc": "免费战术竞技射击游戏，与赛博朋克IP联动"
+          "name": "GTA VI",
+          "desc": "侠盗猎车手系列新作，实体版将附赠下载码而非光盘。"
         }
       ]
     },
     {
-      "id": "76bdc786a7",
-      "title": "Nexus Mods 收购 SteamDB",
-      "summary": "Nexus Mods 宣布收购 Steam 数据追踪平台 SteamDB，双方已确认这一合作。该动态属于游戏行业公司整合消息，对关注 PC 游戏 Mod 生态与 Steam 数据变化的从业者有一定参考价值，但与休闲手游设计/运营关联不大。",
-      "url": "https://www.gamesindustry.biz/nexus-mods-acquires-steamdb",
+      "id": "2c9ca6fc2b",
+      "title": "Glowmade 在 Amazon 取消 King of Meat 后强势回应：我们有优秀团队、银行存款和财务独立",
+      "summary": "Amazon 取消 King of Meat 后，Glowmade 公开表示团队完整、资金充足且保持财务独立。这一案例展示了研发工作室与大型发行商解约后仍可自主运营，但内容与休闲游戏关系不大。",
+      "url": "https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-02T19:14:24",
-      "games": []
-    },
-    {
-      "id": "fbae5ab3f2",
-      "title": "Square Enix 否认私有化计划，相关报道曾致股价大涨",
-      "summary": "Square Enix 发布声明，否认正在考虑私有化，此前日本商业杂志 Sentaku 的报道称该公司已吸引外国投资基金兴趣，消息曾推动股价上涨。该动态属于游戏公司资本层面消息，对休闲游戏玩法或变现研究没有直接参考价值。",
-      "url": "https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-02T16:02:35",
-      "games": []
-    },
-    {
-      "id": "0a83400713",
-      "title": "“有时需要新鲜视角”——外部开发如何帮助 Tomb Raider: Legacy of Atlantis",
-      "summary": "文章回顾了 Gamescom 上 Tomb Raider: Legacy of Atlantis 的演示，强调本作并非 1996 年原版的简单复刻，而是对 Lara Croft 首次冒险的重新制作。外部开发团队带来的新思路可供大型 IP 项目参考，但与休闲三消手游的设计和运营关联较弱。",
-      "url": "https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-02T13:00:00",
+      "published_at": "2026-09-03T12:05:44",
       "games": [
         {
-          "name": "Tomb Raider: Legacy of Atlantis",
-          "desc": "基于1996年原版古墓丽影的完全重制，加入了制作和技能树等新机制，由Crystal Dynamics与Flying Wild Hog合作开发。"
+          "name": "King of Meat",
+          "desc": "Glowmade 开发的在线多人动作游戏，后被亚马逊关停。"
         },
         {
-          "name": "Tomb Raider: Catalyst",
-          "desc": "古墓丽影系列的新作，由Amazon发行，是继Legacy of Atlantis之后的下一个游戏。"
+          "name": "Rogue Fortune",
+          "desc": "Glowmade 正在开发的单机游戏，融合 Hades 式 roguelike 玩法与俄罗斯方块式物品管理。"
+        },
+        {
+          "name": "Hades",
+          "desc": "Supergiant Games 开发的 roguelike 动作游戏，文章中作为玩法风格参照。"
+        },
+        {
+          "name": "Tetris",
+          "desc": "经典益智游戏，文章中作为物品管理玩法的灵感参照。"
         }
       ]
     },
     {
-      "id": "5100fa471b",
-      "title": "Moon Studios 将 No Rest for the Wicked 延期至 2027 年 3 月，称不会在品质标准上妥协",
-      "summary": "Ori 系列开发商 Moon Studios 宣布 No Rest for the Wicked 完整版将延期至 2027 年 3 月，官方解释称这是为了坚持游戏品质标准。这属于主机/PC 单机游戏行业动态，对休闲手游从业者的直接参考意义有限。",
-      "url": "https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on",
+      "id": "87a7af0c2c",
+      "title": "索尼与微软请求驳回消费者关于关税退款的集体诉讼",
+      "summary": "索尼与微软已提出动议，要求驳回消费者就其未退还关税退款提起的集体诉讼。该案涉及游戏主机定价，与移动端的休闲/三消游戏几乎无关。",
+      "url": "https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-02T10:44:18",
+      "published_at": "2026-09-03T11:24:40",
+      "games": []
+    },
+    {
+      "id": "0715bfc466",
+      "title": "Peak 工作室 Aggro Crab 成立发行品牌，打造“强烈、风格化、有态度”的游戏",
+      "summary": "以 Another Crab's Treasure 等作品知名的 Aggro Crab 宣布成立新的发行品牌，计划扶持“强烈、风格化且有态度”的游戏。作为独立工作室转型发行商的动态，对中小团队有一定话题性，但并非休闲游戏专场。",
+      "url": "https://www.gamesindustry.biz/peak-studio-aggro-crab-establishes-publishing-label-for-intense-stylised-games-with-an-attitude",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T09:29:08",
       "games": [
         {
-          "name": "No Rest for the Wicked",
-          "desc": "Moon Studios开发的动作RPG，于2024年4月进入抢先体验，预计2027年3月正式推出。"
+          "name": "Peak",
+          "desc": "Aggro Crab 开发的动作游戏，其成功帮助工作室拓展发行业务。"
         },
         {
-          "name": "Ori and the Will of the Wisps",
-          "desc": "Moon Studios此前开发的平台冒险游戏，曾作为该工作室背景被提及。"
+          "name": "Another Crab's Treasure",
+          "desc": "Aggro Crab 开发的类魂动作冒险游戏。"
+        },
+        {
+          "name": "Rebounder",
+          "desc": "ThirtyThree 开发的精确平台跳跃游戏。"
+        },
+        {
+          "name": "Subway Midnight",
+          "desc": "Bubby Darkstar 开发的迷幻恐怖游戏。"
         }
       ]
     },
     {
-      "id": "1ecbf02df0",
-      "title": "Steam 单周上线游戏首次超过 700 款，但 74% 评论数不足 10 条",
-      "summary": "Steam 首次在一周内发布超过 700 款游戏，然而其中 74% 仅获得不到 10 条评论。该数据反映商店内容供给过剩和曝光困境，对观察小团队发行与流量环境有参考价值，但并未深入休闲手游领域。",
-      "url": "https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews",
+      "id": "4fb3898d81",
+      "title": "Planet Coaster 开发商 Frontier Developments 宣布基于迪士尼 IP 的新作",
+      "summary": "以 Planet Coaster 闻名的 Frontier Developments 宣布与迪士尼达成合作协议，将基于迪士尼 IP 开发新游戏。该消息属于传统平台游戏动态，对休闲手游从业者的即时参考意义有限。",
+      "url": "https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-02T09:55:59",
-      "games": []
-    },
-    {
-      "id": "a4162b8f67",
-      "title": "Overwatch Rush 在菲律宾、马来西亚和印度尼西亚开启软启动",
-      "summary": "Blizzard 的手机平台独占英雄射击游戏 Overwatch Rush 从 8 月 31 日起在上述东南亚市场开启测试。该动态有助于观察头部厂商的手游软启动与区域测试节奏，不过不属于休闲消除类玩法。",
-      "url": "https://mobilegamer.biz/overwatch-rush-enters-soft-launch-in-the-philippines-malaysia-and-indonesia/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-02T09:49:58",
+      "published_at": "2026-09-03T08:04:49",
       "games": [
         {
-          "name": "Overwatch Rush",
-          "desc": "暴雪推出的俯视角、专为移动端设计的《守望先锋》主题射击游戏，已在菲律宾等地软启动。"
+          "name": "Planet Coaster",
+          "desc": "Frontier Developments 开发的过山车乐园经营模拟游戏。"
         },
         {
-          "name": "Hearthstone",
-          "desc": "暴雪旗下的卡牌策略游戏，移动端月收入据估计约为 300 万至 500 万美元。"
+          "name": "Planet Zoo",
+          "desc": "Frontier Developments 开发的动物园经营模拟游戏。"
         },
         {
-          "name": "Diablo Immortal",
-          "desc": "暴雪与网易合作开发的暗黑破坏神 IP 动作 RPG 手游，累计收入超 4.2 亿美元。"
-        },
-        {
-          "name": "Warcraft Rumble",
-          "desc": "暴雪推出的魔兽 IP 策略手游，文章称其已停止添加新内容。"
+          "name": "Jurassic World Evolution",
+          "desc": "Frontier Developments 开发的恐龙主题公园管理模拟游戏。"
         }
       ]
     }
