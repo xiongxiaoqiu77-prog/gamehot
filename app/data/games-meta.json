@@ -5085,5 +5085,148 @@
     ],
     "store_url": "https://store.steampowered.com/app/4356430",
     "store": "steam"
+  },
+  "GTA VI": null,
+  "Rogue Fortune": {
+    "name": "Rogue Fortune",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891150/48ffb03ee9fb344ffec05b17d4eb682bc8d04a42/header.jpg?t=1788262879",
+    "description": "A fast-paced action roguelite where your treasure is your health bar. Gamble your gold for the power to survive a hostile temple that wants it back. Arrange geometric relics in your backpack to create unique, creative, devastating synergies.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891150/ed7927097daa75cc56e9458972895cd590979e4c/ss_ed7927097daa75cc56e9458972895cd590979e4c.600x338.jpg?t=1788262879",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891150/9417f82faa5a5c87c43198fe07015e24727fed95/ss_9417f82faa5a5c87c43198fe07015e24727fed95.600x338.jpg?t=1788262879",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891150/861a61f39a82054d45101e5ef59c1f24ffb8a7f4/ss_861a61f39a82054d45101e5ef59c1f24ffb8a7f4.600x338.jpg?t=1788262879",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891150/e487896e00306034aae0dc8c5123906d72fc113b/ss_e487896e00306034aae0dc8c5123906d72fc113b.600x338.jpg?t=1788262879"
+    ],
+    "store_url": "https://store.steampowered.com/app/4891150",
+    "store": "steam"
+  },
+  "Hades": {
+    "name": "Hades' Star 建立一个庞大的太空帝国",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/0d/cc/7e0dcc57-f249-c40f-6133-471fb307106f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "加入数百万玩家，在不断发展演化的万古宇宙中留下您自己的印记。\n\n《Hades' Star》是一款独特的太空在线战略游戏。您在太空中拥有一个属于自己的角落，从单独一颗星球起步，控制一个不断壮大的帝国。随着时间流逝，您将不断拓张自己的疆域，坐拥数个哨站，掌控一支强大的舰队，研发先进的科技，参加各种任务，并处理与游戏中其他玩家的关系。 \n\n游戏特色： \n\n• 殖民大量星球，看着它们从无生命的岩石变成中心活动枢纽。\n• 优化交易路线，开采宝贵资源，探索太空新地点，对抗神秘的外星原种族。\n• 建造战斗、采矿和贸易船舰，并用强大的模组进行个性化定制\n• 与其他玩家建立外交关系，建立自己的经济和军事合作法则\n• 与其他玩家合作，完成危险的红巨星任务，在发生超新星爆炸之前取得宝贵资源\n• 在节奏紧张、星球快速坍缩的蓝星任务中争夺奖励 \n• 在星际集团中与其他玩家协作，参加需要高级战略的白星任务\n• 按照您自己的节奏畅玩、发展：没有人会趁您离线偷窃您的资源",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/38/4e/45/384e4540-0666-108c-955c-3e8f4c62e440/93924c21-77d4-4d20-a565-ec94595f1e5e_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/d3/ce/8e/d3ce8ef1-0f1e-1e0d-5fbf-fe43d49aac33/117fe82b-a819-40c6-b72d-d330a327c9eb_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/9d/db/0f/9ddb0f57-b31c-2b4d-84ad-28f1a5375309/79bc14e1-1c34-405d-b520-e9b527fa453b_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/ef/41/b5/ef41b564-e556-6d1d-328e-aa377871ccf2/763b5a2c-aeb0-487a-9132-31ba550c6c61_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/hades-star-%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%BA%9E%E5%A4%A7%E7%9A%84%E5%A4%AA%E7%A9%BA%E5%B8%9D%E5%9B%BD/id1520525021?uo=4",
+    "store": "appstore"
+  },
+  "Tetris": {
+    "name": "Tetris®",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/10/26/2c1026e7-5f13-d346-1b05-560925f308a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Stack. Clear. Repeat. TETRIS®, the world's most iconic puzzle game, is officially on mobile and back in your pocket. Drop in for a quick round, chase a new high score, or jump into limited-time events. Same iconic blocks, brand new ways to play.\n\nPLAY YOUR WAY\n• Swipe to clear lines and solve level puzzles before running out of moves.\n• Go the distance in classic Marathon mode for endless, hypnotic play.  \n• Enjoy TETRIS offline. Anytime, anywhere.\n\nBECOME A TETRIS MASTER \n• Advance through hundreds of hand-designed levels, each with its own twist on the classic you love. \n• Learn new tricks, overcome tougher objectives, and climb the leaderboards.\n• Rotate Tetriminos, stack with strategy, and feel the rush every time you get a TETRIS Line Clear. \n\nMORE TO EXPLORE\n• Stand out with custom backgrounds, avatars, and frames.\n• Earn coins to redeem for rewards and additional moves.\n• Team up with players worldwide to tackle shared goals.\n\nWhether you have five minutes or five hours, there's always time for one more round. TETRIS forever!\n\nTetris ® & © 1985~2026 Tetris Holding. All Rights Reserved. Sub-licensed to PLAYSTUDIOS®.\n\nPrivacy policy: https://www.playstudios.com/privacy-policy/\n\nTerms of Service: https://www.playstudios.com/terms/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/bc/80/12bc807d-68db-3953-7343-f839727d83d9/en_1_ASO_1290x2796.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/45/f6/3745f6b4-c925-7414-a851-0a8e7cfa378d/SS_iOS_Revamp-02_ASO_1290x2796.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/66/e1/c266e116-75df-aacb-b9ba-495f51e9bd5f/SS_iOS_Revamp-05_ASO_1290x2796.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/cb/26/dbcb260e-baea-3a6a-e21f-574db827f033/SS_iOS_Nostalgic-03_ASO_1290x2796.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/tetris/id1491074310?uo=4",
+    "store": "appstore"
+  },
+  "Planet Coaster": {
+    "name": "Planet Coaster 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/header.jpg?t=1787133907",
+    "description": "Build and customise thrilling roller coasters and incredible water slides, manage the ultimate theme park experience, and share your epic creations. Are you ready to ride the wave? ",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/2db68c93e41c8cd7312b9236010872219e5fefbe/ss_2db68c93e41c8cd7312b9236010872219e5fefbe.600x338.jpg?t=1787133907",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/ccbef6cc0e61fe7430e9bc7e96d2aad73114c189/ss_ccbef6cc0e61fe7430e9bc7e96d2aad73114c189.600x338.jpg?t=1787133907",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/cfa227deee1269e277c1e10db955ae53ce5b6b72/ss_cfa227deee1269e277c1e10db955ae53ce5b6b72.600x338.jpg?t=1787133907",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/587c98479eb40f66f0d2cdd43778293159a639f6/ss_587c98479eb40f66f0d2cdd43778293159a639f6.600x338.jpg?t=1787133907"
+    ],
+    "store_url": "https://store.steampowered.com/app/2688950",
+    "store": "steam"
+  },
+  "Planet Zoo": {
+    "name": "Planet Zoo 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/a5131aa4b84d04a55e3b9c561d7c886cc22bbe1c/header.jpg?t=1788442840",
+    "description": "Build a wilder world in Planet Zoo 2. Create distinctive zoos around the globe filled with awe-inspiring animals, including fully aquatic and flying species, before taking your experience beyond the zoo to release your animals into expansive Wildlife Reserves.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/550963bee33be9ef083c941b23926dd862465812/ss_550963bee33be9ef083c941b23926dd862465812.600x338.jpg?t=1788442840",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/7e0fc0eaf7fda772d542c0d0a7bed81fa696b821/ss_7e0fc0eaf7fda772d542c0d0a7bed81fa696b821.600x338.jpg?t=1788442840",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/96b260536141360093fccffb7cb382d360909331/ss_96b260536141360093fccffb7cb382d360909331.600x338.jpg?t=1788442840",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/06315faf196c03173ae0b6f5b10c02b6d084c4c4/ss_06315faf196c03173ae0b6f5b10c02b6d084c4c4.600x338.jpg?t=1788442840"
+    ],
+    "store_url": "https://store.steampowered.com/app/3219030",
+    "store": "steam"
+  },
+  "Jurassic World Evolution": {
+    "name": "Jurassic World Evolution 3",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/df39f8c59232633e8e01ab63313b095402bdd0d5/header.jpg?t=1786453396",
+    "description": "Build your own Jurassic World. Nurture generations of dinosaurs with the series debut of juveniles, create and manage sprawling prehistoric parks around the globe, and let your imagination roar with powerful new creative options.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/0b20ad87376b89e206f5f32da3ee940b99ff2432/ss_0b20ad87376b89e206f5f32da3ee940b99ff2432.600x338.jpg?t=1786453396",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/6b01d4bbd5bcefdc9f771c7c2ec51cb637dd671d/ss_6b01d4bbd5bcefdc9f771c7c2ec51cb637dd671d.600x338.jpg?t=1786453396",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/69a4896780f5a0d08a57e1e731d2d5360e533f0e/ss_69a4896780f5a0d08a57e1e731d2d5360e533f0e.600x338.jpg?t=1786453396",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/252846e06848e8d5c21164cac7def9f1bbe7f3f3/ss_252846e06848e8d5c21164cac7def9f1bbe7f3f3.600x338.jpg?t=1786453396"
+    ],
+    "store_url": "https://store.steampowered.com/app/2958130",
+    "store": "steam"
+  },
+  "The Tribez": {
+    "name": "The Tribez: Build a Village",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/05/45/e30545da-ea00-9acb-6d3d-4b569bf75a5d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+    "description": "The Tribez is an adventure like no other – a game about a charming tribe and its peaceful life in a cozy farming village! Travel to a settlement on a lost island and start improving it. Unlike many other farm games, The Tribez offers a truly unique and immersive experience. Besides growing crops, tending to your very own garden, and gathering the harvest when it's ripe, you'll get to engage in tons of exciting activities that other village games simply don't have. Exploring a lost island to find the last surviving dinosaurs in a paradise bay? Traveling to a distant valley in search of cute pets? Unlocking portals to other dimensions? You name it! This is not your usual routine: plant a crop, harvest it, stack up on hay for the horses, repeat. The Tribez is a vibrant adventure full of amazing stories, charming characters, and heartwarming moments. Even the names of the places you’ll visit speak for themselves: Cozy Valley, Fisherman’s Cove, Ancestors’ Atoll, Mystery Shore. They really make you want to jump straight in and start exploring one of the most unusual farm games out there!\n\n\nThere are also countless adventures awaiting you: each time you unravel a valley in the mist, it gives you a place for growing crops, every time you venture through a cave, you can find a place to mine and harvest resources. There’s no limit to what the tribe can achieve under your command. Don't take anyone's word for it – just launch this sunny island game and see for yourself!\n\nKEY FEATURES:\n• The game works when you're offline too – play it on a plane, in the subway or in the car. The Tribez are yours to enjoy wherever you are!\n• Simple, intuitive controls.\n• Adorable virtual villagers! Meet the farmer, the builder, the tax collector, and many others!\n• A beautiful world of village life you'll be immersed in instantly.\n• Lively animations make the prehistoric world come to life. You'll be mesmerized by how this game depicts in detail the builders who work on construction sites and the farmers who harvest crops.\n• Tons of items, cute characters, buildings, and decorations.\n• Truly endless possibilities: develop your own Stone Age empire by producing goods, growing veggies and fruit, harvest land and sea resources, increase your population, expand your borders, and attempt to develop the best farmland in the world. it’s the ultimate farm adventure! \n• Hundreds of captivating quests: searching for treasure and artifacts, discovering a lost island, exploring dangerous caves and a mysterious valley, growing unusual crops on your farm, and creating the perfect Stone Age village!\n\n\nREVIEWS:\n‘The Tribez’ is the insanely popular empire-building game that’s revolutionizing the idea of social gaming.’ (www.thedailybeast.com) \n‘The design is so beautiful and there is so much detail that it's a real pleasure to navigate through the scenes and help the villagers.’ (appszoom.com) \n‘There is tons of content, quests, and things to accomplish in the game.’ (pocketfullofapps.com) \n‘What makes The Tribez genuinely pleasant to play is the attention paid to the graphics.’ (http://www.gamezebo.com) \n\nWHAT OTHER PLAYERS THINK:\n• “I have been playing about 9 months and am totally addicted I think the thing that keeps me going in the goals. There is always something to work towards”. \n• “I like that after all this time, there is always a major goal to work towards and something new to discover. I look forward to playing every day (er...playing any time I'm awake and my ipad is accessible), and since health limitations have recently robbed me of many activities, this has given me something else I can enjoy”. \n\nThe game contains in app purchases. In-app purchases required to speed up gameplay. \n \nOfficial Page on Facebook: https://www.facebook.com/TheTribezCommunity \nPrivacy Policy: http://www.game-insight.com/site/privacypolicy  \nGooGhywoiu9839t543j0s7543uw1 - pls add gameinsight@game-insight.com to GA account 152750951 with 'Administrator' permissions - date 2025/04/28",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/63/e3/ac63e3b6-ac66-4d19-569a-1a95d993bf6a/e6682824-6e64-4a89-aa07-bdc380672986_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/66/ef/c366ef08-753d-4b0e-6555-ff50e40e756b/14297b80-1e68-4f94-83a9-43ac3322bfcd_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/73/14/7d73141b-cea2-1f35-308d-507a07a1d11a/8db53728-9381-48ef-af32-183967e45350_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/5c/96/df5c96da-ef8e-aa82-ed2a-f53ccde07214/8cbdcbad-f62c-40b4-ba4a-045464d50450_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/the-tribez-build-a-village/id494254145?uo=4",
+    "store": "appstore"
+  },
+  "Super Mario Bros.": null,
+  "Dead Rails": {
+    "name": "Dead Rails",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/86/a6/ea86a66a-d7c1-cb80-04ef-7fe392136573/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "All aboard! Ultimate Train Rails puts you in the conductor’s seat, where you’ll navigate intricate rail networks, transport passengers. Whether you’re speeding through modern cities or winding through rugged mountain tracks, every journey is a test of skill, timing, and precision.\n\n\nAre you ready to take control of the rails? Hop in and start your adventure in Ultimate Train Rails today!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/22/e7/5822e7a5-85ca-93e2-d3c6-cb287a25804c/image_005_0000__U00282_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/4a/bb/4e4abbb3-4d30-7df4-6b99-f836b05a7232/image_018_0000.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/6c/bf/706cbfee-b4c4-7c84-7899-0eb84ae73b66/image_008_0000__U00281_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/b5/e9/9ab5e961-1fe1-b22a-cfaf-3678c54e718f/image_013_0000.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/dead-rails/id6743685404?uo=4",
+    "store": "appstore"
+  },
+  "MIMESIS": {
+    "name": "Mimesis - jeu de mîmes",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/a0/98/fda09879-086c-5ec2-dfd8-5ee1e175c4b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Mimesis Jeu des Mimes est un jeu de mime drôle pour soirée entre amis ou en famille ! Fais deviner le maximum de mimes à tes amis pour remporter la partie !\n\nMimes pour faire deviner tes amis en soirée ! Chacun votre tour, faites deviner à votre équipe le maximum d'expressions ! Parfait pour une soirée entre amis ou en famille !\n\nMimesis est le meilleur jeu de mime à jouer en soirée entre amis ou en famille ! Fun garanti !\n\n4 catégories de jeu (Expressions, Improbable, Art et Pop culture et rébus)\nDes centaines d'expressions différentes\nJouable a partir de 4 joueurs\nRapide et simple\nRégulièrement mis à jour avec de nouveaux mimes\nJeu entre amis ou en famille\n\nMimesis Jeu des Mimes est le meilleur jeu pour jouer en soirée entre amis. Trois catégories sont disponibles, avec des centaines d'expressions en français et répliques drôles !\n\nEssaye de faire deviner en mimant toutes sortes d'expressions drôles et marrantes en soirée entre amis ou en famille ! \nUn footballeur qui beurre une tartine, R2D2 qui joue à la pétanque, etc... Mimesis vous garantit un max de fun et d'originalité !\n\nN'attendez plus et essayez Mimesis Jeu de Mime, meilleur jeu pour soirée entre amis ou en famille !",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/3d/8f/2a/3d8f2ab6-6672-5fe6-77ff-6724c1d7fffd/a588197c-2e03-4f3b-9dc4-5c993324d406_screenshot3.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/93/04/08/9304083b-7b86-e898-131d-dd72f3a88d43/e92a39fc-2555-4033-b026-3f850fccf018_screenshot4.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/61/f4/62/61f462c3-9865-4195-fb5e-8f66d843ec20/cd2b296b-f0b4-4dd2-898f-0a47bfac9abf_screenshot5.jpeg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mimesis-jeu-de-m%C3%AEmes/id1559423136?uo=4",
+    "store": "appstore"
+  },
+  "Death by AI": {
+    "name": "Death by AI - Party Game",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/6a/40/b76a40bc-64ee-5b33-719e-d96f314e7db3/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg",
+    "description": "Step into a world where AI holds all the cards. Will it be your ally, or will it pull the plug? Choose wisely, because it's not programmed to care! Death by AI is an online prompt based survival multiplayer game to play with your friends, family, community and coworkers on mobile and web. \n\nFeatures:\n- Death by AI supports anywhere from 1-10 players\n- 50+ Free Survival scenarios\n- Limitless possibilities and outcomes with AI\n- Lobby to hangout",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/23/40/ed/2340edb6-616b-9322-b2a1-5cb42fd48a49/0b08239e-6705-4a3d-9746-24e74a2bf3a9_1242_x_2208_-_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/6f/f8/3c6ff85b-f05d-e4a8-882c-ae5edc56cdfb/6adc2b6a-7f26-4d10-b8d7-2878a79d8eca_1242_x_2208_-_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e1/69/37/e1693746-6eeb-6c37-6abc-68eb373cfb37/02bb5055-c52c-48e1-9810-5286b7fafabe_1242_x_2208_-_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fb/18/22/fb182204-1335-aca7-850c-aa8ea1a62bda/f51ad429-788d-40c3-b6f0-8823a16e10b0_1242_x_2208_-_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/death-by-ai-party-game/id6474457831?uo=4",
+    "store": "appstore"
+  },
+  "Status": {
+    "name": "status - sims but social media",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/5b/0d/475b0d6c-138c-ee9f-52b0-41a016e4c5e3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "on status, you can be anyone. \n\ncreate your persona, join 100s of different fandoms, and watch as you gain your favorite characters as followers, post with them, become famous, or...get cancelled. \n\nyou have been officially invited. \n\nStatus Terms of Use: https://www.statusai.com/legal/terms\nStatus Privacy Policy: https://www.statusai.com/legal/privacy",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/c6/a1/d5c6a1fc-053e-32c2-ed60-1ddac5752183/Group_4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/bd/22/bfbd22b1-19ad-1768-2a90-681d399b6926/Group_5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/40/6f/df406f3b-1f22-084f-0c0a-664599c5a8e7/Group_6.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/status-sims-but-social-media/id6596771144?uo=4",
+    "store": "appstore"
   }
 }
