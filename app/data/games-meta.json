@@ -5349,5 +5349,45 @@
     ],
     "store_url": "https://apps.apple.com/us/app/shoe-it-all/id6759455138?uo=4",
     "store": "appstore"
+  },
+  "XCOM: Enemy Unknown": {
+    "name": "XCOM: Enemy Unknown",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/header.jpg?t=1777585174",
+    "description": "The XCOM: Enemy Unknown - Slingshot Pack is Now Available!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_12de960c8e7c85ea1d2a2ce935fd8e0d30f5532e.600x338.jpg?t=1777585174",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_6d46d29e8bb4ef57a50dbed3defb4e3e1f929a98.600x338.jpg?t=1777585174",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_584d579a3bd2af0cf0b2e3f6b8c4514f3592ab36.600x338.jpg?t=1777585174",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_cbd85a3b0d58b5e7e9e5fafe53b5a25e8f960537.600x338.jpg?t=1777585174"
+    ],
+    "store_url": "https://store.steampowered.com/app/200510",
+    "store": "steam"
+  },
+  "XCOM 2": {
+    "name": "XCOM 2 Collection",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/4a/5e/774a5ee5-26e6-5e0b-bdbc-6d54a916b5a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "READ BEFORE BUYING: Please expand this description and read the full list of supported devices below to confirm that your device is supported.\n\nAliens rule Earth with a new order promising a brilliant future for those who conform, while silencing all those who do not. At the edges of the world, the scattered forces of XCOM gather to defend humanity, ignite a global resistance, and reclaim the planet.\n\nBring down the alien regime from your iPad or iPhone with the XCOM 2 Collection; the complete experience of XCOM 2: War of the Chosen and four DLC packs in a single package with no in-app purchases.\n\nCOMPLETE COMMAND\nDelivers all the turn-based tactical challenges of XCOM 2: War of the Chosen.\n\nENGINEERED FOR iOS\nLead the Resistance using a touch-screen Command Interface designed for mobile.\n\nCUSTOMISE YOUR SQUADS\nCustomise each soldier’s look, loadout and abilities.\n\nEVERY GAME A UNIQUE CHALLENGE\nDirect your forces through a near-infinite combination of goals, missions, and maps.\n\nINCLUDES FOUR DLC PACKS\nAccess new missions, soldier types, and enemies with XCOM 2's DLC packs.\n\nXCOM 2 Collection requires iOS 18 or later. You need 11GB of free space on your device, though we recommend at least double this to avoid initial installation issues.\n\nSupported iPhones:\n\n • iPhone XR and later\n • iPhone SE (2nd generation, 2020) and later\n • iPhone Air (2025)\n\nSupported iPads:\n\n • iPad - 8th Generation (2020) and later\n • iPad mini - 5th Generation (2019) and later\n • iPad Air - 3rd Generation (2019) and later\n • iPad Pro - 3rd Generation (2018) and later\n\n• If you require assistance, please contact our support team at support@feralinteractive.com\n\n© 2026 Take-Two Interactive Software, Inc. Originally developed by Firaxis Games. Take-Two Interactive Software, 2K, Firaxis Games, XCOM, XCOM 2, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Developed for and published on iOS by Feral Interactive. iOS and the iOS logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other marks and trademarks are the property of their respective owners. All rights reserved.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/06/22/cb0622d0-0e84-1d22-3fbe-ba63bfc42c15/oot_U002fBobWork_U002fxcom2_1_6_U002fGameData_U002fXCOM2_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_1_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/58/0f/5e580fe0-5100-0a8b-dc09-aca1c5ca3a45/oot_U002fBobWork_U002fxcom2_1_6_U002fGameData_U002fXCOM2_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_2_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/ae/81/ddae81b5-d80b-badb-fa81-094a3e7bfa52/oot_U002fBobWork_U002fxcom2_1_6_U002fGameData_U002fXCOM2_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_3_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/78/93/a5789377-9db5-92c7-573f-f08f911f0c3d/oot_U002fBobWork_U002fxcom2_1_6_U002fGameData_U002fXCOM2_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_4_EN.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/xcom-2-collection/id1288508230?uo=4",
+    "store": "appstore"
+  },
+  "Call of Duty: Modern Warfare 4": null,
+  "Escape from Tarkov": {
+    "name": "PW for Escape from Tarkov",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/01/d8/3901d8fd-adba-34bb-47db-920eb482967c/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "description": "This application is for Escape from Tarkov players. This all-in-one solution is exactly what you need: everything for a good game and improving your gaming skills. This app will be useful for both novice and experienced players. Does not require an internet connection to use (except for images), so that any relevant information is always available to you. This app is unofficial.\n\n\n● Features:\n\n• Basics\n• Gear\n• Guides\n• Hints\n• Items\n• News about the game\n• Systems\n• The Setting\n• Tips\n• Tricks\n• Videos\n\n• A dark theme\n• All objects are interrelated\n• Easy navigation through the app\n• iPad & iPhone supported\n• Text search\n• Search for an object by name\n• The ability to add/remove/sort objects to/from favorites\n• The ability to view a list of recently viewed objects\n• Zoom images or text\n• Works offline\n\n\n• Guides, hints, tips, and tricks\nTons of useful and nice guides that will be useful for both novice and experienced players.\n\n• Characters, items, and etc.\nFull info for each character or item: images, stats, etc.\n\n• News and videos\nFollow the latest news and watch awesome videos about this game.\n\n• Optimized\nThe app is fully optimized to work on all mobile devices from Apple Inc.\n\n• Relationship\nAll objects (items, recipes, units, etc.) are interconnected with each other.\n\n• Works offline\nOnce the database has been downloaded, the app can be used without access to the internet. This means that all the necessary information for a comfortable game will always be available to you even in places where there is no internet (for example, the subway). However, to view the news feed and such heavy files as videos or animated gif images, internet access is still required.\n\n\nAny requests, suggestions, and comments, please send via the \"Feedback\" in the app or email me at kateryna.momotova@yahoo.com. I will be happy and motivated if you leave a positive review of my work. If you have the desire and opportunity to help with the translation, email me too. Thanks! :)\n\n\n● Note\n\nThis app is unofficial and not affiliated with the game’s developer, publisher, or distributor. All in-game content, imagery, text, and videos on the application are copyrighted by their respective owners. This reference app is for informational purposes and meant to assist fans of this game with gameplay, and is intended to be used alongside the game. It can contain information obtained from free sources on the internet. If you have a concern or feel there is a direct copyright or trademark violation that does not fall within \"fair use\" guidelines, please email directly me at kateryna.momotova@yahoo.com to discuss this.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/cd/8a/91/cd8a9152-aba1-af79-9995-feadadc70410/9dc242ce-7310-4598-956b-fe454ed4215d_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b1/79/a8/b179a8f9-1156-106b-48ed-f3749b0b60dc/b3cfd84f-a6ad-44ad-b59e-a28dd3f81985_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ad/39/e3/ad39e307-ba10-4222-9962-d94752de972e/93171cb7-36ff-4e71-8724-5bdeaad80d2f_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b7/3d/73/b73d73de-24cb-3d4e-2e16-d42984bdb2e1/83278c90-bc48-4cc2-83fe-e875a7a1f81a_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/pw-for-escape-from-tarkov/id1550502091?uo=4",
+    "store": "appstore"
   }
 }
