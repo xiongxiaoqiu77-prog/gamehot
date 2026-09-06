@@ -5389,5 +5389,21 @@
     ],
     "store_url": "https://apps.apple.com/cn/app/pw-for-escape-from-tarkov/id1550502091?uo=4",
     "store": "appstore"
+  },
+  "Flappy Bill": null,
+  "Rio Run": null,
+  "Trump Savings Tycoon": null,
+  "Supply Line": {
+    "name": "Supply Lines",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/39/ef/2839ef13-21d2-a05f-5728-cc36f6aae11e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Supply Lines is a hand-drawn strategy game about holding ground you cannot hold\neverywhere.\nEvery node on the chart makes ink. Drag between two nodes to open a supply line,\nand ink flows down it - a surge at first, then a steady pour for as long as the\nline stays open. Enough of it takes the node at the far end. A supply line is not\njust an attack you send. It is a commitment you make.\nYou only ever have a limited number lines open at once.\nThat single limit is the whole game. You are never short of ink. You are short of\nattention. Every line you commit somewhere is a line you cannot commit anywhere\nelse, and the moment you decide the north is safe is usually the moment it stops\nbeing.\nOne swipe cuts every line it crosses, yours or theirs. Knowing when to cut your\nown is most of the skill.\nWHAT IS IN IT\n• A campaign of nine engagements, drawn fresh each run, with a doctrine to pick\n  after every victory\n• Skirmish mode: choose the opponent, the difficulty, the size of the chart, and\n  how many sides fight over it\n• Eleven hand-built charts: The Isthmus, The Ring, The Spine, The Ford, The\n  Crossroads, and six more for three to six sides, some deliberately lopsided\n• Opponents with distinct habits, not just bigger numbers\n• Waystations, inkwells and redoubts that change what a node is worth\n• A short tutorial that teaches by making you play, not by making you read\nHOW IT IS DRAWN\nInk on paper. Nothing glows, nothing explodes, nothing shouts at you. The whole\ngame is line weight and colour, and it was built to be quiet enough to think in.\nWHAT IS NOT IN IT\nNo accounts. No login. No ads. No in-app purchases. No analytics. No tracking.\nNo network connection of any kind,  it works on a plane, and it will keep working\nwhether or not anyone keeps a server running.\nIt is free, and it is the whole game.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/92/f4/1992f4e5-a797-8ef8-0942-8a9d32a0c7b2/01-title.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ab/a4/e0aba476-b053-340b-a5ef-f0dd42586e5a/03-battle.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/db/15/d1db15da-92fe-fca8-bdc8-00094b5a3cb5/05-rules.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/07/66/300766db-d93a-f44d-17e3-c516d161434c/02-setup.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/supply-lines/id6800396190?uo=4",
+    "store": "appstore"
   }
 }
