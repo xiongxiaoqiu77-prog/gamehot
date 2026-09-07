@@ -5613,5 +5613,18 @@
     ],
     "store_url": "https://store.steampowered.com/app/972450",
     "store": "steam"
+  },
+  "Aphelion": {
+    "name": "Aphelion Collection",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/de/36/48de36c3-b7be-4bf0-825b-6e5a4e7d0882/Aphelion-1x_U007emarketing-0-7-0-0-P3-85-220-0.png/512x512bb.jpg",
+    "description": "Aphelion Collection launches this app to offer an additional service to our customers and improve their experience interacting with our product. \nThrough the app, you will be able to better communicate with us and have the ability to use our products in your commercial actions:\n- Obtain more information about our products by scanning the QR codes on display panels\n- Know the exploded view of each room of inspiration (lookbook) and add the products to lists or quotation requests.\n- Share customized lists of series, products and rooms.\n- Request product samples\n- Receive notifications on your mobile phone depending of the interest you marked with the latest series and products available on the platform.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/6a/64/8a/6a648a56-ac88-401c-1532-ffa4fe3947a8/b865044e-6f0d-4ead-80c4-5009bbf24dc6_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/6c/f0/75/6cf075bd-5105-2ad6-97e7-bad684c14645/a7326372-a876-40ee-8a5b-7fbc8bb49fe4_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a7/d9/5d/a7d95d13-50c3-0716-151f-c63bc4d21422/83b7068c-bab5-4d79-82cf-dc94c68d1acf_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/94/6d/54/946d546b-405d-bd6f-2364-8ab7a72dba9e/9bb12813-cd4b-4d84-8416-d0e79e376388_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/aphelion-collection/id1630162053?uo=4",
+    "store": "appstore"
   }
 }
