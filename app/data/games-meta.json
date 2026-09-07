@@ -5574,5 +5574,44 @@
     ],
     "store_url": "https://apps.apple.com/us/app/life-is-strange/id1180101534?uo=4",
     "store": "appstore"
+  },
+  "Onimusha: Way of the Sword": {
+    "name": "Onimusha: Way of the Sword",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788758919",
+    "description": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/40e49fbd098140a69e897dcce736cba5eae8662f/ss_40e49fbd098140a69e897dcce736cba5eae8662f.600x338.jpg?t=1788758919",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/8be802aef40ce301104a3ff5d3c6462913d57807/ss_8be802aef40ce301104a3ff5d3c6462913d57807.600x338.jpg?t=1788758919",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/b8d1f33e7777aa1d1a0a2b9af5e84fb52e1f2e1c/ss_b8d1f33e7777aa1d1a0a2b9af5e84fb52e1f2e1c.600x338.jpg?t=1788758919",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/4ee71e56889c1dc82b55e013d6bbe7f2cd2d1027/ss_4ee71e56889c1dc82b55e013d6bbe7f2cd2d1027.600x338.jpg?t=1788758919"
+    ],
+    "store_url": "https://store.steampowered.com/app/2638890",
+    "store": "steam"
+  },
+  "Keeper": {
+    "name": "Keeper Password Manager",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/8a/e0/fa8ae0cd-16bf-4645-a56b-2c643137533b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Keeper is the leading password manager, combining enterprise-grade security with real human support. Rated 4.9 stars by 228,000 people and trusted by 95,000+ businesses and Fortune 500 companies globally. Named Password Manager of the Year by PCMag and the Top-Ranked Identity Security Solution by Newsweek.\n\nSIGN IN INSTANTLY\nGenerate strong, unguessable passwords and passphrases with one tap, then autofill them in any app or website. Create and save passkeys that sync across all your devices, and store 2FA codes right inside your vault for one-tap logins – no separate authenticator app needed. Unlock your entire digital life instantly with Face ID or Touch ID – the fastest, most seamless login experience across every device you own.\n\nWORLD-CLASS SECURITY\nEvery record is encrypted on your device before it ever touches our servers – unreadable to everyone, including Keeper. Lock or wipe any lost device remotely. Protect your vault with hardware security keys like YubiKey®. The first password manager to deploy quantum-resistant cryptography directly into the app, to protect your data in transit against quantum threats. SOC 2 Type I and II; ISO 27001, 27017 and 27018 certified; FedRAMP High Certified and GovRAMP High Authorized; and recognized in the Gartner® Magic Quadrant™ for Privileged Access Management.\n\nMORE THAN JUST PASSWORDS\nKeeper is your complete digital vault – store and organize your payment cards, passports, driver's licenses, insurance cards, secure notes, SSH keys, software licenses and medical records alongside your passwords. Everything encrypted, everything searchable, everything instantly available on every device. Automatically fill payment details, addresses and forms on any website – saving you time on everything you do online, every single day.\n\n24/7 EXPERT SUPPORT\nGet help from a real Keeper expert anytime. Our dedicated support team is available around the clock, every day of the year. No bots and no week-long email chains – just professional team members who help you.\n\nDARK WEB MONITORING\nBreachWatch® continuously scans the dark web and alerts you the moment one of your accounts appears in a data breach, so you can change the password before cybercriminals use it. Best of all, monitoring runs entirely within Keeper's own secure infrastructure – your personal data stays completely private.\n\nSECURELY SHARE PASSWORDS AND ACCESS\nShare a password, passkey or file with anyone – even people who don't use Keeper – with a One-Time Share link that expires automatically. Set view-only or full edit access, revoke instantly and see changes sync in real time. Organize credentials in shared folders with nested subfolders and individual permissions for each person. No duplicate copies, no emailing passwords ever again.\n\nPERFECT FOR FAMILIES\nKeeper Family includes five private vaults, 10GB of secure file storage, unlimited devices and emergency access. Store the Wi-Fi password, streaming logins, insurance documents and passport photos in one place everyone you trust can reach. If your employer uses Keeper, ask about a free family plan – included with every business license.\n\nGET STARTED QUICKLY\nSeamlessly import all your passwords from iCloud Keychain, Chrome, 1Password, LastPass, Bitwarden, Dashlane and more, including direct secure transfer from other apps.\n\nPrivacy Policy: https://keepersecurity.com/privacypolicy.html \n\nTerms of Use: https://keepersecurity.com/termsofuse.html",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/e2/68/4de268f9-c7bb-cbe2-fd7b-42bc36839cc4/1320x2868-1__U00283_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/20/53/12205346-ab92-e8f8-478f-106706c35cb8/1320x2868-2__U00282_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/eb/20/2deb20b7-572d-2740-e47d-72099b9ff5f6/1320x2868-3__U00283_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/c5/65/93c565f3-f52a-f46c-816d-a765f43feb7a/1320x2868-4__U00282_U0029.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/keeper-password-manager/id287170072?uo=4",
+    "store": "appstore"
+  },
+  "The Zibbo Show": {
+    "name": "The Zibbo Show",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972450/726f492e05a53f7a6d98f9496b4881fc63f241f6/header.jpg?t=1786530637",
+    "description": "Be the star of the most exciting game show on TV! Pick your dice, place your bets, build your combos, and try not to think too hard about what happens when you lose.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972450/85a07fd40de9c245cb1f7743041c99b22bd22833/ss_85a07fd40de9c245cb1f7743041c99b22bd22833.600x338.jpg?t=1786530637",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972450/aae4f8f59502fd48b31413ffdb0a04871ab00e59/ss_aae4f8f59502fd48b31413ffdb0a04871ab00e59.600x338.jpg?t=1786530637",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972450/2f571a6f59eea8a4fb4435f7d7c403a470a36338/ss_2f571a6f59eea8a4fb4435f7d7c403a470a36338.600x338.jpg?t=1786530637",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972450/496077422b9745937d14f2af894896cadf0eae46/ss_496077422b9745937d14f2af894896cadf0eae46.600x338.jpg?t=1786530637"
+    ],
+    "store_url": "https://store.steampowered.com/app/972450",
+    "store": "steam"
   }
 }
