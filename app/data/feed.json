@@ -1,374 +1,215 @@
 {
-  "updated": "2026-09-04",
-  "generated_at": "2026-09-04T07:00:25.312076",
+  "updated": "2026-09-08",
+  "generated_at": "2026-09-08T07:00:05.698493",
   "articles": [
     {
-      "id": "6eeff1bdb4",
-      "title": "2026 年有效的 5 种移动游戏广告形式",
-      "summary": "文章梳理了 2026 年真正有效的 5 种移动游戏广告格式：短视频、激励视频、可玩广告、可玩结尾卡片与插屏广告，并说明各自适合的时机和研究方法。对休闲游戏在买量素材和广告变现优化上有直接实操价值。",
-      "url": "https://www.gameanalytics.com/blog/popular-mobile-game-ad-formats",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-09-03T12:09:57",
-      "games": []
-    },
-    {
-      "id": "94eb23251d",
-      "title": "移动游戏微交易解析：运作方式、重要性及未来变化",
-      "summary": "文章全面解析移动游戏微交易的定义、顶级工作室玩法、伦理争议与 2026 年付费模式的演进方向。对于休闲游戏设计内购、混合变现和规避付费陷阱具有重要的实践指导意义。",
-      "url": "https://www.gameanalytics.com/blog/microtransactions-games-good-bad-ugly",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-09-03T11:09:02",
-      "games": [
-        {
-          "name": "The Tribez",
-          "desc": "一款模拟经营游戏，玩家可通过微交易加速游戏进程。"
-        }
-      ]
-    },
-    {
-      "id": "484c540c29",
-      "title": "核心游戏循环：如何设计、测试并优化",
-      "summary": "文章给出核心游戏循环的设计、测试与优化方法，并以高收入作品为例说明如何让玩家产生重复游玩动力。对依赖短周期反馈和长期留存的休闲游戏/三消产品尤其适用。",
-      "url": "https://www.gameanalytics.com/blog/how-to-perfect-your-games-core-loop",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-09-03T11:08:35",
-      "games": [
-        {
-          "name": "Super Mario Bros.",
-          "desc": "任天堂的经典横版平台跳跃游戏，核心循环是走、跑、跳与闯关。"
-        }
-      ]
-    },
-    {
-      "id": "5ecaf2e7e0",
-      "title": "每个游戏开发者都应跟踪的 22 项指标（以及计算方法）",
-      "summary": "文章定义了 DAU、留存率、ARPU、LTV 等 22 项游戏关键指标，并给出计算公式和真实决策场景中的用法。对休闲游戏团队搭建数据化运营体系、优化买量与留存非常有帮助。",
-      "url": "https://www.gameanalytics.com/blog/metrics-all-game-developers-should-know",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-09-03T11:05:44",
-      "games": []
-    },
-    {
-      "id": "a33f80e185",
-      "title": "游戏变现策略：2026 年有效模式的完整指南",
-      "summary": "文章系统梳理了 2026 年有效的游戏变现模式：内购、广告、混合变现、订阅制与 Battle Pass，并结合品类和研发阶段给出选择建议。休闲游戏发行与变现负责人可将其作为策略参考。",
-      "url": "https://www.gameanalytics.com/blog/traditional-monetization-strategies",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-09-03T11:05:10",
-      "games": []
-    },
-    {
-      "id": "a888725c54",
-      "title": "Dead Rails 如何成为 Roblox 爆款：数据解析其成功",
-      "summary": "文章结合数据拆解 Roblox 游戏 Dead Rails 在玩法、KOL 策略与平台算法层面的成功方法。这些经验对关注 UGC 平台、社交裂变或新型分发渠道的休闲游戏团队有借鉴意义。",
-      "url": "https://www.gameanalytics.com/blog/dead-rails-and-the-hit-makers-formula",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-09-03T11:06:40",
-      "games": [
-        {
-          "name": "Dead Rails",
-          "desc": "Roblox 上的狂野西部题材僵尸生存游戏，近期成为热门爆款。"
-        }
-      ]
-    },
-    {
-      "id": "192243f166",
-      "title": "塔防游戏：头部畅销作品背后的关键指标",
-      "summary": "文章从数据角度分析了头部塔防游戏与一般产品的留存、变现和参与度差异。塔防与三消同属热门休闲品类，其指标体系和方法论可供休闲游戏团队对标。",
-      "url": "https://www.gameanalytics.com/blog/metrics-behind-successful-tower-defense-games",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-09-03T11:03:59",
-      "games": []
-    },
-    {
-      "id": "7fbdcd6cef",
-      "title": "从《Gossip Harbor》到《Mystery Town》：30万条素材背后，二合买量到底有多卷？",
-      "summary": "本文通过分析30万条买量素材，复盘《Gossip Harbor》《Mystery Town》等二合游戏在素材投放上的竞争烈度与趋势。对休闲游戏从业者了解二合赛道的买量打法、素材策略和市场内卷程度有较高的参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VXNPV1VyUXI0RmpYT3NEb0JtRWxWdDhWbWc3anF1SG1jeV8xNXl4cmtxYWVENDBSNEVWUTVlWGMweURxME9kMlc2WjhrdVdIeEZyUU5BTEdoZw?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-09-03T10:31:10",
-      "games": [
-        {
-          "name": "Gossip Harbor",
-          "desc": "剧情向二合（合并）休闲游戏"
-        },
-        {
-          "name": "Mystery Town",
-          "desc": "神秘主题二合解谜游戏"
-        }
-      ]
-    },
-    {
-      "id": "3993df995c",
-      "title": "英国应用开发者就 App Tracking Transparency 向苹果提出 20 亿英镑索赔",
-      "summary": "该索赔指出苹果在 ATT 规则上对开发者执行更严标准却未限制自身，且苹果广告业务已增长至 74 亿美元。案件将影响移动广告生态与隐私政策走向，涉及广告变现的休闲游戏团队需持续跟进。",
-      "url": "https://mobilegamer.biz/apple-faces-2bn-claim-from-uk-app-developers-over-app-tracking-transparency/",
+      "id": "79737be8ae",
+      "title": "报道称新任 App Store 负责人 Eddy Cue 希望从开发者身上“榨取更多收入”",
+      "summary": "根据前 App Review 主管 Phillip Shoemaker 的观察，Eddy Cue 接管 App Store 后可能推进更多收入增长措施。对依赖内购和订阅的休闲游戏开发者，苹果商店政策动向值得持续跟踪。",
+      "url": "https://mobilegamer.biz/new-app-store-boss-eddy-cue-wants-to-squeeze-additional-revenue-from-developers-says-report/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-09-03T10:04:27",
+      "score": 6,
+      "published_at": "2026-09-07T15:53:55",
       "games": []
     },
     {
-      "id": "cf089ec1b3",
-      "title": "Bartle 玩家类型分类法：理解你的游戏受众",
-      "summary": "文章系统介绍了 Bartle 玩家分类法中的四种玩家类型：杀手、成就者、社交家与探索者，并讨论如何围绕各类型进行受众理解与游戏设计。该框架对休闲游戏玩家分层、内容设计有通用参考价值。",
-      "url": "https://www.gameanalytics.com/blog/understanding-your-audience-bartle-player-taxonomy",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-09-03T11:10:14",
-      "games": []
-    },
-    {
-      "id": "671213796b",
-      "title": "如何打造一款 iMessage 游戏：iOS 信息扩展开发者指南",
-      "summary": "文章为想开发 iMessage 游戏的开发者提供了从 Xcode 配置、信息扩展实现、参与机制到发布推广的全流程指南。休闲小游戏团队可借此探索苹果即时通讯生态的获客裂变场景。",
-      "url": "https://www.gameanalytics.com/blog/how-to-make-an-imessage-game",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-09-03T11:09:52",
-      "games": []
-    },
-    {
-      "id": "d7681df7aa",
-      "title": "如何为你的游戏建立 Discord 社区：5 步指南",
-      "summary": "文章提供了一套从服务器搭建、角色划分、内容运营到社群治理的 Discord 社区建设方法。对希望建立核心玩家社群、提升长期留存和口碑传播的游戏团队是实用指南。",
-      "url": "https://www.gameanalytics.com/blog/building-discord-community",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-09-03T11:06:14",
-      "games": []
-    },
-    {
-      "id": "c0fc0fd7dd",
-      "title": "Supercell 对 Metacore 的收购预计本月完成",
-      "summary": "Supercell 收购 Metacore 的交易预计于本月正式完成，Merge Mansion 将正式纳入 Supercell 的现运营游戏产品组合。对休闲游戏从业者而言，这是 Merge 品类头部产品归属及发行资源整合方面的重要行业动态。",
-      "url": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
-      "source": "Game Developer",
+      "id": "a376072605",
+      "title": "Lego Digital Play 收购《Chrome Valley Customs》开发商 Offroad Games",
+      "summary": "乐高旗下伦敦工作室 Lego Digital Play 首次公开重大收购，将《Chrome Valley Customs》开发商 Offroad Games 纳入麾下，条款未披露。这一动作由资深手游高管 Aaron Loeb 主导，显示乐高正在强化移动与休闲游戏布局。",
+      "url": "https://mobilegamer.biz/lego-digital-play-snaps-up-chrome-valley-customs-maker-offroad-games/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-03T16:06:04",
+      "published_at": "2026-09-07T10:53:48",
       "games": [
         {
-          "name": "Clash Royale",
-          "desc": "Supercell 旗下的卡牌策略对战手游。"
+          "name": "Chrome Valley Customs",
+          "desc": "Offroad Games开发的汽车主题游戏。"
         },
         {
-          "name": "Brawl Stars",
-          "desc": "Supercell 旗下的多人实时对战手游。"
-        },
-        {
-          "name": "Merge Mansion",
-          "desc": "Metacore 开发的合并玩法休闲手游，是本次收购的核心游戏。"
+          "name": "BeatStar",
+          "desc": "由NextBeat运营的音乐节奏游戏，后被Duolingo收购。"
         }
       ]
     },
     {
-      "id": "3706ab8b38",
-      "title": "不适用于 VR 的游戏设计套路",
-      "summary": "文章总结了当前难以直接平移至 VR 的常见游戏设计套路，并提供了克服这些问题的设计思路。虽然主题是 VR 而非休闲手游，但对跨品类玩法创新有一定参考意义。",
-      "url": "https://www.gameanalytics.com/blog/game-design-tropes-that-dont-translate-to-vr",
-      "source": "GameAnalytics",
-      "category": "深度拆解",
-      "score": 6,
-      "published_at": "2026-09-03T11:11:41",
-      "games": []
+      "id": "6d7d3b1f55",
+      "title": "Don't Nod 警告：若无额外融资，2027年1月后可能无法继续运营",
+      "summary": "Don't Nod 提示其持续经营能力存在重大不确定性，除非获得新的外部融资，否则可能无法支撑到 2027 年 1 月 31 日之后。这是一条游戏公司财务层面的行业新闻，可用来观察非休闲类开发商当前的融资压力，但不涉及三消/休闲游戏设计或变现分析。",
+      "url": "https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T18:42:05",
+      "games": [
+        {
+          "name": "Aphelion",
+          "desc": "科幻冒险游戏"
+        }
+      ]
     },
     {
-      "id": "3587a5a38a",
-      "title": "GungHo 的 Disney Pixel RPG 将于 9 月 30 日停运",
-      "summary": "GungHo 宣布旗下 Disney Pixel RPG 将于 2026 年 9 月 30 日停运，游戏将在推出最终故事内容与活动后结束运营。对从业者而言，这是一条观察手游产品生命周期与 IP 授权项目取舍的行业动态。",
-      "url": "https://mobilegamer.biz/gunghos-disney-pixel-rpg-shutting-down-on-september-30/",
+      "id": "0897211082",
+      "title": "Capcom 表示将在《Onimusha: Way of the Sword》获得突破性发售后专注于重启沉寂 IP",
+      "summary": "Capcom 在确认《Onimusha: Way of the Sword》首发表现强劲后表示，将更积极地把资源投入到已沉睡的经典 IP 复活上。这是一条传统大厂策略层面的行业新闻，可用来观察主机/PC 市场的 IP 重启趋势，与休闲手游设计或运营无直接关系。",
+      "url": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T16:51:44",
+      "games": [
+        {
+          "name": "Onimusha: Way of the Sword",
+          "desc": "Capcom旗下沉寂多年的《鬼武者》系列最新主线动作游戏，玩家扮演宫本武藏在江户时代的京都展开冒险。"
+        }
+      ]
+    },
+    {
+      "id": "1cdcdba3e6",
+      "title": "Tim Schafer：除了我，没有人能让 Double Fine 倒闭",
+      "summary": "Double Fine 的负责人 Tim Schafer 谈到在 Xbox 大幅裁员之后工作室如何避免关闭，并强调工作室的命运由自己掌握。该事件属于主机/独立游戏领域动态，对休闲手游从业者而言参考价值有限，但可观察行业波动下团队生存策略。",
+      "url": "https://www.gamesindustry.biz/tim-schafer-no-one-puts-double-fine-out-of-business-except-me",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T13:07:52",
+      "games": [
+        {
+          "name": "Keeper",
+          "desc": "Double Fine 旗下游戏，被 Tim Schafer 称为看起来像“艺术片”、但有大众市场吸引力。"
+        },
+        {
+          "name": "Kiln",
+          "desc": "Double Fine 旗下与 Keeper 一同被指出财务表现不佳的游戏。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "被 Tim Schafer 引作“当年需要那样的爆款才能救工作室”的例子的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "3904a09754",
+      "title": "Gamescom 对硬件失窃事件的最初回应致歉：未向受影响者表达应有同理心",
+      "summary": "Gamescom 官方针对今年展会上发生的硬件失窃事件，承认最初回应方式不够妥当，未能展现应有的同理心并致歉。这是游戏展会运营与公关相关的一般性新闻，与休闲游戏研发与变现没有直接关系。",
+      "url": "https://www.gamesindustry.biz/gamescom-issues-apology-for-initial-response-to-hardware-thefts-it-did-not-show-the-people-affected-the-empathy-they-deserve",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T10:38:03",
+      "games": [
+        {
+          "name": "Mimic",
+          "desc": "Ryan Laley 开发的独立游戏，作者在 Gamescom 展会期间全部笔记本电脑被盗。"
+        },
+        {
+          "name": "The Zibbo Show",
+          "desc": "Tessera Studios 开发的游戏，参展 Gamescom 时遭遇展柜被撬、设备被盗。"
+        }
+      ]
+    },
+    {
+      "id": "c7edfb0650",
+      "title": "“它不性感，但它是 Steam 上最成功的品类之一”——《Stronghold》开发商 Firefly 进军发行市场",
+      "summary": "Firefly 宣布成立策略游戏发行品牌 Wuselfaktory，首发作品是由新团队 Loot Donkey 开发的《Fool King》，定位为带 roguelike 元素的战术自走棋。新闻说明 PC 策略品类仍有大量未被满足的用户，可作为休闲游戏公司跨品类参考。",
+      "url": "https://www.gamesindustry.biz/its-not-sexy-but-its-one-of-the-most-successful-genres-on-steam-stronghold-developer-firefly-steps-up-to-publisher-to-serve-the-vast-strategy-market",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T15:34:14",
+      "games": [
+        {
+          "name": "Stronghold",
+          "desc": "Firefly开发的经典城堡建造与即时战略游戏系列。"
+        },
+        {
+          "name": "Fool King",
+          "desc": "由Loot Donkey开发、Firefly发行的战术自动战斗游戏，带有Roguelike元素。"
+        }
+      ]
+    },
+    {
+      "id": "fbae2b2e83",
+      "title": "世嘉取消“有风险”的 Super Game 项目：称需增长到极大规模才能匹配服务型产品",
+      "summary": "世嘉今年早些时候叫停了内部代号 Super Game 的 live-service 项目，原因是项目要达到服务型产品规模所需增长过大，现阶段风险太高。这一决定反映传统主机厂商开始重新评估大作服务化投入。",
+      "url": "https://www.gamesindustry.biz/sega-cancelled-its-risky-super-game-project-as-it-would-have-to-grow-enormously-to-match-the-scale-of-the-service",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T14:03:15",
+      "games": [
+        {
+          "name": "Phantasy Star Online 2: New Genesis",
+          "desc": "世嘉的在线动作RPG，属于长期运营的服务型游戏。"
+        },
+        {
+          "name": "Sega Football Club Champions 2026",
+          "desc": "世嘉旗下足球主题的服务型游戏。"
+        },
+        {
+          "name": "Total War: Warhammer 40,000",
+          "desc": "Creative Assembly开发的战锤40K题材策略游戏，计划以服务型模式运营。"
+        },
+        {
+          "name": "Hyenas",
+          "desc": "Creative Assembly开发后于2023年被取消的多人服务型游戏。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯发行的多人在线战术竞技（MOBA）手游。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "腾讯涉及运营的多人在线战术竞技（MOBA）游戏。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot Games开发的战术射击游戏，与腾讯关联紧密。"
+        }
+      ]
+    },
+    {
+      "id": "5c3401ffbd",
+      "title": "人才动态：Savvy、Supercell、King、Zynga、Apple、Lion 等公司的人事调动与招聘汇总",
+      "summary": "文章汇总了多家移动游戏公司及周边厂商的人事任命和招聘信息，涉及 Savvy、Supercell、King、Zynga、Apple、Lion、Huuuge、Voodoo、Playtika 等。这是休闲游戏从业者掌握核心公司人才流向的快速索引。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-savvy-supercell-king-zynga-apple-lion-and-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-03T17:53:43",
+      "published_at": "2026-09-07T10:18:51",
       "games": [
         {
-          "name": "Disney Pixel RPG",
-          "desc": "GungHo开发的移动端复古风格角色扮演游戏，将于9月30日停运。"
-        }
-      ]
-    },
-    {
-      "id": "f1f9882335",
-      "title": "“最佳工作场所奖”特别类别投票延期",
-      "summary": "GamesIndustry.biz 宣布今年“最佳工作场所奖”特别类别的提名截止日期延长，常规奖项已进入评审阶段。这是游戏行业人才与公司文化方面的动态，对了解欧美游戏公司雇主品牌和行业评选节奏有参考价值。",
-      "url": "https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T16:30:22",
-      "games": []
-    },
-    {
-      "id": "bafbd74344",
-      "title": "英伟达以近 130 亿美元收购 Hugging Face",
-      "summary": "报道英伟达拟以近 130 亿美元收购 AI 模型托管平台 Hugging Face，被视为今年重大 AI 交易之一。对依赖 AI 工具和关注模型托管、开源生态的游戏开发者有间接影响。",
-      "url": "https://gameworldobserver.com/2026/09/03/nvidia-is-acquiring-hugging-face-for-nearly-13-billion",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T16:02:07",
-      "games": []
-    },
-    {
-      "id": "d2a733c875",
-      "title": "AnalyticsIQ：将玩家数据转化为增长决策——GameAnalytics",
-      "summary": "GameAnalytics 介绍旗下 IQ Suite 分析工具组合，强调将长期的数据能力转化为帮助工作室理解玩家并做出增长决策的产品。对移动与休闲游戏团队了解数据平台能力有参考价值，但本质仍是厂商产品宣传而非深度方法拆解。",
-      "url": "https://www.gameanalytics.com/blog/analyticsiq",
-      "source": "GameAnalytics",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T11:11:26",
-      "games": []
-    },
-    {
-      "id": "44d9ba1b54",
-      "title": "Gamecity Hamburg 启动第二轮原型资助计划",
-      "summary": "Gamecity Hamburg 宣布启动第二轮原型资助计划，为在该地区开展业务的开发者提供最高 8 万欧元资金。该计划面向处于早期验证阶段的项目，对想进入德国市场的中小团队具有参考价值。",
-      "url": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T14:49:10",
-      "games": []
-    },
-    {
-      "id": "5eaf401563",
-      "title": "CD Projekt Red 不会放弃实体版发行",
-      "summary": "CD Projekt Red 表示未来不会放弃实体版发行，并强调会推出值得玩家购买的实体包装。这条消息主要面向主机/PC 市场，对休闲游戏研发与发行的直接价值有限。",
-      "url": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T10:55:48",
-      "games": [
-        {
-          "name": "The Witcher 4",
-          "desc": "CD Projekt Red 开发的《巫师》系列新作，尚未发布的动作角色扮演游戏。"
+          "name": "Everdale",
+          "desc": "Supercell开发的模拟经营类游戏。"
         },
         {
-          "name": "Cyberpunk 2077",
-          "desc": "CD Projekt Red 开发的开放世界科幻角色扮演游戏。"
+          "name": "Hay Day",
+          "desc": "Supercell开发的农场经营模拟游戏。"
         },
         {
-          "name": "The Witcher 3",
-          "desc": "CD Projekt Red 开发的开放世界角色扮演游戏，以丰富的实体特典内容著称。"
+          "name": "Boom Beach",
+          "desc": "Supercell开发的策略战争游戏。"
         },
         {
-          "name": "GTA VI",
-          "desc": "侠盗猎车手系列新作，实体版将附赠下载码而非光盘。"
-        }
-      ]
-    },
-    {
-      "id": "2c9ca6fc2b",
-      "title": "Glowmade 在 Amazon 取消 King of Meat 后强势回应：我们有优秀团队、银行存款和财务独立",
-      "summary": "Amazon 取消 King of Meat 后，Glowmade 公开表示团队完整、资金充足且保持财务独立。这一案例展示了研发工作室与大型发行商解约后仍可自主运营，但内容与休闲游戏关系不大。",
-      "url": "https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T12:05:44",
-      "games": [
-        {
-          "name": "King of Meat",
-          "desc": "Glowmade 开发的在线多人动作游戏，后被亚马逊关停。"
+          "name": "Rise of Kingdoms",
+          "desc": "莉莉丝游戏开发的多文明历史题材SLG策略游戏。"
         },
         {
-          "name": "Rogue Fortune",
-          "desc": "Glowmade 正在开发的单机游戏，融合 Hades 式 roguelike 玩法与俄罗斯方块式物品管理。"
+          "name": "Candy Crush Saga",
+          "desc": "King开发的三消益智游戏。"
         },
         {
-          "name": "Hades",
-          "desc": "Supergiant Games 开发的 roguelike 动作游戏，文章中作为玩法风格参照。"
+          "name": "Farm Heroes Saga",
+          "desc": "King开发的三消益智游戏，以农场题材为主。"
         },
         {
-          "name": "Tetris",
-          "desc": "经典益智游戏，文章中作为物品管理玩法的灵感参照。"
-        }
-      ]
-    },
-    {
-      "id": "87a7af0c2c",
-      "title": "索尼与微软请求驳回消费者关于关税退款的集体诉讼",
-      "summary": "索尼与微软已提出动议，要求驳回消费者就其未退还关税退款提起的集体诉讼。该案涉及游戏主机定价，与移动端的休闲/三消游戏几乎无关。",
-      "url": "https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T11:24:40",
-      "games": []
-    },
-    {
-      "id": "0715bfc466",
-      "title": "Peak 工作室 Aggro Crab 成立发行品牌，打造“强烈、风格化、有态度”的游戏",
-      "summary": "以 Another Crab's Treasure 等作品知名的 Aggro Crab 宣布成立新的发行品牌，计划扶持“强烈、风格化且有态度”的游戏。作为独立工作室转型发行商的动态，对中小团队有一定话题性，但并非休闲游戏专场。",
-      "url": "https://www.gamesindustry.biz/peak-studio-aggro-crab-establishes-publishing-label-for-intense-stylised-games-with-an-attitude",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T09:29:08",
-      "games": [
-        {
-          "name": "Peak",
-          "desc": "Aggro Crab 开发的动作游戏，其成功帮助工作室拓展发行业务。"
+          "name": "Pet Rescue Saga",
+          "desc": "King开发的三消益智游戏，主题是营救宠物。"
         },
         {
-          "name": "Another Crab's Treasure",
-          "desc": "Aggro Crab 开发的类魂动作冒险游戏。"
-        },
-        {
-          "name": "Rebounder",
-          "desc": "ThirtyThree 开发的精确平台跳跃游戏。"
-        },
-        {
-          "name": "Subway Midnight",
-          "desc": "Bubby Darkstar 开发的迷幻恐怖游戏。"
-        }
-      ]
-    },
-    {
-      "id": "4fb3898d81",
-      "title": "Planet Coaster 开发商 Frontier Developments 宣布基于迪士尼 IP 的新作",
-      "summary": "以 Planet Coaster 闻名的 Frontier Developments 宣布与迪士尼达成合作协议，将基于迪士尼 IP 开发新游戏。该消息属于传统平台游戏动态，对休闲手游从业者的即时参考意义有限。",
-      "url": "https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-03T08:04:49",
-      "games": [
-        {
-          "name": "Planet Coaster",
-          "desc": "Frontier Developments 开发的过山车乐园经营模拟游戏。"
-        },
-        {
-          "name": "Planet Zoo",
-          "desc": "Frontier Developments 开发的动物园经营模拟游戏。"
-        },
-        {
-          "name": "Jurassic World Evolution",
-          "desc": "Frontier Developments 开发的恐龙主题公园管理模拟游戏。"
+          "name": "Slotomania",
+          "desc": "Playtika旗下的社交老虎机赌博模拟游戏。"
         }
       ]
     }
