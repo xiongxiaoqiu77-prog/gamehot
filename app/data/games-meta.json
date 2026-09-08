@@ -5884,5 +5884,45 @@
     "store": "appstore"
   },
   "Club Penguin Island": null,
-  "Imagine Island": null
+  "Imagine Island": null,
+  "Atomic Heart": {
+    "name": "Atomic Heart",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1786632138",
+    "description": "In a mad and sublime utopian world, take part in explosive encounters. Adapt your fighting style to each opponent, use your environment and upgrade your equipment to fulfill your mission. If you want to reach the truth, you'll have to pay in blood.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_1dc8661cde295efc2d1ff8612e079f5c74803748.600x338.jpg?t=1786632138",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_9dedae959672ac7d7f2db16638a5b65f80bfe125.600x338.jpg?t=1786632138",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_2fce9ef441a18361b9ab8f1b1ac70160c8226577.600x338.jpg?t=1786632138",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_19b14ddac88c1f0d24c8061c1f38bebabfbbdff3.600x338.jpg?t=1786632138"
+    ],
+    "store_url": "https://store.steampowered.com/app/668580",
+    "store": "steam"
+  },
+  "Replaced": {
+    "name": "The Farmer Was Replaced",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/a93cdbf3f795ca7736dca7fde208c5cd5fcf2a9e/header.jpg?t=1786971488",
+    "description": "Program and optimize a drone to automate a farm and watch it do the work for you. Collect resources to unlock better technology and become the most efficient farmer in the world. Improve your problem solving and coding skills.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5/ss_cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5.600x338.jpg?t=1786971488",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/028e32193a38da5565b54b5029879439d4cf2ada/ss_028e32193a38da5565b54b5029879439d4cf2ada.600x338.jpg?t=1786971488",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/626c7fd80f4febd821a57499a936a331dd782b26/ss_626c7fd80f4febd821a57499a936a331dd782b26.600x338.jpg?t=1786971488",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/e73b5d1fa288e22f49d81180138e54459b96d60f/ss_e73b5d1fa288e22f49d81180138e54459b96d60f.600x338.jpg?t=1786971488"
+    ],
+    "store_url": "https://store.steampowered.com/app/2060160",
+    "store": "steam"
+  },
+  "Pathfinder: Wrath of the Righteous": {
+    "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184370/header.jpg?t=1781096468",
+    "description": "Embark on a journey to a realm overrun by demons in a new epic RPG from the creators of the critically acclaimed Pathfinder: Kingmaker. Explore the nature of good and evil, learn the true cost of power, and rise as a Mythic Hero capable of deeds beyond mortal expectations.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184370/ss_4f34b17018e09d16731c85cce5e13eb13a66d488.600x338.jpg?t=1781096468",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184370/ss_fbdd180f0b51efe2bac9d41f30a18113d125b346.600x338.jpg?t=1781096468",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184370/ss_a91350b93f566e63bebcfdc094cef21d3cd4bca7.600x338.jpg?t=1781096468",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184370/ss_59f87eaf54b344855d6ed44bd890ccb4e40b9b92.600x338.jpg?t=1781096468"
+    ],
+    "store_url": "https://store.steampowered.com/app/1184370",
+    "store": "steam"
+  },
+  "Heroes of Might & Magic: Olden Era": null
 }
