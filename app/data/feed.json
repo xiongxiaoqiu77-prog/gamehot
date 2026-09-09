@@ -1,346 +1,430 @@
 {
-  "updated": "2026-09-09",
-  "generated_at": "2026-09-09T07:00:16.763255",
+  "updated": "2026-09-10",
+  "generated_at": "2026-09-10T07:00:35.569985",
   "articles": [
     {
-      "id": "8e31946ac3",
-      "title": "为什么世界需要一个 Club Penguin 的继任者——但不是 Roblox",
-      "summary": "文章回顾了迪士尼旗下 Flash MMO Club Penguin 曾拥有超过3亿注册用户、成为一代儿童的社交启蒙产品，并探讨为何在 Roblox 时代，儿童虚拟世界仍需要更安全、更有治理的替代者。对面向儿童和家庭用户的休闲社区产品开发者具有背景参考价值。",
-      "url": "https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-08T15:46:17",
+      "id": "c8e8aaaf7d",
+      "title": "Chess.com 如何在10年内实现移动端收入100倍增长",
+      "summary": "Chess.com 移动应用月收入从2016年约5.6万美元增长到2026年约590万美元，文章复盘了其订阅、变现、用户获取和长线运营策略。对休闲/在线棋类手游的变现与增长设计有参考价值。",
+      "url": "https://naavik.co/f2p-mobile/how-chess-com-100xd-mobile-revenue-in-10-years/",
+      "source": "Naavik",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-09-09T12:19:38",
       "games": [
         {
-          "name": "Club Penguin",
-          "desc": "迪士尼旗下基于Flash的MMO游戏，面向儿童，2005至2017年运营。"
-        },
-        {
-          "name": "Club Penguin Island",
-          "desc": "Club Penguin的移动端继任者，于2018年12月关闭。"
-        },
-        {
-          "name": "Roblox",
-          "desc": "在线游戏平台，许多孩子首次接触的在线世界，但被认为不够安全。"
-        },
-        {
-          "name": "Fortnite",
-          "desc": "大型在线竞技游戏，孩子们从Club Penguin毕业后会去玩。"
-        },
-        {
-          "name": "Imagine Island",
-          "desc": "Magic Potion Games开发的精神继任者，面向6-13岁儿童，注重实时监管和年龄安全功能。"
+          "name": "Chess.com",
+          "desc": "全球最大的在线国际象棋平台，基于经典棋类玩法的移动应用，通过订阅和道具内购变现。"
         }
       ]
     },
     {
-      "id": "94d371f541",
-      "title": "AI 如何改变用户获取",
-      "summary": "Naavik 播客邀请 Sett 联合创始人兼 CEO Amit Carmi，讨论 AI 在用户获取（UA）领域的应用，包括应对素材疲劳、自动生成视频与可玩广告，以及广告活动管理的自动化。对休闲游戏从业者而言，可了解 UA 素材迭代与 AI 工具落地的新方向。",
-      "url": "https://naavik.co/podcast/how-ai-is-transforming-user-acquisition/",
-      "source": "Naavik",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-08T13:27:38",
-      "games": []
-    },
-    {
-      "id": "aea86432d7",
-      "title": "8 月移动游戏下载榜：Roblox、Free Fire Max、Subway Surfers、Block Blast、Arrows 等",
-      "summary": "AppMagic 最新数据显示，腾讯旗下类似 GTA 的开放世界手游 Gangstar Mirage City 仅在部分地区上线便进入 8 月下载前十；Roblox、Free Fire Max、Subway Surfers、Block Blast、Arrows 等也位于榜单前列。对移动休闲从业者而言，这是观察头部获客产品与区域上线节奏的数据参考。",
-      "url": "https://mobilegamer.biz/augusts-top-mobile-game-downloads-roblox-free-fire-max-subway-surfers-block-blast-arrows-more/",
+      "id": "9dfe279810",
+      "title": "欧洲开发者联盟表示，苹果面向欧盟的新App Store条款仍违反DMA",
+      "summary": "App Fairness联盟、欧洲游戏开发者联合会等多个组织联合发声，认为苹果调整后的欧盟App Store规则仍不符合数字市场法，并请求欧盟委员会明确立场。对在欧盟发行休闲与移动游戏的团队来说，商店条款与合规风险值得关注。",
+      "url": "https://mobilegamer.biz/apples-new-eu-app-store-terms-still-breach-the-dma-says-european-developer-coalition/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-08T15:03:55",
+      "published_at": "2026-09-09T16:15:54",
+      "games": []
+    },
+    {
+      "id": "40ef8d52c3",
+      "title": "数据摘要：Pokémon Go 累计收入达90亿美元，Gameloft利润上升，GungHo出售1.79亿美元股份等",
+      "summary": "本期数据摘要涵盖 Pokémon Go 总流水突破90亿美元、Gameloft利润增长、GungHo出售1.79亿美元股权等动态，并附有最新市场统计与 Roblox 数据。适合移动游戏从业者快速追踪行业大盘和头部产品表现。",
+      "url": "https://mobilegamer.biz/data-digest-pokemon-go-hits-9bn-gameloft-profits-rise-gungho-sells-179m-stake-fresh-market-statsmore/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-09T12:16:22",
       "games": [
         {
+          "name": "Pokémon Go",
+          "desc": "AR抓宝手游，累计收入突破90亿美元，达到10周年里程碑。"
+        },
+        {
+          "name": "Disney Dreamlight Valley",
+          "desc": "迪士尼主题生活模拟冒险游戏，是Gameloft移动端收入第一名。"
+        },
+        {
+          "name": "Disney Magic Kingdoms",
+          "desc": "迪士尼主题公园经营模拟手游，位列Gameloft头部移动产品。"
+        },
+        {
+          "name": "Disney Speedstorm",
+          "desc": "迪士尼主题赛车竞技游戏，为Gameloft移动端头部产品之一。"
+        },
+        {
+          "name": "Asphalt Legends",
+          "desc": "狂野飙车系列的竞速手游，Gameloft头部产品之一。"
+        },
+        {
+          "name": "March of Empires",
+          "desc": "Gameloft旗下中世纪题材策略战争游戏，移动端表现佳。"
+        },
+        {
+          "name": "Puzzle & Dragons",
+          "desc": "消除+RPG玩法的手游，GungHo旗下代表作。"
+        },
+        {
           "name": "Roblox",
-          "desc": "一款多人在线沙盒创作游戏平台。"
+          "desc": "用户生成内容在线游戏平台，创作者经济为美国贡献大量GDP。"
         },
         {
-          "name": "Free Fire Max",
-          "desc": "一款大逃杀类射击手游。"
+          "name": "Flourish by Garden Joy",
+          "desc": "由Garden Joy改名的花园主题休闲移动游戏，用于非稀释性UA融资。"
+        }
+      ]
+    },
+    {
+      "id": "4e906a4e53",
+      "title": "8月全球手游收入榜：Honor of Kings、Gossip Harbor、PUBG、Royal Match、Roblox等",
+      "summary": "AppMagic 估算的8月手游内购收入榜显示，五款游戏月流水超过1亿美元，其中 Gossip Harbor 仅次于 Honor of Kings。文章还呈现 Royal Match 等头部产品表现，可用于观察休闲与竞技手游的变现格局。",
+      "url": "https://mobilegamer.biz/augusts-top-grossing-mobile-games-honor-of-kings-gossip-harbor-pubg-royal-match-roblox-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-09T09:10:42",
+      "games": [
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯旗下MOBA手游，8月IAP收入超过1.5亿美元名列榜首。"
         },
         {
-          "name": "Subway Surfers",
-          "desc": "一款无尽跑酷游戏。"
+          "name": "Gossip Harbor",
+          "desc": "Merge消除玩法的手游，8月收入创下历史新高。"
         },
         {
-          "name": "Block Blast",
-          "desc": "一款俄罗斯方块类益智游戏。"
+          "name": "PUBG Mobile",
+          "desc": "大逃杀射击手游，8月收入环比增长。"
         },
         {
-          "name": "Arrows",
-          "desc": "一款箭矢主题的益智游戏。"
+          "name": "Royal Match",
+          "desc": "三消益智手游，8月收入排名靠前。"
         },
         {
-          "name": "Ludo King",
-          "desc": "一款飞行棋（Ludo）类游戏。"
+          "name": "Roblox",
+          "desc": "在线游戏平台，8月收入略有下滑但仍在全球前十。"
         },
         {
-          "name": "Gangstar Mirage City",
-          "desc": "一款GTA风格的开放世界动作游戏。"
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存题材的策略手游，收入连续第五个月下滑。"
         },
         {
-          "name": "Bus Traffic Fever",
-          "desc": "一款交通主题的混合休闲游戏。"
-        },
-        {
-          "name": "Magic Sort",
-          "desc": "一款魔法主题的分类整理益智游戏。"
-        },
-        {
-          "name": "Block Out",
-          "desc": "一款方块消除益智游戏。"
-        },
-        {
-          "name": "Amaze Go",
-          "desc": "一款休闲益智手游。"
-        },
-        {
-          "name": "Football League 2026",
-          "desc": "一款足球模拟游戏。"
-        },
-        {
-          "name": "EA FC Mobile",
-          "desc": "一款足球主题的手机游戏。"
-        },
-        {
-          "name": "Paper.io 2",
-          "desc": "一款io类占地涂色游戏。"
-        },
-        {
-          "name": "Meowdoku",
-          "desc": "一款猫咪主题的数独/益智游戏。"
-        },
-        {
-          "name": "Mob Control",
-          "desc": "一款休闲控制类益智游戏。"
-        },
-        {
-          "name": "Mystery Dumpling: Unbox ASMR",
-          "desc": "一款开箱ASMR解压游戏。"
-        },
-        {
-          "name": "Pizza Ready",
-          "desc": "一款制作披萨的休闲游戏。"
+          "name": "Monopoly Go",
+          "desc": "大富翁IP改编的棋盘手游，8月为1月以来最佳IAP月份。"
         },
         {
           "name": "Candy Crush Saga",
-          "desc": "一款三消益智游戏。"
+          "desc": "经典三消游戏，8月IAP收入从6月下滑中恢复。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "Century另一款热门手游，月收入稳定在8000万美元上下。"
         },
         {
           "name": "eFootball",
-          "desc": "一款足球模拟游戏。"
-        }
-      ]
-    },
-    {
-      "id": "87b4200022",
-      "title": "《Love & Pies》开发商 Trailmix 迎来新任 CEO",
-      "summary": "Trailmix 创始人 Carolin Krenzer 在掌舵近十年后转任执行董事长，James Nicholas 从 COO 升任 CEO。这一人事变动对关注 Love & Pies 这类叙事合并手游产品和团队战略方向的从业者有信号意义。",
-      "url": "https://mobilegamer.biz/love-pies-maker-trailmix-has-a-new-ceo/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-08T08:48:34",
-      "games": [
+          "desc": "科乐美足球模拟手游，世界杯热度过后收入回落至5800万美元。"
+        },
         {
-          "name": "Love & Pies",
-          "desc": "一款合并（merge）玩法为核心的休闲游戏。"
+          "name": "LastWar",
+          "desc": "末世生存/策略手游，收入持续下降至2024年2月以来最低。"
+        },
+        {
+          "name": "Delta Force",
+          "desc": "腾讯旗下射击游戏，8月收入再次突破5000万美元。"
+        },
+        {
+          "name": "Coin Master",
+          "desc": "老虎机+村庄建设玩法的手游，收入缓慢下滑。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "AR抓宝手游，8月IAP收入约5020万美元。"
+        },
+        {
+          "name": "Township",
+          "desc": "Playrix开发的农场小镇经营手游。"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "desc": "TYPE-MOON世界观衍生的RPG卡牌手游。"
+        },
+        {
+          "name": "Gardenscapes",
+          "desc": "三消+家园装修玩法的手游，Playrix旗下产品。"
+        },
+        {
+          "name": "Royal Kingdom",
+          "desc": "Royal Match同厂商Dream推出的皇家主题三消游戏。"
+        },
+        {
+          "name": "Free Fire Max",
+          "desc": "Garena旗下大逃杀射击手游，8月收入约3830万美元。"
+        },
+        {
+          "name": "Valorant Mobile",
+          "desc": "《Valorant》的移动端版本，腾讯发行的战术射击手游。"
         }
       ]
     },
     {
-      "id": "b484c50718",
-      "title": "Riot Games联合创始人：公司正考虑开发付费买断制作品",
-      "summary": "Riot Games 联合创始人表示，公司正在考虑制作 premium（付费买断制）游戏，并称并非每款游戏都需要无限运营。该表态反映出头部厂商对商业模式多样化的重新思考，可作为行业风向参考。",
-      "url": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+      "id": "d06069a438",
+      "title": "Mark Cerny 与 Geoff Keighley 推出大学附属奖学金项目",
+      "summary": "该计划名为 Nova Games Foundation，拟每年为 20 名年轻游戏设计师提供六位数美元的资助。文章属于行业人才培育类新闻，与休闲游戏设计与变现的直接关联较弱，可作为行业生态动态参考。",
+      "url": "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-08T21:14:23",
-      "games": [
-        {
-          "name": "2XKO",
-          "desc": "Riot正在开发的格斗游戏，但已停止开发"
-        },
-        {
-          "name": "League of Legends",
-          "desc": "Riot的免费游玩多人在线战术竞技游戏（MOBA），通过销售装饰品盈利"
-        },
-        {
-          "name": "Valorant",
-          "desc": "Riot的免费游玩战术射击游戏，通过销售装饰品盈利"
-        }
-      ]
-    },
-    {
-      "id": "1d16c442e9",
-      "title": "报道：EA 在 NHL 27 中使用生成式 AI 制作解说配音",
-      "summary": "资深解说员 John Buccigross 称 EA 向其展示了用生成式 AI 模拟他的声音为 NHL 27 录制游戏解说旁白的技术。该消息可作为大型厂商将 AI 用于游戏内容生产的一个行业动态参考，但与休闲游戏的玩法、数值或 LiveOps 无直接关联。",
-      "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-08T18:00:00",
-      "games": [
-        {
-          "name": "NHL 27",
-          "desc": "EA Sports的职业冰球模拟游戏，据称使用生成式AI制作解说配音。"
-        }
-      ]
-    },
-    {
-      "id": "91230842bd",
-      "title": "Tim Schafer 称 Double Fine 的独特游戏若能找到受众，也可成为商业热门",
-      "summary": "Double Fine 负责人 Tim Schafer 表示，工作室在 Xbox 旗下时并未盈利；他认为独特游戏只要能找到目标受众，就同样有机会成为商业热门。该访谈对独立游戏受众定位与发行策略有参考意义，但与休闲手游的直接关联较弱。",
-      "url": "https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-08T17:14:18",
-      "games": [
-        {
-          "name": "Keeper",
-          "desc": "Double Fine开发的一款独特游戏，商业上不成功，但Schafer认为有大众市场吸引力。"
-        },
-        {
-          "name": "Kiln",
-          "desc": "Double Fine的另一款新作，同样在商业上未取得成功。"
-        },
-        {
-          "name": "Minecraft",
-          "desc": "被提及作为突破性商业大热门的例子。"
-        }
-      ]
-    },
-    {
-      "id": "ec0b1c2eed",
-      "title": "距 WN Conference Cyprus ’26 展位展示与独立游戏推介报名截止仅剩三天",
-      "summary": "Game World Observer 提醒开发者，WN Conference Cyprus ’26 的 Showcase 与 Indie Pitch 申请均可在 9 月 11 日前提交。对希望获得曝光和发行资源的海外手游与独立游戏团队有较强时效性提醒价值。",
-      "url": "https://gameworldobserver.com/2026/09/08/there-are-only-three-days-left-until-the-deadline-for-submitting-applications-for-the-showcase-and-indie-pitch-at-wn-conference-cyprus-26",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-08T17:09:26",
-      "games": [
-        {
-          "name": "Atomic Heart",
-          "desc": "第一人称动作射击游戏，设定在虚构的苏联世界"
-        },
-        {
-          "name": "Replaced",
-          "desc": "赛博朋克风格的动作平台游戏"
-        },
-        {
-          "name": "Pathfinder: Wrath of the Righteous",
-          "desc": "基于桌上角色扮演游戏的等距视角角色扮演游戏"
-        },
-        {
-          "name": "Heroes of Might & Magic: Olden Era",
-          "desc": "回合制策略游戏，属于英雄无敌系列"
-        }
-      ]
-    },
-    {
-      "id": "8373d5ed6f",
-      "title": "Don't Nod 考虑在法国裁员 90 人",
-      "summary": "《Life is Strange》开发商 Don't Nod 正考虑在法国裁撤约 90 个岗位，并警告公司可能无法维持运营至 2027 年 1 月 31 日之后。该动态反映了欧洲中大型游戏工作室在市场与资金压力下的生存挑战。",
-      "url": "https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-90-workers-in-france",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-08T11:14:25",
-      "games": [
-        {
-          "name": "Life is Strange",
-          "desc": "一款剧情导向的叙事冒险游戏。"
-        },
-        {
-          "name": "Lost Records",
-          "desc": "一款由Don't Nod开发的叙事冒险游戏。"
-        }
-      ]
-    },
-    {
-      "id": "87adf0d6ae",
-      "title": "欧洲游戏开发者更担心 AI 会让他们加快工作，而非被抢走工作",
-      "summary": "调查显示 61% 的欧洲游戏开发者担忧生成式 AI 会给自己带来更快、更多的产出压力，仅 35% 担心失业或岗位需求减少。对休闲游戏团队而言，这提示引入 AI 时需要更多关注工作节奏与员工压力。",
-      "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-08T13:27:23",
+      "published_at": "2026-09-09T20:00:00",
       "games": []
     },
     {
-      "id": "4a5fad45b7",
-      "title": "Tetris Company 称未参与白宫恶搞游戏的制作，并表示“非常重视版权侵权”",
-      "summary": "Tetris Company 就美国政府制作的一款 Tetris 仿作游戏发布声明，称未参与创作且非常重视版权侵权，相关游戏已下架。该事件是游戏 IP 版权边界与公共机构使用素材的典型案例。",
-      "url": "https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously",
+      "id": "c31d55ad5a",
+      "title": "Lego Digital Play 收购移动游戏工作室 Offroad Games",
+      "summary": "Lego Digital Play 宣布收购移动游戏工作室 Offroad Games，具体条款未披露。该消息属于大型娱乐/玩具 IP 方在移动游戏领域整合研发能力的行业动态，对休闲游戏从业者有一定参考价值，但缺少玩法或变现层面的深度分析。",
+      "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-08T13:03:33",
+      "published_at": "2026-09-09T18:56:51",
+      "games": []
+    },
+    {
+      "id": "a89ad7563b",
+      "title": "Epic Games Store 将在澳大利亚为 R18+ 游戏引入年龄验证",
+      "summary": "Epic Games Store 宣布自 9 月 9 日起，澳大利亚玩家在下载或购买 R18+ 评级游戏前必须确认年满 18 岁。该政策是平台合规与年龄验证机制的重要动态，对关注海外发行分级的从业者有一定参考。",
+      "url": "https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T17:24:25",
+      "games": []
+    },
+    {
+      "id": "307f1049c9",
+      "title": "暴雪工会员工批准覆盖1900名员工的历史性合同",
+      "summary": "暴雪工会员工投票通过了一份覆盖约1900人的历史性合同，内容包括生成式AI使用边界、裁员保护、远程与混合办公等条款。对游戏行业从业者而言，这份合同可以作为了解大型工作室劳资谈判与AI治理趋势的案例。",
+      "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T12:59:56",
       "games": [
         {
-          "name": "Build the Wall: Zombie Border Siege",
-          "desc": "一款白宫发布的仿《俄罗斯方块》砌墙防守游戏。"
+          "name": "World of Warcraft",
+          "desc": "Blizzard's long-running massively multiplayer online role-playing game (MMORPG)."
+        },
+        {
+          "name": "Overwatch",
+          "desc": "Blizzard's team-based multiplayer first-person shooter."
+        }
+      ]
+    },
+    {
+      "id": "d5f73005cd",
+      "title": "特朗普政府下架 Tetris 克隆游戏 Build The Wall，版权方曾警告严肃对待侵权",
+      "summary": "在版权方明确表示高度重视侵权后，美国行政机构下架了一款名为 Build The Wall 的 Tetris 克隆游戏。对休闲解谜/三消从业者而言，这起事件提醒山寨克隆产品仍面临版权与合规风险。",
+      "url": "https://www.gamedeveloper.com/business/trump-administration-takes-down-tetris-clone-after-company-warns-it-takes-copyright-violation-very-seriously-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T15:36:38",
+      "games": [
+        {
+          "name": "Build the Wall",
+          "desc": "白宫网站推出的Tetris克隆游戏，以特朗普边境墙政策为主题，后因侵权被下架。"
         },
         {
           "name": "Tetris",
-          "desc": "一款经典方块堆叠益智游戏。"
-        },
-        {
-          "name": "Flappy Bird",
-          "desc": "一款操作小鸟穿越管道的休闲游戏。"
+          "desc": "经典俄罗斯方块益智游戏。"
         },
         {
           "name": "Snake",
-          "desc": "一款经典的贪吃蛇游戏。"
+          "desc": "经典贪吃蛇游戏。"
+        },
+        {
+          "name": "Flappy Bird",
+          "desc": "点击控制小鸟飞行的休闲游戏。"
+        },
+        {
+          "name": "Rio Run",
+          "desc": "Snake克隆游戏，被批评带有对中南美洲移民的种族主义描绘。"
+        },
+        {
+          "name": "Pokémon",
+          "desc": "任天堂旗下标志性怪物收集角色扮演游戏系列。"
+        },
+        {
+          "name": "Halo",
+          "desc": "微软旗下科幻第一人称射击游戏系列。"
         }
       ]
     },
     {
-      "id": "cedc860b86",
-      "title": "FuturLab 取消非《PowerWash Simulator》项目后裁员",
-      "summary": "FuturLab 在取消一款与 PowerWash Simulator 无关的项目后解雇 7 名员工。该消息与更早的裁员流程争议同属一次重组，可作为工作室项目止损与人力资源调整的案例。",
-      "url": "https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title",
+      "id": "89b8aec19c",
+      "title": "Keywords Studios 整合多个营销业务，成立全球创意机构 FreeAnimal",
+      "summary": "Keywords Studios 将旗下七家创意营销机构整合为新品牌 FreeAnimal，为开发商、发行商和品牌提供统一营销入口。这反映出游戏营销服务行业的进一步整合，对发行商的外部营销采购有一定参考。",
+      "url": "https://www.gamesindustry.biz/keywords-studios-combines-existing-marketing-teams-into-global-creative-agency-freeanimal",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-08T11:00:58",
+      "published_at": "2026-09-09T15:00:00",
+      "games": []
+    },
+    {
+      "id": "cc90fc4641",
+      "title": "“我们可能还需要几款 Expedition 33 来证明他们错了”——Valor Mortis 开发者谈发行商应信任 AA 游戏",
+      "summary": "AA游戏团队呼吁发行商重新信任中体量产品，并以 Ghostrunner、Expedition 33 等作品为例说明AA项目的商业潜力。内容主要面向PC/主机市场，与休闲手游直接关联有限。",
+      "url": "https://www.gamesindustry.biz/we-probably-need-a-few-more-expedition-33s-to-just-prove-them-wrong-the-maker-of-valor-mortis-on-why-publishers-should-have-faith-in-aa",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T14:19:47",
       "games": [
         {
-          "name": "PowerWash Simulator",
-          "desc": "一款由FuturLab开发的清洗模拟游戏。"
+          "name": "Valor Mortis",
+          "desc": "One More Level开发的AA新作，定于10月13日发售，原计划由Private Division发行。"
         },
         {
-          "name": "PowerWash Simulator 2",
-          "desc": "《PowerWash Simulator》的续作，正在开发中。"
+          "name": "Ghostrunner",
+          "desc": "One More Level开发的赛博朋克风格动作平台游戏，销量达560万份。"
+        },
+        {
+          "name": "Clair Obscur: Expedition 33",
+          "desc": "近期取得巨大商业成功的AA游戏，被用来证明AA市场仍有潜力。"
+        },
+        {
+          "name": "Beast of Reincarnation",
+          "desc": "Game Freak开发、由Fictions发行的近期作品，文章提及作为Private Division目录易手的背景。"
         }
       ]
     },
     {
-      "id": "e929ad0d72",
-      "title": "Star Stable 裁员 20%，最多 40 名员工受影响",
-      "summary": "MobileGamer.biz 报道 Star Stable 重组将影响最多约 40 名员工，临时 CEO 称此举旨在保障斯德哥尔摩公司的长期未来。该新闻与官方裁员公告相互补充，提供了更具体的受影响人数。",
-      "url": "https://mobilegamer.biz/up-to-40-staff-at-risk-as-star-stable-cuts-20-of-its-workforce/",
-      "source": "Mobile Gamer Biz",
+      "id": "ad8d1e5e6b",
+      "title": "Frontier Developments 2026财年调整后营业利润增长62%至2140万英镑",
+      "summary": "Frontier Developments 公布了创纪录的财年业绩，调整后营业利润同比上涨62%至2140万英镑。该结果显示出中等规模游戏开发商在授权IP与多元平台策略下的盈利能力改善。",
+      "url": "https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operating-profit-jumps-62-to-214m",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-08T10:33:04",
+      "published_at": "2026-09-09T11:37:22",
       "games": [
         {
-          "name": "Star Stable Online",
-          "desc": "一款在线多人骑马冒险RPG游戏。"
+          "name": "Jurassic World Evolution 3",
+          "desc": "Frontier Developments开发的恐龙主题公园模拟经营游戏，推动本期收入增长。"
         },
         {
-          "name": "Star Stable Horses",
-          "desc": "一款马匹主题的移动端游戏。"
+          "name": "Planet Coaster",
+          "desc": "过山车乐园模拟经营游戏。"
+        },
+        {
+          "name": "Planet Zoo",
+          "desc": "动物园模拟经营游戏。"
+        },
+        {
+          "name": "Planet Zoo 2",
+          "desc": "《动物园之星》续作，定于2026年10月13日发售。"
+        },
+        {
+          "name": "Warhammer 40,000: Chaos Gate – Deathwatch",
+          "desc": "战锤40K题材的策略游戏，将在FY27之前发布。"
+        }
+      ]
+    },
+    {
+      "id": "d3563aa7b5",
+      "title": "Gamescom Asia x Thailand Game Show 公布2026年参展阵容",
+      "summary": "2026年 Gamescom Asia x Thailand Game Show 公布参展商名单，包括 Capcom、Bandai Namco、The Pokémon Company 等，任天堂与 PlayStation 也通过合作伙伴参展。可帮助从业者了解东南亚游戏展会与渠道机会。",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-announces-exhibitor-lineup-for-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T09:55:55",
+      "games": []
+    },
+    {
+      "id": "efd72b1817",
+      "title": "Fable、Persona 6、Kingdom Hearts 4、Control Resonant 等未发布/未公布游戏 Steam 成就遭泄露",
+      "summary": "Exophase、SteamDB 等成就聚合站泄露了多款未发售/未正式公布游戏的 Steam 成就信息，包括 Fable、Persona 6、Kingdom Hearts 4 等。对开发者而言，这也提示了平台数据泄露和市场营销策略保护风险。",
+      "url": "https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T09:15:34",
+      "games": [
+        {
+          "name": "Fable",
+          "desc": "微软旗下角色扮演游戏系列，因Steam成就漏洞泄露未发布作品信息。"
+        },
+        {
+          "name": "Persona 6",
+          "desc": "Atlus角色扮演游戏系列新作，尚未正式公布即被泄露。"
+        },
+        {
+          "name": "Kingdom Hearts 4",
+          "desc": "《王国之心》系列动作RPG新作，尚未发布但出现Steam成就数据。"
+        },
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy《控制》相关的未公布游戏，因Steam API漏洞泄露成就信息。"
+        },
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "《战争机器》系列未发布的新作，成就数据被第三方站点抓取。"
+        },
+        {
+          "name": "Clutch",
+          "desc": "一款未公布的Steam游戏，因Valve成就漏洞泄露其成就数据。"
+        },
+        {
+          "name": "Horizon Hunters Gathering",
+          "desc": "一款未公布的Steam游戏，因Valve成就漏洞导致成就信息被扫描收录。"
+        },
+        {
+          "name": "Ace Combat 8",
+          "desc": "《皇牌空战》系列未公布的飞行射击游戏新作，出现Steam成就数据。"
+        },
+        {
+          "name": "Metro 2039",
+          "desc": "《地铁》系列未公布的末日主题射击游戏新作，Steam成就泄露。"
+        },
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "星球大战主题未公布的竞速游戏，因Steam成就漏洞泄露。"
+        },
+        {
+          "name": "Stranger Than Heaven",
+          "desc": "一款未公布的Steam游戏，因Valve成就漏洞导致成就信息泄露。"
+        },
+        {
+          "name": "Rayman Legends: Retold",
+          "desc": "《雷曼传奇》可能的复刻/重制版本，未公布即出现Steam成就数据。"
+        },
+        {
+          "name": "Tomb Raider: Legacy of Atlantis",
+          "desc": "《古墓丽影》系列未公布的冒险游戏新作，Steam成就遭泄露。"
+        }
+      ]
+    },
+    {
+      "id": "6abf7d4b2e",
+      "title": "Dave the Diver 销量突破1000万份",
+      "summary": "水下探索与寿司经营题材的 Dave the Diver 全球销量已达到1000万份。该成绩展现了高辨识度独立游戏与“轻松治愈”玩法结合后的商业潜力，可作为休闲向产品创意的参考案例。",
+      "url": "https://gameworldobserver.com/2026/09/09/dave-the-diver-sold-10-million-copies",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T13:18:10",
+      "games": [
+        {
+          "name": "Dave the Diver",
+          "desc": "水下探索与寿司店经营结合的游戏，销量超过1000万份。"
+        },
+        {
+          "name": "Bancho The Chef",
+          "desc": "Dave the Diver衍生作品，融合冒险元素的烹饪模拟游戏。"
         }
       ]
     }
