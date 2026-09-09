@@ -5926,5 +5926,18 @@
   },
   "Heroes of Might & Magic: Olden Era": null,
   "塞尔达传说：时之笛": null,
-  "NHL 27": null
+  "NHL 27": null,
+  "Mobile Legends: Bang Bang": {
+    "name": "Mobile Legends: Bang Bang.US",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/72/30/8d72307c-25c0-6391-ab4f-86ff1a9d3fe6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "description": "Mobile Legends: Bang Bang. US - The Ultimate 5v5 MOBA Experience, Now Even Better!\n\nTeam up with friends and dive into Mobile Legends: Bang Bang.US, the ultimate 5v5 MOBA showdown where real players clash in thrilling battles! Pick your favorite heroes and assemble the perfect squad with your allies. Enjoy fast-paced 10-second matchmaking and action-packed 10-minute matches, all from the palm of your hand! Master classic MOBA mechanics, like laning, jungling, pushing, and intense team fights—all tailored for a top-tier mobile eSports experience in the U.S.\n\nGame Features:\n1. Classic MOBA Action with Enhanced 5v5 Battles\nEngage in real-time 5v5 battles against real opponents! Fight across three lanes, conquer four jungle areas, defeat epic bosses, and defend against 18 powerful towers. Everything that makes a true MOBA great is here, now with optimized gameplay for players!\n\n2. Teamwork & Strategy Win the Day\nAbsorb damage, disrupt enemies, heal teammates—play your role to lead your team to victory! Choose from Tanks, Mages, Marksmen, Assassins, and Supports, with new heroes added regularly. Show off your skills and rise to the top of the ranks!\n\n3. A Fair and Balanced MOBA Experience\nJust like the best classic MOBAs, victory in Mobile Legends: Bang Bang.US depends on skill and strategy, not hero training or pay-to-win mechanics. Here, everyone competes on a level playing field—it’s all about your ability to outplay the competition!\n\n4. Intuitive Controls, Effortless Mastery\nWith simple yet highly responsive controls, you’ll be landing skill shots and making game-winning plays in no time! The auto-lock and smart target-switching system helps you hit the right enemies, while a tap-to-buy feature lets you equip items anywhere on the map for uninterrupted gameplay.\n\n5. Fast Matchmaking, High-Intensity Matches\nJump into action with lightning-fast matchmaking in just 10 seconds. Each battle lasts only 10 minutes, skipping long, drawn-out early-game phases and putting you straight into the fight. Less waiting, more action, more victory moments!\n\n6. Smart AI Assistance for Seamless Play\nLost connection? No worries! Our advanced reconnection system gets you back in the game within seconds. And if you're offline, our AI takes over to keep your team in the fight, preventing unfair 4v5 disadvantages.\n\nContact Us \nYou can get customer service assistance via the [Contact Us] button in the game to help you with any problems you may encounter while playing. You can also find us on the following platforms. We welcome all of your Mobile Legends: Bang Bang.US thoughts and suggestions.\n\nCustomer Service Email:  mlbb-us@skystone.games\n\nPrivacy Policy:\nhttps://us.skystone.games/mlbb-pp\n\nUser Agreement:\nhttps://us.skystone.games/mlbb-tos",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/51/00/e15100cf-60dc-c5b1-3b9d-b083d25b1164/1_EN.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/ae/e7/e2aee723-a649-c850-2988-c0ae2d4ffa79/1-en.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/f5/67/45f567b9-2256-a5db-7501-e54418843289/3-en.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/6a/16/bf6a1607-7638-15e7-311e-b8e81a70d974/4-en.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mobile-legends-bang-bang-us/id6741568655?uo=4",
+    "store": "appstore"
+  }
 }
