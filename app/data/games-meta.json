@@ -5939,5 +5939,336 @@
     ],
     "store_url": "https://apps.apple.com/us/app/mobile-legends-bang-bang-us/id6741568655?uo=4",
     "store": "appstore"
+  },
+  "Neva": {
+    "name": "NEVA ŞARJ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/d8/e8/d6d8e85b-d862-c973-e406-3bd56866d9aa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "NEVA ŞARJ tarafından son kullanıcılarımıza yönelik hazırlanan Elektrikli Araç Şarj İstasyonlarının Harita üzerinde görüntülenmesi, son kullanıcılarımız için Şarj İstasyon çevresinde bulunan hizmetlerin görüntülendiği, harita üzerinde seçilen şarj istasyonu ile araç bağlantısı kurulduktan sonra şarjlama işleminin başlatılabileceği, sonlandırabileceği Neva Şarj EV mobil uygulaması",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b0/cf/07/b0cf07b8-d0ee-953c-4d6a-a57cdcc928e9/c122d5bf-6d08-4bc0-a6a2-a3c817f96771_iphone-small_10.12.37.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/ce/5a/8fce5a34-25b5-d393-982d-ec288fc25426/b3a1687e-74c4-4d0e-8e6a-44ecd56bbeb0_iphone-small-1_10.12.37.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/9d/15/dd9d1565-afa1-58db-6bba-80f5b937df09/416dcb52-6715-400b-a3fc-5a641643f343_iphone-small-2_10.12.37.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5c/1a/2b/5c1a2b77-1bd4-4c6b-b892-af8fbbf02123/b2d25130-a003-46bb-8eea-1b17707eac27_iphone-small-3_10.12.37.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/neva-%C5%9Farj/id1666078045?uo=4",
+    "store": "appstore"
+  },
+  "Abzu": {
+    "name": "ABZU",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/header.jpg?t=1786125758",
+    "description": "From the art director of Journey®, ABZÛ is a beautiful underwater adventure that evokes the dream of diving. Immerse yourself in a vibrant hidden world bursting with color and life as you descend into the heart of the ocean. But beware as you swim deeper as dangers lurk in the depths.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_119c7a8e046289483d04947bfa5ae3ab3a4a97be.600x338.jpg?t=1786125758",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_b1038245a188f63c24a8112b7a36311e3d851935.600x338.jpg?t=1786125758",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_47a6412b84130bb2c5508b0e34365ff12263bed3.600x338.jpg?t=1786125758",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_9ad3c0fba255bf54bbe4c6db2aa96a0d8acca892.600x338.jpg?t=1786125758"
+    ],
+    "store_url": "https://store.steampowered.com/app/384190",
+    "store": "steam"
+  },
+  "Gorogoa": {
+    "name": "Gorogoa",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/b4/01/d7/b401d7d4-7fd1-5494-c1f5-5e42bb8da080/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
+    "description": "\"An exquisite point-and-click game.\" - The Washington Post\n\n\"...one of the most engaging puzzle games in recent memory.\" - GameSpot\n\n\"...one of the best puzzle games to ever grace my iPad.\" - Destructoid\n\n\"....a virtually flawless iOS experience.\" - AppAdvice\n\nGorogoa is an elegant evolution of the puzzle genre, told through a beautifully hand-drawn story designed and illustrated by Jason Roberts.\n \nUNIQUELY IMAGINATIVE PUZZLES\nThe gameplay of Gorogoa is wholly original, comprised of lavishly illustrated panels that players arrange and combine in imaginative ways to solve puzzles. Impeccably simple, yet satisfyingly complex.\n\nGORGEOUSLY HAND-DRAWN GAMEPLAY\nJason Roberts created thousands of meticulously detailed hand-drawn illustrations, encompassing the impressive scope of Gorogoa's personal narrative.\n\nA NEW KIND OF STORYTELLING\nGorogoa isn't just a game - it's a work of art, expressing itself through soulful, charming illustrations and distinguished puzzle mechanics.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1b/2d/b0/1b2db0e0-db0f-015e-bd5e-86d03666b571/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/69/f1/39/69f13983-c81a-e981-f77b-ad2d328513a5/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/59/8b/8b/598b8b6c-8d87-978d-71ad-6d7c7080e2d6/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/0b/00/5d/0b005d58-c1da-7aea-6eb4-a61cc70f2778/pr_source.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/gorogoa/id1269225754?uo=4",
+    "store": "appstore"
+  },
+  "Stray": {
+    "name": "Stray Cat Adventure Simulator",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/87/05/f4870551-855d-ae7f-733a-f28b38424f93/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "description": "It was 2177 year. About a hundred years ago, artificial intelligence took control of the Earth. Playing as a ginger stray cat, you have to find out the secret of the city in which you ended up. This city is filled with robots and patrol drones. You have to find out if there are other living organisms besides you in this city, and also try escape from it. Your kitten pet has a smart collar with which you can receive the necessary information from friendly robots. Since you are playing as a stray cat, you will be able to climb onto the roofs of buildings and hide in the most unexpected places from patrol drones. Take part in an exciting, fantastic adventure simulator of the ginger stray cat in the future city and solve his riddle.\n \nGame Features:\n- Large open world.\n- New generation 3D graphics.\n- Futuristic city.\n- Excellent soundtrack.\n- Addictive gameplay with many puzzles.\n- Cat simulator.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/1b/aa/3d/1baa3dab-858a-c97c-ece1-427c0e50dcd1/7a6cb4da-c567-4487-b280-33a2937974d9_0.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/00/2f/be/002fbe5e-476d-2c36-2e4e-e430ebdf48a5/928feb84-4c86-489f-88ff-61aa02fc387c_1.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/e3/0d/c9/e30dc991-7e7f-cee6-97c8-79071e77ada6/72780ec9-d951-46f1-b92d-5ae2f793ccbf_8.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/de/f9/d8/def9d8ba-2c0c-b34b-9a3e-a6b63ab88e4e/2575d12a-c305-4dcb-9adb-b156979746d2_4.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/stray-cat-adventure-simulator/id1661671084?uo=4",
+    "store": "appstore"
+  },
+  "Outer Wilds": {
+    "name": "Outer Wilds",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341",
+    "description": "Named Game of the Year 2019 by Giant Bomb, Polygon, Eurogamer, and The Guardian, Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_ec95a283483f0438be40d033f08b9d956e748d54.600x338.jpg?t=1785424341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_09f0fa8d9b8d7da1408cf4e03303d896cbd9be18.600x338.jpg?t=1785424341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_c624a6b8edca0d451605592edd927dbcc14917a8.600x338.jpg?t=1785424341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_8683942f8d09eec32daeebe94867287424968f97.600x338.jpg?t=1785424341"
+    ],
+    "store_url": "https://store.steampowered.com/app/753640",
+    "store": "steam"
+  },
+  "It Takes Two": null,
+  "Build the Wall": null,
+  "Pokémon": {
+    "name": "Pokémon TCG Pocket",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/46/d9/0f46d910-52f3-3c86-77e0-a7c0673f2553/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Pokémon Trading Card Game Pocket has players in 150 countries and regions around the world.\nUse your mobile devices to enjoy collecting and battling with Pokémon cards anytime, anywhere!\n\n■ Open packs every day to collect cards!\nPlayers can enjoy the experience of collecting, with two booster packs available to open every day. Collect different kinds of Pokémon cards, like those with nostalgic illustrations from the past, as well as completely new cards exclusive to this game!\n\n■ Experience a new kind of Pokémon card!\nThe app features new immersive cards with illustrations that have a “3D feel.” Players can feel like they’ve leapt into the world of the card’s illustration!\n\n■ A new way to collect with the share feature!\nSharing has just been added.\nIt’s a feature that lets you give one 1-4-diamond rarity card to your in-game friends—and receive one in return!\n\n■ Trade cards with friends!\nUse the trade feature to collect even more cards!\nCertain cards can be traded with friends.\nYou can now trade cards from even the most recent booster packs. In addition, cards of 2-star rarity, Shiny 1, and Shiny 2 rarities can also be traded.\n\n■ Show off your collection!\nDisplay your cards with binders or display boards, and showcase them to players around the world! Try building a collection that you’re proud to show off!\n\n■ Enjoy casual battles!\nYou can enjoy quick and exciting battles with your cards!\nPlayers who want to test their skills even more can take on ranked matches.\n\nTerms of Use: https://www.apppokemon.com/tcgp/kiyaku/kiyaku001/rule/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/a3/1a/77a31a49-485c-b6e3-0d58-2b0cacc3d84d/EN_iPhone8_0126.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/0e/f7/b90ef7d7-740a-7611-f25e-266aa2447a1e/EN_iPhone8_2_0925_rm.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/77/b2/4177b2d7-3844-2b02-3e6e-3040a1fa0f27/EN_iPhone8_3_0925_rm.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a2/ac/cea2ac0c-ce05-c95d-9ae2-282dabaa192a/EN_iPhone8_4_0925_rm.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832?uo=4",
+    "store": "appstore"
+  },
+  "Valor Mortis": {
+    "name": "Valor Mortis",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/e729c7f909db5c52ea780923d9b258517162866a/header.jpg?t=1788892617",
+    "description": "Valor Mortis is a first-person action soulslike from the creators of Ghostrunner. Rise from death as a former soldier of Napoleon’s army. Wield supernatural powers, battle horrifying monsters, and unravel a conspiracy that threatens all of humanity.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/3867b4e6f1acc77200867c733179fea6260355ae/ss_3867b4e6f1acc77200867c733179fea6260355ae.600x338.jpg?t=1788892617",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/5a602d2d70972c8fdb8c97bfb7100974ff9139c3/ss_5a602d2d70972c8fdb8c97bfb7100974ff9139c3.600x338.jpg?t=1788892617",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/282d2b778e4ad7312e647e0527ceb84d5f29815d/ss_282d2b778e4ad7312e647e0527ceb84d5f29815d.600x338.jpg?t=1788892617",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/ef0cdc8919933905e0b876141ceb353c950a104a/ss_ef0cdc8919933905e0b876141ceb353c950a104a.600x338.jpg?t=1788892617"
+    ],
+    "store_url": "https://store.steampowered.com/app/2828710",
+    "store": "steam"
+  },
+  "Ghostrunner": {
+    "name": "GhostRunner - DPG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/78/62/9b7862a2-b87a-7ba6-a134-8325e6f9ac20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Ghost Runner is an endless runner for iPhone and iPad: tap to jump over obstacles and see how far you can go. The run never ends—only your score and reflexes do.\n\nHow it works\nTap to jump. Avoid walls and obstacles. Every 25 points you level up: the scroll speed and wall frequency increase, so each run gets faster and harder.\n\nFeatures\n• Owl jump scare — An owl can appear from a tree and fly at you once or twice per level. Stay sharp.\n• Shield power-up — Grab the floating shield for temporary protection so you can survive one hit.\n• Parallax night run — Moon, clouds, mountains, trees, and grass scroll at different speeds for a simple, atmospheric run.\n• Optional spooky 8-bit music — Turn on the in-game track for a retro, creepy vibe, or play in silence.\n• Leaderboard — Sign in and compete for the highest score.\n• Cloud save — Your progress is saved so you can pick up on another device.\n\nOne tap. One jump. How far can you run?",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/09/5e/29095e22-075f-1405-ff63-a56b581c03c8/simulator_screenshot_A7056A7E-D277-4E04-8056-6D9715C96BEA.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/49/17/7a491707-59de-13d6-dc3e-02c446356ea5/simulator_screenshot_AE424EF3-209D-4859-9D48-70CD189AC761.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/f0/2f/fef02fc2-6d24-e782-6a3f-d86b8acec69f/simulator_screenshot_D8D3B196-7A62-4BCA-A022-46AE1B11B584.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f5/7c/21f57c7c-59c3-63eb-1605-791632a8bf94/simulator_screenshot_B7DDF553-210D-4507-BDA4-2CACC6B1638F.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/ghostrunner-dpg/id6759873910?uo=4",
+    "store": "appstore"
+  },
+  "Beast of Reincarnation": {
+    "name": "Beast of Reincarnation",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/d068139fe039e26a6a9d9f57ac5d89785b984d33/header.jpg?t=1788151394",
+    "description": "Game Freak's brand-new title: Beast of Reincarnation is an action RPG with a fusion of real-time and turn-based combat. Experience the innovative &quot;one-person, one-dog action RPG&quot; in the beautiful yet harsh world of Beast of Reincarnation. What awaits at the end of Emma and Koo's journey?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/f55c103953c70b47025b04f0c121b1723d6c1670/ss_f55c103953c70b47025b04f0c121b1723d6c1670.600x338.jpg?t=1788151394",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/f9988d54094c2a099e5dafcdd12f045e4ca35f3b/ss_f9988d54094c2a099e5dafcdd12f045e4ca35f3b.600x338.jpg?t=1788151394",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/7252f8336988a2830e56428d99cf8792bc172161/ss_7252f8336988a2830e56428d99cf8792bc172161.600x338.jpg?t=1788151394",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/2900b5fbc2ef7b5c2bd3fab6007942e89da34020/ss_2900b5fbc2ef7b5c2bd3fab6007942e89da34020.600x338.jpg?t=1788151394"
+    ],
+    "store_url": "https://store.steampowered.com/app/2001760",
+    "store": "steam"
+  },
+  "Jurassic World Evolution 3": {
+    "name": "Jurassic World Evolution 3",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/df39f8c59232633e8e01ab63313b095402bdd0d5/header.jpg?t=1786453396",
+    "description": "Build your own Jurassic World. Nurture generations of dinosaurs with the series debut of juveniles, create and manage sprawling prehistoric parks around the globe, and let your imagination roar with powerful new creative options.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/0b20ad87376b89e206f5f32da3ee940b99ff2432/ss_0b20ad87376b89e206f5f32da3ee940b99ff2432.600x338.jpg?t=1786453396",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/6b01d4bbd5bcefdc9f771c7c2ec51cb637dd671d/ss_6b01d4bbd5bcefdc9f771c7c2ec51cb637dd671d.600x338.jpg?t=1786453396",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/69a4896780f5a0d08a57e1e731d2d5360e533f0e/ss_69a4896780f5a0d08a57e1e731d2d5360e533f0e.600x338.jpg?t=1786453396",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/252846e06848e8d5c21164cac7def9f1bbe7f3f3/ss_252846e06848e8d5c21164cac7def9f1bbe7f3f3.600x338.jpg?t=1786453396"
+    ],
+    "store_url": "https://store.steampowered.com/app/2958130",
+    "store": "steam"
+  },
+  "Planet Zoo 2": {
+    "name": "Planet Zoo 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/a5131aa4b84d04a55e3b9c561d7c886cc22bbe1c/header.jpg?t=1788453298",
+    "description": "Build a wilder world in Planet Zoo 2. Create distinctive zoos around the globe filled with awe-inspiring animals, including fully aquatic and flying species, before taking your experience beyond the zoo to release your animals into expansive Wildlife Reserves.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/550963bee33be9ef083c941b23926dd862465812/ss_550963bee33be9ef083c941b23926dd862465812.600x338.jpg?t=1788453298",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/7e0fc0eaf7fda772d542c0d0a7bed81fa696b821/ss_7e0fc0eaf7fda772d542c0d0a7bed81fa696b821.600x338.jpg?t=1788453298",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/96b260536141360093fccffb7cb382d360909331/ss_96b260536141360093fccffb7cb382d360909331.600x338.jpg?t=1788453298",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/06315faf196c03173ae0b6f5b10c02b6d084c4c4/ss_06315faf196c03173ae0b6f5b10c02b6d084c4c4.600x338.jpg?t=1788453298"
+    ],
+    "store_url": "https://store.steampowered.com/app/3219030",
+    "store": "steam"
+  },
+  "Warhammer 40,000: Chaos Gate – Deathwatch": null,
+  "Persona 6": {
+    "name": "Persona 6",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/96402e10ba89cccb7906eecd235d7d812f8f9eb0/header.jpg?t=1781799583",
+    "description": "The iconic RPG series returns! The highly anticipated next chapter delivers a bold, new standalone story blending heartfelt daily life and new characters with pulse-pounding, supernatural adventure. Whether it’s your first Persona game or you’ve been here since the beginning, this one’s for you.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/fa8bb6afc8e8c1a20b55e4b53d26a246b42939b0/ss_fa8bb6afc8e8c1a20b55e4b53d26a246b42939b0.600x338.jpg?t=1781799583",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/26e0482ff9fe3917b7fa93f48bc0281ae5f4d37b/ss_26e0482ff9fe3917b7fa93f48bc0281ae5f4d37b.600x338.jpg?t=1781799583",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/7577dd9dd409c11aa3b79574540ead8a9a720da4/ss_7577dd9dd409c11aa3b79574540ead8a9a720da4.600x338.jpg?t=1781799583",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/da124861f9b4802de471d6dc7ddf52d2663e0b1b/ss_da124861f9b4802de471d6dc7ddf52d2663e0b1b.600x338.jpg?t=1781799583"
+    ],
+    "store_url": "https://store.steampowered.com/app/2649560",
+    "store": "steam"
+  },
+  "Kingdom Hearts 4": null,
+  "Ace Combat 8": {
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1788941435",
+    "description": "Soar through the skies and rise above every challenge to earn your place among the elite. Engage in intense aerial combat to dominate the battlefield with powerful weapons. Experience a breathtaking campaign filled with high-stakes missions, hard choices, and deep squad connections.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/4a99c9c55a7d7163370dc68a5a9008517a32e84a/ss_4a99c9c55a7d7163370dc68a5a9008517a32e84a.600x338.jpg?t=1788941435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/a704b72d7c8647b2c6773731fe7a79979674dc70/ss_a704b72d7c8647b2c6773731fe7a79979674dc70.600x338.jpg?t=1788941435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/21213f14e460fd45dcc765d1d5ac02333b909d99/ss_21213f14e460fd45dcc765d1d5ac02333b909d99.600x338.jpg?t=1788941435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/e3759c9a25dbc27325e0454d5f80af8021e8b505/ss_e3759c9a25dbc27325e0454d5f80af8021e8b505.600x338.jpg?t=1788941435"
+    ],
+    "store_url": "https://store.steampowered.com/app/2288340",
+    "store": "steam"
+  },
+  "Stranger Than Heaven": {
+    "name": "STRANGER THAN HEAVEN",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260840/3e40b76faf9a3eafb4397dd51308eb2e48ac3660/header.jpg?t=1787806014",
+    "description": "A fifty-year, action-adventure saga of men with nowhere to go and their desperate struggle to find a home. Use extreme violence to survive, and musical talent to thrive as a showman across five cities and eras of modern Japan.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260840/f65464e2f5e566b75133e70b66835eaa1426b346/ss_f65464e2f5e566b75133e70b66835eaa1426b346.600x338.jpg?t=1787806014",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260840/b5e06a575d1056516057e17f5480df5469025eab/ss_b5e06a575d1056516057e17f5480df5469025eab.600x338.jpg?t=1787806014",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260840/34f79225201d7b3101c919ff4f54f6b3a66d7997/ss_34f79225201d7b3101c919ff4f54f6b3a66d7997.600x338.jpg?t=1787806014",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260840/7bba5e7ff5f318e7e53aba322b45a4b47b69aecc/ss_7bba5e7ff5f318e7e53aba322b45a4b47b69aecc.600x338.jpg?t=1787806014"
+    ],
+    "store_url": "https://store.steampowered.com/app/4260840",
+    "store": "steam"
+  },
+  "Rayman Legends: Retold": null,
+  "Disney Dreamlight Valley": {
+    "name": "Disney Dreamlight Valley",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/27/74/fb277448-0f16-6249-0280-4e82c72861d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Experience this life-sim and adventure game rich with quests, exploration, and engaging activities featuring Disney and Pixar friends, both old and new.\n\n\nABOUT DISNEY DREAMLIGHT VALLEY \nOnce an idyllic land, Dreamlight Valley was a place where Disney and Pixar characters lived in harmony -- until the Forgetting. Night Thorns grew across the land and severed the wonderful memories tied to this magical place. With nowhere else to go, the hopeless inhabitants of Dreamlight Valley retreated behind locked doors in the Dream Castle. Now it's up to you to discover the stories of this world and bring the magic back to Dreamlight Valley!\n\n\n\nGarden with WALL·E, cook with Remy or kick back and fish with Goofy. What better way to collect, craft, and rebuild the Valley than with a friend! From beautiful princesses to nefarious villains, every Dreamlight Valley resident brings their own story arc, quests, and rewards.\n\n\n\nBuild the perfect neighborhood that is just for you with a fully customizable layout, creative landscaping, and thousands of decorative items. Will you settle on the Beach next to Moana, or call Buzz Lightyear your next-door neighbor in the Plaza?\n\n\n\nFree the Dream Castle from the Forgetting's grasp and unlock the Realms of great queens and kings, such as Anna and Simba. Each Realm contains unique challenges with puzzles to solve in the quest to bring friendship back to the Valley. \n\n\n\nAssemble unique outfits and decorate your home with thousands of fantastic items. With the in-game Camera, get ready to snap a sunset selfie with Mirabel, capture a culinary creation with Remy, or simply cherish a moment. \n \nABOUT DISNEY DREAMLIGHT VALLEY: WISHBLOSSOM RANCH \nNestled amongst the Wishblossom Mountains is a special place powered by the Heart’s deepest wishes, where horses once roamed free and stables were full of life. That was until the Ranch fell into the hands of someone who neglected it, causing a mysterious phenomenon -- the Decay. Saddle up for an adventure with your magical new Disney friends to find the missing horses, reverse the effects of the Decay, and restore the Ranch to its former glory!\n\n\n\nABOUT DISNEY DREAMLIGHT VALLEY: THE STORYBOOK VALE \nOnce upon a time, the Storybook Vale was a land made up of fabled stories, where myths and fairy tales sprang to life… until Maleficent and Hades tore the Vale apart. With the guidance of the Lorekeeper, journey to the Vale and meet heroes and villains who will bring epic trials to undertake, stories to reassemble, and friendships to recover.\n\n\n\nABOUT DISNEY DREAMLIGHT VALLEY: A RIFT IN TIME \nOnce an ancient kingdom full of treasures and magical artifacts, Eternity Isle has become lost in time thanks to Jafar's meddling in magic. Journey to this faraway land and utilize a mysterious new Royal Tool -- the Hourglass -- as you discover new secrets and treasures, and decide if you can trust the nefarious Jafar. Stop Jafar's scheme to steal the Spark of Imagination, an ancient relic that holds the fabric of Dreamlight Valley together. With the help of the Hourglass, you are the key to fixing rifts in time and putting a stop to Jafar's evil plan!\n\n\n\nDISCLAIMER: Please note that Disney Dreamlight Valley Arcade Edition on Apple Arcade does not contain in-app purchases. As such, Star Path seasons and the Premium Shop are not found in this version. This version of the game does not support cross-save with platforms outside of the Apple Arcade ecosystem.\n\n\n\nTerms of Use: https://gmlft.co/terms-of-use-AA-DDV\nPrivacy Policy: https://gmlft.co/privacy-policy-AA-DDV\nEnd-User License Agreement: https://gmlft.co/eula-AA-DDV",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/78/de/f078deb8-4382-757b-0029-0b0cab543129/daebd85d-4591-439f-ba0f-011ec09277a2_5.5in_iPhone_2208x1242_pixels_-_Castle.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2f/54/64/2f546480-2631-1284-386d-52624ba7ecc2/d89ce402-4d35-4b03-8d60-414177f4a602_5.5in_iPhone_2208x1242_pixels_-_Gardening.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/69/f7/2b69f75d-8789-0a54-4631-484e0a81d58d/8c08f987-c709-4f56-bde1-b6bc6d7ea91e_5.5in_iPhone_2208x1242_pixels_-_Ursula.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/58/4f/61/584f6170-68fb-e2d6-f2a7-425b3ed756f6/2eddb020-dcf8-4dc6-aa38-c1fe58fd1dda_5.5in_iPhone_2208x1242_pixels_-_Furniture.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/disney-dreamlight-valley/id6456945575?uo=4",
+    "store": "appstore"
+  },
+  "Disney Magic Kingdoms": {
+    "name": "Disney Magic Kingdoms",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/5b/9d/cc5b9dcd-dc9e-a360-537d-b686d398e250/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "description": "Create the Disney Park of your dreams, filled with beloved Disney, Pixar and Star Wars™ characters, exciting attractions and special events! Join over 130 million players worldwide who have embraced their inner child building their own magical place on mobile.\n\nCOLLECT NEARLY 500 DISNEY, PIXAR AND STAR WARS™ CHARACTERS\n► From The Little Mermaid to Beauty and the Beast, Moana, The Lion King, Toy Story, and more!\n► Characters from 100 years of Disney magic!\n► Adventure in over 1,500 whimsical quests!\n\nBUILD YOUR OWN DREAM PARK\n► Build your Park with 250+ Disney Park attractions like Space Mountain, Haunted Mansion, and \"it's a small world\"!\n► Decorate and customize the Park your way!\n► Celebrate with iconic parade floats and fireworks!\n\nBATTLE DISNEY VILLAINS\n► Save your Park from Maleficent's evil curse!\n► Battle against Ursula, Gaston, Scar, Jafar and more!\n\nREGULAR EVENTS\n► New characters, attractions and other content added regularly!\n► Monthly and weekly special events with limited-time rewards!\n\nPLAY ANYWHERE, ANYTIME! \n► With offline mode, you can take your Park with you on the go!\n► Bring the magic home with you!\n\n_____________________________________________\nYou can download and play this game for free. Please be informed that it also allows you to play using virtual currency, which can be acquired as you progress through the game, or by deciding to watch certain advertisements, or by paying with real money. Purchases of virtual currency using real money are performed using a credit card, or other form of payment associated with your account, when you input your iTunes account password. You will not be asked to re-enter your credit card number or PIN. Once your iTunes account password is entered, your account will allow in-app purchases for 15 minutes. To restrict or disable in-app purchases, you can change the settings on your device.\nThis game contains advertising for Gameloft's products or some third parties which will redirect you to a third-party site. You can disable your device's ad identifier being used for interest-based advertising in the settings menu of your device. This option can be found in Settings -> Privacy -> Advertising.\nCertain aspects of this game will require the player to connect to the Internet.\nFind out more about the game on the official site -- http://www.disney-magic-kingdoms.com/\n_____________________________________________\n\nVisit our official site at http://gmlft.co/website_EN\nCheck out the new blog at http://gmlft.co/central\n\nDon't forget to follow us on social media:\nFacebook: http://gmlft.co/SNS_FB_EN\nX: http://gmlft.co/SNS_TW_EN\nInstagram: http://gmlft.co/GL_SNS_IG\nYouTube: http://gmlft.co/GL_SNS_YT\n\nThis app allows you to purchase virtual items within the app and may contain third-party advertisements that may redirect you to a third-party site.\n\nTerms of Use: http://www.gameloft.com/en/conditions-of-use\nPrivacy Policy: http://www.gameloft.com/en/privacy-notice\nEnd-User License Agreement: http://www.gameloft.com/en/eula",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/a6/a7/c8a6a76d-1d11-b0f8-e2f4-17cabe9c21a1/36cbf570-789f-499c-9c91-deb8c71a9841_DMK_24022_S_AppScrSeasons_6Gate_iPhone6Plus_EN.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/bd/24/09bd2407-4aca-100d-6332-1074a792ac9b/b3094e09-b467-45ae-9f1c-399281442161_DMK_24022_S_AppScrSeasons_ParkView_iPhone6Plus_EN.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/3a/a7/e43aa715-3eb6-9c48-cf6f-86410da804db/0a928da6-436e-4657-956f-be938026d5c9_DMK_24022_S_AppScrSeasons_LM_iPhone6Plus_EN.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/78/c9/0378c945-f3a2-3a62-fd2d-ad9d927cfb3b/def26c97-e5d6-4f85-b2f4-1efb38647711_DMK_24022_S_AppScrSeasons_IntroSky_iPhone6Plus_EN.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/disney-magic-kingdoms/id731592936?uo=4",
+    "store": "appstore"
+  },
+  "Disney Speedstorm": {
+    "name": "Disney Speedstorm",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/80/c3/b280c3c2-fe19-0555-909c-8a598d710e46/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "Drift into the ultimate hero-based combat racing game, set on high-speed circuits inspired by Disney and Pixar worlds. Master each character’s unique Skills on the racetrack and claim victory in this thrilling arcade racing experience from the creators of the Asphalt series!\n\nDISNEY & PIXAR GO FULL BATTLE RACING\nAn incredible cast of characters, including Sulley, Beast, Mickey Mouse, Mulan, Baloo, Captain Jack Sparrow, and more, are suited and revving up for racing combat. Upgrade each Racer’s stats and make the most of their unique Skills that can impact the outcome of a single race and dramatically change the way you play the game!\n\nARCADE RACING REDEFINED\nAnyone can pick up and play Disney Speedstorm, but mastering skills and techniques like timing your nitro boosts, precisely drifting around corners, and adapting to dynamic track environments are crucial to dominating each race.\n\nRACING TOGETHER HAS NEVER BEEN EASIER\nPick your Racer and speed through action-packed tracks solo, or challenge friends in local and online multiplayer modes. You can even face off with players from around the globe to become an online legend.\n\nDISNEY- & PIXAR-INSPIRED RACETRACKS\nStart your engine in environments inspired by some of your favorite Disney and Pixar films. From the docks of Pirates of the Caribbean’s Kraken Port to the wilds of The Jungle Book’s Jungle Ruins or the Scare Floor from Monsters, Inc., you can experience these worlds from a fresh, exciting perspective geared specifically for racing!\n\nCUSTOMIZE TO YOUR OWN STYLE\nChoose your favorite Racer’s suit, a flashy kart livery, and show off stylish wheels and wings -- all of this and more is possible with the extensive customization features in the game!\n\nNEW CONTENT RACING YOUR WAY\nThe action never slows down thanks to fresh seasonal content always around the corner. New Disney and Pixar Racers will be added regularly, bringing special skills for you to master (or overcome), and unique tracks will be created often, to pump fresh strategy into the mix. Support Crew characters, environments, customization options, and collectibles will also drop in regularly, so there’s always more to experience.\n\nThis app allows you to purchase virtual items within the app.\n\nPlease note that this game contains in-app purchases, including paid random items.\n_______________________________________________\n\nVisit our official site at http://gmlft.co/website_EN\nCheck out the new blog at http://gmlft.co/central\n\nDon't forget to follow us on social media:\nFacebook: http://gmlft.co/SNS_FB_EN\nTwitter: http://gmlft.co/SNS_TW_EN\nInstagram: http://gmlft.co/GL_SNS_IG\nYouTube: http://gmlft.co/GL_SNS_YT\n\nThis app allows you to purchase virtual items within the app and may contain third-party advertisements that may redirect you to a third-party site.\n\nTerms of Use: http://www.gameloft.com/en/conditions-of-use\nPrivacy Policy: https://www.gameloft.com/en/legal/disney-speedstorm-privacy-policy\nEnd-User License Agreement: http://www.gameloft.com/en/eula",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/9e/c9/8d9ec9f3-fcbd-80ee-47d6-1bf55a1e70ba/01_DS_MulanCar_2796x1290.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/99/66/fd9966ad-f37e-6dcd-38a3-da854f4fe0bb/DS_4racers_Elza_2796x1290.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/2c/98/7f2c98c0-2623-87fd-e352-f7c8b7e7ace5/DS_VenellopeUnique_2796x1290.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/05/7e/72057e9f-eb6a-c9c2-4966-4663a4315d93/DS_2racers_Ralph_2796x1290.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/disney-speedstorm/id6449708682?uo=4",
+    "store": "appstore"
+  },
+  "March of Empires": {
+    "name": "March of Empires: War Games",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/85/d7/9385d7ed-c9dc-dd65-7ce8-638019f72d4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Brace yourself for an age of massive medieval war, where you will march over your rivals’ burning remains in an all-out quest to conquer!\n\nFortify your castle, forge an army and enter the ultimate MMO of global domination! But as your civilisation grows, you’ll clash with ambitious powers, and only one king can claim the throne! Do you have the strength to unify the land under your banner? Or will you watch your kingdom crumble before you?\n\n◉ A KINGDOM IN YOUR HANDS\n• Dispatch armies, construct buildings, clash with barbarians, conquer territories and reshape the balance of power every day. \n• Every inch of your realm comes to life with amazingly detailed graphics\n\n◉ CHOOSE YOUR FACTION\n• Choose to be a Shogun, a Highland King, a Northern Tsar or a Desert Sultan.\n• Each army has a special advantage that emphasises a unique playstyle, whether you prefer to quickly build up your kingdom, strike with charging knights or fiercely defend your civilisation from invasion.\n\n◉ TERRITORIAL DOMINATION\n• Clash and conquer to grow your global influence daily.\n• Unlock special powers and bonuses as more lands fall to your army.\n• Fortify your defences to ward off enemy invasions.\n• Fight your way to the throne to become High King over the entire realm!\n\n◉  FORGE A CHAMPION\n• Choose a unique Champion – ranging from those as noble as knights or as merciless as Vikings – to lead your army and help build your kingdom.\n• Find and craft equipment to boost your Champion’s skills.\n• Command heroes and adventurers to set off on quests for treasures that will pave your path to the throne.\n\n◉  BUILD A THRIVING NATION\n• Build regional structures that you and your many allies can benefit from.\n• Establish thriving Trade Centres, forge sacred Temples, and clash over Stockpiles of treasure.\n\n◉  TACTICAL MMO WARFARE\n• A wise king chooses battle formations carefully! Cunning tactics hold more power than massive numbers.\n• Time your commands wisely to take advantage of the ever-changing seasons.\n\n◉  COMMAND A GLOBAL ALLIANCE\n• The Alliance management system makes it easy to organise with allies.\n• Intrigue will pave your path to the throne as you craft schemes with other Alliances. In this MMO world, there’s as much to gain from helping as there is from betraying.\n• Chat with players to forge friendships or verbally clash with rivals.\n\n◉  CLAIM THE SEATS OF POWER\n• Capture the five highly fortified castles that hold the Seat of Domain, Seat of Heroes, Seat of War, Seat of Order and Seat of Accord.\n• Each Seat grants its controlling Alliance unique perks and the ability to propose world-changing Policies.\n• Every player can take part, as all Policies are voted on by the entire Realm’s player population!\n• Enter a new level of diplomacy and intrigue as your Alliance must negotiate with rivals, and players at large, in order to win the votes needed to pass the Policies you want.\n• At the centre of it all lies the Throne of Might, which only one player may rule to wield the greatest power of all!\n\nFive castles hold the crucial thrones, each possessing a unique influence over the entire realm that only one Alliance can hold.\n\nDownload it now and forge your path to the throne!\n_____________________________________________\n\nVisit our official site at http://gmlft.co/website_EN\nCheck out the new blog at http://gmlft.co/central\n\nDon't forget to follow us on social media:\nhttp://gmlft.co/MOEFacebook\nTwitter: http://gmlft.co/SNS_TW_EN\nhttp://gmlft.co/MOEInstagram\nhttp://gmlft.co/MOEYouTube\nhttp://gmlft.co/MOEForum \n\nPrivacy Policy: http://www.gameloft.com/en-gb/privacy-notice\nTerms of Use: http://www.gameloft.com/en-gb/conditions-of-use\nEnd-User License Agreement: http://www.gameloft.com/en-gb/eula",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/9e/33/749e3380-485f-a2a6-6d1c-671b5bf26808/MOE_Castle_Screenshot_1290x2796.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/ca/5d/42ca5d0d-3358-01d0-5e9a-07b8ce786acf/MOE_Champ2_Screenshot_1290x2796.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/59/88/e159889f-9319-c34c-5892-a462e35d7003/MOE_Warpath_Screenshot_1290x2796.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/fe/77/0efe77ab-abf5-dc82-d8eb-b825e4d06deb/MoE_Menagerie_screen_1290x2796_EN.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/march-of-empires-war-games/id976688720?uo=4",
+    "store": "appstore"
+  },
+  "Puzzle & Dragons": {
+    "name": "Puzzle & Dragons (English)",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/30/1f/52301f2e-c827-9b13-a698-0401de25e330/AppIcon_en-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Step into the world of Puzzle & Dragons, an addictive, FREE match-3 puzzle game with classic monster-collecting RPG fun!\n\n-　INTUITIVE AND ENGAGING\n\nAssemble a powerful team of monsters and take on fierce foes in the depths of thrilling dungeons! Attacking is simple--just match 3 orbs of the same color to trigger an attack from the corresponding monster on your team. Chain multiple combos and colors to increase your damage and unleash devastating attacks from other monsters in your team!\n\n-    ENDLESS MONSTER COMBINATIONS, LIMITLESS POWER\n\nWith over 10,000 unique monsters to collect—from the cutest to the fiercest—the possibilities for team combinations are simply endless! Monsters can synergize with each other to enhance each other's abilities and make your teams more effective in battle. Build the team that suits your playstyle!\n\n-　RECIPES FOR EVOLUTION\n\nMonsters can unlock greater potential by evolving into new, more powerful forms. Choose from various evolution paths and optimize your monster collection to your liking.\n\n-　BRING YOUR FRIENDS INTO BATTLE\n\nExchange IDs with friends to recruit their monsters for support in battle and strengthen your lineup! Stay connected with the Puzzle & Dragons community with in-game messaging and social features designed to enhance your adventure.\n\n-　MULTIPLAYER DUNGEONS!\n\nPuzzle & Dragons becomes even more fun with Multiplayer Mode! Team up with your friends and tackle enemies by challenging Multiplayer Dungeons in the ultimate test of teamwork!\n\n-　LEGENDS UNFOLD IN STORY DUNGEONS!\n\nVenture into Story Dungeons and experience epic tales featuring powerful leaders and legendary dragons! Each dungeon brings a unique story, challenging battles, and rewarding adventures. Discover all the legends of Puzzle & Dragons!\n\nThe world of Puzzle & Dragons is ever-expanding, thanks to its thriving community and regular events and updates. It's also completely FREE to play, so start building your dream team of dragons and monsters today!\n\nNote: Puzzle & Dragons is free to download and play. In-app purchases are also available to enhance your gameplay experience. \nIn-app purchases are available via the “Shop” tab within the app.\nPlease refer to In-App Purchases for prices.\n*A network connection is required to play.\n\n▼Terms of Service/Privacy Policy\nhttps://pad.gungho.jp/member/app/en_tos/\nhttps://pad.gungho.jp/member/app/en_privacy/\n\n▼Official Website\nhttps://www.puzzleanddragons.us/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/19/0c/60190cb7-da75-8eba-12b0-46fceb8722f7/0_iPhone_5.5inch_na.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/9c/a9/219ca9b7-645c-fdef-1a7c-bfb5739f5adb/1_iPhone_5.5inch_na.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/b0/64/dfb0649f-01d1-faca-eba9-47aaf5a99b30/2_iPhone_5.5inch_na.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/ed/bd/2aedbdb9-b1f0-cdd5-ee35-6e011a148cfe/3_iPhone_5.5inch_na.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/puzzle-dragons-english/id563474464?uo=4",
+    "store": "appstore"
+  },
+  "Flourish by Garden Joy": {
+    "name": "Flourish by Garden Joy",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/87/9d/13879df5-f290-d1b7-85ab-4eeacef70a10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Decompress and express your creativity in a soothing outdoor home design game with Flourish by Garden Joy. Discover your inner peace and design dream homes with beautiful outdoor spaces at your own pace. Choose from modern house decor to exotic flowers in the #1 Outdoor Design Game. \n\nTake your time to decorate home gardens, style house patios, rooftop terraces, and more cozy spaces as you bring your creative exterior design dreams to life. There is no right or wrong way to express your home decor design ideas. Create and design home spaces how you want and when you want. \n\nRenovate and style houses with Better Homes & Gardens branded challenges! From the authority on all things home decor design and gardening, help sharpen your exterior design chops and creativity by designing gorgeous dream homes around the world using fabulous decor and amazing flora!\n\nLearn real details about flowers, plants, and trees while you decorate and design home gardens. Showcase your latest redesign! Receive valuable community feedback and inspire dreams with all the plant gatherings and creative home gardens you’ve been doing!\n\nIf you like relaxing games, exterior design, and enjoy the home decor life, Flourish by Garden Joy is that calm breath of fresh air you need! Download today to design dream homes and start your next garden makeover! \n\nIn this cozy exterior design and gardening game, you will:\n- Relax in a cozy home landscaping game\n- Express your creativity in soothing exterior design sessions\n- Style house decor and furniture for your home design makeover\n- Decorate the perfect home as a home designer\n- Collect seeds packs and trade them to grow your plant collection\n- Play the game, and trees will be planted in the real world\n- Learn fun and interesting facts about plants while playing our home design game\n\nFlourish by Garden Joy APP FEATURES:\n\nBRING YOUR EXTERIOR DESIGN IDEAS TO LIFE\n- Take your time and give a complete landscape makeover to vibrant outdoor spaces as a home designer!\n- Dive into the home decor design world and turn homes into havens with Flourish by Garden Joy – the ultimate home design and virtual gardening game.\n- Embrace the great outdoors as you style houses, renovate landscapes, and design home spaces!\n\nREDESIGN HOME GARDENS & HOUSES\n- Decorate various houses, from beautiful beach houses to English cottages and Mediterranean villas to mountain chalets.\n- Our home design game allows you to use your senses for interior and exterior design to beautify spaces without any pressure.\n- New and relaxing design sessions are added daily for you to decorate!\n\nTEAM UP IN MULTIPLAYER EVENTS.\n- Partner with up to 3 people for limited-time events to create stunning bouquets.\n- Use the flower tokens from completing challenges to build these beautiful floral arrangements. - The more tokens collected, the bigger the bouquet, the greater the rewards!\n- Share design ideas and interact with other players.\n\nGROW YOUR COLLECTION AS YOU RENOVATE\n- Collect and grow plants, trees, flowers, or bushes with seed packs.\n- Use your creativity and your collection of plants and furniture to come up with the best landscaping redesign for your home gardens.\n- Trade seed packs to enrich your collection of plants.\n- Collect stylish indoor and outdoor furniture such as sofa, bench, parasol, coffee table, etc. for your next redesign.\n\nPROTECT OUR PLANET EARTH\nBecause ecology and preservation of the ecosystem matter now more than ever, you can do your part while playing Flourish by Garden Joy. We have partnered with One Tree Planted in this eco-friendly game to give you the option to plant real trees just by playing the game.\n\nFlourish by Garden Joy allows you to unlock your inner home and garden designer! Craft charming home designs, learn about plants with the in-game encyclopedia, and contribute to saving the Earth while you play. Download today to start your next home design makeover!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/a1/7f/f6a17f4d-e596-749b-208f-d11ea7c351ca/PTN-40054_SS_Design-Focus_Iteration_V3_Redecor_hirqbkwmjl_1284x2778-03_xllk6zqh1q.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/6f/c9/a46fc91c-fd02-7bff-b055-07c9b527cfad/PTN-40054_SS_Design-Focus_Iteration_V3_Redecor_hirqbkwmjl_1284x2778-02_k4bbun4zgr.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/2e/0b/782e0b97-39f4-a8ac-50f2-23cc10f72408/PTN-40054_SS_Design-Focus_Iteration_V3_Redecor_hirqbkwmjl_1284x2778-01_kulf1ozaik.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/db/3e/45db3ed3-33e5-90f0-9ffd-a0328241836b/PTN-40054_SS_Design-Focus_Iteration_V3_Redecor_hirqbkwmjl_1284x2778-05_oyixnjocgo.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/flourish-by-garden-joy/id1618284064?uo=4",
+    "store": "appstore"
+  },
+  "LastWar": null,
+  "Fate/Grand Order": {
+    "name": "Fate/Grand Order (English)",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/ed/af/06edaf01-8355-807d-bfe7-b3344121ed7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "A new mobile \"Fate RPG,\" presented by TYPE-MOON!\nWith an impressive main scenario and multiple character quests, \nthe game features millions of words of original story!\nPacked with content that both fans of the Fate franchise and newcomers will be able to enjoy.\n\nSummary\n\n2017 A.D. \nChaldea, an organization tasked with observing Earth's future, has confirmed that human history will be eliminated at 2019. \nWithout warning, the promised future of 2017 disappeared.\nWhy? How? Who? By what means?\nAD. 2004. A certain provincial town in Japan.\nFor the first time ever, a region that could not be observed appeared.\nAssuming that this was the cause of humanity’s extinction, Chaldea carried out its sixth experiment - time travel into the past.\nA forbidden ceremony where they would convert humans into Spiritrons and send them back in time. By intervening in events, they would locate, identify, and destroy the space-time Singularities.\nThe mission classification is an order to protect Humanity: Grand Order.\nThis is the title for those who would take a stand against human history and battle fate in order to protect mankind.\n\nGame Introduction\n\nA command card battle RPG optimized for smart phones! \nPlayers become Masters and together with Heroic Spirits, defeat enemies and solve the mystery of human history's disappearance. \nIt's up the players to form a party with their favorite Heroic Spirits - both new and old. \n\nGame Composition/Scenario Direction\nKinoko Nasu\n\nCharacter Design/Art Direction\nTakashi Takeuchi\n\nScenario Writers\nYuichiro Higashide, Hikaru Sakurai\n\nRequired operating system: OS compatible with iOS 10.0 or higher.\nEnabled devices: iPhone 5 and higher, iPad 3rd generation and higher, iPad Mini 2 and higher, iPod touch 6th generation\n*Please confirm system requirements on home page instead of from the App Store compatibility.\n*Incompatible with iPod touch 5th generation and lower, iPhone 4S and lower.\n\nThis application uses \"CRIWARE (TM)\" from CRI Middleware Co. Ltd.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/dc/aa/b6dcaac0-2c9c-3a9c-c9b5-7f83d30d25a0/Title_iPhone5.5in_nonlabel.png.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/dc/66/73dc66ce-f4f6-d42d-5cc1-8c43005fbbee/7865626d-f06a-48a7-b18c-e17970a6f6f3_5.5_U30a4_U30f3_U30c1_2.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2e/f5/d02ef52c-89c2-0dbb-5ba9-c8fbfa622796/d610e66b-c4fd-4a4b-aa81-ea15767d2425_5.5_U30a4_U30f3_U30c1_3.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/38/69/be386984-64a2-ca91-b21e-cb4566887b9a/Altria_NoblePhantasm_iPhone5.5_2208x1242.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/fate-grand-order-english/id1183802626?uo=4",
+    "store": "appstore"
+  },
+  "Bancho The Chef": {
+    "name": "Bancho the Chef",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596430/4c91500b03cb5f1e293ca1d4005775b68e894dc8/header.jpg?t=1780438904",
+    "description": "&lt;Bancho the Chef&gt; is a cooking simulation + adventure game that follows Bancho from &lt;Dave the Diver&gt; during his youth on the road to becoming a sushi master. Travel through cities across Asia and experience the joy of cooking firsthand as you follow Bancho’s journey and learn unique local cuisines!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596430/4547d6ca0398894e8d896ff0ec3f64cebcd0b988/ss_4547d6ca0398894e8d896ff0ec3f64cebcd0b988.600x338.jpg?t=1780438904",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596430/1117e91c29d18ae52ae7910d6c985d57e420ad0d/ss_1117e91c29d18ae52ae7910d6c985d57e420ad0d.600x338.jpg?t=1780438904",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596430/295d2ba980c0c4ef9f228098e9e81782c242d2fc/ss_295d2ba980c0c4ef9f228098e9e81782c242d2fc.600x338.jpg?t=1780438904",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596430/d0bae368bf69e7fbb75f20b3037708bb9ff33d22/ss_d0bae368bf69e7fbb75f20b3037708bb9ff33d22.600x338.jpg?t=1780438904"
+    ],
+    "store_url": "https://store.steampowered.com/app/3596430",
+    "store": "steam"
+  },
+  "Just Desserts": {
+    "name": "Just Desserts: Revenge & Merge",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/9e/81/5b9e812c-0f4f-9d82-2774-8bd287261503/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Frosting Town, a place where sweetness hides deadly secrets.\n\nFollow the talented pastry chef Ella as she returns to her hometown to uncover the truth behind a mysterious fire. Merge delicious desserts, restore your burned family bakery, and dig through layers of frosting and cream to reveal the dark secrets buried beneath.\n\nMake Desserts\n\nMerge powdered sugar and butter to bake crispy cookies.\nUpgrade your creations to unlock elegant Swan Cakes and more exquisite desserts.\nThe more you create, the more advanced recipes you'll discover.\n\nRestore the Bakery\n\nRebuild your family bakery from burned ruins into a luxurious dream shop.\nChoose vintage tiles, glowing neon signs, and elegant furniture to design your perfect bakery.\nEvery restored area reveals new story clues.\n\nReconnect with the Past\n\nReunite with your former lover Edward—is he your savior or an accomplice to the fire?\nWhat schemes hide behind the smiles of your mysterious rivals?\nWhat secrets are hidden within your mother's mysterious recipe?\n\nUncover the Truth\n\nCollect clues from the night of the fire through merging and restoration.\nPiece together burned photographs, shattered ledgers, and cryptic notes.\nReveal the family secret someone desperately tried to bury forever.\n\nWarning: In this town, the sweetest smiles often hide the deadliest lies.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/07/85/b607852a-6e74-beb6-4102-0bed2190af4a/apple_1284x2778_1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/76/57/bc765751-b417-f7e0-27f1-3c3cd37437ea/apple_1284x2778_2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/81/db/5f81db98-1861-7515-9f52-e48690527c45/apple_1284x2778_3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/fb/57/d9fb570a-78ae-a8e7-866c-b33e5c757335/apple_1284x2778_4.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/just-desserts-revenge-merge/id6761531281?uo=4",
+    "store": "appstore"
+  },
+  "Travel Town": {
+    "name": "Travel Town - Merge Adventure",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/10/9e/e0109e46-df0c-c51b-d838-e9abb268fbff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Explore Travel Town, where you can combine everything into better and more useful items while you travel the world!\n\nReveal secrets as you discover yourself and help the friendly people of Travel Town!\n\n\nTRAVEL TOWN FEATURES:\n\n== Match Objects ==\n• Discover over 500 fantastic objects through hundreds of levels!\n• Freely drag objects around the beautiful world and match 2 of a kind evolve them into more superior items!\n• Fulfil the missions of the townsfolk to unlock more amazing items!\n\n== Meet New Villagers ==\n• Discover 55 villagers who live in Travel Town, and help them restore their seaside town!\n• Match objects to upgrade them and unlock more and more items to support you on your journey!\n\n== Town Building ==\n• A storm has ravaged Travel Town - Collect coins and bring the town back to its former beauty!\n• Discover and upgrade dozens of houses and improve the town beyond your wildest dreams!\n\nFollow Travel Town on Facebook and Instagram for exclusive offers and bonuses!\nFacebook: facebook.com/TravelTownGame/\nInstagram: instagram.com/traveltowngame/\n\nTerms of Service: https://static.moonactive.net/legal/terms.html\nPrivacy Notice: https://static.moonactive.net/legal/privacy.html\nThe game contains in-game purchases (including randomized items)\n\nQuestions about the game? Contact us in the game by clicking on Settings > Contact Us\nOur support is also ready and waiting at:  https://support.traveltowngame.com/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/2d/d3/a42dd3c2-8e19-2abd-b567-3feaab35a945/e922efb1-f499-434e-aff4-7816575200ff_TRT00291_OriginalSetUp.Update_Merge_1242_2208_EN.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/cf/2f/9acf2fac-043b-dbc9-133c-cbf1aa06ac00/d5ea34cf-f365-42e1-98af-fc98c3b2751e_TRT00291_OriginalSetUp.Update_Explore_1242_2208_EN.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/4d/77/2c4d778d-3dc7-08e7-c57b-abccfeb4a317/62272140-c711-4469-a7f6-8f314ae1df46_TRT00291_OriginalSetUp.Update_Build_1242_2208_EN.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/fe/94/58fe940f-5435-7150-26b2-657b32ef8a77/4e0bbc2e-5b9a-4eb1-ae17-116d295778a9_Copy_of_TRT00310_OriginalSet.GamePlay_Travel_1242_2208.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/travel-town-merge-adventure/id1521236603?uo=4",
+    "store": "appstore"
+  },
+  "Whiteout Survivals": {
+    "name": "Whiteout Survival",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "The world's original winter-themed mobile game! Over 400M players!\n\nThe blizzard has reset the world, and now, a new story awaits your touch!\nAs a rising survivor, gather your crew and team up with the free SSR hero Molly.\nTogether, you'll set out on a joyful adventure, spark the fire of hope, and rebuild a cozy home on the frozen frontier!\n\n[Game Features]\n◆Rebuild & Restore: Easy Progress\nWarmth begins with a single spark. Fire up the furnace to melt the snow and reclaim the land! Manage your people and resources to build a bustling, welcoming town!\n\n◆Idle & Earn: Constant Rewards\nSend your heroes out with one tap, then come back to a pile of resources ready for your next big upgrade, all stress-free.\n\n◆Tap & Play: Instant Fun\nGo ice fishing for rare catches or uncover hidden treasures beneath the snow. Perfect for quick, fun sessions anytime!\n\n◆Plan & Pair: Heroic Combos\nAll heroes share the same level, so you can upgrade and swap without the grind. Mix and match their skills for ultimate combos!\n\n◆Unite & Triumph: Shared Success\nJoin an alliance to heal faster, grow stronger, and explore further. Together, we share the chill and the cheer!\n\nReady to thrive in the frost? Download Whiteout Survival now — a perfect survival experience blending teamwork, idle fun, and smart strategy!\n\n[Follow Us]\nOfficial Website: https://whiteoutsurvival.centurygames.com\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/48/2a/83482a71-04bc-6ed3-449e-54b66250d8d6/ccc87e36-6463-4118-ad36-768f6457084d_01_1242x2208.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/78/69/b47869f0-5749-352b-a2ad-ee2bf450740a/01e846e8-9134-4d31-a8d1-23c0a9b3dbd7_02_U57ce_U5efa_U6728_U6750_U6536_U96c6_U53e0_U9ad8_U9ad8_EN_1242x2208__U534e_U6c0f_U5ea6.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/c1/51/43c15135-ebbb-c7ca-a89a-b5329211f77d/41f82ef4-b18b-4dba-a2e5-e08a4b39d0ae_03_U7b56_U7565_U57ce_U5efa_U4e94_U56fe2_EN_1242x2208__U534e_U6c0f_U5ea6.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/66/c8/1066c844-0cfc-b0d6-ab4d-1cad3f4914cb/d259f0c1-0725-4de3-864d-3df76059ad29_04_U4eba_U529b_U9700_U6c42_EN_1242x2208__U534e_U6c0f_U5ea6.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/whiteout-survival/id6443575749?uo=4",
+    "store": "appstore"
   }
 }
