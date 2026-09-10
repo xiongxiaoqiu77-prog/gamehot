@@ -6297,5 +6297,19 @@
     ],
     "store_url": "https://apps.apple.com/us/app/diablo-immortal/id1492005122?uo=4",
     "store": "appstore"
+  },
+  "Physint": null,
+  "OD": {
+    "name": "OD Pakistan",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/88/25/8b882567-14b0-d355-6e6e-fa4b72cab800/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "description": "Order your favourite food online and get them delivered right to your doorstep!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/d3/47/74d34761-4e24-f716-7c21-6af90f0706fa/1290x2796.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/ed/97/e2ed974b-5d72-5449-ba00-c3f3e4168487/1290x2796_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a6/dc/01a6dc44-8e43-d24d-7d2d-30a2d41d3d1f/1290x2796_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/3d/f2/bb3df2a3-7cdd-29f2-58ef-2902576341d8/1290x2796_3.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/od-pakistan/id1584114512?uo=4",
+    "store": "appstore"
   }
 }
