@@ -6350,5 +6350,109 @@
     ],
     "store_url": "https://apps.apple.com/us/app/raid-shadow-legends/id1371565796?uo=4",
     "store": "appstore"
+  },
+  "Descenders": {
+    "name": "Descenders",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/09/bb/b109bb80-6fad-7e63-aa99-2848180c5a59/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "description": "Descenders is extreme downhill freeriding for the modern era, with procedurally generated worlds, and where mistakes have real consequences. Will you lead your team to glory and become the next legendary Descender?\n\n• Procedurally generated worlds: Take on different jumps, slopes and hillbombs every time you play\n• Freestyle bike controls: Control every subtle movement of your rider, with an in-depth physics system made for slick whips and scrubs\n• Risk vs reward: Push your rider for massive scores and combos -- but bail too many times and you might lose it all\n• Build your Rep: A fully-featured online Rep system lets you show off your worth, and earn new bikes and threads\n• Become the next Descender: Can you survive the game in a single run, and reach the ranks of the legendary Descenders?\n\nPick a Team, Become a Legend\n\nIn Descenders, your team is your life. When you pick a side -- Enemy, Arboreal or Kinetic -- you'll be bound together with other players who choose the same side as you.\n\nGrab your bike, pick your team, and attempt to live up to the legend of your Descender. Will you join the die-hard, trick-frenzy ranks of Team Enemy, the proficient, off-road stylings of Team Arboreal, or the high-octane, speed-is-everything Team Kinetic?\n\n• Wear your team's colors and apparel with pride, and receive exclusive team gear\n• Your Rep points go towards your team's total Rep, and exclusive prizes are awarded to the top team\n• Gain access to your team's exclusive channel on the Descenders Discord server",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d3/7a/4c/d37a4cf2-2903-5f13-2651-cfa3b59a65f1/c226f0a0-d47d-4ec3-a3f0-142224e6138b_iPhone_Plus-1.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/16/ed/7d/16ed7d15-54ec-5aa6-f4f6-1901fafb8ffe/96adffd7-5734-449a-9952-a7d761306598_iPhone_Plus-2.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/fe/08/d0fe08ca-f07e-e551-29d5-0f66e4653735/6dfcd460-89b7-4d81-8914-ee4d71e9cc83_iPhone_Plus-3.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/65/69/ad/6569ad2b-1736-3696-8106-4b87fe309535/2cc593e6-8316-4166-a035-2552e2320814_iPhone_Plus-4.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/descenders/id1604675493?uo=4",
+    "store": "appstore"
+  },
+  "Cruise Control": {
+    "name": "FMS Cruise Control",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/0c/2b/460c2b23-59b7-467e-5bbf-28073a64931f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Cruise Control Mobile App offers FMS customers flexible access to real time shipment information while they’re on the move. Therefore, the application displays all relevant transport related information, independent of these being provided by either us, our carriers, subcontractors or further involved parties. In order to make sure you realize all relevant informations at one glance, the app displays deviations from the schedule using a traffic-light logic.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1e/c4/fd/1ec4fddb-1e76-f304-216d-a563ef9b4061/7e0673dd-1767-43bf-ac67-329c73e8fbed_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-03-01_at_20.01.12.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3b/5e/fb/3b5efbbc-b246-81aa-a971-0443c4c6ef2e/b69345b7-d253-4b1e-911c-5df83b7e1205_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-03-01_at_20.01.53.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2c/25/9b/2c259be7-fd8a-6040-3741-49ed77aa02b8/cdec918d-e2dc-45f5-8b59-0dbcd238a6cb_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-03-01_at_20.02.01.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8b/72/28/8b722825-0380-788f-dbd1-ded261ebddc3/39eff59c-c0c7-460e-93dd-99abc2818aa5_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-03-01_at_20.02.09.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/fms-cruise-control/id1440286400?uo=4",
+    "store": "appstore"
+  },
+  "Two Point Hospital": {
+    "name": "Two Point Hospital",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/header.jpg?t=1763648286",
+    "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_513fe00a570aae8aa17f0c7c34441d900ecea67d.600x338.jpg?t=1763648286",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_239c16a6a0faf1463d043503a828a1e443bd8d70.600x338.jpg?t=1763648286",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_37b485ac8c86b35d0d28afbb9d2f8370db45c87c.600x338.jpg?t=1763648286",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_d4eb2054ed07876863d049c741afe9c0c4b4b23d.600x338.jpg?t=1763648286"
+    ],
+    "store_url": "https://store.steampowered.com/app/535930",
+    "store": "steam"
+  },
+  "Two Point Museum": {
+    "name": "Two Point Museum",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/f518d1aa2754296e280ba3fe0d2bd4392fa6e3eb/header.jpg?t=1787235787",
+    "description": "Curate and manage incredible museums! Explore to discover amazing artifacts. Design and refine the layout, keep staff happy, guests entertained, donations plentiful… and children off the exhibits",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/9e6cbc42294ab41d4ebd29f89ec8796220f92293/ss_9e6cbc42294ab41d4ebd29f89ec8796220f92293.600x338.jpg?t=1787235787",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/04ea6066192b19166cf7ef0d9c1066cd265890f6/ss_04ea6066192b19166cf7ef0d9c1066cd265890f6.600x338.jpg?t=1787235787",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/28ae4634881bcc2cecfbfce51af5efe421847f3c/ss_28ae4634881bcc2cecfbfce51af5efe421847f3c.600x338.jpg?t=1787235787",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/fc3903f36c1c6cc278db1222a6a9f337edcb3ccc/ss_fc3903f36c1c6cc278db1222a6a9f337edcb3ccc.600x338.jpg?t=1787235787"
+    ],
+    "store_url": "https://store.steampowered.com/app/2185060",
+    "store": "steam"
+  },
+  "Mini Motorways": {
+    "name": "Mini Motorways",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/33/e7/8833e7ac-2621-f803-ec40-5773cb2e3c3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands.\n\nFrom the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?\n\nFeatures:\n\n• Draw roads in dynamic cities that grow and change—every game is unique!\n• Explore stunning maps inspired by cities all around the world.\n• Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n• Build without limits in Creative Mode—design your dream city exactly how you want it with unlimited upgrades and editing tools.\n• Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n• Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n• Select different color palettes on every map including colorblind and night modes.\n• Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n• Unlock new maps and achievements as you achieve mastery. \n• Export GIFs of your city layouts to share with your friends.\n• Compete against other players in Daily and Weekly Challenges.\n• Compatible with Siri Remote, Bluetooth and MFi controllers.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/0f/4e/4e0f4e21-c2a0-8888-0c2c-15e96411f09d/6b6a1ef5-352d-42e9-8be1-a00243ef55b8_English__U0028US_U0029-iPhone_5.5_U0027_U0027-2208x1242-EE-Update.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/d7/0d/fcd70d96-414f-db8a-b194-1e6d82aa5eef/81370a7b-1725-4da3-b4df-9147ebf0fd9f_English__U0028US_U0029-iPhone_5.5_U0027_U0027-2208x1242-EE-Update.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/69/e1/5369e1d5-8786-c554-4e93-009d6d8141f3/MiniMotorways_Screenshot_iPhone5.5_03b.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/d5/6b/b9d56b31-e85a-6d0e-00a4-26316376ea28/MiniMotorways_Screenshot_iPhone5.5_Creative.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mini-motorways/id1453901000?uo=4",
+    "store": "appstore"
+  },
+  "Space Marine": {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
+    "description": "Embody the superhuman skill and brutality of a Space Marine. Unleash deadly abilities and devastating weaponry to obliterate the relentless Tyranid swarms. Defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/14e7422dda767d6397b9552b0c8bf3f493094e2a/ss_14e7422dda767d6397b9552b0c8bf3f493094e2a.600x338.jpg?t=1787837240",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_ee88e4cc463b7b25b0ec03930a9e58e5fba2afdf.600x338.jpg?t=1787837240",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_66a8bc13bf868d0e2a76e4d797e6408c271065d7.600x338.jpg?t=1787837240",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_20a753725a34225553c5873fbc079626451ebcf9.600x338.jpg?t=1787837240"
+    ],
+    "store_url": "https://store.steampowered.com/app/2183900",
+    "store": "steam"
+  },
+  "Hellraiser": {
+    "name": "Clive Barker's Hellraiser: Revival",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/d1e7111b93b6a8b3eb029908887648348c2c55e6/header.jpg?t=1788982075",
+    "description": "Experience a new chapter in the legendary horror series like never before. Clive Barker's Hellraiser: Revival takes first-person action horror survival to the next level. Wield the powers of the Genesis Configuration puzzle box to survive your bargain with the infamous Pinhead.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/c1ab9f2ce87bd6fe76855c7643b88e8bfc4ba23b/ss_c1ab9f2ce87bd6fe76855c7643b88e8bfc4ba23b.600x338.jpg?t=1788982075",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/a761172260e53cb2420da91af90b8b1e551d767e/ss_a761172260e53cb2420da91af90b8b1e551d767e.600x338.jpg?t=1788982075",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/87fddab2f267105b3cda655a970d967610db9e49/ss_87fddab2f267105b3cda655a970d967610db9e49.600x338.jpg?t=1788982075",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/cdf209d9a3800e296fdc7ce1adc356e3c3c70d12/ss_cdf209d9a3800e296fdc7ce1adc356e3c3c70d12.600x338.jpg?t=1788982075"
+    ],
+    "store_url": "https://store.steampowered.com/app/1551980",
+    "store": "steam"
+  },
+  "Stuntman": {
+    "name": "Stuntman Ragdoll Action Movie",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/88/c5/e988c5c5-1096-b232-a5d6-54571babaa5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Camera, action! Have you ever wondered how it is like to be a movie stuntman? Well, now you have a chance to find out. Get ready to visit some classic movie scenes and perform really crazy stunts. Jump, fall, explode, and take a lot of punches. Everything in the name of good old entertainment. Master every scene to perfection, untill you hear the famous: Cut! We’ve got it! Enjoy the amazing world of cinematography from the completely new perspective. Do your best, so in the end the award for the best stuntman goes to you!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a6/86/a6/a686a678-7835-6ff9-48be-883bc1c06ee0/01d11625-b795-4769-8e89-92a4f6a8f2a3_2208x1242_1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/50/cd/1b/50cd1bd3-046f-4591-04e5-ed35a646be5e/e95c5445-0603-4dd8-8a44-c3c813b306f4_2208x1242_2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4d/5c/ba/4d5cba04-fbd3-4374-59bc-ce485578a8b6/0728371a-8f29-4a1f-b5d8-89ba10e0b63b_2208x1242_3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/eb/77/3c/eb773c75-f59f-394f-98b5-4c0ff1ba9ef5/a0b4f0bf-0fd8-44f5-b95d-0a56c40bb53d_2208x1242_4.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/stuntman-ragdoll-action-movie/id1638920206?uo=4",
+    "store": "appstore"
   }
 }
