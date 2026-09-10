@@ -6481,5 +6481,31 @@
     ],
     "store_url": "https://apps.apple.com/us/app/pikmin-bloom-walking-adventure/id1556357398?uo=4",
     "store": "appstore"
+  },
+  "Doom Eternal": {
+    "name": "DOOM Eternal",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/feaf8293bcd2d078422faa547bc0d707c08f606e/header.jpg?t=1783432602",
+    "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/ss_4f93a7c5003d49cb32f6c0c6e547452b284580a0.600x338.jpg?t=1783432602",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/ss_7e6a2148321c8024285e3924903d8897cac95358.600x338.jpg?t=1783432602",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/ss_af3b43c4be0029b52ceefaf55ebe1918e2cb3471.600x338.jpg?t=1783432602",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/ss_ebd31ded4723e991446ededa9e65c980f988567d.600x338.jpg?t=1783432602"
+    ],
+    "store_url": "https://store.steampowered.com/app/782330",
+    "store": "steam"
+  },
+  "Apart": {
+    "name": "Apartments.com Rental Finder",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/b7/32/48b7328f-2cee-7aee-4e5f-a5759c97a5b6/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "Find apartments, houses, condos, and townhomes for rent on Apartments.com. Explore listings your way, review unit-level details, and find your next rental all in one place. \n\n • Search: Look for rentals by city, neighborhood, or landmark. \n • Filter: Narrow your search by price, floor plan, amenities, pet policy, commute time, and more. \n • Explore 3D tours: Take immersive Matterport 3D Tours anytime, anywhere. \n • View photos and videos: View detailed floor plans and high-quality media. \n • Calculate costs: Estimate one-time fees and monthly expenses. \n • Book tours: Message property managers directly and schedule a tour.  \n • Save favorites: Revisit the rentals you love and get notifications about new listings. \n\nFrom first search to scheduled tour, Apartments.com helps you stay organized and informed at every step. Download the app today and start exploring rentals designed to fit your lifestyle.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/35/b9/c635b97d-3954-a8ab-9748-60b355da7661/SRP.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/45/35/b14535da-1d44-5a0f-d4ff-737075b85416/Unit_Details.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/cc/21/9ccc2150-d367-f287-2834-6b2fc06b0516/Cost_Calculator.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/2c/76/f72c7628-a4cc-3f43-f6b9-14863544fa54/Book_Tours.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/apartments-com-rental-finder/id319836632?uo=4",
+    "store": "appstore"
   }
 }
