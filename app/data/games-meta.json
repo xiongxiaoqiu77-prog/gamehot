@@ -6667,5 +6667,44 @@
     "store_url": "https://apps.apple.com/us/app/match-villains/id6479752688?uo=4",
     "store": "appstore"
   },
-  "Bobium Brawlers": null
+  "Bobium Brawlers": null,
+  "Death Stranding": {
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/21/46/5221468f-2c43-80c3-a117-84de564442d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. \n \nIn the future, a mysterious event known as the Death Stranding has opened a doorway between the living and the dead, leading to grotesque creatures from the afterlife roaming the fallen world marred by a desolate society. \n \nAs Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. \n Can you reunite the shattered world, one step at a time?\n\nDEATH STRANDING DIRECTOR'S CUT on iOS includes a HIGH FRAME RATE, PHOTO MODE, and cross-over content from Valve Corporation's HALF-LIFE series and CD Projekt Red's Cyberpunk 2077. Stay connected with players around the globe with the Social Strand System™.\n\nMac and iOS\n• Sign-in to iCloud and activation of iCloudDrive are required to play this product.\n• This product can be played offline, but a network connection is required to fully experience the Social Strand System™. Communication fees will be incurred during online play.\n\nOnly for iOS version\n• When playing this product for the first time, you will be required to download additional data. You can start the game once you have downloaded approximately 13 GB, but additional downloads will occur as the game progresses, requiring a total of approximately 50 GB of downloads. Additional downloads will occur when additional language voice data is used.\n\nFAQs\nhttps://505.games/DSDCAppStoreFAQ",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/70/cf/f170cf57-788c-9385-4804-712c533a1517/410957ff-3b63-4a28-b9b2-2439a9242187_DSDC_Mac_Crater.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/32/41/83/32418322-1b65-ee57-6891-e2babcdaf61b/80ee3e1d-ac84-44d1-a89d-5527488ced3e_DSDC_Mac_Truck.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/e1/f3/7de1f36f-b199-742a-66bf-4e3a4b4ae288/ebada4b7-4e66-40cf-a7b9-5edf50fb5b30_DSDC_Mac_Ladder.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/e1/9f/6ee19fff-1f92-05f6-4444-8130e98724b7/a674e766-d973-4d7f-9973-1682cebaedff_DSDC_Mac_Delivery.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/death-stranding-directors-cut/id6449748961?uo=4",
+    "store": "appstore"
+  },
+  "Insurgency: Sandstorm": {
+    "name": "Insurgency: Sandstorm",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/5cea6f39f733394deda9f85e36722d4ca5e3db5f/header.jpg?t=1779984920",
+    "description": "Insurgency: Sandstorm is a hardcore tactical FPS built on lethal close-quarters combat and ruthless intensity. Every bullet count, every step matters, and teamwork is your only path to survival in the brutality of modern warfare.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/e9bd8adcbac859cb277f71c5be1f1f1a63476000/ss_e9bd8adcbac859cb277f71c5be1f1f1a63476000.600x338.jpg?t=1779984920",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_bbd902e510ef8b24b78d94b16e807c223e39e5e1.600x338.jpg?t=1779984920",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_0b92e7b5f6e0e4cf18f3153137c993dc5785a6fc.600x338.jpg?t=1779984920",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_192cd45d586026563fc752c779ba20c11b5bb03b.600x338.jpg?t=1779984920"
+    ],
+    "store_url": "https://store.steampowered.com/app/581320",
+    "store": "steam"
+  },
+  "Warhammer 40,000: Space Marine 2": {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
+    "description": "Embody the superhuman skill and brutality of a Space Marine. Unleash deadly abilities and devastating weaponry to obliterate the relentless Tyranid swarms. Defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/14e7422dda767d6397b9552b0c8bf3f493094e2a/ss_14e7422dda767d6397b9552b0c8bf3f493094e2a.600x338.jpg?t=1787837240",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_ee88e4cc463b7b25b0ec03930a9e58e5fba2afdf.600x338.jpg?t=1787837240",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_66a8bc13bf868d0e2a76e4d797e6408c271065d7.600x338.jpg?t=1787837240",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_20a753725a34225553c5873fbc079626451ebcf9.600x338.jpg?t=1787837240"
+    ],
+    "store_url": "https://store.steampowered.com/app/2183900",
+    "store": "steam"
+  }
 }
