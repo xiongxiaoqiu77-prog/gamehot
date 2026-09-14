@@ -1,266 +1,289 @@
 {
-  "updated": "2026-09-11",
-  "generated_at": "2026-09-11T07:00:10.451568",
+  "updated": "2026-09-15",
+  "generated_at": "2026-09-15T07:00:20.923904",
   "articles": [
     {
-      "id": "5318fea350",
-      "title": "沙特高层考虑合并 Savvy 与 EA，打造全新游戏超级集团",
-      "summary": "据 Bloomberg 报道，沙特方面正考虑将 Savvy 与 EA 合并，合并后将汇集 Pokémon Go、Monopoly Go、EA FC、Madden、The Sims 与 Apex Legends 等团队，前提是 Savvy 先完成对 Moonton 的 60 亿美元收购。对从业者而言，这是中东资本进一步整合全球手游与主机游戏资产的重要信号。",
-      "url": "https://mobilegamer.biz/saudi-bosses-are-considering-merging-savvy-and-ea-to-create-a-new-gaming-supergroup-says-bloomberg/",
+      "id": "fc42786864",
+      "title": "超过 40% 取消 Xbox Game Pass、PlayStation Plus 和 Nintendo Switch Online 订阅的用户将原因归咎于涨价",
+      "summary": "调查显示涨价是玩家取消主机订阅服务的主要原因。对做订阅制、季票或 Battle Pass 的手游团队而言，可作为定价与用户流失敏感度的参考数据。",
+      "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-14T17:30:55",
+      "games": [
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列；文中提到Xbox Game Pass不再在发售首日包含新的《使命召唤》作品。"
+        }
+      ]
+    },
+    {
+      "id": "8dbd85d45d",
+      "title": "为什么没人预料到《Cyberpunk 2077》的崩盘",
+      "summary": "Deconstructor of Fun 邀请 Michal Nowakowski 复盘《Cyberpunk 2077》上线失利的那一周，以及促成 CD PROJEKT RED 崛起的关键交易。内容偏向大厂战略与项目管理复盘，对休闲游戏从业者的直接参考有限，但可借鉴其发行与预期管理经验。",
+      "url": "https://www.deconstructoroffun.com/blog/why-none-of-us-saw-cyberpunk-coming-apart",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-14T10:25:57",
+      "games": [
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt RED 开发的开放世界角色扮演游戏，2020 年发售时因严重技术问题被 PlayStation Store 下架，后续销量与口碑回升。"
+        }
+      ]
+    },
+    {
+      "id": "bcd497635a",
+      "title": "玩具巨头 Mattel 盯上移动端，想做出自己的《Monopoly Go》",
+      "summary": "拥有 UNO、Barbie 等 IP 的 Mattel 收购了 NetEase 在 Mattel163 的股份，并以 Mattel Game Studios 之名自建发行业务，COO Devin Nambiar 讲述其移动端野心。对休闲品类 IP 改编与发行策略有一定参考价值。",
+      "url": "https://mobilegamer.biz/toy-giant-mattel-has-set-its-sights-on-mobile-and-it-wants-a-monopoly-go-of-its-own/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-10T18:35:46",
+      "published_at": "2026-09-14T16:01:29",
       "games": [
-        {
-          "name": "Mobile Legends Bang Bang",
-          "desc": "由 Moonton 开发的 MOBA 手游。"
-        },
         {
           "name": "Monopoly Go",
-          "desc": "由 Scopely 开发的基于大富翁 IP 的休闲手游。"
+          "desc": "Scopely 与 Hasbro 合作的移动休闲棋盘游戏，成为现象级爆款，是 Mattel 想复制的目标。"
         },
         {
-          "name": "Pokémon Go",
-          "desc": "Niantic 开发的 AR 定位捕捉宝可梦手游。"
+          "name": "Monopoly",
+          "desc": "Hasbro 的经典棋盘游戏，被授权给 Scopely 后催生出爆款移动游戏《Monopoly Go》。"
         },
         {
-          "name": "Monster Hunter Now",
-          "desc": "Niantic 开发的 AR 定位狩猎动作手游。"
+          "name": "Uno",
+          "desc": "Mattel 旗下卡牌 IP 改编的移动游戏，是 Mattel 当前流量、收入和参与度最大的游戏之一。"
         },
         {
-          "name": "Pikmin Bloom",
-          "desc": "Niantic 开发的 AR 步行休闲手游。"
+          "name": "Phase 10",
+          "desc": "Mattel Game Studios 运营的卡牌/休闲移动游戏。"
         },
         {
-          "name": "EA FC",
-          "desc": "EA 的足球体育模拟游戏系列。"
+          "name": "Skip-Bo",
+          "desc": "Mattel Game Studios 运营的卡牌/休闲移动游戏。"
         },
         {
-          "name": "Madden",
-          "desc": "EA 的美式橄榄球体育模拟游戏系列。"
+          "name": "Barbie Dreamhouse",
+          "desc": "Budge 开发的芭比 IP 授权游戏，属于 Mattel Game Studios 运营的 live titles。"
         },
         {
-          "name": "The Sims",
-          "desc": "EA 的生活模拟游戏系列。"
+          "name": "Barbie Merge Mystery",
+          "desc": "Rollic 开发的芭比 IP 合并解谜游戏，属于 Mattel Game Studios 运营的 live titles。"
         },
         {
-          "name": "Apex Legends",
-          "desc": "EA 的免费英雄战术射击/大逃杀游戏。"
+          "name": "Masters of the Universe: Until Next Time",
+          "desc": "Mattel Game Studios 内部开发的跑酷游戏，配合《宇宙巨人》品牌电影上映推出。"
         }
       ]
     },
     {
-      "id": "fb8f53b060",
-      "title": "Newzoo：2026 上半年多数成熟 Live Service 与常青游戏同比持平或下滑",
-      "summary": "Newzoo 数据显示，2026 上半年多数成熟 Live Service 与常青产品收入同比持平或下降，增量更多流向新作。对做三消与休闲品类的团队而言，这是判断存量竞争加剧、买量与 LiveOps 投入回报变化的重要市场信号。",
-      "url": "https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-10T12:22:19",
-      "games": [
-        {
-          "name": "World of Warcraft",
-          "desc": "大型多人在线角色扮演游戏（MMORPG），文中列为2026上半年少数实现增长的常青在线服务游戏之一。"
-        },
-        {
-          "name": "Diablo 4",
-          "desc": "动作角色扮演游戏，文中列为2026上半年少数实现增长的常青在线服务游戏之一。"
-        },
-        {
-          "name": "Overwatch",
-          "desc": "团队射击游戏，文中列为2026上半年少数实现增长的常青在线服务游戏之一。"
-        },
-        {
-          "name": "Roblox",
-          "desc": "用户生成内容与沙盒游戏平台，文中列为增长并进入Q1 2026收入前十的项目。"
-        },
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "开放世界动作冒险游戏，文中预期其发售将推动主机玩家增长与第九世代主机装机量。"
-        }
-      ]
-    },
-    {
-      "id": "a3635d9c6d",
-      "title": "Xbox 将发行小岛工作室的 Physint，此前 PlayStation 放弃该项目",
-      "summary": "Xbox 宣布接手小岛工作室新作 Physint 的发行工作，此前该合作被 PlayStation 放弃。消息出现在 Xbox 大规模裁员、多项发行合作取消的动荡期，对关注主机与跨平台发行格局的从业者有一定参考价值，但与休闲消除品类关联较弱。",
-      "url": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
+      "id": "231072f132",
+      "title": "员工自治工作室 KO_OP 确认裁员",
+      "summary": "《Goodbye Volcano High》和《Young Suns》开发商 KO_OP 确认裁撤 13 个岗位。属于游戏行业公司与人力动态，对观察独立工作室经营环境有参考，但与休闲消除品类关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-10T19:35:18",
+      "published_at": "2026-09-14T10:11:41",
+      "games": [
+        {
+          "name": "Goodbye Volcano High",
+          "desc": "KO_OP 开发的叙事冒险游戏，文中作为该工作室代表作之一提及。"
+        },
+        {
+          "name": "Young Suns",
+          "desc": "多人生活模拟器，已在 Xbox 推出，并将登陆更多平台。"
+        }
+      ]
+    },
+    {
+      "id": "cbe30eaa00",
+      "title": "Level-5 CEO 承认在近期展示会中使用生成式 AI",
+      "summary": "Level-5 社长兼 CEO 日野晃博承认近期数字展示会使用了生成式 AI，并为此道歉。该事件反映游戏厂商在宣传素材中使用 AI 的争议，对行业合规和玩家沟通有参考意义。",
+      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T20:10:38",
+      "games": [
+        {
+          "name": "Professor Layton",
+          "desc": "Level-5 的解谜冒险系列，其近期展示会相关揭示被确认使用了生成式 AI 辅助制作。"
+        },
+        {
+          "name": "Yo-Kai Watch",
+          "desc": "Level-5 的角色扮演/收集系列，其近期展示会相关揭示同样涉及生成式 AI 使用。"
+        }
+      ]
+    },
+    {
+      "id": "afa8996121",
+      "title": "Valve 开放 Steam Frame 候补名单，起售价 1059 美元",
+      "summary": "Valve 为其新 VR 系统 Steam Frame 开放候补名单，起售价 1059 美元。属于 VR 硬件与平台发行信息，对 XR 游戏开发者有参考，但并非休闲手游核心议题。",
+      "url": "https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T18:03:34",
+      "games": [
+        {
+          "name": "Half-Life: Alyx",
+          "desc": "Valve 的 VR 第一人称射击/冒险游戏，随 Steam Frame 各型号附带。"
+        }
+      ]
+    },
+    {
+      "id": "6576dfefb9",
+      "title": "Rockstar 与 IWGB 在仲裁庭开庭时陈述论点",
+      "summary": "Rockstar 与英国独立工人工会 IWGB 在持续进行的就业仲裁庭上陈述各自论点，案件预计审理至 10 月 16 日。属于游戏行业劳动与公司治理新闻，对用工环境观察有参考价值。",
+      "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T16:22:08",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作游戏，其未完成开发影像泄露被公司引为需保护机密信息的背景。"
+        }
+      ]
+    },
+    {
+      "id": "cb263ea2ba",
+      "title": "据称 PlayStation 对 Kojima Productions 的 Physint 有预算、盈利潜力和独占性担忧",
+      "summary": "报道称 PlayStation 因预算、潜在盈利能力和独占性等担忧，停止参与 Kojima Productions 的 Physint。该消息反映 3A 与主机项目投资合作风险，与休闲手游领域关联较弱。",
+      "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T13:43:40",
       "games": [
         {
           "name": "Physint",
-          "desc": "小岛工作室的谍战游戏，原由 PlayStation Studios 发行，现改由 Xbox 发行。"
+          "desc": "Kojima Productions 的动作谍战游戏，PlayStation 因预算、盈利潜力和独占性担忧放弃合作，后转向 Xbox。"
         },
         {
-          "name": "OD - Knock",
-          "desc": "小岛工作室即将推出的项目，2025年底公布，Xbox 也将支持。"
+          "name": "Death Stranding",
+          "desc": "Kojima Productions 的开放世界动作冒险/送货游戏，限时独占 PlayStation 后登陆 PC、Xbox 和 Luna，未达 PlayStation 收入预期。"
         },
         {
-          "name": "NHL 27",
-          "desc": "EA 的冰球游戏，文中相关报道提到其使用生成式AI为解说员配音。"
+          "name": "Death Stranding 2: On the Beach",
+          "desc": "Death Stranding 续作，同样为限时独占，未达 PlayStation 收入预期。"
         },
         {
-          "name": "Hitman",
-          "desc": "IO Interactive 开发的潜行刺杀游戏系列，文中以“Hitman-maker”指代该工作室。"
-        },
-        {
-          "name": "Project Fantasy",
-          "desc": "IO Interactive 的游戏项目，Xbox 曾撤回资金与发行支持。"
+          "name": "OD",
+          "desc": "Kojima Productions 与 Xbox 合作开发的恐怖游戏。"
         }
       ]
     },
     {
-      "id": "6f4e41d684",
-      "title": "「做出一款好游戏，从中学习，再以此为基础继续构建」：离开 id Software 十年后转做独立开发的经验教训",
-      "summary": "Game Developer 采访 Doom Eternal 美术总监 Tony Garza 与 id 前同事 Richard O'Neal，讲述他们通过 Turnkey Games 投身独立开发的历程与心得。内容对独立团队的项目节奏与自我迭代有一定参考价值，但与休闲三消品类的玩法、数值和变现关联较弱。",
-      "url": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-10T18:56:42",
-      "games": [
-        {
-          "name": "Doom Eternal",
-          "desc": "由 id Software 开发的第一人称射击游戏，文章提到 Tony Garza 曾担任其艺术总监。"
-        },
-        {
-          "name": "Apart",
-          "desc": "Turnkey Games 正在开发的第三人称恐怖冒险游戏，玩家将扮演一截灵活断臂和一个模块化僵尸小孩穿越末日世界。"
-        }
-      ]
-    },
-    {
-      "id": "7d18252468",
-      "title": "“正义终于触手可及”：被解雇的 Rockstar 员工在格拉斯哥集会，反工会破坏听证会开始",
-      "summary": "被解雇的 Rockstar 员工在格拉斯哥举行集会，相关反工会破坏听证会开始，预计 10 月 16 日结束。该事件反映游戏行业劳资与工会争议，对关注海外工作室治理与用工环境的从业者有参考价值。",
-      "url": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-10T13:48:57",
-      "games": [
-        {
-          "name": "Grand Theft Auto VI",
-          "desc": "Rockstar 开发的开放世界动作冒险游戏，是《GTA》系列备受期待的续作。"
-        }
-      ]
-    },
-    {
-      "id": "d97da8e215",
-      "title": "No More Robots 九年历程：发行首款自研 IP——“听起来天真愚蠢，但不知怎地奏效了”",
-      "summary": "文章回顾 Mike Rose 创立独立发行商 No More Robots 九年来，从发行到推出首款自研 IP 的过程与经验。对独立游戏团队在发行、自研转型和长期经营上有一定启发，但与休闲三消/消除手游直接关联较弱。",
-      "url": "https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasing-its-first-self-developed-ip-this-sounds-so-naive-and-stupid-but-somehow-its-working",
+      "id": "5d600fed6b",
+      "title": "新 StarCraft 作品将于 2030 年推出，为开放世界 FPS",
+      "summary": "暴雪宣布下一款 StarCraft 作品将于 2030 年推出，并从 RTS 转向开放世界 FPS。属于重磅 IP 方向调整新闻，对行业趋势有参考，但与休闲消除品类无关。",
+      "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-10T16:15:33",
+      "published_at": "2026-09-14T10:29:14",
       "games": [
         {
-          "name": "Descenders",
-          "desc": "自行车骑行/速降竞速游戏，是 No More Robots 发行的首款作品并持续热销。"
+          "name": "StarCraft (2030)",
+          "desc": "系列新作，从即时战略转向开放世界第一人称射击，计划 2030 年推出。"
         },
         {
-          "name": "Cruise Control",
-          "desc": "No More Robots 首款自研游戏，从游轮管理模拟演变为受《Mini Motorways》启发的解谜游戏。"
+          "name": "StarCraft (original)",
+          "desc": "1998 年推出的原版即时战略游戏。"
         },
         {
-          "name": "Concord",
-          "desc": "团队在线射击游戏，发售后迅速下架，被视为在线射击市场问题的信号。"
+          "name": "StarCraft 2: Legacy of the Void",
+          "desc": "2015 年推出的即时战略作品，也是该系列上一部新作。"
         },
         {
-          "name": "Two Point Hospital",
-          "desc": "医院经营模拟游戏，文中作为 Cruise Control 初期方向参考。"
+          "name": "StarCraft Ghost",
+          "desc": "2002 年公布、2006 年取消的 StarCraft 第一人称射击项目。"
         },
         {
-          "name": "Two Point Museum",
-          "desc": "博物馆经营模拟游戏，文中作为同类管理游戏参考。"
+          "name": "Ares",
+          "desc": "2019 年取消的 StarCraft 项目代号，取消原因为优先开发 Diablo 4 和 Overwatch 2。"
         },
         {
-          "name": "Mini Motorways",
-          "desc": "极简风格交通规划解谜游戏，文中作为 Cruise Control 转型灵感来源。"
+          "name": "Diablo 5",
+          "desc": "计划于 2029 年春季推出的 Diablo 新作。"
+        },
+        {
+          "name": "Diablo 4",
+          "desc": "暴雪的动作角色扮演游戏，文中提到将获得新内容。"
+        },
+        {
+          "name": "Overwatch 2",
+          "desc": "暴雪的团队射击游戏，文中作为取消 Ares 时优先开发的项目之一被提及。"
+        },
+        {
+          "name": "World of Warcraft: Forever",
+          "desc": "原版 World of Warcraft 的重制扩展版，2026 年 11 月 4 日发布，含新区域、任务、地下城、团本和新种族。"
         }
       ]
     },
     {
-      "id": "4ba14638af",
-      "title": "GTA 6 Netflix 预览在六小时独家窗口内带来超 10 万注册",
-      "summary": "Ampere Analysis 数据显示，Rockstar 在 Netflix 独家发布 GTA 6 预览，8 月 27 日六小时内为 Netflix 美国带来超 10 万注册，成为 2026 年第三大订阅增长峰值。对关注 IP 联动、订阅平台内容和用户获取的从业者有参考意义，但与休闲游戏设计关联较弱。",
-      "url": "https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window",
+      "id": "f66d43cf52",
+      "title": "《Moss》开发商 Polyarc Games 宣布关闭",
+      "summary": "《Moss》开发商 Polyarc Games 宣布在成立 12 年后关闭。该消息反映 VR 工作室的生存状况，对 XR 生态和中小团队风险有参考，与休闲手游无直接关系。",
+      "url": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-10T13:50:35",
+      "published_at": "2026-09-14T08:00:08",
       "games": [
         {
-          "name": "Grand Theft Auto 6",
-          "desc": "Rockstar 开发的开放世界动作冒险游戏，其 Netflix 独家预览带来大量注册。"
+          "name": "Moss",
+          "desc": "Polyarc 的 VR 冒险解谜游戏，2018 年推出首作。"
         },
         {
-          "name": "Cyberpunk",
-          "desc": "科幻角色扮演游戏系列，文中称 Netflix 可通过改编等方式触达游戏受众。"
+          "name": "Moss: The Forgotten Relic",
+          "desc": "将原两部 Moss 游戏整合到非 VR 平台的作品，于两个月前推出。"
         },
         {
-          "name": "The Witcher",
-          "desc": "奇幻角色扮演游戏系列，文中称 Netflix 可通过改编等方式触达游戏受众。"
+          "name": "Glassbreakers: Champions of Moss",
+          "desc": "在线竞技 VR 策略游戏，于去年推出。"
         }
       ]
     },
     {
-      "id": "6a43431d51",
-      "title": "Saber Interactive 首席创意官称“我们从未用 AI 取代任何人”",
-      "summary": "Saber Interactive 首席创意官 Tim Willits 回应公司一名编剧被 ChatGPT 替代的指控，强调团队没有用 AI 替换人员。该新闻涉及游戏开发中的 AI 应用与舆论争议，对关注生产流程和行业用工的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-10T13:11:44",
-      "games": [
-        {
-          "name": "Rideshare Stimulator",
-          "desc": "Saber Interactive 即将推出的共享出行/驾驶模拟游戏，主战役由人类编写，部分模式含 AI 生成内容。"
-        },
-        {
-          "name": "Space Marine",
-          "desc": "Saber Interactive 提及的科幻动作射击游戏项目，文中称未使用生成式 AI。"
-        },
-        {
-          "name": "Hellraiser",
-          "desc": "Saber Interactive 提及的恐怖题材游戏项目，文中称未使用生成式 AI。"
-        },
-        {
-          "name": "Stuntman",
-          "desc": "Saber Interactive 提及的特技驾驶游戏项目，文中称未使用生成式 AI。"
-        }
-      ]
-    },
-    {
-      "id": "2bd7b73117",
-      "title": "手游 Age of Magic 运营八年累计收入达 1.2 亿美元",
-      "summary": "报道 Playrix 旗下手游 Age of Magic 八年累计收入 1.2 亿美元、下载量 2000 万次。属于长线运营手游的营收数据案例，可为休闲与中核产品的长线留存与变现节奏提供参照。",
-      "url": "https://gameworldobserver.com/2026/09/10/the-revenue-of-the-mobile-game-age-of-magic-reached-120-million-over-eight-years-of-operation",
+      "id": "6023c633f3",
+      "title": "Smilegate 创始人的前妻在诉讼中赢得公司 35% 股份",
+      "summary": "韩国 Smilegate 创始人权赫彬离婚诉讼后，前妻李和珍获得公司 35% 股份；Smilegate 以 Crossfire 和 Lost Ark 闻名。属于重大公司股权与法律动态，对休闲手游从业者有行业观察价值但非品类分析。",
+      "url": "https://gameworldobserver.com/2026/09/14/the-ex-wife-of-the-smilegate-founder-won-35-of-the-companys-shares-in-a-lawsuit-against-him",
       "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-10T13:27:20",
+      "published_at": "2026-09-14T11:55:52",
       "games": [
         {
-          "name": "Age of Magic",
-          "desc": "移动端英雄收集与战队对战游戏，运营八年累计收入达1.2亿美元、下载量2000万次。"
+          "name": "Crossfire",
+          "desc": "第一人称射击游戏，是 Smilegate 最知名的代表作之一。"
         },
         {
-          "name": "SuperCity",
-          "desc": "城市建造模拟器，文中提到其在移动和网页平台运营15年收入约1亿美元。"
+          "name": "Lost Ark",
+          "desc": "MMORPG，Smilegate 的另一款知名代表作。"
         },
         {
-          "name": "RAID: Shadow Legends",
-          "desc": "英雄收集与战队对战手游，文中作为Age of Magic同类参照被提及。"
+          "name": "Crossfire: Sierra Squad",
+          "desc": "《穿越火线》IP 的 VR 射击游戏，文中作为配图标题被提及。"
         }
       ]
+    },
+    {
+      "id": "94b133df02",
+      "title": "Roblox 计划让创作者把游戏变成独立应用",
+      "summary": "RDC 2026 还公布了离线游玩、网页即点即玩、2D 游戏支持与新的创作者分成工具。属平台政策与工具更新类资讯。",
+      "url": "https://mobilegamer.biz/roblox-to-let-creators-turn-their-games-into-standalone-apps/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T10:50:23",
+      "games": []
     }
   ]
 }
