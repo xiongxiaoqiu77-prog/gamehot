@@ -7147,5 +7147,241 @@
     ],
     "store_url": "https://apps.apple.com/us/app/pocket-wiki-for-valheim/id1557299576?uo=4",
     "store": "appstore"
+  },
+  "Wardogs": {
+    "name": "WARDOGS Companion | MetaForge",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/ec/58/83ec58fa-44ce-dcaf-32b8-d5ff91662a47/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "Every weapon, round, attachment and vehicle in WARDOGS — with what it actually costs.\n\nWARDOGS is a game about money. You start every life with $10,000 and buy your loadout from scratch, so the question is never just \"what's the best gun\", it's \"what can I afford, and what do I give up to have it\". WARDOGS Companion is built around that question.\n\nTHE FULL VENDOR DATABASE\n535 items across 13 categories — 40 weapons, 182 attachments, 146 rounds, 23 vehicles and the rest of the gear. Every one with its real vendor price.\n\nCOST PER ROUND\nAmmunition is sold in boxes, so the sticker price hides what a magazine really costs. We do the division for you, on every load.\n\nSORT BY WHAT MATTERS\nPrice, damage per dollar, or cost per round — not just A to Z.\n\nCOMPATIBILITY THAT IS ACTUALLY CORRECT\nEvery weapon lists the rounds it chambers and the attachments that fit it. Every round lists the weapons that take it.\n\nTHE KAVKAZI MAP\nAll 60 control zones drawn as their real capture areas, straight from the game's own level data — plus vendors, spawns, safe zones and vehicle deployment points. Only five of the eleven towers can actually be captured, and the map tells you which.\n\nCOUNTDOWNS\nTo the closed beta and to Early Access, with a reminder you can set on your device.\n\nWORKS OFFLINE\nThe whole database caches on your phone after the first load, so it is there in a queue or on bad hotel wifi.\n\nUnofficial and fan-made. Not affiliated with, endorsed by, or associated with BULKHEAD Interactive or Team17. \"WARDOGS\" and all related names, marks and assets belong to their respective owners.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/06/3a/f7063ac1-054a-d1c3-2876-8f15a5a48248/01-dashboard.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/66/6f/71666f50-1b91-10fb-8e10-738be81cd6b5/04-ballistics.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/ce/af/27ceaf9e-f25d-16f5-068e-213f037cecab/02-armoury.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/c6/ac/4bc6ac41-7b46-c590-d132-35d93f271662/03-loadout.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/wardogs-companion-metaforge/id6803200411?uo=4",
+    "store": "appstore"
+  },
+  "Callisto Protocol": {
+    "name": "The Callisto Protocol™",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1760331403",
+    "description": "Survive to escape the horrors of Callisto and uncover the dark secrets of Jupiter’s dead moon.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_4daaba46ca4be453dfdc2c1c2af5f96c85921457.600x338.jpg?t=1760331403",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_187717234058d8d23583cbde9dcd0b22456fcd2d.600x338.jpg?t=1760331403",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_3eaa6817de5d3849c0f6fa04b937165147804c82.600x338.jpg?t=1760331403",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_bcee7d0948cdcd3ff45012f10ebc6fc73a8ffc61.600x338.jpg?t=1760331403"
+    ],
+    "store_url": "https://store.steampowered.com/app/1544020",
+    "store": "steam"
+  },
+  "Modern Warfare III": null,
+  "Fallout 76": {
+    "name": "Unofficial Map for Fallout 76",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/5c/49/ce5c4922-f2fb-6917-66f0-e6b63f6fdbf8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "A fan-made map for FO76. We've collected hundreds of important FO76 locations into one simple map, so you can quickly find what you're looking for! \n\nFEATURES:\n• Over 2000 locations - resources, treasure, holotapes, power armor, weapons, workshops & more!\n• 60 different categories including Bobbleheads, Magazines and Vendors\n• Quicksearch - just type the name of a location to quickly find what you're looking for.\n• Progress Tracker - mark locations as found and track the progress of your collectables. \n• Sync progress with the website: https://fo76map.com\n• Take Notes - mark places of interest by adding notes to the map.\n\n\nIf you find a bug, or have any suggestions for the app, please use the 'Send Feedback' option below to let us know!\n\nDisclaimer: MapGenie is in no way affiliated with Bethesda or FO76.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/b6/b2/02b6b2fb-6d5c-1456-43cd-9727a2b1d5b5/mzl.vtpdmpjg.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/c2/b1/71c2b163-8718-c7d3-90df-c9f56982fdf6/mzl.uedicspl.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/25/de/1325def9-bc05-3ee1-14c5-eeefe7c3581d/mzl.glpattnu.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/36/4c/d4/364cd497-2ff5-79fd-869e-009929c174a3/mzl.zagbibof.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/unofficial-map-for-fallout-76/id1443677990?uo=4",
+    "store": "appstore"
+  },
+  "Metroid Dread": null,
+  "MindsEye": {
+    "name": "Mindseye OS",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/45/14/b6451409-afb2-2746-b789-8a1eb9892ab2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "Mindseye OS is your space for alignment, awareness, and personal transformation.\n\nDesigned to support your inner journey, Mindseye combines guided tools, reflective practices, and immersive sound experiences to help you reconnect with your purpose, clarity, and emotional balance. Whether you’re beginning your self-growth journey or deepening your awareness, Mindseye provides a calm and structured environment to support your daily evolution.\n\nCore Features:\n\nAlignment Tools\n\nSet intentions and personal goals\n\nTrack your growth and progress\n\nStay focused on your highest priorities\n\nConscious Journaling\n\nFree-write reflection space\n\nGuided shadow work prompts (Premium)\n\nSave and revisit personal insights\n\nAffirmations\n\nDaily mindset support\n\nCategories for confidence, healing, abundance, and self-love\n\nMeditation & Frequency Audio\n\nCalming soundscapes and ambient music\n\nDelta and Theta frequency libraries (Premium)\n\nDeep subconscious and relaxation tracks\n\nGuided Growth Experiences (Premium)\n\nStructured awareness journeys\n\nEmotional healing and mindset development\n\nConscious living practices for daily integration\n\nSubscription Options:\n\nUpgrade your experience with Mindseye Premium:\n\nAwakening - $4.99/month\n\nGuided shadow work prompts\n\nExpanded affirmation categories\n\nExtended music and frequency library\n\nStructured manifestation and growth content\n\nAscension - $9.99/month\n\nFull access to all premium features\n\nAdvanced sound libraries\n\nGuided transformation journeys\n\nExclusive consciousness and alignment content\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n\n\nSubscriptions automatically renew unless canceled at least 24 hours before the end of the current period. You can manage or cancel your subscription anytime in your Apple ID account settings.\n\nPayment will be charged to your Apple ID account at confirmation of purchase.\nYour subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.\nYour account will be charged for renewal within 24 hours prior to the end of the current period.\nYou can manage or turn off auto-renew in your Apple ID Account Settings at any time after purchase.\n\n\nRestore Purchases\n\nAlready subscribed? Restore your access anytime from the Shop page.\n\nYour growth begins within.\nCreate space for clarity, healing, and conscious evolution with Mindseye.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/25/ae/b125aed8-e2df-106f-1f2c-e19e6205f941/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/73/a9/da73a9ad-a575-5c74-f708-e3f3b9e2de4d/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/b6/c8/74b6c856-d64c-663f-2079-d5313f0b86c8/3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/59/69/1d596901-b8b2-5be2-a9bf-a158e6ebb33c/4.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mindseye-os/id6755451755?uo=4",
+    "store": "appstore"
+  },
+  "Everwind": {
+    "name": "Everwind",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/81c5fb1f7602d9fe92ae9971e9c2b587e6cbeb54/header.jpg?t=1788785596",
+    "description": "Everwind is a novel take on RPG and Sandbox Survival genre in First-Person-Perspective. Embark on the adventure with your friends - Build a base on a flying island-ship, gather resources, craft, loot, and fight while you rise above the clouds to uncover the mysteries of this world!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/7d16d6f6890eedd3b763b6c41703b495bcb517b7/ss_7d16d6f6890eedd3b763b6c41703b495bcb517b7.600x338.jpg?t=1788785596",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/216bb9e4c0a22fdfd8ff3f6179eb967e2665c79e/ss_216bb9e4c0a22fdfd8ff3f6179eb967e2665c79e.600x338.jpg?t=1788785596",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/aff297579052eeb30477b51c1009f7ddf04673cf/ss_aff297579052eeb30477b51c1009f7ddf04673cf.600x338.jpg?t=1788785596",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/b7a1c49ef5f7d134901a28b527821f36c277dc60/ss_b7a1c49ef5f7d134901a28b527821f36c277dc60.600x338.jpg?t=1788785596"
+    ],
+    "store_url": "https://store.steampowered.com/app/2253100",
+    "store": "steam"
+  },
+  "DayZ": {
+    "name": "iZurvive - DayZ Maps",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/85/af/5485af22-0448-d9f4-aaa4-97c86a9b8a52/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "description": "iZurvive provides you with DayZ, Arma 3 and Arma Reforger maps including loot spawns, landmarks and city names. Join a group with your friends and coordinate your gameplay with shared markers and shapes on the map. Always updated with the maps and information of the latest patch.\n\nMAPS - \nThe app contains high-resolution maps for Chernarus, Livonia and Sakhal as well as community made maps like Namalsk, Deer Isle, Chiemsee, Rostow, Esseker, Takistan, Banov, Swans Island and Pripyat. Many more maps for Arma 3, Arma Reforger and the original DayZ Mod are also available. \nMost of the maps are available as satellite or topographic versions.\n\nNAVIGATION - \nNavigate the map via landmarks, town signs and images of buildings. Entered a town but not sure where you are? Search for the city name in the map search.\nUse the distance measurement to accurately zero your scope or to plan your next route including the travel time.\n\nLOOT - \nFind the gear and food you need by filtering the map for certain loot spawns. Learn more about a specific loot spot with detailed information like images and categories of items which are able to spawn.\n\nTEAMWORK -\nJoin a group with your teammates! You can place markers and mark areas on the map which will be instantly synchronized with everyone in your group. Locating and coordinating your team in the huge open world of DayZ and Arma 3 has never been easier.\n\nWIKI -\nAll guns & weapons available in the game with detailed information about ammo & attachments and where you can find them.\n\nCOMMUNITIES - \nLooking for people to play with? Browse through an extensive list of diverse communities and join one that looks interesting to you.\n\n\nWhat other DayZ players are saying about iZurvive:\n\n“This is the best app ever 4 dayz always updated and innovative” - Run-tmt\n\n“This app has been a life saver so many times in game. I just started playing a week ago and idk what I would do without iZurvive.” - Pandamonium502\n\n“This app let me find the boys and finally we are together” - dinocooper\n\n“This is a great app for dayz maps and more. It’s a go to anytime I am lost or need a route to plan out. Simply the best! Fully customizable to meet your needs and what you want on your screen.” - Kase da ace\n\n\nFor any questions, or if you feel that we should really have a certain feature in the next version, please contact us: support@izurvive.com\n\nThis app is not affiliated with Bohemia Interactive.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8a/bf/0c/8abf0c2c-0713-fa7d-0202-fc49abdcd224/f9dbb208-7417-45f7-a7c1-4e0cf03b43fb_iPhone_8_Plus-01-map-topo-markers_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a5/9b/c9/a59bc9a2-88b1-263f-a854-8243390203f9/09df1570-3196-412b-b87a-16770c0170df_iPhone_8_Plus-02-map-sat_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2e/60/35/2e603538-ffb3-9dcd-97e9-ca4f57ea5b6d/278168ae-92a0-480e-8eff-b599a58e64d8_iPhone_8_Plus-03-lootmap_framed.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2f/1b/df/2f1bdf31-3cf0-dfb0-1548-c7ed1328f616/c5a51c2f-a956-4cb2-bad4-a425fede15dc_iPhone_8_Plus-04-search_framed.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/izurvive-dayz-maps/id585632597?uo=4",
+    "store": "appstore"
+  },
+  "Arma": {
+    "name": "Arma Mobile Ops",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/50/aa/a2/50aaa261-766c-838a-0ebf-b9f46179a507/AppIcon-1x_U007emarketing-85-220-5.png/512x512bb.jpg",
+    "description": "A MUST PLAY real-time military strategy game – from the creators of Arma 3 and DayZ: challenge your strategic skills and join up to a million Commanders in epic PvP battles worldwide. Got what it takes to win? Enlist NOW!\n\n“Arma Mobile Ops” is playable for free from the beginning till the very end, with optional in-app purchases.\n\nFeatures:\n● STRATEGIZE the best way to smash your opponents in real-time PvP matches\n● COMMAND your armies: control their movement and direction, and go stealth or assault\n● ATTACK opponents with an effective combo of infantry, ground or air drones\n● TRAIN your military force, create your unbeatable base, and gather sufficient resources\n● POWER UP and structure your base optimally to keep it safe from enemy raids\n● STRIKE back fast for revenge and rank up your units to achieve victory\n● STRENGTHEN your force on the raid with precise bomb strikes and other types of air support\n● FORM ALLIANCES with friends, climb up the league ladders and rake in some sweet resources as a winning prize\n● EXPERIENCE different game modes: singleplayer campaign, PvP or Faction Wars\n\nNote: internet connection is required to play\n\nVisit our Facebook page at: https://www.facebook.com/armamobileops/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5f/16/7f/5f167fab-65fb-0d70-ec44-6d6271834f95/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/db/73/1e/db731e0d-e39b-8c8c-b3bb-a36ceeae5683/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a9/cd/68/a9cd684a-c569-a2d3-5480-dd5dddb0fcd6/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d7/70/99/d7709966-998b-5962-6837-d79d635fe15d/pr_source.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/arma-mobile-ops/id1050973882?uo=4",
+    "store": "appstore"
+  },
+  "Crazy Taxi": {
+    "name": "Crazy Taxi Driver Game",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/4f/a3/5d4fa39f-c764-a442-dc0c-bc821b42b147/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "Pick up riders, turn on autopilot and focus on whatever madness is happening in the back seat. Every ride becomes a mini sandbox experience where you can chat with passengers, poke them, tease them calm them down, or simply sit back and watch pure chaos unfold.\nEarn cash from every trip and use your money to unlock fun items in the store. Clean your taxi, upgrade your tools and prepare for random events that make every ride feel fresh and unpredictable.\nPassengers are powered by a full physics-based ragdoll system with funny reactions. They dance, fight, mess around, annoy you on purpose, interact with the car or surprise you with weird and hilarious behavior. Some riders come with unusual challenges from strange requests to unexpectedly gross or funny tasks.\nSometimes passengers are friendly. Sometimes they’re complete disasters. How you deal with them is totally up to you.\nThis is not a serious driving simulator. It’s a silly, chaotic, cartoon-style taxi game.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ee/15/e0ee1564-7b74-ddba-1736-be83bf79c904/2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/1a/3e/671a3ef7-ad31-f481-ef91-d1ff862d3004/1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/e5/4f/78e54f01-8fbc-c915-7a00-6b2d81802165/5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/c8/e4/ccc8e44f-122e-26f9-3485-1ecead44ade4/3.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/crazy-taxi-driver-game/id6757622542?uo=4",
+    "store": "appstore"
+  },
+  "Sonic": {
+    "name": "SONIC Drive-In - Order Online",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/de/0c/9ede0c73-3cb8-9b14-7249-d69f38e8317c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Looking to make life more delicious? Download the SONIC® Drive-In app now to ditch the dull and make food fun again. Enjoy exclusive offers, find your closest location, and customize when ordering your favorites - NERDS® in your slush, no problem! It’s time to Live Free. Eat SONIC.\n\n- Create an account for exclusive offers and rewards you can redeem when you order ahead.\n- Find the closest SONIC Drive-In locations and see their hours.\n- Browse the menu, customize your favorites and save time when you order ahead in the app. Check out what's new and view nutritional info for each item.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/65/50/1065506b-bf8d-bdc9-2164-34079185cd3d/3c7e6234-ae10-44b5-ad6f-22a8d41bb940_2024_Sonic_App_Store_iOS_1242x2208_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/f7/ca/3af7ca66-d4c3-2937-712f-beb42ee3d8da/cb9f6ee0-0e2c-4470-9722-49a1913cbf44_2024_Sonic_App_Store_iOS_1242x2208_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/fa/1a/3afa1a0c-3db7-0dbe-c174-14e47e1002ca/ea525775-4eba-4800-b3cb-05e09bd6f5c4_2024_Sonic_App_Store_iOS_1242x2208_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/88/6a/88886a7f-9b19-e027-f0b8-cc5e358cfd64/d1c7eaf3-b2c8-4b0e-8de5-516057e88976_2024_Sonic_App_Store_iOS_1242x2208_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/sonic-drive-in-order-online/id867827909?uo=4",
+    "store": "appstore"
+  },
+  "Devil May Cry": {
+    "name": "Devil May Cry: Peak of Combat",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/91/16/c29116d2-391f-0da3-14fb-65aed69a90b9/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "\"Devil May Cry: Peak of Combat\" is an authorized mobile game created by NebulaJoy, with the deep participation of the official team of CAPCOM Devil May Cry! The game inherits the Devil May Cry's free, flexible, strategy skills and gorgeous, unconstrained fighting style, and at the same time, it also brings players an immersive combo experience with its industry-leading motion capture technology, which perfectly reproduces the most distinctive battles of Devil May Cry, make the experience more diverse.\n\nIn order to maintain the consistent worldview of the Devil May Cry series, the game also restores the classic characters, scenes, weapons, and BOSS of the Devil May Cry series to the greatest extent, and presents the unprecedented Gothic world with the highest quality art scenes and visual effects, and witnesses the undisclosed brand new plot of the original series.\n\n[CAPCOM Supervised]\nSupervised by CAPCOM for the entirety of the development process, making sure that everything is up to CAPCOM's standards.\n\n[Revisit Devil May Cry]\nFeaturing characters from the multiple Devil May Cry series, revisit countless iconic scenes from the world of Devil May Cry.\n\n[Combat at Your Fingertips]\nExperience the charm of an incredible Action Game franchise, Devil May Cry, on your mobile device.\n\n[Classic Returns]\nAll prominent classic Devil May Cry gameplay elements are accurately recreated, including Bloody Palace, Skyfall Well, and Mystery Solving.\n\n[Easy to Pick Up]\nEnjoy a satisfying combo experience that is easy to pick up and showcase your stylish skills.\n\n[Aerial Ace: SSS Combo!]\nPerform sensational aerial combos, bringing you an unparalleled action-game experience.\n\n[Fair PVP + Co-op with Friends]\nLike classic competitive games, there is no pay-to-win element in PvP. In this fair arena, skills and strategies are your only allies.\n\nOfficial Website: https://dmc.nbjoy.com\nTwitter: https://twitter.com/dmc_poc\nYouTube: https://www.youtube.com/@devilmaycrypeakofcombat\nDiscord: https://discord.com/invite/devilmaycrypoc\nFacebook: https://www.facebook.com/DevilMayCryPeakofCombat",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ea/14/92/ea1492b1-339c-3ae8-d2f1-6dbedd844b98/6f724835-ea30-493a-bd9b-5e69b17716ea__U9b3c_U6ce3_U6d77_U5916_U516c_U6d4b_U4e94_U56fe_U9996_U56fe-_U82f1_U6587-2208-1242.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d2/4a/ab/d24aab37-ba27-5e20-dc3f-bccc715e3681/a7c436b8-6d8b-4f35-8739-a20e54fc2ad4__U9b3c_U6ce3_U6d77_U5916_U4e94_U56fe-2208-1242-8.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/55/9a/6e/559a6e7b-0faa-57e9-7f72-879bb5b42103/b6c450b9-f0f1-4f44-98ed-44c9c5561534__U9b3c_U6ce3_U6d77_U5916_U4e94_U56fe-_U82f1_U8bed2208-1242-6.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2e/bf/fe/2ebffe91-dd01-d1ac-a529-ace21b853453/a30a3633-e1b3-4994-bc21-575c56a13827__U9b3c_U6ce3_U6d77_U5916_U4e94_U56fe-_U82f1_U8bed2208-1242-4.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/devil-may-cry-peak-of-combat/id6449589065?uo=4",
+    "store": "appstore"
+  },
+  "Gears of War": {
+    "name": "Gears of War: E-Day",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1789489685",
+    "description": "Experience Emergence Day – the brutal origin story of one of gaming’s most acclaimed third-person shooter franchises.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/e3833eef1e791059ccc552657987135061dd1e22/ss_e3833eef1e791059ccc552657987135061dd1e22.600x338.jpg?t=1789489685",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/9f53d13358740a67674a6adb86fbb7a8289bde0f/ss_9f53d13358740a67674a6adb86fbb7a8289bde0f.600x338.jpg?t=1789489685",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/b5ba5567b6da5c30f4825517750aad1c16c2806a/ss_b5ba5567b6da5c30f4825517750aad1c16c2806a.600x338.jpg?t=1789489685",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/e3a1b5dd47f876eb7817a7c5ef321ee22b75bd20/ss_e3a1b5dd47f876eb7817a7c5ef321ee22b75bd20.600x338.jpg?t=1789489685"
+    ],
+    "store_url": "https://store.steampowered.com/app/3010850",
+    "store": "steam"
+  },
+  "Magic: The Gathering": {
+    "name": "Magic: The Gathering Arena",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/90/d8/df90d872-1cfd-e4f6-d967-cbee7160c90a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to the digital Multiverse! Magic: The Gathering is the original trading card game- and now you can download and start playing for free with your friends from anywhere!\n\nMagic: The Gathering Arena empowers you to discover your strategy, meet the planeswalkers, explore the multiverse, and battle friends around the world. Collect, build and master your unique deck that will become its own legend. Your battle is only the beginning; duel on stunning battlefields, and enjoy Arena’s game changing battle effects and immerse yourself in the game. Start playing for free, challenge your friends, unlock cards, and feel the magic of the original fantasy CCG!\n\nNO EXPERIENCE NECESSARY\nNever played Magic before? No problem! Magic: The Gathering Arena’s tutorial system takes you through the playstyles so you can find your strategy and decide if you’re the type to overwhelm your opponent with brute strength, if subterfuge is more your style, or anything in between. Meet characters from around the multiverse and try out spells and artifacts that make learning to play the original fantasy collectible card game quick and fun. It’s never been easier to play Magic! Collect cards to build a deck that matches your personality, then master your strategy to battle friends and be part of the TCG that started them all.\n\nGAME ON(LINE)\nThe original TCG is now digital! Explore the fantasy worlds of Magic: The Gathering Arena and build your deck, play a variety of game formats to collect cards, master multiple strategies, and hone your skills against friends or the AI. With multiple game formats like Draft and Brawl, 15 unlockable collectible decks, and explosive card combo effects: Your ideal Magic: The Gathering playstyle is at your fingertips! Show off eye-popping cosmetics like avatars, card sleeves, and pets and collect daily rewards to grow your collection and build powerful decks that reflect your personal strategy.\n\nCHALLENGE AND PLAY\nDuel your friends for glory or enter in-game tournaments for exciting prizes! With Draft and Brawl pairing, there is always someone to game with. Special in-game events offer exciting rewards, and with Esports qualifiers your Pro-Magic dreams are closer than you think in the Arena Premier Play League! Queue into casual battles to hone your strategy at your own pace, or battle in Esports qualifiers and frequent tournaments to flaunt your mastery.\n\nFANTASY AND MAGIC\nDive into the fantasy planes of Magic: The Gathering and write your own legend through Magic’s immersive lore and vibrant card art. Find your path through the multiverse using only favorite characters and their most iconic spells and artifacts, or create a theme deck with a narrative that makes sense only to you. Your story is only just beginning!\n\nAll prices inclusive of VAT. \nWizards of the Coast, Magic: The Gathering, Magic: The Gathering Arena, their respective logos, Magic, the mana symbols, the planeswalker symbol, and all character names and their distinctive likenesses are property of Wizards of the Coast LLC. ©2019-2026 Wizards. \nPlease visit https://company.wizards.com/legal/wizards-coasts-privacy-policy to view Wizards of the Coast's privacy policy and https://company.wizards.com/legal/terms to view Wizards of the Coast's terms of use.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/50/ee/1b50ee6a-438d-f956-5a79-303d2906aba2/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_CardGame_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/75/95/3675957d-c46a-26c7-0c86-15368155b907/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_CrossPlatform_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/30/bd/0930bdb9-40f5-06b2-3209-97100ee7a46f/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_CompeteOnline_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/c1/56/d6c1561b-5ab7-adcc-a9bf-c68e88a39799/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_ChooseFormat_Mobile_EN.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/magic-the-gathering-arena/id1496227521?uo=4",
+    "store": "appstore"
+  },
+  "Overcooked": {
+    "name": "Overcooked! 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg?t=1789028281",
+    "description": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons… it’s time to save the world again!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/ss_2f84a12e1fe82cca37848bf29d4b8b16e83db03b.600x338.jpg?t=1789028281",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/ss_7f290dccbdc3c0eb9ded951717bceba5d7455764.600x338.jpg?t=1789028281",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/ss_652d62549a8a5fdf4f0061e20b16a3cd9a19dc45.600x338.jpg?t=1789028281",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/ss_773917e64738bc879685cff49b8ac6eb4f15ab93.600x338.jpg?t=1789028281"
+    ],
+    "store_url": "https://store.steampowered.com/app/728880",
+    "store": "steam"
+  },
+  "Hell Let Loose: Vietnam": {
+    "name": "Hell Let Loose: Vietnam",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1787663962",
+    "description": "Step into the explosive fury of war with Hell Let Loose: Vietnam. Play a decisive role in one of the most iconic conflicts in history with expansive 50v50 player battles, where teamwork, tactics and an arsenal of destructive weapons combine to shape the battlefield in your favour.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/e1d146573b2c021d304470e86546dae48d39e7fb/ss_e1d146573b2c021d304470e86546dae48d39e7fb.600x338.jpg?t=1787663962",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/fb21816a2c0ca32baad5ed87638ba524062ca128/ss_fb21816a2c0ca32baad5ed87638ba524062ca128.600x338.jpg?t=1787663962",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/4bcb4e8760ec1e0eeb201ba070578c426395ae9c/ss_4bcb4e8760ec1e0eeb201ba070578c426395ae9c.600x338.jpg?t=1787663962",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/7062aaf95e4f4d1226bdb0b870400875623654d9/ss_7062aaf95e4f4d1226bdb0b870400875623654d9.600x338.jpg?t=1787663962"
+    ],
+    "store_url": "https://store.steampowered.com/app/3079210",
+    "store": "steam"
+  },
+  "Lumentale: Memories of Trey": {
+    "name": "LumenTale: Memories of Trey",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/6512a26417d949546969b9ec5c96f04f955b62d5/header.jpg?t=1784117418",
+    "description": "LumenTale: Memories of Trey is a captivating Monster Collector RPG set in a beautiful and enchanting world. Follow Trey as he embarks on an adventure to recover his missing memories and make new ones with the Animon.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/d16e8fc84b66f02823a57e3c492f221c7cd78e60/ss_d16e8fc84b66f02823a57e3c492f221c7cd78e60.600x338.jpg?t=1784117418",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/13fd31cf7784532624b35214d5259fc5305a6ec3/ss_13fd31cf7784532624b35214d5259fc5305a6ec3.600x338.jpg?t=1784117418",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/452e625cad27cbf1c970544ed2286bdc59ffff28/ss_452e625cad27cbf1c970544ed2286bdc59ffff28.600x338.jpg?t=1784117418",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/f1100f7a0327a6056ac2438b58a654fe5bbd0cc7/ss_f1100f7a0327a6056ac2438b58a654fe5bbd0cc7.600x338.jpg?t=1784117418"
+    ],
+    "store_url": "https://store.steampowered.com/app/2261430",
+    "store": "steam"
+  },
+  "Sintopia": {
+    "name": "Sintopia",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/cb8c74ab4bbbfac5476a865fb5a1d04a64045ac1/header_alt_assets_1.jpg?t=1785921001",
+    "description": "Manage Hell. Manipulate the Overworld. Build the resurrection business of your dreams! In Sintopia, you’re tasked with managing the bureaucratic administration of Hell: “re-educate” the sinful, generate profit, play god and expand your hellish empire. All part of a day’s work at Hell Incorporated.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/886af6d0c78f5b758234b997e21b6d34254e65e3/ss_886af6d0c78f5b758234b997e21b6d34254e65e3.600x338.jpg?t=1785921001",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/72b233c9555d2d92b0894e47e1a6896a3bb4fcb7/ss_72b233c9555d2d92b0894e47e1a6896a3bb4fcb7.600x338.jpg?t=1785921001",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/09597a16a4510b699fd4356f88d5683fd4be64c8/ss_09597a16a4510b699fd4356f88d5683fd4be64c8.600x338.jpg?t=1785921001",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/08f19056159b94966f502d90a59722a0d3ef7b85/ss_08f19056159b94966f502d90a59722a0d3ef7b85.600x338.jpg?t=1785921001"
+    ],
+    "store_url": "https://store.steampowered.com/app/2213700",
+    "store": "steam"
+  },
+  "Wardrum": {
+    "name": "Wardrum",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680670/757474155250659dc1aff0a30e10c920f38885d5/header.jpg?t=1778253606",
+    "description": "Lead a tribal warband and time your attacks to the beat of the Wardrum in this tactical turn-based roguelite! Forge a path across a harsh fantasy world full of rhythm magic, face death and strengthen your warriors until you have the power to destroy the dark sorcery infecting the lands.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680670/4d060b368be00ecaeb5f9eab44d880994ae265a9/ss_4d060b368be00ecaeb5f9eab44d880994ae265a9.600x338.jpg?t=1778253606",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680670/72c6ad8a074418b12b42870e4129421a07a9f6ef/ss_72c6ad8a074418b12b42870e4129421a07a9f6ef.600x338.jpg?t=1778253606",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680670/d735a7e9a905f5ce6716a62a54d0e7ed3c837775/ss_d735a7e9a905f5ce6716a62a54d0e7ed3c837775.600x338.jpg?t=1778253606",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680670/6292a32e0ff71d7a59663b746de89beadc308bc1/ss_6292a32e0ff71d7a59663b746de89beadc308bc1.600x338.jpg?t=1778253606"
+    ],
+    "store_url": "https://store.steampowered.com/app/2680670",
+    "store": "steam"
+  },
+  "Rogue Point": {
+    "name": "Rogue Point",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/f7813cb09da234430a30c090906b9796f659ebea/header.jpg?t=1786608108",
+    "description": "From the creators of Black Mesa: Welcome to Rogue Point! A 4-player co-op shooter where teamwork is everything. Join forces on intense missions with evolving objectives and powerful upgrades. Plan, Adapt, and Overcome. Your squad’s survival depends on it.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/103072ebdbdf075c544381809b8acf9d0884ab42/ss_103072ebdbdf075c544381809b8acf9d0884ab42.600x338.jpg?t=1786608108",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/ec90e1edd26dc190ba0d8f0a18bc749e9c4e4920/ss_ec90e1edd26dc190ba0d8f0a18bc749e9c4e4920.600x338.jpg?t=1786608108",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/b39518cf7397178de968283b860a76c3205bf6f8/ss_b39518cf7397178de968283b860a76c3205bf6f8.600x338.jpg?t=1786608108",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/59ae0aadcfe0203be8dbf983096782499d426add/ss_59ae0aadcfe0203be8dbf983096782499d426add.600x338.jpg?t=1786608108"
+    ],
+    "store_url": "https://store.steampowered.com/app/1843840",
+    "store": "steam"
   }
 }
