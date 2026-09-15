@@ -7002,5 +7002,150 @@
     ],
     "store_url": "https://store.steampowered.com/app/1636030",
     "store": "steam"
+  },
+  "Dead Island": {
+    "name": "Dead Island 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/header.jpg?t=1761231459",
+    "description": "A deadly virus is spreading across Los Angeles, turning its inhabitants into zombies. Bitten, infected, but more than just immune, uncover the truth behind the outbreak and discover who - or what - you are. Survive, evolve and become the ultimate Zombie Slayer.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/ss_d0ac6f8e16e69a331d848b879f6a2384f4cd8acd.600x338.jpg?t=1761231459",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/ss_480f620579dbf5514834cea9db59b1ccfb8de8d3.600x338.jpg?t=1761231459",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/ss_e026a2f2800af5cef892b1677f028ee47bc97426.600x338.jpg?t=1761231459",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/ss_55cf5d81b4ac85d2ecf19ebb46b7c7d593e0d4cd.600x338.jpg?t=1761231459"
+    ],
+    "store_url": "https://store.steampowered.com/app/934700",
+    "store": "steam"
+  },
+  "Conan Exiles": {
+    "name": "Companion for Conan Exiles",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/53/0a/6e530a67-a01b-39fa-c8e8-af6dcb844247/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "description": "This Unofficial App has information that is usable for players of the Conan Exiles game.\n\nFeatures\n- Fully Dynamic Map (Zoomable and Pannable) with Coordinates. Toggle-able Markers for over 1000 items including Resources Nodes(Iron, Coal, Crystal), Monsters, Religious Shrines and Teachers, Caves, Barbarian Camps and Villages. \n- Resources and Materials information, generic information as well as sources/crafting process and important notes.\n- Material Calculator, add any number of items or buildings and set the amount you require and the App will tell you the total materials needed.\n- Recipes information, items taught by recipes linked for quickly viewing information about said items.\n- View info & stats for Weapons, Shields, Tools, Armors, Buildings, Food and more.\n- Tips section.\n\nIf you ever encounter any problems, notice something wrong with the data or have suggestions for features, please use the Feedback button in the App, we always respond and appreciate your involvement in the future of the App.\nThanks in advance from your fellow Conan Exiles Players!\n\nThis is an Unofficial Community Driven Conan Exiles App and has no affiliation with FunCom™\n\nLegal Notice\n© 2016 Funcom Oslo A/S (“Funcom”). All rights reserved. © 2016 Conan Properties International LLC (“CPI”). CONAN, CONAN THE BARBARIAN, HYBORIA, and/or ROBERT E. HOWARD and related logos, characters, names, and distinctive likenesses thereof are trademarks or registered trademarks of CPI and/or Robert E. Howard Properties Inc. unless otherwise noted. All Rights Reserved.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/c0/65/dfc06596-d5da-ef76-0997-43b08d1897b2/8e334c8a-39d2-4e6a-8835-70e683ed05f0_Screenshot_20240327-145637_Conan_Companion.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/2c/03/162c03cf-2789-8c17-fa32-c2e6a6d48dea/fa3a56fe-f2de-4b23-9d2a-c49c540eb28e_Screenshot_20240327-145804_Conan_Companion.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/5e/9f/af5e9f5e-e9df-3296-a768-8467c3162d27/e94503d9-791d-494f-bc44-cb6adefb0c3b_Screenshot_20240327-145913_Conan_Companion.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2c/3b/28/2c3b2845-c85f-9c75-6e13-8e3dec53558f/e144cb79-2355-494a-9cb4-16cb32da206c_Screenshot_20240327-145928_Conan_Companion.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/companion-for-conan-exiles/id1202653324?uo=4",
+    "store": "appstore"
+  },
+  "Dune Awakening": null,
+  "Exoborne": {
+    "name": "Exoborne",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705130/a5ee0be87c82cb610c098eeed59c0a13fb99e923/header.jpg?t=1774904663",
+    "description": "Exoborne is an open-world, tactical extraction shooter set in a world torn apart by extreme forces of nature. Customize powerful exo-rigs to gain strategic advantage in ever-changing weather conditions. Face hostile factions, enemy players, and Mother Nature herself in intense high-stakes sessions.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705130/ccae80d93892ddb4464abb92d16a9b999febb7b5/ss_ccae80d93892ddb4464abb92d16a9b999febb7b5.600x338.jpg?t=1774904663",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705130/0b975dc881debf0e2836ac5648480bdf961feef8/ss_0b975dc881debf0e2836ac5648480bdf961feef8.600x338.jpg?t=1774904663",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705130/fa48055b3ffbbd9cd4b2ae7e420288cbad86deef/ss_fa48055b3ffbbd9cd4b2ae7e420288cbad86deef.600x338.jpg?t=1774904663",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705130/dc06a720e21fbaeabe9f6ef1c31b45753d821683/ss_dc06a720e21fbaeabe9f6ef1c31b45753d821683.600x338.jpg?t=1774904663"
+    ],
+    "store_url": "https://store.steampowered.com/app/2705130",
+    "store": "steam"
+  },
+  "The Dark Pictures Anthology": {
+    "name": "The Dark Pictures Anthology: House of Ashes",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/header.jpg?t=1728912876",
+    "description": "At the close of the Iraq War, Special Forces hunting for weapons of mass destruction unearth something far deadlier – a buried Sumerian temple containing a nest of unearthly creatures. To survive the night below, they must forge a brotherhood with their enemies from the world above.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_747813f37cfd42799d3a0ce7f352de0b4b204ab6.600x338.jpg?t=1728912876",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_aa6a8603ec8356d9145e263c366bf07f5661a217.600x338.jpg?t=1728912876",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_9a6c1e00bb61bffcef91124f777ce35403c6de6a.600x338.jpg?t=1728912876",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_db6ef3ad5088d8aff008c12833de4eb6125118bd.600x338.jpg?t=1728912876"
+    ],
+    "store_url": "https://store.steampowered.com/app/1281590",
+    "store": "steam"
+  },
+  "Lumines": {
+    "name": "LUMINES REMASTERED",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/b5/36/afb53607-cdd1-5aae-a825-a415be970e6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "[TRY BEFORE YOU BUY] Try the first 15 levels in Challenge Mode and the full 60-second Time Attack Mode for free, then unlock the full game with a single in-app purchase.\n\nLUMINES REMASTERED brings the ultimate audio-visual puzzle phenomenon straight to your fingertips, beautifully marrying sound, light, and puzzle-action into one addictive yet simple game. Immerse yourself at the center of high-energy, block-dropping action while you groove to awesome house, trance, and techno beats.\n\nLUMINES REMASTERED is engineered perfectly for mobile. Take control by choosing from multiple intuitive touch layouts or connecting a gamepad for old-school precision. \n\nTake Tetsuya Mizuguchi’s critically acclaimed masterpiece with you everywhere and lose yourself in the music.\n\nKey Features:\n- Feel the vibes: 40 stages and a legendary soundtrack of house, trance, and techno beats—from chill to upbeat. Shuffle stages like a music playlist in Skin Edit mode.\n- Feel the challenge: From the non-stop puzzle fun of Challenge mode to the Time Attack, Puzzle, Mission, VS CPU and a 2P Battle (local only) modes, there's more than enough to sink your teeth into.\n- Feel the fun: Unlock all the music, stages, and avatars, and climb the ranks to the top of the online leaderboards. Cloud saves keep your progression going.\n- Feel the music: Grab your favorite pair of headphones and turn on vibration (if offered) on your device to immerse yourself in the experience.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/7c/0c/447c0c87-6f9c-982f-5e73-dee2f51f09f0/Screenshot_01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/e3/9b/2ce39b6d-471b-2943-aa42-ef7f10fa65cb/Screenshot_02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/1c/b9/f41cb9c3-a8d6-4a6c-c36e-26e5a30e40f1/Screenshot_03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/f9/c7/77f9c7fd-ceea-55d1-0c5d-ae70cd30651b/Screenshot_04.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/lumines-remastered/id6758456739?uo=4",
+    "store": "appstore"
+  },
+  "Lumines Remastered": {
+    "name": "LUMINES REMASTERED",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/b5/36/afb53607-cdd1-5aae-a825-a415be970e6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "[TRY BEFORE YOU BUY] Try the first 15 levels in Challenge Mode and the full 60-second Time Attack Mode for free, then unlock the full game with a single in-app purchase.\n\nLUMINES REMASTERED brings the ultimate audio-visual puzzle phenomenon straight to your fingertips, beautifully marrying sound, light, and puzzle-action into one addictive yet simple game. Immerse yourself at the center of high-energy, block-dropping action while you groove to awesome house, trance, and techno beats.\n\nLUMINES REMASTERED is engineered perfectly for mobile. Take control by choosing from multiple intuitive touch layouts or connecting a gamepad for old-school precision. \n\nTake Tetsuya Mizuguchi’s critically acclaimed masterpiece with you everywhere and lose yourself in the music.\n\nKey Features:\n- Feel the vibes: 40 stages and a legendary soundtrack of house, trance, and techno beats—from chill to upbeat. Shuffle stages like a music playlist in Skin Edit mode.\n- Feel the challenge: From the non-stop puzzle fun of Challenge mode to the Time Attack, Puzzle, Mission, VS CPU and a 2P Battle (local only) modes, there's more than enough to sink your teeth into.\n- Feel the fun: Unlock all the music, stages, and avatars, and climb the ranks to the top of the online leaderboards. Cloud saves keep your progression going.\n- Feel the music: Grab your favorite pair of headphones and turn on vibration (if offered) on your device to immerse yourself in the experience.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/7c/0c/447c0c87-6f9c-982f-5e73-dee2f51f09f0/Screenshot_01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/e3/9b/2ce39b6d-471b-2943-aa42-ef7f10fa65cb/Screenshot_02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/1c/b9/f41cb9c3-a8d6-4a6c-c36e-26e5a30e40f1/Screenshot_03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/f9/c7/77f9c7fd-ceea-55d1-0c5d-ae70cd30651b/Screenshot_04.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/lumines-remastered/id6758456739?uo=4",
+    "store": "appstore"
+  },
+  "Lumines Arise": {
+    "name": "Lumines Arise",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370000/b3416ea55318a28142922206c47eff907b457e59/header.jpg?t=1774037826",
+    "description": "A mind-blowing, fiendishly addictive reinvention of the puzzle classic Lumines from the creators of Tetris® Effect: Connected, where sound pulses through your body, mind, and every block you place, triggering dazzling visuals synched to the driving beat of an infectious, eclectic soundtrack.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370000/1bbd574c835cfe56f07c2145cdcdd4dd3a074eea/ss_1bbd574c835cfe56f07c2145cdcdd4dd3a074eea.600x338.jpg?t=1774037826",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370000/cb9dff965c333afe102d1577f4cec3c1a561406c/ss_cb9dff965c333afe102d1577f4cec3c1a561406c.600x338.jpg?t=1774037826",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370000/79cc115b4bd0616998bbb44387a893dd16c52c2d/ss_79cc115b4bd0616998bbb44387a893dd16c52c2d.600x338.jpg?t=1774037826",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370000/4444df367289b56b21166c828e91b4c4837d5879/ss_4444df367289b56b21166c828e91b4c4837d5879.600x338.jpg?t=1774037826"
+    ],
+    "store_url": "https://store.steampowered.com/app/2370000",
+    "store": "steam"
+  },
+  "Lumines: Puzzle & Music": null,
+  "Rez": {
+    "name": "The Rez",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/a1/4d/6ea14d6a-3356-4ed1-6212-43b2a583c930/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg",
+    "description": "Use The REZ mobile application for instant access to information on all things at Barnett Reservoir, including current events, lake news, leasehold information and area alerts. Features of this app include:\n•\tPush Notifications for Boil Water Notices \n•\tAccess to PRVWSD Water Accounts\n•\tTraffic Alerts\n•\tWeather Conditions on the Barnett Reservoir\n•\tPark, Campground and Recreational Information",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/1d/01/561d01e8-4396-6ef7-b933-c960014d3508/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/f1/03/aff10384-1c7d-090b-f554-292a14fd9b2d/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/2f/64/ef2f64e2-ba71-108b-74f5-45c336eacc51/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/c6/a8/b2c6a87e-eb45-2859-cf1f-a65e5e45a2c1/pr_source.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/the-rez/id1206498516?uo=4",
+    "store": "appstore"
+  },
+  "Space Channel 5": {
+    "name": "Space Channel",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/a3/ea/c0a3eabd-af1a-8d13-8689-b543583febbc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "description": "Space Channel is the world's premier global news and entertainment media platform dedicated to space. Connecting the stories that will inform the future of commerce, policy, entertainment and community in low Earth Orbit and beyond, Space Channel is available in more than 30 million households worldwide and explores every aspect of the genre with news, movies, exclusive events and live coverage from every sector of the global space industry. You can watch Space Channel’s live programming via Connected (Smart) TV applications as well as online at www.spacechannel.com",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/16/8c/66/168c6677-4054-deb7-ee38-578a283e93ed/e7eab256-266a-4622-a8b1-36351604de5e_iPhone_8_4.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/bc/d3/64/bcd36418-af2a-e4f5-a6e4-70b038f39c28/aab4ad91-794b-4ed1-898c-e8217bd2cfac_iPhone_8_5.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e8/53/35/e8533536-e9a1-321c-fdca-0d268d9675ce/5dd02543-1f0e-4edb-9114-982facf8d865_iPhone_8_2.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/space-channel/id1558243913?uo=4",
+    "store": "appstore"
+  },
+  "Child of Eden": null,
+  "Wyldheart": {
+    "name": "Wyldheart",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642910/9386115a28ae55011e9dd456efb3a5bcc13b2275/header.jpg?t=1789484073",
+    "description": "Embark on bite-sized campaigns in this co-op action RPG set in a rustic fantasy world. Start from nothing, and freely build your character as you investigate rumors, explore strange ruins, and survive the dangers threatening the fallen Kingdom of Caerwyn.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642910/38ff1ba61fae8399a75349e7b9d3547169bf0ff2/ss_38ff1ba61fae8399a75349e7b9d3547169bf0ff2.600x338.jpg?t=1789484073",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642910/326ff0f0b7f73d8e8745cd782f4fb7fcae94ec47/ss_326ff0f0b7f73d8e8745cd782f4fb7fcae94ec47.600x338.jpg?t=1789484073",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642910/44fe558bd1a73d8871aa0a77fc05ff33d5fb8702/ss_44fe558bd1a73d8871aa0a77fc05ff33d5fb8702.600x338.jpg?t=1789484073",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642910/3fdd9737cb2df0633e7988b70c076dd38a9d540e/ss_3fdd9737cb2df0633e7988b70c076dd38a9d540e.600x338.jpg?t=1789484073"
+    ],
+    "store_url": "https://store.steampowered.com/app/3642910",
+    "store": "steam"
+  },
+  "Valheim": {
+    "name": "Pocket Wiki for Valheim",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/79/cc/9c79cc5c-d58b-d601-a6cc-8ad23d836b4e/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "This app is for Valheim players. This all-in-one solution is exactly what you need: everything for a good game and improving your gaming skills. This app will be useful for both novice and experienced players. Does not require an internet connection to use, so that any relevant information is always available to you. This application is unofficial.\n\n\n● Features:\n\n• Biomes\n• Buildings\n• Creatures\n• Events\n• FAQ\n• Items\n• Lore\n• Tools\n• Weapons\n• World seeds\n\n• Guides\n• Hints\n• News about the game\n• Tips\n• Tricks\n• Videos\n\n• A dark theme\n• All objects are interrelated\n• Easy navigation through the app\n• iPad & iPhone supported\n• Text search\n• Search for an object by name\n• The ability to add/remove/sort objects to/from favourites\n• The ability to view a list of recently viewed objects\n• Zoom images or text\n• Works offline\n\n\n• Guides, hints, tips, and tricks\nTons of useful and nice guides that will be useful for both novice and experienced players.\n\n• Items, weapons, and etc.\nFull info for each item or weapon: images, stats, etc.\n\n• News and videos\nFollow the latest news and watch awesome videos about this game.\n\n• Optimised\nThe app is fully optimised to work on all mobile devices from Apple Inc.\n\n• Relationship\nAll objects (items, recipes, units, etc.) are interconnected with each other.\n\n• Works offline\nOnce the database has been downloaded, the app can be used without access to the internet. This means that all the necessary information for a comfortable game will always be available to you even in places where there is no internet (for example, the subway). However, to view the news feed and such heavy files as videos or animated gif images, internet access is still required.\n\n\nAny requests, suggestions, and comments, please send via the \"Feedback\" in the app or email me at kateryna.momotova@yahoo.com. I will be happy and motivated if you leave a positive review of my work. If you have the desire and opportunity to help with the translation, email me too. Thanks! :)\n\n\n● Note\n\nThis app is unofficial and not affiliated with the game’s developer, publisher, or distributor. All in-game content, imagery, text, and videos on the application are copyrighted by their respective owners. This reference app is for informational purposes and meant to assist fans of this game with gameplay, and is intended to be used alongside the game. It can contain information obtained from free sources on the internet. If you have a concern or feel there is a direct copyright or trademark violation that does not fall within \"fair use\" guidelines, please email directly me at kateryna.momotova@yahoo.com to discuss this.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/26/5b/be/265bbe0b-5697-3d57-5325-073a85037125/298e5064-639c-498d-b868-ddf2c24c694c_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/3d/be/db/3dbedb44-4633-cd45-9e7a-5dd265257993/766daf93-8f9d-4dc3-bbb6-275d5f3f1af7_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/3d/44/32/3d443265-ac10-b81f-d3db-6662ecf44c96/66119cd9-4206-41db-96ea-abbf8ba67ef0_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a3/1e/c1/a31ec196-0c45-a2e5-c253-6244ee37e355/1781ca8a-5269-419f-9278-8a44f6dea894_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/pocket-wiki-for-valheim/id1557299576?uo=4",
+    "store": "appstore"
   }
 }
