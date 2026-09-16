@@ -7436,5 +7436,189 @@
     ],
     "store_url": "https://store.steampowered.com/app/1465550",
     "store": "steam"
+  },
+  "Resident Evil": {
+    "name": "Resident Evil 4",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/c9/24c8c984-811f-2806-f307-1535d0fe84c8/AppIcon-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+    "description": "Survival is just the beginning.\n\nSix years have passed since the biological disaster in Raccoon City.\nAgent Leon S. Kennedy, one of the survivors of the incident, has been sent to rescue the president's kidnapped daughter.\nHe tracks her to a secluded European village, where there is something terribly wrong with the locals.\nAnd the curtain rises on this story of daring rescue and grueling horror where life and death, terror and catharsis intersect.\n\nFeaturing modernized gameplay, a reimagined storyline, and vividly detailed graphics,\nResident Evil 4 marks the rebirth of an industry juggernaut.\n\nRelive the nightmare that revolutionized survival horror.\n\n------------------------------------------------------------\n■By purchasing, you will be granted a license to use the product.\n■A network connection is required when starting the application.\n\n■About the End User License Agreement\n・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). \n・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.\n・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.\n\nPlease confirm the terms above and agree to this Agreement before purchasing the Program. \n------------------------------------------------------------\n\n■A limited part of the base game can be played for free.\nIn order to play the full game, an in-app purchase is required.\n\n■Keyboard and mouse are not supported.\n\n■We recommend playing this game with a controller.\nIt can be played on an iPad, but using a controller will provide a better experience.\nNote: Please check the Apple website for controllers compatible with iPad. Not all controllers will work as intended.\n\n■This application is approximately 30GB.\nImportant Note: The installation process requires that you have at least twice the size of the application in free storage space available.\nWe recommend downloading the data in an environment with good connectivity.\n\n■Estimated download time based on connection speed:\n\t10Mbps - Over 6 hours\n\t100Mbps - 30 to 40 minutes\n\t300Mbps - 8 to 10 minutes\n\n■Save data can be uploaded and downloaded between MacOS and iOS devices.\n\n■Purchase Precautions\n・After purchase, returns (including exchange for other products/services) will not be provided for any reason.\n・In-app purchases can only be used by the Apple Account that made the purchase and cannot be shared with Family Sharing members.\n\n■Compatible OSs and Devices\nhttps://www.capcom-games.com/apple/en-us/\n------------------------------------------------------------\n\nRESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/ca/9e/a4ca9ec2-8d23-8ced-14d4-dd8fa03e2ecc/8964ae53-8369-4b03-922c-7229288b2144_01_iPhone_2208x1242_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0c/b4/3e/0cb43e22-134f-4950-b6ba-f2dffebb480d/7507c173-fe5e-416e-88e0-3091ce45f793_02_iPhone_2208x1242_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/69/20/71692013-0b37-a744-cdbf-a7a04d773088/d523d64c-2770-41ed-b98b-e95fca79ff6b_03_iPhone_2208x1242_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/21/9b/0f/219b0f3b-2cc8-a3ff-d30a-3839df3fbcd3/8f9f3791-42cf-4e36-8005-e61a3b9a81ab_04_iPhone_2208x1242_EN.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/resident-evil-4/id6462360082?uo=4",
+    "store": "appstore"
+  },
+  "Killer7": {
+    "name": "killer7",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868520/header.jpg?t=1732667308",
+    "description": "Sneak into a world of underground assassins as Harman Smith, a man who manifests 7 deadly personalities, the killer7. Take control of this distinct murderers' row as they hunt down the sinister Kun Lan to thwart his plan of world dominance.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868520/ss_fdc3129d384feeb4a4e722d71d6cd761231c7340.600x338.jpg?t=1732667308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868520/ss_f2bb979273fc6f02856fd13583ab499488f54240.600x338.jpg?t=1732667308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868520/ss_073648236ac399c2e7f56c78f1bdf33292379fc2.600x338.jpg?t=1732667308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868520/ss_97efcd15cfb406b80c43ba15c65700427cb0f477.600x338.jpg?t=1732667308"
+    ],
+    "store_url": "https://store.steampowered.com/app/868520",
+    "store": "steam"
+  },
+  "Shadows of the Damned": {
+    "name": "Shadows of the Damned: Hella Remastered",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535440/header.jpg?t=1775060631",
+    "description": "Shadows of the Damned, an action-adventure road trip through hell, has been remastered at last! Get ready for a story about rock, love, and just a little bit of demon slaying.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535440/ss_73110f7c7c918d44d41659e03ed1ffd36004997e.600x338.jpg?t=1775060631",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535440/ss_a25d5f9517adbcb5f230ebf15563d0ec90517748.600x338.jpg?t=1775060631",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535440/ss_2a93203258516bde77c32a6685c0362b30b520ef.600x338.jpg?t=1775060631",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535440/ss_bbf3f1b756a76b7b31001dfd59188b93871ecffe.600x338.jpg?t=1775060631"
+    ],
+    "store_url": "https://store.steampowered.com/app/2535440",
+    "store": "steam"
+  },
+  "The Evil Within": {
+    "name": "The Evil Within",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
+    "description": "Developed by Shinji Mikami -- creator of the seminal Resident Evil series -- and the talented team at Tango Gameworks, The Evil Within embodies the meaning of pure survival horror. Highly-crafted environments, horrifying anxiety, and an intricate story are combined to create an immersive world that will bring you to the height of tension.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_1322e5344c6bdfc04571418252d12e8dfe0dbf03.600x338.jpg?t=1750783780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_c24855357d250b23a1912ed85fc126451e188284.600x338.jpg?t=1750783780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_fa65fd3c1d5ee8dedf67f0ad1b2df828c33ecc99.600x338.jpg?t=1750783780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_86018e7dcb5f785aa9b8cfe4ecb75fbec52953ba.600x338.jpg?t=1750783780"
+    ],
+    "store_url": "https://store.steampowered.com/app/268050",
+    "store": "steam"
+  },
+  "Hi-Fi Rush": {
+    "name": "Hi-Fi RUSH",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg?t=1764916407",
+    "description": "Test your abilities in two new game modes, uncover new rewards and even a few secrets in the Arcade Challenge! Update! Feel the beat as wannabe rockstar Chai and his ragtag team fight against an evil megacorp in a world that syncs to the music.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_382e9d5abb00498eee6a86b0366a2db7826268b7.600x338.jpg?t=1764916407",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_8a13650ffe930da77593dae80f0118588c46a5ca.600x338.jpg?t=1764916407",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_62a7ff68fff7850be6a0784eff41edafd33b2099.600x338.jpg?t=1764916407",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_7dfaee4616fbed65b2b0fcb82d55dc0a957fd8a5.600x338.jpg?t=1764916407"
+    ],
+    "store_url": "https://store.steampowered.com/app/1817230",
+    "store": "steam"
+  },
+  "Stellar Blade": {
+    "name": "Stellar Blade™",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
+    "description": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.600x338.jpg?t=1776466244",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.600x338.jpg?t=1776466244",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.600x338.jpg?t=1776466244",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_1ae903bf4153fa2c2b3ee4381eb355532ba79eab.600x338.jpg?t=1776466244"
+    ],
+    "store_url": "https://store.steampowered.com/app/3489700",
+    "store": "steam"
+  },
+  "Small Boat Scramble": null,
+  "Lordrush": {
+    "name": "Lordrush",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/2c/64/b22c64bc-3e53-fd8f-10b6-42106424652c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Lordrush is a medieval tower defense strategy game where you rebuild a ruined fortress and defend your realm from attacks.\n\nGather resources, raise defenses, upgrade towers, and recruit heroes as you prepare for each assault.\n\nSet in a harsh medieval world of stone castles, armored heroes, war-torn battlefields, and rival lords, Lordrush blends fortress building, resource management, hero strategy, and tactical defense.\n\n\n• Fight for Resources\nWood, stone, and iron are essential for expansion. Compete with exiles, rebels, and other forces for control of vital resources.\n\n• Build Fortress Walls\nConstruct defensive walls to slow enemy advances and give your towers more time to strike.\n\n• Upgrade Towers\nPlace and upgrade towers to expand your firepower, increase damage, and hold key defensive positions.\n\n• Strengthen Your Fortress\nAs enemy attacks grow stronger, reinforce your walls, expand your towers, and turn your settlement into a powerful medieval stronghold.\n\n• Defend Against Sieges\nEnemies attack your fortress in waves. Adjust your defenses based on enemy routes and strength, and hold the line.\n\n• Recruit Heroes\nRecruit medieval heroes with different abilities. Deploy them to change the course of battle.\n\n• Make Tactical Choices\nEvery building, upgrade, and hero deployment can affect the outcome. Plan carefully to survive the next siege.\n\n• Manage Your People\nAssign survivors as workers, hunters, or cooks to maintain resource production, food supplies, and daily fortress operations.\n\n• Maintain Health and Order\nYour people’s condition affects productivity. Keep food stocked, maintain stability, and help your fortress continue to grow.\n\n• Issue Decrees\nSet rules under pressure from scarce resources and outside threats. Maintain order and guide the growth of your stronghold.\n\n• Join Alliances\nCreate or join alliances, share resources, coordinate defenses, and face powerful enemies together.\n\n• Challenge Other Lords\nTrain heroes, build squads, and compete for points, rare rewards, and greater influence across the continent.\n\n• Claim the Throne\nStart from a single fortress, build your defenses, gather resources, expand your power, and become a lord who cannot be ignored.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/0f/98/fc0f984a-0659-1437-71af-d155c9980dd4/S01__U5546_U5e9701__U591a_U8bed_U8a00_IOS_02_EN_1320x2868_01.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/6c/1b/906c1b6b-dfde-61f3-b756-2fcbc4005889/S01__U5546_U5e9701__U591a_U8bed_U8a00_IOS_02_EN_1320x2868_02.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/03/a9/1603a937-df97-a3e1-f244-d1c7c96b3db6/S01__U5546_U5e9701__U591a_U8bed_U8a00_IOS_02_EN_1320x2868_03.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/e8/3c/fae83c45-b3a3-a31d-59e1-b9201b5f96ae/S01__U5546_U5e9701__U591a_U8bed_U8a00_IOS_02_EN_1320x2868_04.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/lordrush/id6759788962?uo=4",
+    "store": "appstore"
+  },
+  "Hotel Legacy": {
+    "name": "Hotel Legacy: Merge Game",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/21/5b/a6215b3b-109b-4291-1265-3a772e7a0b74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Merge & Renovate at Hotel Legacy!\n\nAlyssa suddenly inherited a mysterious legacy from her grandmother—a Hotel Manor! She teams up with some interesting friends and desires to build her Hotel Empire! Join us as we merge and discover how she achieves her goals!\n\nMerge Fancy Items\nServe guests with cozy service, fine cuisines, amazing drinks, and colorful souvenirs. The more you play, the more items you will be able to create! Let's merge together and become top-class hotel managers!\n\nRenovate Theme Hotels\nBuy new land, renovate old buildings, and turn them into wonderful hotels. Experience a totally different hotel style all over the world and throughout the ages!\n\nBuild Relationships\nMeet guests from around the world. Listen to their stories and exchange fun life experiences. Guess who might find their true love during the journey?\n\nThere are hidden surprises waiting for you to discover! Join us on the journey of expanding Hotel Empires!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/7f/22/f17f2292-3fbf-b009-e09a-69c461669a5c/1284x2778-2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/1a/6c/fd1a6c16-e7b2-22ef-63a5-d2c078804ff6/1284x2778-4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/cb/f1/25cbf1c6-5f93-9ff3-ce14-1a1ddd1d4c22/1284x2778-5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/20/ff/b120ffbf-7431-6e38-4f8c-7e2a5f70ceda/1284x2778-1.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/hotel-legacy-merge-game/id6752886832?uo=4",
+    "store": "appstore"
+  },
+  "Heartopia": {
+    "name": "Heartopia",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/64/36/376436d1-7308-d29f-a82d-313559aa52ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Heartopia, a multiplayer life simulation game crafted for creativity, freedom, and peace. Build your dream home, explore a wide range of hobbies, and forge warm connections with friends in a town full of endless possibilities. \n\n[Game Features]\n◆ Let's Connect! Create Unique Memories\nChat with the charming residents of Heartopia Town, hang out with old friends, and meet new friends every time you log in!\n\n◆ Let's Explore! Gardening, Fishing, Birding...\nHobbies are yours to enjoy, not chores. In Heartopia, feel free to develop six major hobbies, including fishing, cooking, gardening, birdwatching, and more.\n\n◆ Let's Build! Design Your Dream House\nWhether you dream of a cozy cottage or a magnificent mansion, Heartopia gives you the tools to turn your vision into a reality. You can also invite your friends over and build your dream home together. \n\n◆ Let's Dress Up! 1000+ Daily Outfits\nMix and match casual wear, elegant gowns, and whimsical costumes to create the perfect look for any occasion. Express your mood and show the world who you are.\n\n◆ Let's Pet! Adopt Cats and Dogs\nMeet your very own animal companions in Heartopia! While each of your furry friends may come with different colors and personalities, they can all bring you warmth and comfort.\n\n[Follow Us]\nX：@myheartopia\nTikTok：@heartopia_en\nFacebook：Heartopia\nInstagram：@myheartopia\nYouTube：@heartopia-official",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ce/1a/2cce1a63-f77d-3d07-88ea-5de26cacd01f/_U5fc3_U52a8_U5c0f_U9547-2_U5468_U5e74_U6d77_U4e0aKV-_U65b9_U56fe5-2796x1290-_U82f1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/3e/6c/ee3e6cc5-4356-f479-0a0d-d0f4718465f6/_U82f1_U8bed.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/61/bd/a161bd1a-c208-8383-1bbc-8b846917a877/_U6d77_U5e95_U5730_U56fe-_U82f1_U8bed.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/b4/4b/ffb44b76-00a2-a7dd-4157-97b892acd5dc/1-_U88c5_U4fee_U81ea_U7531.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/heartopia/id6746151928?uo=4",
+    "store": "appstore"
+  },
+  "Aobi Island": null,
+  "Hotel Hideaway": {
+    "name": "Hotel Hideaway: Avatar & Chat",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/3e/0c/5d3e0c2b-d9f4-61fe-fd8e-5bbe29cfa81d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "An immersive 3D social simulation MMO where you customize your avatar, build and decorate rooms, collect rare items, and join live community events in a nostalgic yet ever-evolving virtual world.Step into Hotel Hideaway – the ultimate 3D social role-playing game and metaverse where your virtual life begins!\n\nCUSTOMIZE YOUR LOOK:\nDesign your perfect avatar with thousands of outfits, hairstyles, accessories, and fashion styles. From casual streetwear to glamorous runway looks, show off your personal style and build your identity!\n\nCHAT AND MEET NEW PEOPLE:\nConnect with millions of players worldwide. Chat live, join exclusive rooms, and make new friends from the US, UK, Europe, Indonesia, Thailand, and beyond.\n\nEXPLORE CONSTANTLY EVOLVING ROOMS & LOCATIONS:\n- Discover The Top Floor – an exclusive 70+ room with advanced in-game rewards via the Quantum Rift Exchange mini-game.\n- Join fast-paced Dance Battles — perform gestures, compete against friends, and win exclusive prizes.\n- Enter Herman’s Bargains — a limited-time shop that opens at surprise times, offering special deals and rare items.\n- Complete seasonal Quests for unique rewards, unlock secret rooms, and interact with story-driven NPCs across the Hotel.\n\nCOMPETE IN GROUP LEAGUES:\nForm or join groups to compete against others in dynamic league competitions. Rank up, climb the leagues, and earn exclusive rewards as your group rises to the top.\n\nCLIMB GLOBAL LEADERBOARDS:\n- Fashion Leaderboards: Earn points by unlocking rare outfits, crafting exclusive designs, and collecting limited-edition clothing.\n- Interior Leaderboards: Decorate rooms, attract visitors, and build show-stopping spaces.\n- Social Leaderboards: Give gifts, exchange cookies, and master two-player gestures.\n- Dance Battle Leaderboards: Win head-to-head dance-offs and claim your spot among the top players.\n\nSTAY UPDATED WITH THE EVENTS CALENDAR:\nNever miss a limited-time event, seasonal drop, or new feature launch with the in-game event planner.\n\nMASTER GESTURES AND EXPRESSIONS:\nSave, collect, and perform hundreds of gestures using the new Gestionary and Motion Studio, where premium gestures bring your social interactions to life.\n\nJOIN A GLOBAL METAVERSE COMMUNITY:\nWhether you’re here for fashion, decorating, chatting, or friendly competition — Hotel Hideaway offers endless ways to express yourself, connect, and play.\n\nSAFE & MODERATED:\nEnjoy a secure and moderated environment with clear community guidelines, ensuring a fun experience for everyone.\n\nWHY HOTEL HIDEAWAY?\nIf you enjoy games like IMVU, Avakin Life, Zepeto, Highrise, Woozworld, Hypetown or Sumerian — Hotel Hideaway is your next virtual home.\n\nDOWNLOAD HOTEL HIDEAWAY TODAY AND START LIVING YOUR BEST VIRTUAL LIFE!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/a1/8b/eda18bfe-fdbb-3d39-1cc7-bef6bf115034/appstore.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/a0/d1/58a0d151-4b73-4d87-b87d-e3cd97479789/appstore3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/71/6e/2b716ec4-dd11-c9a3-41fb-7ab367efc154/appstore4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/21/e0/5921e0e0-946d-92ca-edf8-47a0c851ed27/appstore2.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/hotel-hideaway-avatar-chat/id922825959?uo=4",
+    "store": "appstore"
+  },
+  "Habbo Hotel": {
+    "name": "Habbo Hotel: Origins",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809900/783219610fbf8a7736e204f8623336da760e5818/header.jpg?t=1768401401",
+    "description": "A pixel-art social simulation MMO where you customize your avatar, build and decorate rooms, trade rare items, and join live community events in a nostalgic yet ever-evolving virtual world.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809900/300bd760ef10683209c5b54b27286e51f80f2487/ss_300bd760ef10683209c5b54b27286e51f80f2487.600x338.jpg?t=1768401401",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809900/71d8de14c22300d9cda648bfee1f809c6f95454a/ss_71d8de14c22300d9cda648bfee1f809c6f95454a.600x338.jpg?t=1768401401",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809900/db894bff8a4c9052f3498625b9a0bf0e01c9e329/ss_db894bff8a4c9052f3498625b9a0bf0e01c9e329.600x338.jpg?t=1768401401",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809900/16d466e635a96d6cc2ec0ae723f1d4d8da076f17/ss_16d466e635a96d6cc2ec0ae723f1d4d8da076f17.600x338.jpg?t=1768401401"
+    ],
+    "store_url": "https://store.steampowered.com/app/3809900",
+    "store": "steam"
+  },
+  "Highrise": {
+    "name": "Highrise: Dress Up Avatar Game",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/1f/7c/291f7c71-c4c4-890e-7b75-d5afdc585304/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Find your people on Highrise. Dress up your avatar, play social games, and meet real players from all over the world with free voice chat. Over 50 million players have made friends here since 2014, with new fashion, events, and worlds every single week.\n\nThe avatar social game where you create, hang out, and play with whoever you want, no paywall to communicate. Find your style across an ever-growing universe of fashion and social games. Whether you're here to dress up, role play, or compete in live events, this is where your creativity and your social life actually belong together.\n\nCREATE & CUSTOMIZE YOUR AVATAR\nStart with your avatar and go wherever your imagination takes you. Pick from over 1 million fashion items: outfits, hairstyles, accessories, all of it, and build a look that's completely yours. Streetwear, fantasy, anime, luxury, dark academia — the style is up to you. New drops land every week, so there's always something fresh to add.\n\nPLAY SOCIAL GAMES WITH FRIENDS\nHighrise isn't just an avatar creator. It's a social game with a lot going on. Hop into rooms where players are hosting fashion shows, talent competitions, trivia nights, and casual hangouts. Jump into minigames, show up for weekly events, and grab exclusive rewards. Every room is its own multiplayer game: new faces, new energy, all in real time.\n\nCHAT, CONNECT & SOCIALIZE\nText chat, voice chat, avatar emotes — however you like to communicate, Highrise has you covered. Hang out across thousands of social rooms or start your own corner of the world. Follow players you vibe with, grow your community, and share life on the social Feed. Finding your people here doesn't take long. This isn't just a chat game — it's where real friendships happen.\n\nEXPLORE A VIRTUAL WORLD OF POSSIBILITIES\nMillions of player-created rooms, with new ones going up every day. Cozy hangout spots, elaborate role play worlds, party rooms, chill vibes — there's always somewhere new to land. Highrise blends life simulation with social gaming in a way that's hard to put down. Design your own rooms, shape your virtual life, and make this metaverse yours.\n\nA SAFER PLACE TO BE YOURSELF\nModeration runs around the clock to keep rooms welcoming. Block, mute, and report any time. Voice chat, DMs, and rooms have safety controls built in, with extra protections for younger players.\n\nDRESS UP, TRADE & COLLECT\nHunt for the latest fashion drops, chase rare collectibles, and build a wardrobe that turns heads. The community marketplace lets you buy, sell, and trade avatar items directly with other players — inspect someone's outfit and make an offer right from the chat. With 1 million+ items and new collections every week, there's no ceiling on your style.\n\nCOLLECT & RAISE UNIQUE PETS\nHighrise is home to thousands of unique virtual pets, and every single one can be yours. Collect them, raise them, and bring them into the virtual world with you. Show yours off in social rooms, trade with other players, and keep hunting for the ones you don't have yet.\n\nDESIGN, CREATE & EARN\nGot an idea? Put it in. Design avatar items and virtual rooms for the whole community to discover. Enter design contests and get your work in front of professional artists who can bring it to life. The best submissions become real items that players can collect and trade.\n\nWHY PLAYERS LOVE HIGHRISE\n- Free voice chat with real people from all over the world, built right into the app\n- Millions of unique avatar items to collect, trade, and sell in a thriving community marketplace\n- Digital fashion like nowhere else — chase the hottest drops, find something new every single day\n- Thousands of social games and virtual world experiences with real people, not bots\n- Thousands of crews to join, compete with, and earn digital collectibles alongside\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/49/b2/b249b29f-6cf4-97a7-5a63-249ffaed1717/iOS_02_EN.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/80/81/e58081b3-fc70-074e-7033-0d2ae1383aa0/Android_03.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/3f/4c/e73f4cf1-0730-a272-60f3-b973bd5e35db/iOS_MiniGames_EN.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/45/e0/2345e0a3-f297-3f8f-8966-693417ee116d/iOS_Looks_en.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/highrise-dress-up-avatar-game/id924589795?uo=4",
+    "store": "appstore"
+  },
+  "Everskies": {
+    "name": "Everskies: Avatar Dress Up",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/dc/d1/91dcd199-d666-3bce-de10-7ce9911cb897/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Welcome to the Everskies mobile game, an avatar maker and life simulator game that combines the dress up concept, where you can create your own character to match different clothes, hairstyles, shoes, and much more. You can also meet new friends, chat with people, and design your avatar fashion style as you want. Your second life with the virtual world is in Everskies! Join it!\n\nEverskies is more than a real-life simulator, it's an online character creator where you can dress up your avatar with different fashion outfits, shoes, and hairstyles. You can also have different styles of chat rooms. Make your own avatar character within the metaverse world, meet new people, chat with friends, customize your animated emoji, and send messages in chat rooms! The dream life is waiting for you in this role-playing game.\n\n[MAKE YOUR OWN AVATAR]\nCreate your own avatar and experience a real character rather than a cartoon character! Moreover, customize your avatar’s looks with thousands of make-up, outfit, and facial features to meet new friends and have fun in this virtual dress up game.\n\n[DRESS UP YOUR VIRTUAL AVATAR CHARACTER]\nDress up your avatar with your fashion style and you'll decide how your character looks with over 150,000 items to choose from. Start to match your characters with a variety of different styles to play freely regardless of whether you like lazy style, y2k, anime style, teen, Lolita, or another style, you can play with your creativity in this dress up game! Your avatar dress style will be an important part of your metaverse identity.\n\n[CREATE YOUR OWN FASHION ITEMS]\nCreate virtual items to be worn, collected, and traded by thousands in our social community - design goods such as outfits, clothes, and your DIY items can also be sold in stores. Become a creative designer in this virtual world game!\n\n[FIND PEOPLE WITH SIMILAR INTERESTS & MEET NEW FRIENDS]\nOur clubs, forums, chat rooms, and group messages help you to find your people regardless of how niche your hobby is. In Everskies, you can join the family that you are interested in, meet friends from near or far, and chat with people from all over the world! Enjoy a virtual world, make new friends, and play the role you want in your virtual life!\n\n[EARN A VIRTUAL FORTUNE]\nDo you have a hidden business expert in you? Buy, sell, and trade fashion items to climb to the top!\nWhether you're a collector or trader, the thriving Everskies economy offers you plenty of opportunities to capitalize on the potential of a large creator community. \n\nEverskies is a fun dress up game that is simple to play. With a lot of special effects, stickers, and a huge number of scenes, it brings you a variety of ways to play. Let everyone feel free to be creative and dress up the character in this simulator game!\n\nEverskies has a chat room, private chat, and group chat system. The game also has trading, competitions, clubs, games, and much more that is worth your time to explore! Join our online sim virtual world!\n\nFollow us on Instagram @everskies for regular giveaways!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/0e/c8/5c0ec859-2b7e-cd85-3866-f275d9721ea6/Artboard_33.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/46/04/a4460446-04f7-30cb-74aa-61d7ef5e28bd/Artboard_34.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/71/bf/3b71bf61-46ca-9f69-34ee-d78e7543786d/Artboard_35.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/37/21/ef372131-da83-25d6-2614-d5cd8720ec5f/Artboard_36.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/everskies-avatar-dress-up/id1604095327?uo=4",
+    "store": "appstore"
+  },
+  "Clash of Critters": {
+    "name": "Clash of Critters",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1f/fc/e41ffc44-a332-813b-4784-d3f74ce7c14b/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "【Collect 100+ Unique Tataris!】\nForget generic designs! Collect them all in just 1 month—from the goofy Frugling to the sassy Solpear!\n\n【Evolve to Power Up!】\nReach formidable Tier 4 evolutions and unlock rare Glitter forms! How many can you get?\n\n【Strategy-Based Battles】\nMix and match formations to discover powerful combos! Crush the Zobo waves with your strategic genius!\n\n【Build Your Tatari Paradise】\nCraft a cozy home and interact with your pets— what happens if you drop Frostnip in the pool?",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/cc/8a/b6cc8a81-18a6-cbeb-814b-dc47dad5db18/2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/81/4c/de814c35-303a-6c45-e181-790526c10e8f/1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/57/c8/c957c850-9209-9c71-d002-22b99ed3ad28/3.1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/1a/b9/341ab9a7-2bf1-604d-6660-80743effa9a8/4.1.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/clash-of-critters/id6741567125?uo=4",
+    "store": "appstore"
   }
 }
