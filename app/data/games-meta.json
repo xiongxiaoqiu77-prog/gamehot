@@ -7397,5 +7397,44 @@
     "store_url": "https://store.steampowered.com/app/3244690",
     "store": "steam"
   },
-  "Welcome to Bloxburg": null
+  "Welcome to Bloxburg": null,
+  "The Witch of Fern Island": {
+    "name": "The Witch of Fern Island",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1550010/header.jpg?t=1772594977",
+    "description": "Welcome to Fern Island! As Abrill, become immersed in the island’s culture, uncover its deepest secrets, and master magical trades. Overcome the challenges of the island to demonstrate your mastery of magic and become the most well known witch around!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1550010/ss_c8a8167320091344dcbd009a1bdb7b043e1a6422.600x338.jpg?t=1772594977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1550010/ss_32fabc818b4e824a279def36a85f7cc27a71992f.600x338.jpg?t=1772594977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1550010/ss_29660aa0052e203e38a0873893da388f1bb85a68.600x338.jpg?t=1772594977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1550010/ss_0a19eab97fea1c21eb7ae8061f7337c0817a8588.600x338.jpg?t=1772594977"
+    ],
+    "store_url": "https://store.steampowered.com/app/1550010",
+    "store": "steam"
+  },
+  "Space Tail": {
+    "name": "Space Tail: Definitive Edition",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882980/930d6c2016d12ce6cbd9e4ec03cbf59b2874ae6c/header.jpg?t=1786523359",
+    "description": "Space Tail is a 2.5D adventure platformer that follows an emotional, story-driven journey through the cosmos. Play as a brave space-traveling dog exploring mysterious planets, solving puzzles, and forming unique bonds with alien civilizations along the way.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882980/97127087fed6f955272514d7b8200d4d4d01ab7f/ss_97127087fed6f955272514d7b8200d4d4d01ab7f.600x338.jpg?t=1786523359",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882980/a259e27b3ed35aa5a94417de03f67c2848faa6b6/ss_a259e27b3ed35aa5a94417de03f67c2848faa6b6.600x338.jpg?t=1786523359",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882980/c259bfb79ccea00c1a84635abdbe343ea48cc251/ss_c259bfb79ccea00c1a84635abdbe343ea48cc251.600x338.jpg?t=1786523359",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882980/cae2894e85e0ccabab2d9224530cba69471d84c2/ss_cae2894e85e0ccabab2d9224530cba69471d84c2.600x338.jpg?t=1786523359"
+    ],
+    "store_url": "https://store.steampowered.com/app/3882980",
+    "store": "steam"
+  },
+  "One Lonely Outpost": {
+    "name": "One Lonely Outpost",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465550/header.jpg?t=1786575217",
+    "description": "An alien world sometimes needs a farmer’s touch to bring it to life. In this sci-fi, colonization-life sim, terraform a barren world: turn wastelands into verdant landscapes while exploring, farming, building, and unlocking all the mysteries of this strange new planet.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465550/0dc566b7a2f515a369ba468ceaab39cc4782a8c6/ss_0dc566b7a2f515a369ba468ceaab39cc4782a8c6.600x338.jpg?t=1786575217",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465550/5ab6cc26277da627f93fbae1c0b6e678ed9b9221/ss_5ab6cc26277da627f93fbae1c0b6e678ed9b9221.600x338.jpg?t=1786575217",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465550/48f67c9693d646c5bde7ba7c510135145d3eeff5/ss_48f67c9693d646c5bde7ba7c510135145d3eeff5.600x338.jpg?t=1786575217",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465550/2181080bacb26b0377a745f6f67ebd9f4f2b35fb/ss_2181080bacb26b0377a745f6f67ebd9f4f2b35fb.600x338.jpg?t=1786575217"
+    ],
+    "store_url": "https://store.steampowered.com/app/1465550",
+    "store": "steam"
+  }
 }
