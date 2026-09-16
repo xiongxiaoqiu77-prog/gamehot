@@ -1,321 +1,293 @@
 {
-  "updated": "2026-09-16",
-  "generated_at": "2026-09-16T07:00:07.267524",
+  "updated": "2026-09-17",
+  "generated_at": "2026-09-17T07:00:06.882402",
   "articles": [
     {
-      "id": "d7a930dfc9",
-      "title": "水口哲也谈 Lumines 回归，以及买断制游戏为何可能反弹",
-      "summary": "在推出 Lumines Remastered 后，水口哲也表示可能把更多作品带到移动端，并认为在多年 F2P 主导之后，移动玩家正越来越接受买断制游戏。对评估移动端休闲品类的付费模式与买断制机会有直接参考价值。",
-      "url": "https://mobilegamer.biz/tetsuya-mizuguchi-on-the-return-of-lumines-and-how-premium-games-could-bounce-back/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-09-15T14:08:28",
+      "id": "88a152ab2b",
+      "title": "Just Dessert vs. Gossip Harbor：谁的合并玩法做得更好？",
+      "summary": "文章对 Just Dessert 与 Gossip Harbor 两款合并类休闲游戏进行拆解比较，分析它们在合并机制、关卡节奏、资源循环与整体体验上的差异。对关注 merge 品类设计、竞品拆解和休闲手游进化的从业者有较高参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/just-dessert-vs-gossip-harbor-who-merged-it-better",
+      "source": "Deconstructor of Fun",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-16T12:47:14",
       "games": [
         {
-          "name": "Lumines",
-          "desc": "起源于 PSP 的音乐节奏方块益智游戏，玩家随节奏消除同色方块。"
+          "name": "Just Desserts",
+          "desc": "Century Games 推出的合并类软发布手游，标题中亦写作 Just Dessert，文章将其与 Gossip Harbor 对比。"
         },
         {
-          "name": "Lumines Remastered",
-          "desc": "Lumines 的高清重制版，登陆移动端、PC 与主机，保留原版音乐解谜玩法。"
+          "name": "Gossip Harbor",
+          "desc": "Microfun 旗下的合并类手游，当前合并品类头部产品，并跻身全球手游收入 Top 5。"
         },
         {
-          "name": "Lumines Arise",
-          "desc": "Lumines 系列回归新作，登陆 PS5、PSVR 与 PC，并推动原版登陆移动端。"
+          "name": "Love & Pies",
+          "desc": "Trailmix（Supercell 旗下工作室）开发的合并类游戏，是 Gossip Harbor 的灵感来源。"
         },
         {
-          "name": "Lumines: Puzzle & Music",
-          "desc": "2016 年移动端 Lumines 改编作，采用竖屏单手操作并含 live service 元素。"
+          "name": "Whiteout Survival",
+          "desc": "Century Games 旗下成功策略游戏之一，文章用它说明 Century Games 的背景。"
         },
         {
-          "name": "Rez",
-          "desc": "音乐节奏射击游戏，以视听同步和抽象风格著称。"
+          "name": "Kingshot",
+          "desc": "Century Games 旗下成功策略游戏之一，与 Whiteout Survival 并列提及。"
         },
         {
-          "name": "Space Channel 5",
-          "desc": "音乐节奏舞蹈游戏，玩家跟随节拍输入指令进行舞蹈对战。"
-        },
-        {
-          "name": "Child of Eden",
-          "desc": "音乐节奏射击游戏，延续 Rez 式的视听互动体验。"
+          "name": "Travel Town",
+          "desc": "作者提到的爆款合并类游戏，作者称从中获得游戏设计经验。"
         }
       ]
     },
     {
-      "id": "df7d9cfb0b",
-      "title": "Roblox 将允许开发者把游戏以独立应用形式上架其他商店",
-      "summary": "Roblox 宣布将放开限制，开发者未来可把基于 Roblox 制作的游戏以独立 App 形式发布到其他平台与应用商店，同时仍沿用 Roblox 现有的收入分成体系。对关注 UGC 平台生态与分发渠道变化的从业者，这是一条值得留意的平台侧政策动向，但与三消等休闲品类的玩法与变现设计关联有限。",
-      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-15T19:52:45",
-      "games": [
-        {
-          "name": "Steal an Egg",
-          "desc": "Roblox 平台上的用户生成游戏，被文章列为可能以独立应用形式上架外部商店的标题之一。"
-        },
-        {
-          "name": "Scream and Run",
-          "desc": "Roblox 平台上的用户生成游戏，被文章列为可能以独立应用形式上架外部商店的标题之一。"
-        },
-        {
-          "name": "Welcome to Bloxburg",
-          "desc": "Roblox 平台上的生活模拟/角色扮演类用户生成游戏，被文章列为可能以独立应用形式上架外部商店的标题之一。"
-        },
-        {
-          "name": "Marathon",
-          "desc": "Bungie 开发的科幻 PvP 提取射击游戏，文章中提及该作将回归最初的提取射击愿景。"
-        }
-      ]
-    },
-    {
-      "id": "f6357dad5a",
-      "title": "Candy Crush 开发商 King 拒绝集体谈判协议，员工或于 9 月 25 日罢工",
-      "summary": "瑞典工会 Sveriges Ingenjörer 与 Unionen 表示，若 King 不改变立场，罢工可能自 9 月 25 日开始。作为头部休闲游戏大厂的劳资动态，对观察 King 后续产能与运营节奏有间接意义。",
-      "url": "https://mobilegamer.biz/king-staff-could-strike-after-the-candy-crush-maker-rejects-collective-bargaining-agreement/",
+      "id": "3777c1151a",
+      "title": "数据摘要：Roblox 股价上涨 11%，8 月头部发行商，Heartopia、Clash of Critters、Newzoo 数据等",
+      "summary": "本周移动游戏数据汇总涵盖 Roblox 股价表现、8 月头部发行商、Heartopia、Clash of Critters、Newzoo 统计，以及 Pocket Worlds 收购 Hotel Hideaway 等动态。对关注手游市场格局和竞品表现的从业者有资讯价值。",
+      "url": "https://mobilegamer.biz/data-digest-roblox-shares-jump-11-augusts-top-publishers-heartopia-clash-of-critters-newzoo-stats-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-15T11:07:13",
+      "published_at": "2026-09-16T13:04:54",
       "games": [
         {
-          "name": "Candy Crush",
-          "desc": "King 旗下的三消益智游戏系列，也是其最具代表性的核心 IP。"
+          "name": "Roblox",
+          "desc": "大型用户生成内容游戏平台，文章提及其股价上涨与开发者工具更新。"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "desc": "索尼旗下二次元 RPG 手游，其周年庆与夏季活动推动 IAP 收入增长。"
+        },
+        {
+          "name": "Lordrush",
+          "desc": "Century Games 发布的新游戏，文中未说明具体玩法类型。"
+        },
+        {
+          "name": "Hotel Legacy",
+          "desc": "Century Games 发布的新游戏，文中未说明具体玩法类型。"
+        },
+        {
+          "name": "Heartopia",
+          "desc": "XD Network 的生活模拟手游，月 IAP 收入达到 2000 万美元并创模拟品类纪录。"
+        },
+        {
+          "name": "Aobi Island",
+          "desc": "生活/模拟类游戏，此前以每月 770 万美元保持模拟品类月流水纪录。"
+        },
+        {
+          "name": "Hotel Hideaway",
+          "desc": "Sulake 开发的 3D 社交世界游戏，被 Pocket Worlds 收购。"
+        },
+        {
+          "name": "Habbo Hotel",
+          "desc": "Sulake 旗下虚拟社交世界/游戏，文中作为 Hotel Hideaway 开发商背景提及。"
+        },
+        {
+          "name": "Highrise",
+          "desc": "Pocket Worlds 旗下的社交游戏/平台，与 Everskies 一同归入其产品组合。"
+        },
+        {
+          "name": "Everskies",
+          "desc": "Pocket Worlds 旗下的社交游戏/平台，与 Highrise 一同归入其产品组合。"
+        },
+        {
+          "name": "Clash of Critters",
+          "desc": "Farlight Games 的 coin looter 游戏，采用 plinko 式机制并进入品类收入前五。"
         }
       ]
     },
     {
-      "id": "9937f768ae",
-      "title": "Bungie 对 Marathon 进行大规模重做，偏离最初的撤离射击设计愿景",
-      "summary": "Bungie 宣布将依据玩家反馈对 Marathon 进行方向性调整，团队称需要\"同时改变我们所构建的内容以及交付方式\"。属于服务型射击游戏的研发与运营动态，对休闲品类从业者参考价值有限。",
-      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-      "source": "Game Developer",
+      "id": "5450682202",
+      "title": "1312 Interactive 完成 100 万美元种子轮融资",
+      "summary": "游戏发行商 1312 Interactive 获得 100 万美元种子轮融资，属于早期游戏公司融资动态，对休闲游戏赛道的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-15T19:00:00",
+      "published_at": "2026-09-16T13:25:18",
       "games": [
         {
-          "name": "Marathon",
-          "desc": "Bungie 开发的撤离射击游戏，正被大规模重做并加入永久 PvE 模式 Symbiosis。"
+          "name": "Winds of Arcana: Ruination",
+          "desc": "由 Brewed Games 开发、1312 Interactive 于2025年发行的游戏。"
         },
         {
-          "name": "Destiny 2",
-          "desc": "Bungie 的在线射击游戏，已宣布结束实时开发。"
+          "name": "Palm Sugar: A Village Story",
+          "desc": "由 Mono Tusk Studios 开发、1312 Interactive 上月发行的游戏。"
+        },
+        {
+          "name": "Souls of Bombarika",
+          "desc": "由 Street Lamp Games 开发、计划于10月发行的游戏。"
+        },
+        {
+          "name": "We Are So Cooked",
+          "desc": "由 Dwarven Brothers 开发、计划于10月发行的游戏。"
+        },
+        {
+          "name": "Spaceman Biff",
+          "desc": "由 Prescription Studios 开发、将由1312 Interactive发行的游戏。"
         }
       ]
     },
     {
-      "id": "97fd191ca2",
-      "title": "Wardogs 负责人称工作室不会聘用那些在社交媒体上抨击加班的人",
-      "summary": "Game Developer 报道了 Wardogs 项目负责人关于加班（crunch）文化与招聘标准的争议性言论，称若员工真正在意作品就会感到被重视，否则会觉得被奴役。属于游戏行业职场与团队管理动态，对关注研发管理与人才策略的从业者有参考价值，但与休闲游戏设计本身关联较弱。",
-      "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+      "id": "fbde6f2136",
+      "title": "报道：MindsEye 开发商 Build a Rocket Boy 在再度裁员后疑似将关闭",
+      "summary": "据多位员工在社交媒体发布告别帖，MindsEye 开发商 Build a Rocket Boy 在最新一轮裁员后疑似走向关停。属于主机/PC 大制作领域的公司动态，对休闲手游从业者的直接参考价值有限，可作为行业景气度参考。",
+      "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-15T18:05:13",
+      "published_at": "2026-09-16T18:00:00",
       "games": [
-        {
-          "name": "Wardogs",
-          "desc": "Bulkhead 开发的游戏，报道提及其在抢先体验上线五天内销量达到 200 万份，并因加班文化引发讨论。"
-        },
-        {
-          "name": "Callisto Protocol",
-          "desc": "科幻生存恐怖游戏，文章将其列为曾出现加班问题的作品之一。"
-        },
-        {
-          "name": "Modern Warfare III",
-          "desc": "第一人称射击游戏，文章将其列为曾出现加班问题的作品之一。"
-        },
-        {
-          "name": "Fallout 76",
-          "desc": "在线动作角色扮演游戏，文章将其列为曾出现加班问题的作品之一。"
-        },
-        {
-          "name": "Metroid Dread",
-          "desc": "2D 动作冒险/银河恶魔城游戏，文章将其列为曾出现加班问题的作品之一。"
-        },
         {
           "name": "MindsEye",
-          "desc": "剧情驱动的动作冒险游戏，文章将其列为曾出现加班问题的作品之一。"
-        },
-        {
-          "name": "Balatro",
-          "desc": "扑克主题的 Roguelike 牌组构建游戏，文章提及其开发者因加班倦怠而推迟 1.1 更新。"
-        },
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "开放世界动作冒险游戏，文章提及多名 Rockstar 开发者指控公司推动加班。"
-        }
-      ]
-    },
-    {
-      "id": "3e50bf3c1e",
-      "title": "为什么这位华盛顿州知名政客认为电子游戏可以成为「软实力」？",
-      "summary": "华盛顿州州务卿 Steve Hobbs 在 SLICE 和 PAX West 2026 上向开发者推销「电子游戏即软实力」的理念。对关注游戏产业政策、政企关系及行业公共形象的从业者有一定参考价值。",
-      "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-15T15:10:18",
-      "games": []
-    },
-    {
-      "id": "b635bc871f",
-      "title": "Bohemia Interactive 收购 Everwind 开发商 Enjoy Studio 少数股权",
-      "summary": "Bohemia Interactive 宣布收购《Everwind》开发商 Enjoy Studio 的少数股权，双方希望共同制作更好的游戏。这是游戏行业投资/并购动态，与休闲消除类手游的机制和运营关联较弱。可作为了解中型开发商资本合作的参考。",
-      "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-15T13:19:00",
-      "games": [
-        {
-          "name": "Everwind",
-          "desc": "Enjoy Studio 开发的沙盒生存 RPG，抢先体验六个月内销量超过 30 万份，Bohemia Interactive 已收购其开发商少数股权。"
-        },
-        {
-          "name": "DayZ",
-          "desc": "Bohemia Interactive 开发的生存类游戏，文中作为其代表作提及。"
-        },
-        {
-          "name": "Arma",
-          "desc": "Bohemia Interactive 开发的军事模拟游戏系列，文中作为其代表作提及。"
-        }
-      ]
-    },
-    {
-      "id": "69e161896b",
-      "title": "Sega 与 Netflix 宣布合作开发 Crazy Taxi、Sonic 和 Stranger Than Heaven 改编作品",
-      "summary": "Sega 与 Netflix 达成多作品合作，将围绕 Crazy Taxi、Sonic 和 Stranger Than Heaven 进行改编开发。该消息属于影视/游戏 IP 跨媒介新闻，对休闲手游从业者的直接玩法与变现参考有限。可关注头部 IP 的多平台运营策略。",
-      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-15T10:47:08",
-      "games": [
-        {
-          "name": "Crazy Taxi",
-          "desc": "世嘉经典快节奏出租车驾驶游戏，将被 Netflix 改编为电影。"
-        },
-        {
-          "name": "Sonic",
-          "desc": "世嘉招牌平台动作游戏系列，将推出面向学龄前观众的新动画，并已有 Netflix 动画《Sonic Prime》。"
-        },
-        {
-          "name": "Stranger Than Heaven",
-          "desc": "世嘉游戏，将被 Netflix 改编为真人犯罪电影。"
-        },
-        {
-          "name": "Devil May Cry",
-          "desc": "动作游戏系列，被列入 Netflix 游戏改编作品片单。"
-        },
-        {
-          "name": "Assassin's Creed",
-          "desc": "动作冒险游戏系列，将被 Netflix 改编为真人剧。"
-        },
-        {
-          "name": "Gears of War",
-          "desc": "第三人称射击游戏系列，将被 Netflix 改编为电影。"
-        },
-        {
-          "name": "Minecraft",
-          "desc": "沙盒建造游戏，将被 Netflix 改编为系列节目。"
-        },
-        {
-          "name": "Magic: The Gathering",
-          "desc": "集换式卡牌游戏，将被 Netflix 改编为系列节目。"
-        },
-        {
-          "name": "Clash of Clans",
-          "desc": "策略手游，将被 Netflix 改编为系列节目。"
-        },
-        {
-          "name": "Overcooked",
-          "desc": "合作烹饪派对游戏，将被 Netflix 改编为系列节目。"
-        },
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "Rockstar 的开放世界犯罪游戏，Netflix 曾独家播出其 30 分钟加长实机预览。"
-        }
-      ]
-    },
-    {
-      "id": "aaea6ad463",
-      "title": "Team17 母公司 Everplay 增持 Wardogs 开发商 Bulkhead 股份，并公布强劲 FY26 业绩",
-      "summary": "Team17 母公司 Everplay 增持 Wardogs 开发商 Bulkhead 的股份，并预计全年业绩强劲，Hell Let Loose: Vietnam 等产品表现超预期。这是游戏公司财务与投资动态，不涉及休闲消除类玩法或数值设计。对关注买量/发行商投资组合的从业者有一定参考。",
-      "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-15T09:43:03",
-      "games": [
-        {
-          "name": "Wardogs",
-          "desc": "Bulkhead 开发的军事沙盒游戏，抢先体验表现超出 Everplay 预期，并推动其增持开发商股份。"
-        },
-        {
-          "name": "Hell Let Loose: Vietnam",
-          "desc": "Expression Games 开发的军事题材游戏，表现超出 Everplay 预期。"
-        },
-        {
-          "name": "Lumentale: Memories of Trey",
-          "desc": "Everplay 上半财年推出的新作之一，文章未说明具体类型/特点。"
-        },
-        {
-          "name": "Sintopia",
-          "desc": "Everplay 上半财年推出的新作之一，文章未说明具体类型/特点。"
-        },
-        {
-          "name": "Wardrum",
-          "desc": "Everplay 上半财年推出的新作之一，文章未说明具体类型/特点。"
-        },
-        {
-          "name": "Rogue Point",
-          "desc": "Everplay 上半财年推出的新作之一，文章未说明具体类型/特点。"
-        }
-      ]
-    },
-    {
-      "id": "f2923f1f49",
-      "title": "为什么为游戏续作更换主角可能是个错误",
-      "summary": "北欧游戏行业资深人士 Christian Fonnesbech 结合其在 Nordisk Film Games 与 Leverage 的 IP 开发经验，讨论续作更换主角可能带来的 IP 风险。属 IP 与叙事层面的经验分享，对休闲游戏玩法与数值设计的直接价值有限。",
-      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-15T12:30:00",
-      "games": [
-        {
-          "name": "Dead Island",
-          "desc": "丧尸题材生存恐怖动作角色扮演游戏系列，以开放区域和近战武器战斗为特点。"
-        },
-        {
-          "name": "Metro",
-          "desc": "后末日生存恐怖第一人称射击游戏系列，改编自同名小说，强调氛围与资源管理。"
-        },
-        {
-          "name": "Conan Exiles",
-          "desc": "基于蛮王柯南世界的开放世界生存建造游戏，包含战斗、制作与奴役等要素。"
-        },
-        {
-          "name": "Dune Awakening",
-          "desc": "基于《沙丘》的开放世界生存 MMO 游戏，融合探索、建造与多人互动。"
-        },
-        {
-          "name": "Exoborne",
-          "desc": "战术撤离射击游戏，背景设定在极端天气与灾难后的开放世界。"
-        },
-        {
-          "name": "The Dark Pictures Anthology",
-          "desc": "互动电影式恐怖冒险游戏选集系列，每部讲述独立恐怖故事并强调选择影响。"
+          "desc": "一款动作冒险游戏，2025年6月发售后因Bug、性能问题和差评而陷入困境。"
         },
         {
           "name": "Hitman",
-          "desc": "潜行暗杀类游戏系列，玩家常扮演代号 47 的杀手，通过伪装与策略完成任务。"
+          "desc": "IO Interactive 开发的潜行动作暗杀游戏系列，文中以其开发商身份被提及。"
         }
       ]
+    },
+    {
+      "id": "1c809b0557",
+      "title": "“我希望 Criterion 被视为英国最好的工作室”——Burnout 老家为何在 Battlefield 中仍有未来",
+      "summary": "文章讲述 Criterion 工作室如何从竞速游戏转向支持 Battlefield 系列，并探讨其未来定位。属于主机大厂的组织与产品线变迁报道，对休闲手游团队借鉴价值有限。",
+      "url": "https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T13:07:10",
+      "games": [
+        {
+          "name": "Burnout",
+          "desc": "Criterion成名的竞速游戏系列，以Ronin追车为灵感，包含混乱破坏和朋克摇滚配乐。"
+        },
+        {
+          "name": "Need for Speed",
+          "desc": "竞速游戏系列，Criterion与Ghost Games曾运用赛车专长参与开发。"
+        },
+        {
+          "name": "Need for Speed Unbound",
+          "desc": "2022年推出的Need for Speed系列作品，文中称为该系列目前最新作。"
+        },
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "Fuse Games即将推出的podracing竞速游戏，融入Burnout风格。"
+        },
+        {
+          "name": "Wreckreation",
+          "desc": "由前Criterion成员创立的Three Fields推出的游戏。"
+        },
+        {
+          "name": "Wreckreation 2",
+          "desc": "由When Tides Turn正在开发的续作。"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "军事射击游戏系列，Criterion目前将其作为开发重点。"
+        },
+        {
+          "name": "Battlefield 6",
+          "desc": "近期取得巨大成功的Battlefield作品，Criterion与EA Motive、Ripple Effect、DICE合作交付关键元素。"
+        },
+        {
+          "name": "Battlefield 5",
+          "desc": "2018年发行的Battlefield系列作品，Criterion曾参与开发。"
+        },
+        {
+          "name": "Battlefield 2042",
+          "desc": "2020年发行的Battlefield系列作品，Criterion曾参与开发。"
+        }
+      ]
+    },
+    {
+      "id": "4d8279f488",
+      "title": "三上真司将入选 2026 DICE Awards 的 AIAS 名人堂",
+      "summary": "AIAS 宣布《Resident Evil》导演三上真司将进入名人堂，由须田刚一（Goichi Suda）在 2026 年 DICE Awards 上颁奖。属于行业人物荣誉类资讯，对休闲游戏从业者的直接参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T16:31:40",
+      "games": [
+        {
+          "name": "Resident Evil",
+          "desc": "生存恐怖游戏系列，三上真司被视为该系列先驱之一。"
+        },
+        {
+          "name": "Killer7",
+          "desc": "三上真司与须田刚一合作过的动作冒险游戏。"
+        },
+        {
+          "name": "Shadows of the Damned",
+          "desc": "三上真司与须田刚一合作过的动作恐怖射击游戏。"
+        },
+        {
+          "name": "The Evil Within",
+          "desc": "由三上真司创立并领导的 Tango Gameworks 开发的生存恐怖游戏。"
+        },
+        {
+          "name": "Hi-Fi Rush",
+          "desc": "由 Tango Gameworks 开发的节奏动作游戏。"
+        },
+        {
+          "name": "Stellar Blade",
+          "desc": "由 Shift Up 开发的动作冒险游戏；文中称 Shift Up 收购了 Unbound。"
+        }
+      ]
+    },
+    {
+      "id": "5f1c0300ea",
+      "title": "动视暴雪遭前员工起诉，指控性骚扰与报复",
+      "summary": "一名在动视暴雪工作了 14 年的女性员工起诉 10 名男性存在性行为不当与打击报复。属于公司治理与职场文化层面的行业新闻，与休闲游戏设计运营无直接关联。",
+      "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T13:20:17",
+      "games": [
+        {
+          "name": "World of Warcraft",
+          "desc": "暴雪旗下的大型多人在线角色扮演游戏（MMORPG），文中作为动视暴雪相关诉讼背景提及。"
+        },
+        {
+          "name": "GTA",
+          "desc": "Rockstar 旗下开放世界动作冒险游戏系列；文中相关链接提及被解雇的 GTA 开发者。"
+        }
+      ]
+    },
+    {
+      "id": "79fda3645d",
+      "title": "英国 Reform UK 在其 iOS 与 Android 应用中上线「阻止偷渡船」小游戏",
+      "summary": "英国极右翼政党 Reform UK 在 Small Boat Watch 应用内加入了一款名为 Small Boat Scramble 的街机小游戏。对关注移动端轻度游戏与政治传播结合、应用内小游戏运营的从业者有一定观察价值。",
+      "url": "https://mobilegamer.biz/reform-uk-launched-a-stop-the-boats-game-within-its-ios-and-android-app/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T09:21:24",
+      "games": [
+        {
+          "name": "Small Boat Scramble",
+          "desc": "Reform UK 在 Small Boat Watch 应用中内置的小游戏，玩家通过弹开载有移民的小船来阻止其抵达英国海岸并争取高分。"
+        },
+        {
+          "name": "Snake",
+          "desc": "经典贪吃蛇类移动游戏，文中称特朗普白宫网站发布的 MAGA 风格游戏对其进行了极右翼化重制。"
+        },
+        {
+          "name": "Flappy Bird",
+          "desc": "经典休闲点击躲避障碍游戏，文中称特朗普白宫网站发布的 MAGA 风格游戏对其进行了极右翼化重制。"
+        }
+      ]
+    },
+    {
+      "id": "1d5cfa4e7f",
+      "title": "报道：欧盟计划限制儿童访问在线游戏",
+      "summary": "据 Politico 报道，欧盟拟在未成年人保护计划中限制儿童访问在线游戏。该政策若落地可能影响手游的年龄门槛、合规与用户获取，对休闲游戏运营者有间接参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/16/report-the-european-union-plans-to-restrict-childrens-access-to-online-games",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T14:10:10",
+      "games": []
     }
   ]
 }
