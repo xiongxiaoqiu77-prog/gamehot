@@ -1,293 +1,152 @@
 {
-  "updated": "2026-09-17",
-  "generated_at": "2026-09-17T07:00:06.882402",
+  "updated": "2026-09-18",
+  "generated_at": "2026-09-18T07:00:38.420019",
   "articles": [
     {
-      "id": "88a152ab2b",
-      "title": "Just Dessert vs. Gossip Harbor：谁的合并玩法做得更好？",
-      "summary": "文章对 Just Dessert 与 Gossip Harbor 两款合并类休闲游戏进行拆解比较，分析它们在合并机制、关卡节奏、资源循环与整体体验上的差异。对关注 merge 品类设计、竞品拆解和休闲手游进化的从业者有较高参考价值。",
-      "url": "https://www.deconstructoroffun.com/blog/just-dessert-vs-gossip-harbor-who-merged-it-better",
-      "source": "Deconstructor of Fun",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-09-16T12:47:14",
-      "games": [
-        {
-          "name": "Just Desserts",
-          "desc": "Century Games 推出的合并类软发布手游，标题中亦写作 Just Dessert，文章将其与 Gossip Harbor 对比。"
-        },
-        {
-          "name": "Gossip Harbor",
-          "desc": "Microfun 旗下的合并类手游，当前合并品类头部产品，并跻身全球手游收入 Top 5。"
-        },
-        {
-          "name": "Love & Pies",
-          "desc": "Trailmix（Supercell 旗下工作室）开发的合并类游戏，是 Gossip Harbor 的灵感来源。"
-        },
-        {
-          "name": "Whiteout Survival",
-          "desc": "Century Games 旗下成功策略游戏之一，文章用它说明 Century Games 的背景。"
-        },
-        {
-          "name": "Kingshot",
-          "desc": "Century Games 旗下成功策略游戏之一，与 Whiteout Survival 并列提及。"
-        },
-        {
-          "name": "Travel Town",
-          "desc": "作者提到的爆款合并类游戏，作者称从中获得游戏设计经验。"
-        }
-      ]
-    },
-    {
-      "id": "3777c1151a",
-      "title": "数据摘要：Roblox 股价上涨 11%，8 月头部发行商，Heartopia、Clash of Critters、Newzoo 数据等",
-      "summary": "本周移动游戏数据汇总涵盖 Roblox 股价表现、8 月头部发行商、Heartopia、Clash of Critters、Newzoo 统计，以及 Pocket Worlds 收购 Hotel Hideaway 等动态。对关注手游市场格局和竞品表现的从业者有资讯价值。",
-      "url": "https://mobilegamer.biz/data-digest-roblox-shares-jump-11-augusts-top-publishers-heartopia-clash-of-critters-newzoo-stats-more/",
-      "source": "Mobile Gamer Biz",
+      "id": "8d1a620e98",
+      "title": "欧盟新法草案拟对在线游戏施加广泛限制",
+      "summary": "欧盟委员会公布 EU KIDS Act 草案，对社交网络和视频平台的限制最严，但对“在线游戏”的定义极宽，可能覆盖从 Roblox 到光盘游戏多人模式的各类产品。对面向欧洲市场的休闲手游发行与合规团队是必须跟踪的政策风险。",
+      "url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-16T13:04:54",
+      "published_at": "2026-09-17T14:29:58",
       "games": [
         {
           "name": "Roblox",
-          "desc": "大型用户生成内容游戏平台，文章提及其股价上涨与开发者工具更新。"
-        },
-        {
-          "name": "Fate/Grand Order",
-          "desc": "索尼旗下二次元 RPG 手游，其周年庆与夏季活动推动 IAP 收入增长。"
-        },
-        {
-          "name": "Lordrush",
-          "desc": "Century Games 发布的新游戏，文中未说明具体玩法类型。"
-        },
-        {
-          "name": "Hotel Legacy",
-          "desc": "Century Games 发布的新游戏，文中未说明具体玩法类型。"
-        },
-        {
-          "name": "Heartopia",
-          "desc": "XD Network 的生活模拟手游，月 IAP 收入达到 2000 万美元并创模拟品类纪录。"
-        },
-        {
-          "name": "Aobi Island",
-          "desc": "生活/模拟类游戏，此前以每月 770 万美元保持模拟品类月流水纪录。"
-        },
-        {
-          "name": "Hotel Hideaway",
-          "desc": "Sulake 开发的 3D 社交世界游戏，被 Pocket Worlds 收购。"
-        },
-        {
-          "name": "Habbo Hotel",
-          "desc": "Sulake 旗下虚拟社交世界/游戏，文中作为 Hotel Hideaway 开发商背景提及。"
-        },
-        {
-          "name": "Highrise",
-          "desc": "Pocket Worlds 旗下的社交游戏/平台，与 Everskies 一同归入其产品组合。"
-        },
-        {
-          "name": "Everskies",
-          "desc": "Pocket Worlds 旗下的社交游戏/平台，与 Highrise 一同归入其产品组合。"
-        },
-        {
-          "name": "Clash of Critters",
-          "desc": "Farlight Games 的 coin looter 游戏，采用 plinko 式机制并进入品类收入前五。"
+          "desc": "面向用户生成内容与在线社交玩法的多人在线游戏平台，常被视为儿童接触在线游戏和 UGC 创作的代表。"
         }
       ]
     },
     {
-      "id": "5450682202",
-      "title": "1312 Interactive 完成 100 万美元种子轮融资",
-      "summary": "游戏发行商 1312 Interactive 获得 100 万美元种子轮融资，属于早期游戏公司融资动态，对休闲游戏赛道的直接参考价值有限。",
-      "url": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
+      "id": "b5cd7038c7",
+      "title": "Supercell 与 Duolingo 公布全新《Brawl Stars》联动",
+      "summary": "《Brawl Stars》角色 Spike 与 Duolingo 吉祥物 Duo 将在双方应用内展开为期一个月的联动活动。是手游跨界营销与 LiveOps 事件的典型案例，对做活动运营的团队有借鉴意义。",
+      "url": "https://mobilegamer.biz/supercell-and-duolingo-reveal-new-brawl-stars-crossover-event/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-17T09:36:20",
+      "games": [
+        {
+          "name": "Brawl Stars",
+          "desc": "Supercell 推出的多人在线竞技射击手游，拥有英雄、多种模式和赛季化联动内容。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "米哈游开发的开放世界动作角色扮演游戏，常与其他应用开展跨界联动。"
+        },
+        {
+          "name": "Angry Birds",
+          "desc": "Rovio 的经典休闲弹射益智游戏，曾与 Duolingo 联动。"
+        },
+        {
+          "name": "Beatstar",
+          "desc": "音乐节奏手游，玩家随歌曲点击节奏，后由 Duolingo 收购团队并关闭。"
+        },
+        {
+          "name": "Country Star",
+          "desc": "乡村音乐主题的音乐节奏手游，与 Beatstar 同团队，后被关闭。"
+        }
+      ]
+    },
+    {
+      "id": "04de6a52ac",
+      "title": "Take-Two CEO Strauss Zelnick 称 GTA VI 仍需「大力营销」，尽管品牌已全球知名",
+      "summary": "Zelnick 表示即便 GTA VI 拥有全球级品牌认知，依然需要积极营销，因为「我们无法让人相信不好的东西是好的」。对休闲游戏从业者而言，这是关于品牌存量与营销投入关系的行业观点参考。",
+      "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-17T17:49:42",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI (GTA VI)",
+          "desc": "Rockstar Games 开发的开放世界动作冒险游戏，文中称其仍需大力营销，尽管品牌已全球知名。"
+        }
+      ]
+    },
+    {
+      "id": "da0dc1a962",
+      "title": "Heart Machine 发行协议告吹后面临可能关闭，大部分员工已被裁",
+      "summary": "GamesIndustry.biz 报道 Hyper Light Drifter 开发商因发行合作破裂而濒临关门。反映独立工作室对发行方资金的强依赖及其风险。",
+      "url": "https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-16T13:25:18",
+      "published_at": "2026-09-17T08:39:10",
       "games": [
         {
-          "name": "Winds of Arcana: Ruination",
-          "desc": "由 Brewed Games 开发、1312 Interactive 于2025年发行的游戏。"
+          "name": "Hyper Light Drifter",
+          "desc": "Heart Machine 开发的知名独立动作冒险游戏，文章以该作开发者身份报道工作室可能关闭。"
         },
         {
-          "name": "Palm Sugar: A Village Story",
-          "desc": "由 Mono Tusk Studios 开发、1312 Interactive 上月发行的游戏。"
+          "name": "Hyper Light Breaker",
+          "desc": "Heart Machine 开发的游戏，曾进入早期访问阶段，开发结束后工作室出现裁员。"
         },
         {
-          "name": "Souls of Bombarika",
-          "desc": "由 Street Lamp Games 开发、计划于10月发行的游戏。"
-        },
-        {
-          "name": "We Are So Cooked",
-          "desc": "由 Dwarven Brothers 开发、计划于10月发行的游戏。"
-        },
-        {
-          "name": "Spaceman Biff",
-          "desc": "由 Prescription Studios 开发、将由1312 Interactive发行的游戏。"
+          "name": "Possessor(s)",
+          "desc": "Heart Machine 开发的游戏，文中提到其发售前受裁员影响的员工担忧原开发人员已不在公司。"
         }
       ]
     },
     {
-      "id": "fbde6f2136",
-      "title": "报道：MindsEye 开发商 Build a Rocket Boy 在再度裁员后疑似将关闭",
-      "summary": "据多位员工在社交媒体发布告别帖，MindsEye 开发商 Build a Rocket Boy 在最新一轮裁员后疑似走向关停。属于主机/PC 大制作领域的公司动态，对休闲手游从业者的直接参考价值有限，可作为行业景气度参考。",
-      "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-16T18:00:00",
-      "games": [
-        {
-          "name": "MindsEye",
-          "desc": "一款动作冒险游戏，2025年6月发售后因Bug、性能问题和差评而陷入困境。"
-        },
-        {
-          "name": "Hitman",
-          "desc": "IO Interactive 开发的潜行动作暗杀游戏系列，文中以其开发商身份被提及。"
-        }
-      ]
-    },
-    {
-      "id": "1c809b0557",
-      "title": "“我希望 Criterion 被视为英国最好的工作室”——Burnout 老家为何在 Battlefield 中仍有未来",
-      "summary": "文章讲述 Criterion 工作室如何从竞速游戏转向支持 Battlefield 系列，并探讨其未来定位。属于主机大厂的组织与产品线变迁报道，对休闲手游团队借鉴价值有限。",
-      "url": "https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield",
+      "id": "bf8df971b8",
+      "title": "Nex Playground 获 1.5 亿美元新融资，硬件销量突破百万台",
+      "summary": "家庭体感主机 Nex Playground 销量超过 100 万台并完成新一轮 1.5 亿美元融资。反映家庭向休闲游戏硬件的增长势头，但内容偏公司动态。",
+      "url": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-16T13:07:10",
-      "games": [
-        {
-          "name": "Burnout",
-          "desc": "Criterion成名的竞速游戏系列，以Ronin追车为灵感，包含混乱破坏和朋克摇滚配乐。"
-        },
-        {
-          "name": "Need for Speed",
-          "desc": "竞速游戏系列，Criterion与Ghost Games曾运用赛车专长参与开发。"
-        },
-        {
-          "name": "Need for Speed Unbound",
-          "desc": "2022年推出的Need for Speed系列作品，文中称为该系列目前最新作。"
-        },
-        {
-          "name": "Star Wars: Galactic Racer",
-          "desc": "Fuse Games即将推出的podracing竞速游戏，融入Burnout风格。"
-        },
-        {
-          "name": "Wreckreation",
-          "desc": "由前Criterion成员创立的Three Fields推出的游戏。"
-        },
-        {
-          "name": "Wreckreation 2",
-          "desc": "由When Tides Turn正在开发的续作。"
-        },
-        {
-          "name": "Battlefield",
-          "desc": "军事射击游戏系列，Criterion目前将其作为开发重点。"
-        },
-        {
-          "name": "Battlefield 6",
-          "desc": "近期取得巨大成功的Battlefield作品，Criterion与EA Motive、Ripple Effect、DICE合作交付关键元素。"
-        },
-        {
-          "name": "Battlefield 5",
-          "desc": "2018年发行的Battlefield系列作品，Criterion曾参与开发。"
-        },
-        {
-          "name": "Battlefield 2042",
-          "desc": "2020年发行的Battlefield系列作品，Criterion曾参与开发。"
-        }
-      ]
+      "published_at": "2026-09-17T13:00:00",
+      "games": []
     },
     {
-      "id": "4d8279f488",
-      "title": "三上真司将入选 2026 DICE Awards 的 AIAS 名人堂",
-      "summary": "AIAS 宣布《Resident Evil》导演三上真司将进入名人堂，由须田刚一（Goichi Suda）在 2026 年 DICE Awards 上颁奖。属于行业人物荣誉类资讯，对休闲游戏从业者的直接参考价值有限。",
-      "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-      "source": "Game Developer",
+      "id": "75e68a9a15",
+      "title": "“各大发行商都来找我们谈 Kinect 和 Wii 老目录”——Nex Playground 国际化扩张中挑花眼",
+      "summary": "Nex Playground 销量破百万、付费订阅用户接近百万，在 EA 创始人 Bing Gordon 等新管理层加入后进军德国市场，定价 319 欧元。对研究家庭休闲游戏订阅化与老 IP 复用的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-16T16:31:40",
-      "games": [
-        {
-          "name": "Resident Evil",
-          "desc": "生存恐怖游戏系列，三上真司被视为该系列先驱之一。"
-        },
-        {
-          "name": "Killer7",
-          "desc": "三上真司与须田刚一合作过的动作冒险游戏。"
-        },
-        {
-          "name": "Shadows of the Damned",
-          "desc": "三上真司与须田刚一合作过的动作恐怖射击游戏。"
-        },
-        {
-          "name": "The Evil Within",
-          "desc": "由三上真司创立并领导的 Tango Gameworks 开发的生存恐怖游戏。"
-        },
-        {
-          "name": "Hi-Fi Rush",
-          "desc": "由 Tango Gameworks 开发的节奏动作游戏。"
-        },
-        {
-          "name": "Stellar Blade",
-          "desc": "由 Shift Up 开发的动作冒险游戏；文中称 Shift Up 收购了 Unbound。"
-        }
-      ]
+      "published_at": "2026-09-17T13:00:00",
+      "games": []
     },
     {
-      "id": "5f1c0300ea",
-      "title": "动视暴雪遭前员工起诉，指控性骚扰与报复",
-      "summary": "一名在动视暴雪工作了 14 年的女性员工起诉 10 名男性存在性行为不当与打击报复。属于公司治理与职场文化层面的行业新闻，与休闲游戏设计运营无直接关联。",
-      "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
-      "source": "Game Developer",
+      "id": "c3b49e1116",
+      "title": "Remedy 的 Arhi Makkonen 谈《Control Resonant》如何打造“我们做过最大的世界”",
+      "summary": "《Control Resonant》将主角换成 Dylan Faden，引入近战体系并把舞台从“最古老之屋”搬到曼哈顿开放街区。属于主机动作游戏的开发访谈，与休闲消除品类关联不大。",
+      "url": "https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-16T13:20:17",
+      "published_at": "2026-09-17T10:29:52",
       "games": [
         {
-          "name": "World of Warcraft",
-          "desc": "暴雪旗下的大型多人在线角色扮演游戏（MMORPG），文中作为动视暴雪相关诉讼背景提及。"
+          "name": "Control Resonant",
+          "desc": "Remedy 开发的超自然动作冒险游戏续作，主角为 Dylan Faden，采用更开放的曼哈顿世界并强调近战与高机动性。"
         },
         {
-          "name": "GTA",
-          "desc": "Rockstar 旗下开放世界动作冒险游戏系列；文中相关链接提及被解雇的 GTA 开发者。"
+          "name": "Control",
+          "desc": "Remedy 2019 年推出的超自然动作冒险游戏，以 Jesse Faden 和封闭建筑 The Oldest House 为主要舞台。"
         }
       ]
     },
     {
-      "id": "79fda3645d",
-      "title": "英国 Reform UK 在其 iOS 与 Android 应用中上线「阻止偷渡船」小游戏",
-      "summary": "英国极右翼政党 Reform UK 在 Small Boat Watch 应用内加入了一款名为 Small Boat Scramble 的街机小游戏。对关注移动端轻度游戏与政治传播结合、应用内小游戏运营的从业者有一定观察价值。",
-      "url": "https://mobilegamer.biz/reform-uk-launched-a-stop-the-boats-game-within-its-ios-and-android-app/",
+      "id": "4ca7692e17",
+      "title": "《Doki Doki Literature Club》将通过 Epic Games Store 重返 Android",
+      "summary": "这款小众视觉小说在被 Google Play 下架后，转由 Epic 移动商店重新登陆 Android。可观察第三方移动商店的生态机会，但内容本身与休闲消除赛道无关。",
+      "url": "https://mobilegamer.biz/doki-doki-literature-club-is-returning-to-android-through-the-epic-games-store/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-16T09:21:24",
+      "published_at": "2026-09-17T12:49:54",
       "games": [
         {
-          "name": "Small Boat Scramble",
-          "desc": "Reform UK 在 Small Boat Watch 应用中内置的小游戏，玩家通过弹开载有移民的小船来阻止其抵达英国海岸并争取高分。"
-        },
-        {
-          "name": "Snake",
-          "desc": "经典贪吃蛇类移动游戏，文中称特朗普白宫网站发布的 MAGA 风格游戏对其进行了极右翼化重制。"
-        },
-        {
-          "name": "Flappy Bird",
-          "desc": "经典休闲点击躲避障碍游戏，文中称特朗普白宫网站发布的 MAGA 风格游戏对其进行了极右翼化重制。"
+          "name": "Doki Doki Literature Club",
+          "desc": "由 Serenity Forge 发行的心理恐怖视觉小说，初期伪装成恋爱题材，后涉及心理健康与自残等敏感主题。"
         }
       ]
-    },
-    {
-      "id": "1d5cfa4e7f",
-      "title": "报道：欧盟计划限制儿童访问在线游戏",
-      "summary": "据 Politico 报道，欧盟拟在未成年人保护计划中限制儿童访问在线游戏。该政策若落地可能影响手游的年龄门槛、合规与用户获取，对休闲游戏运营者有间接参考价值。",
-      "url": "https://gameworldobserver.com/2026/09/16/report-the-european-union-plans-to-restrict-childrens-access-to-online-games",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-16T14:10:10",
-      "games": []
     }
   ]
 }
