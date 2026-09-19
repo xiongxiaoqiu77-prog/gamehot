@@ -7883,5 +7883,16 @@
     "store": "appstore"
   },
   "Dark War: Survival": null,
-  "Tân 3Q MAX": null
+  "Tân 3Q MAX": null,
+  "Nothing Lost": {
+    "name": "Magpie | Nothing Lost",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/c3/0d/b3c30dac-b974-85e4-63ea-60ca81145fd6/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+    "description": "Magpie — Never lose something important\nMagpie is the personal capture layer for everything that matters. Share a link, snap a photo, record a voice memo, or save a file — Magpie catches it instantly and makes it searchable forever.\nCapture anything, from anywhere\nUse the share sheet in any app to save directly to Magpie. Links, articles, YouTube videos, WhatsApp voice messages, PDFs, photos, Amazon products, Google Maps places — if you can share it, Magpie keeps it.\nFind it in seconds\nEverything you save is fully indexed. Search by title, content, tag, or transcribed audio. No folders, no filing — just type and find.\nOrganised your way\nCreate spaces for different areas of your life — Work, Personal, Travel, Shopping. Colour-coded tags let you filter and sort in one tap.\nVoice memos, transcribed automatically\nRecord a thought on the go or share a WhatsApp voice note. Magpie transcribes it in the background using AI running on our own servers — your audio never leaves to third parties.\nPlaces, enriched automatically\nShare a Google Maps link and Magpie fetches the photo, rating, address, opening hours and reviews automatically.\nPrivate by design\nNo ads. Ever. Your data is never sold or used for advertising. Everything works offline — cloud sync is optional. AI transcription runs on our own hardware, no 3rd party servers are used.\n\nCloud sync & sharing (Premium)\nKeep your stash in sync across all your devices. Invite someone to a shared space and build lists together.\nProtected tags (Premium)\nLock sensitive items behind Face ID or Touch ID. Protected content is hidden in screenshots and the app switcher.\n\nTerms of Use: https://magpie.fynq.rocks/terms.html\nPrivacy Policy: https://magpie.fynq.rocks/privacy.html",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/22/6e/ec226e9e-1e9b-c5a5-a6b8-604004e2ba5e/IMG_0016.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/90/51/1f90510f-75ca-60be-a78e-6ed85d61fd9d/IMG_0015.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/magpie-nothing-lost/id6761885236?uo=4",
+    "store": "appstore"
+  }
 }
