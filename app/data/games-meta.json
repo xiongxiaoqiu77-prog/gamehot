@@ -7933,5 +7933,163 @@
     ],
     "store_url": "https://apps.apple.com/us/app/assassins-creed-rebellion/id1164056434?uo=4",
     "store": "appstore"
+  },
+  "Persona 4 Golden": {
+    "name": "Persona 4 Golden",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg?t=1763530422",
+    "description": "A coming of age story that sets the protagonist and his friends on a journey kickstarted by a chain of serial murders.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_eaa97afeaed3e89d3032e8bb60cb8d6f331f241d.600x338.jpg?t=1763530422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_c92cef1e572183055dab3d8bcdcbc5fe55deb0cc.600x338.jpg?t=1763530422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_949196116c67aa963863a94def5a810a6d12979c.600x338.jpg?t=1763530422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_e772d1ad98a07b52e4434ef0fe1e8251e5908629.600x338.jpg?t=1763530422"
+    ],
+    "store_url": "https://store.steampowered.com/app/1113000",
+    "store": "steam"
+  },
+  "Final Fantasy VII remake trilogy": {
+    "name": "FINAL FANTASY VII",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/cd/c1/73cdc1e3-09e9-3fab-02d6-1b21ff057a14/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+    "description": "------------------------------------------------------\n- As this application is very large, it will take some time to download.\n- This application takes up around 2GB of memory. Over 4GB of free space is required to download it, so make sure that ample spare memory is available before attempting to do so. \n------------------------------------------------------\n\nRecommended hardware:\niPhone 7 or later, 5th generation iPad or later, iPad mini 4 or later\n\nSupported OS:\niOS 15.0 or later\n*Please be aware that users may experience problems, such as exceptionally slow running speeds, if running this application on devices other than those outlined in the recommended hardware section.  Such devices are not suited to playing this game and there is a chance of unforeseen errors occurring if running it on them.\n\n\nOutline\n\nThe smash hit RPG: Final Fantasy VII, which has sold over 11,000,000 units* worldwide, finally arrives on iOS!\n*Total includes both packaged sales and downloads.\n\nThe first Final Fantasy to feature 3D backgrounds and CG movie scenes, this dramatic tale continues to be loved by numerous fans around the world. Battle stages also appear in full 3D for the first time, bringing an even greater sense of awe and spectacle to combat!\n\nCustomize your characters in any way you like using the fantastic “material” system that allows endless combinations of spells and abilities.\n\nThis product is a port based on Final Fantasy VII for PC (No changes or additions have been made to the story). \n\n\nStory\n\nWith its unshakeable monopoly over Mako energy production, the evil Shinra Electric Power Company holds tight to the reigns of world power.\nOne day, a Mako reactor serving the sprawling metropolis of Midgar is attacked and destroyed in a bombing raid by a revolutionary group calling themselves Avalanche. \nCloud Strife, a former member of Shinra’s elite “Soldier” unit takes part in the raid as a mercenary hired by Avalanche and sets events in motion that will draw him and his friends into an epic struggle for the fate of the planet itself…\n\n\nSpecial features for the iOS edition \n\n- Play using a simple and comfortable virtual controller designed not to obscure the action, choosing between virtual analogue or fixed 4-way digital control pad options. The opacity of on-screen controls can also be adjusted from the Config Menu.\n\n- Two new features to make play easier and more convenient!\nThe iOS edition also includes an option to turn enemy encounters off on the world and area maps (will not skip event battles) and a Max Stats command to become all-powerful in the blink of an eye.\n\n\nMajor game controls\n\nMovement: Virtual joypad (Select between analogue and digital modes)\nMenu navigation: Fixed digital buttons\nConfirm: A button\nCancel: B button\nOpen menu: Y button",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4c/b3/bb4cb38b-8732-dc1f-e35f-d9340ef6a35a/mzl.myhufkny.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/3e/0c/ba3e0cf9-504c-0c88-d586-e29ab86980c8/mzl.erjivkcr.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/82/04/d18204f6-65d1-b82b-88f8-0d1eb24fb300/mzl.uevsgbyp.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/0e/27/a40e2721-5e91-8420-328b-f52af2d88d17/mzl.omtjyysj.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/final-fantasy-vii/id1021566244?uo=4",
+    "store": "appstore"
+  },
+  "Final Fantasy Resonance": {
+    "name": "FINAL FANTASY RESONANCE",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1788534743",
+    "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/c9e0d9f5cd2a7102098d5967046a90c4181de601/ss_c9e0d9f5cd2a7102098d5967046a90c4181de601.600x338.jpg?t=1788534743",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/a5850396e3aaf971ce506069bb412e9deb805391/ss_a5850396e3aaf971ce506069bb412e9deb805391.600x338.jpg?t=1788534743",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/d78d354f9e0be199c34794c2bffaf75df8a04526/ss_d78d354f9e0be199c34794c2bffaf75df8a04526.600x338.jpg?t=1788534743",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/4ad87b9146e5ec3eba2d46f23c66869365ee9b3d/ss_4ad87b9146e5ec3eba2d46f23c66869365ee9b3d.600x338.jpg?t=1788534743"
+    ],
+    "store_url": "https://store.steampowered.com/app/3259780",
+    "store": "steam"
+  },
+  "Monster Hunter Wilds": {
+    "name": "Monster Hunter Wilds",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
+    "description": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_31b5597fecf2d9a2904bc9bbf8011aacb18143db.600x338.jpg?t=1787549555",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_9245c1ede8c3fc2cd65e4890a74a01ef50b726da.600x338.jpg?t=1787549555",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_c722e74607ffda9a1472093ccc934f1bdde10ab8.600x338.jpg?t=1787549555",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_d439e321350c004c4d866c248019aefdc6a50600.600x338.jpg?t=1787549555"
+    ],
+    "store_url": "https://store.steampowered.com/app/2246340",
+    "store": "steam"
+  },
+  "Resident Evil 2": {
+    "name": "RESIDENT EVIL 2",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f2/bb/1bf2bb23-29e4-24c7-f953-4c3e88fd6bc4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors.\n\nAn unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you.\n\nWitness the return of Resident Evil 2.\n\n------------------------------------------------------------\n■By purchasing, you will be granted a license to use the product.\n■A network connection is required when starting the application.\n\n■About the End User License Agreement\n・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). \n・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.\n・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.\n\nPlease confirm the terms above and agree to this Agreement before purchasing the Program. \n------------------------------------------------------------\n\n■A limited part of the base game can be played for free.\nIn order to play the full game, an in-app purchase is required.\n\n■Keyboard and mouse are not supported.\n\n■We recommend playing this game with a controller.\nIt can be played on an iPad, but using a controller will provide a better experience.\nNote: Please check the Apple website for controllers compatible with iPad. Not all controllers will work as intended.\n\n■This application is approximately 25GB.\nImportant Note: The installation process requires that you have at least twice the size of the application in free storage space available.\nWe recommend downloading the data in an environment with good connectivity.\n\n■Estimated download time based on connection speed:\n\t10Mbps - Over 6 hours\n\t100Mbps - 30 to 40 minutes\n\t300Mbps - 8 to 10 minutes\n\n■Save data can be uploaded and downloaded between MacOS and iOS devices.\n\n■Purchase Precautions\n・After purchase, returns (including exchange for other products/services) will not be provided for any reason.\n・In-app purchases can only be used by the Apple Account that made the purchase and cannot be shared with Family Sharing members.\n\n■Compatible OSs and Devices\nhttps://www.capcom-games.com/apple/en-us/\n------------------------------------------------------------\n\nRESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/02/26/a9022665-b3f6-0b3e-d69d-e5be56a18843/03_iPhone_2796x1290__U3010RE2_U3011SS_ING_04_ENG.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/49/66/5e49662c-c5a5-2f10-4bd3-32c6cd4d5015/04_iPhone_2796x1290__U3010ropeway_U3011SIEE_preorder_05_ENG.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/db/14/30db14c1-98ac-3b31-dcc3-1bae368a7910/02_iPhone_2796x1290__U3010ropeway_U3011SIEE_preorder_07_ENG.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/0e/46/dc0e46c5-88e4-cc06-4a1c-eb5ad7dea2ce/07_iPhone_2796x1290__U3010ropeway_U3011SS_09_GL_ENG.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/resident-evil-2/id1640632432?uo=4",
+    "store": "appstore"
+  },
+  "Resident Evil 3": {
+    "name": "RESIDENT EVIL 3",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/3b/ffdf3b1a-1d74-da1b-ccb1-e66633bce150/AppIcon-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+    "description": "Jill Valentine is one of the last remaining people in Raccoon City to witness the atrocities Umbrella performed. To stop her, Umbrella unleashes their ultimate secret weapon; Nemesis!\n\n------------------------------------------------------------\n■By purchasing, you will be granted a license to use the product.\n■A network connection is required when starting the application.\n\n■About the End User License Agreement\n・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). \n・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.\n・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.\n\nPlease confirm the terms above and agree to this Agreement before purchasing the Program. \n------------------------------------------------------------\n\n■A limited part of the base game can be played for free.\nIn order to play the full game, an in-app purchase is required.\n\n■Keyboard and mouse are not supported.\n\n■We recommend playing this game with a controller.\nIt can be played on an iPad, but using a controller will provide a better experience.\nNote: Please check the Apple website for controllers compatible with iPad. Not all controllers will work as intended.\n\n■This application is approximately 25GB.\nImportant Note: The installation process requires that you have at least twice the size of the application in free storage space available.\nWe recommend downloading the data in an environment with good connectivity.\n\n■Estimated download time based on connection speed:\n\t10Mbps - Over 6 hours\n\t100Mbps - 30 to 40 minutes\n\t300Mbps - 8 to 10 minutes\n\n■Save data can be uploaded and downloaded between MacOS and iOS devices.\n\n■Purchase Precautions\n・After purchase, returns (including exchange for other products/services) will not be provided for any reason.\n・In-app purchases can only be used by the Apple Account that made the purchase and cannot be shared with Family Sharing members.\n\n■Compatible OSs and Devices\nhttps://www.capcom-games.com/apple/en-us/\n------------------------------------------------------------\n\nRESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/5c/14/d25c1414-bffb-d112-6c3a-54082014ea83/01_iPhone_2796x1290_01_ENG.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/7a/6d/6d7a6d4b-0afc-c6c1-6056-1d76b2cf0381/02_iPhone_2796x1290_02_ENG.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/4e/3d/984e3d14-50d1-3809-6499-cf55fc3760c6/03_iPhone_2796x1290_03_ENG.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/0b/7d/9f0b7db0-9d05-4b87-f98b-a38afd6fc638/04_iPhone_2796x1290_04_ENG.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/resident-evil-3/id1640630077?uo=4",
+    "store": "appstore"
+  },
+  "Resident Evil 4": {
+    "name": "Resident Evil 4",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/c9/24c8c984-811f-2806-f307-1535d0fe84c8/AppIcon-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+    "description": "Survival is just the beginning.\n\nSix years have passed since the biological disaster in Raccoon City.\nAgent Leon S. Kennedy, one of the survivors of the incident, has been sent to rescue the president's kidnapped daughter.\nHe tracks her to a secluded European village, where there is something terribly wrong with the locals.\nAnd the curtain rises on this story of daring rescue and grueling horror where life and death, terror and catharsis intersect.\n\nFeaturing modernized gameplay, a reimagined storyline, and vividly detailed graphics,\nResident Evil 4 marks the rebirth of an industry juggernaut.\n\nRelive the nightmare that revolutionized survival horror.\n\n------------------------------------------------------------\n■By purchasing, you will be granted a license to use the product.\n■A network connection is required when starting the application.\n\n■About the End User License Agreement\n・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). \n・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.\n・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.\n\nPlease confirm the terms above and agree to this Agreement before purchasing the Program. \n------------------------------------------------------------\n\n■A limited part of the base game can be played for free.\nIn order to play the full game, an in-app purchase is required.\n\n■Keyboard and mouse are not supported.\n\n■We recommend playing this game with a controller.\nIt can be played on an iPad, but using a controller will provide a better experience.\nNote: Please check the Apple website for controllers compatible with iPad. Not all controllers will work as intended.\n\n■This application is approximately 30GB.\nImportant Note: The installation process requires that you have at least twice the size of the application in free storage space available.\nWe recommend downloading the data in an environment with good connectivity.\n\n■Estimated download time based on connection speed:\n\t10Mbps - Over 6 hours\n\t100Mbps - 30 to 40 minutes\n\t300Mbps - 8 to 10 minutes\n\n■Save data can be uploaded and downloaded between MacOS and iOS devices.\n\n■Purchase Precautions\n・After purchase, returns (including exchange for other products/services) will not be provided for any reason.\n・In-app purchases can only be used by the Apple Account that made the purchase and cannot be shared with Family Sharing members.\n\n■Compatible OSs and Devices\nhttps://www.capcom-games.com/apple/en-us/\n------------------------------------------------------------\n\nRESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/ca/9e/a4ca9ec2-8d23-8ced-14d4-dd8fa03e2ecc/8964ae53-8369-4b03-922c-7229288b2144_01_iPhone_2208x1242_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0c/b4/3e/0cb43e22-134f-4950-b6ba-f2dffebb480d/7507c173-fe5e-416e-88e0-3091ce45f793_02_iPhone_2208x1242_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/69/20/71692013-0b37-a744-cdbf-a7a04d773088/d523d64c-2770-41ed-b98b-e95fca79ff6b_03_iPhone_2208x1242_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/21/9b/0f/219b0f3b-2cc8-a3ff-d30a-3839df3fbcd3/8f9f3791-42cf-4e36-8005-e61a3b9a81ab_04_iPhone_2208x1242_EN.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/resident-evil-4/id6462360082?uo=4",
+    "store": "appstore"
+  },
+  "Mega Man": {
+    "name": "MEGA MAN X",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/98/21/ab982133-ad57-4aaa-e29f-123afea18146/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "description": "The super masterpiece of the action game \"MEGA MAN X” now powered up!\nWith variety of weapons and reinforcing parts, break Sigma’s dark ambition down!!\n\n◆Power-up points\n1.【Supporting Retina Display!】\n“MEGA MAN X”’s old graphic was localized!\n\n2.【2 Display Modes!!】\nIn addition to “REGULAR MODE” which displays whole screen of the game, “FULL MODE,” which displays full iPhone display, is available!\n\n3.【Three Difficulty Levels!】\nStory Mode comes with Easy, Normal, and Hard difficulty options.\nEasy places extra platforms in stages, so you won't fall to your death, and confident players looking for a challenge will feel right at home on Hard!\n\n4.【Ranking Mode! (Function supporting Game Center)】\nCompete with other players in Ranking Mode!\nAim for the most points in Score Attack, rush to clear stages the fastest in Time Race, and see who can finish the most stages in Endless.\nPolish your skills and aim for the top!\n\n5.【80 Challenges!! (Function supporting Game Center)】\n20 challenges in the Opening Stage of “STORY MODE” (*1)!!\nThere are 60 in following stages, so there are 80 challenges altogether!\n※(*1) does not supports Game Center.\n\n6.【Support Features to Help You Progress!】\nThose who don't know where to find the upgrades in-game, or who just want to power up right away, can easily get upgrades through the Customizations screen!\nThere are a range of support options, like Full Armor and All Weapons, to help you progress through the game smoother!\nTry discounted “Perfect Set” to be strongest!\nYou can also change the BGM to the arranged versions to give the game a different feel!\n\nNote: Support features and arranged BGM are paid content.\n\n------------\n\n◆Operating Methods\n\nMove・・・・・Direction button\nShot・・・Attack button\nJump・・・Jump button\nChange Weapon・・・Change Weapon button on the right top\n\nQuick Change・・・Try touching the top of the game screen! And scroll your finger right and left then let it go; you can change the weapon quick and easy!\nDismounting Ride Armor・・・Tap the icon on the right top\n\n------------\n\n[Important Notes]\nPlease see [Supported OS and Devices] in the lower part of the following link.\nhttps://www.capcom-games.com/product/en-us/megamanx-app/?t=openv\n\nNote: We cannot guarantee the app’s performance or offer refunds if you use a device not listed as compatible.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/e1/29/cde1296d-5e16-5ac6-0aaf-92f1b1a37338/ccb48c53-3814-4586-b101-e1a783a733a0_2208x1242bb.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/8e/da/d28edae8-beec-6fa7-ac3c-b747048b9779/c95ad117-34c2-427d-8dcb-499855c20f26_2208x1242bb__U00281_U0029.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/66/6b/85666b38-8e2c-0a2a-639d-364ae6ffdad5/8b6e59bf-8337-4292-84e4-d16b998de017_2208x1242bb__U00282_U0029.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/71/d8/0c71d8c4-2eb6-f36a-dd04-53113044230e/21a55879-ffcd-4f25-91d4-04bd1610574d_2208x1242bb__U00283_U0029.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mega-man-x/id469343097?uo=4",
+    "store": "appstore"
+  },
+  "Gundam": {
+    "name": "SD Gundam G Generation ETERNAL",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/81/dd/3681dd67-e043-6554-f64e-bb5b848321e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "The latest title from the Gundam strategy game series \"G Generation\" is finally available on your smartphone!\n\n[Game Features]\n\n■ The most Mobile Suits and characters ever!\nPlay with over 1170 Mobile Suits from 104 different Gundam titles! Choose your favorite characters and Mobile Suits, form the ultimate squad, and sortie into battle!\n\nAre you ready to embark on more Gundam adventures?\n\n[Official Social Media Channels]\nCheck the latest info and Events here! And don't forget to follow us!\n\nX: https://x.com/ggene_eternalEN\nFacebook: https://www.facebook.com/ggene.eternal/\n\nBandai Namco Entertainment Inc. Website:\nhttps://bandainamcoent.co.jp/english/\n\nBy downloading or installing this app, you agree to the Bandai Namco Entertainment Terms of Service.\n\nNote:\nThis game contains some items available for in-app purchase that can enhance gameplay and speed up your progress. In-app purchases can be disabled in your device settings,  see https://support.apple.com/en-us/HT201304 for more details.\n\nThis application is distributed under the official rights from the license holder.\n\nAbout [Eternal Pass]\nEternal Pass is a monthly service that increases stage challenge attempts and grants items.\n\nService Content 1\n\nUpgrade Stages (Capital) Challenge Limit +1\nUpgrade Stages (Units) Challenge Limit +1\nUpgrade Stages (Characters) Challenge Limit +1\nUpgrade Stages (Supporters) Challenge Limit +1\n*These effects apply during the subscription period.\n\nService Content 2\n\nPremium Unit Assembly Ticket x5\nLimited Time AP Pack (Valid for 30 days) x5\n*Items are received upon purchase and at first login after renewal.\n*Items exceeding your inventory limit will be sent to your Gifts.\n*Limited Time AP Packs are valid for 30 days from receipt and will be lost if unused.\n\nAbout [Eternal Pass II]\nEternal Pass II is a monthly service that increases daily stage attempts and grants items.\n\nService Detail 1\n\nMain Stage Skip Count +1\n*This effect applies during the validity period.\n\nService Detail 2\n\nSSP Conversion Chips x10\nPremium Unit Assembly Ticket x5\nLimited Time AP Pack x5\n*Items are received upon purchase and at first login after renewal.\n*Items exceeding your inventory limit will be sent to your Gifts.\n*Limited Time AP Packs are valid for 30 days from receipt and will be lost if unused.\n\nValidity Period and Auto-Renewal (Common to Both)\nBoth passes are valid for one month following purchase and auto-renew at the end of the period.\n*The period ends on the same date and time in the following month.\nEx.: Purchased Jan 1 at 1:00 JST → valid until Feb 1 at 12:59 JST.\n*If no equivalent date exists in the following month, it ends on the closest date.\nEx.: Purchased Mar 31 at 1:00 JST → valid until Apr 30 at 12:59 JST.\n*If purchased or renewed near the turn of the month, the period may differ by a few days depending on platform reflection timing.\n\nTo cancel, please do so at least three days (72 hours) before auto-renewal.\n*Missing this deadline may cause reflection timing discrepancies, preventing cancellation at the intended time.\n\nEven if you cancel partway through, benefits continue until the end of the validity period.\nEx.: Purchased Jan 1 at 1:00 JST and canceled Jan 2 → benefits continue until Feb 1 at 12:59 JST.\n\n■How to Cancel\nYou can cancel the subscription by following the steps below:\n1. Select your username from [Settings].\n2. Select [Subscription].\n3. Select the subscription for [SD Gundam G Generation Eternal].\n4. Select [Cancel Subscription] to proceed with the cancellation.\n\n*Please note that deleting the app or game data (account) does not cancel the subscription. Be cautious.\n*If you are unsure about the steps, please contact the platform you are using.\n\n■Terms of Use\nhttps://legal.bandainamcoent.co.jp/terms/\n\n■Privacy Policy\nhttps://legal.bandainamcoent.co.jp/privacy/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/e0/51/02e05142-bd13-b2dd-dc78-f89434d01715/01-SP-01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/fe/88/0efe8838-f1a6-fcbe-900d-0cf2f74699ac/02-SP-02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/6b/27/4d6b27bf-91cf-af1a-499e-c813ee5d9d00/03-SP-03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/d2/85/25d285fa-9d96-4b12-b1a1-c2badebebee5/04-SP-04.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/sd-gundam-g-generation-eternal/id6692615881?uo=4",
+    "store": "appstore"
+  },
+  "Castlevania": {
+    "name": "Castlevania: SotN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "The iconic game from the beloved Castlevania series finally comes to mobile. This direct port of the classic console action RPG lets you jump, dash and slash your way through Dracula’s vast castle as Alucard while encountering a unique array of enemies and characters along the way.\n\nRediscover the world of Castlevania with one of its original groundbreaking games and renowned music and graphics.\n\n□Features\n\nFully compatible with game controllers\n\nNew continue feature\n\nUnlock achievements with hard-fought battle milestones\n\nAvailable in 6 languages: English, Japanese, German, French, Italian, Spanish",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9c/63/6b/9c636b2e-c387-6b7e-9a0e-4bc824ff0749/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/66/c8/42/66c8429e-47c9-6ff2-8b87-e4dcb47db0d8/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/4a/a2/d9/4aa2d959-3731-6e0e-8153-0de997b7eb00/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/44/4d/ee/444dee24-d223-364a-fc1a-8d6f490c3843/pr_source.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/castlevania-sotn/id1435456830?uo=4",
+    "store": "appstore"
+  },
+  "Rhapsody in Scarlet": {
+    "name": "Rhapsody in Scarlet",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353430/4088bda76f313521a03dba5657fbf9de20409c82/header.jpg?t=1788552896",
+    "description": "Set in the jazz-filled streets of 1920s New York, magus Ellie Myers embarks on a journey to confront a threat that could shake the world. Experience exhilarating combat and stack up combos with beasts and magick in this all-new action adventure game!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353430/3720920fe5645497c78cfbabb4bdaf964563dbfe/ss_3720920fe5645497c78cfbabb4bdaf964563dbfe.600x338.jpg?t=1788552896",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353430/1a051737360d34cca2890c5c6db343477c5d24e3/ss_1a051737360d34cca2890c5c6db343477c5d24e3.600x338.jpg?t=1788552896",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353430/6014ea0345c78aa9c33e96111804036ed477ce67/ss_6014ea0345c78aa9c33e96111804036ed477ce67.600x338.jpg?t=1788552896",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353430/9701775be2a2dccc8283bf42699d1a77f2fd63a5/ss_9701775be2a2dccc8283bf42699d1a77f2fd63a5.600x338.jpg?t=1788552896"
+    ],
+    "store_url": "https://store.steampowered.com/app/3353430",
+    "store": "steam"
+  },
+  "Rev:Noir": null,
+  "Silent Hill Townfall": null,
+  "Forza Horizon 6": {
+    "name": "Forza Horizon 6",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/a3f1465050b6103274991a29b7462d3f28918b5d/header_alt_assets_4.jpg?t=1789657556",
+    "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.600x338.jpg?t=1789657556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.600x338.jpg?t=1789657556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.600x338.jpg?t=1789657556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.600x338.jpg?t=1789657556"
+    ],
+    "store_url": "https://store.steampowered.com/app/2483190",
+    "store": "steam"
   }
 }
