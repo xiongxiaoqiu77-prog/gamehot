@@ -1,17 +1,163 @@
 {
-  "updated": "2026-09-19",
-  "generated_at": "2026-09-19T07:15:55.212267",
+  "updated": "2026-09-22",
+  "generated_at": "2026-09-22T07:00:05.853585",
   "articles": [
     {
-      "id": "421f1f57f6",
-      "title": "休闲游戏增长放缓后，最抢眼的机会，变成了二合",
-      "summary": "文章来自 Enjoy出海，分析休闲游戏大盘增长放缓的背景下，二合（Merge-2/合并）品类如何成为新的增长突破口，涉及品类走势、买量表现与产品机会判断。对关注消除/合并赛道选品与立项的从业者有较强参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZWnl3b3g1aDNwejJrUFpFVndHMU1TMzVVTEpiYUJWM01Ec0p6bkE1UjVWMFdDZk83WEh4Z0VHUS1hZkNkaWRnWjRRS0l2ZHFTSW9tcGFkazNpdw?oc=5",
+      "id": "b0b084ed91",
+      "title": "从零 Offer 到收入纪录：一次断掉退路的运营实验",
+      "summary": "讲述一位运营者如何主动砍掉全部 Offer、断掉退路，最终反而做出收入新高的真实案例。对休闲手游的变现设计、Offer 策略与 LiveOps 决策有直接的实操参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/from-zero-offers-to-record-revenue",
+      "source": "Deconstructor of Fun",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-09-21T13:05:28",
+      "games": []
+    },
+    {
+      "id": "30a8c59b54",
+      "title": "北京SLG大厂加码二合，柠檬微趣的主场又热闹了",
+      "summary": "白鲸出海报道北京SLG大厂加码二合赛道，柠檬微趣所在的合并消除市场重新升温。对关注休闲消除/二合品类竞争格局、产品布局与买量策略的从业者具有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52LVpKSFJPMHQtS2I3X1k2azdJb0o0SkpTNkNuU080YmVyYTJ2M28yRkxTU2VvVFNQUldMVlRONDhsYnozWTducFlDdHo?oc=5",
       "source": "Google News",
       "category": "行业资讯",
-      "score": 8,
-      "published_at": "2026-09-18T10:01:58",
+      "score": 7,
+      "published_at": "2026-09-21T08:15:07",
       "games": []
+    },
+    {
+      "id": "4924f50f5c",
+      "title": "Vita Mahjong、Amaze Go、Meowdoku 开发商 Oakever Games 应对抄袭指控",
+      "summary": "Oakever Games 已在侵权案中败给 Block Blast 开发商 Hungry Studio，目前又面临 Avia Games 的诉讼，行业传言称这只是冰山一角。对休闲品类玩法克隆与法律边界的判断有参考价值。",
+      "url": "https://mobilegamer.biz/vita-mahjong-amaze-go-and-meowdoku-maker-oakever-games-fights-cloning-accusations/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-21T15:29:07",
+      "games": []
+    },
+    {
+      "id": "5b16d31249",
+      "title": "Microsoft 想出在加载界面与过场动画中插入广告的方法",
+      "summary": "微软游戏部门申请了一项将广告整合进主机与 PC 游戏的专利，覆盖加载画面和过场动画。对研究游戏内广告位设计与变现边界有参考意义。",
+      "url": "https://gameworldobserver.com/2026/09/21/microsoft-has-come-up-with-a-way-to-add-ads-to-loading-screens-and-cutscenes",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-21T12:03:15",
+      "games": [
+        {
+          "name": "Forza Horizon 6",
+          "desc": "微软旗下赛车竞速游戏，文中以配图出现；文章讨论微软在加载界面与过场动画插入广告的专利。"
+        }
+      ]
+    },
+    {
+      "id": "e17c0becad",
+      "title": "Activision 援引数据称游戏作弊已形成 85 亿美元产业；69% 的在线多人工作室认为作弊是「显著或非常严重问题」",
+      "summary": "Call of Duty 反作弊团队 Team Ricochet 引用数据说明作弊产业规模，并给出工作室层面的调研结果。对评估在线游戏反作弊投入与安全成本有参考价值。",
+      "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T13:27:45",
+      "games": [
+        {
+          "name": "Call of Duty",
+          "desc": "动视旗下在线多人射击游戏系列，其反作弊工作由 Team Ricochet 负责。"
+        }
+      ]
+    },
+    {
+      "id": "9ff4c78ebe",
+      "title": "Tokyo Game Show 2026 回望过去，AI 未来仍不明朗｜观点",
+      "summary": "对 TGS 30 周年的现场观察与评论，指出展会更多在致敬历史，对 AI 驱动的行业未来仍缺乏清晰答案。属于行业趋势评论。",
+      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T12:01:04",
+      "games": [
+        {
+          "name": "Stranger Than Heaven",
+          "desc": "Ryu Ga Gotoku Studios 的新 IP，在 SEGA 展台展出。"
+        },
+        {
+          "name": "Persona 4 Golden",
+          "desc": "即将推出的重制版，其试玩是 SEGA 展台最受欢迎的 demo。"
+        },
+        {
+          "name": "Final Fantasy VII remake trilogy",
+          "desc": "Square Enix 展出的重制三部曲最终章，以陨石和萨菲罗斯视觉为主。"
+        },
+        {
+          "name": "Final Fantasy Resonance",
+          "desc": "Square Enix 的 HD-2D 作品，汇集系列历史角色。"
+        },
+        {
+          "name": "Monster Hunter Wilds",
+          "desc": "Capcom 新扩展内容的试玩机占据展台大部分空间。"
+        },
+        {
+          "name": "Resident Evil 2",
+          "desc": "Switch 2 移植版，在 Capcom 展台展出。"
+        },
+        {
+          "name": "Resident Evil 3",
+          "desc": "Switch 2 移植版，在 Capcom 展台展出。"
+        },
+        {
+          "name": "Resident Evil 4",
+          "desc": "Switch 2 移植版，在 Capcom 展台展出。"
+        },
+        {
+          "name": "Mega Man",
+          "desc": "Capcom 展出的新作。"
+        },
+        {
+          "name": "Gundam",
+          "desc": "万代南梦宫展出的新高达成游戏，与动漫联动游戏和 Ace Combat 8 同场。"
+        },
+        {
+          "name": "Ace Combat 8",
+          "desc": "万代南梦宫展出的空战游戏。"
+        },
+        {
+          "name": "Castlevania",
+          "desc": "Konami 展出的新作，采用截然不同的美术风格。"
+        },
+        {
+          "name": "Rhapsody in Scarlet",
+          "desc": "Konami 展出的新 IP，以非试玩形式展示。"
+        },
+        {
+          "name": "Rev:Noir",
+          "desc": "Konami 展出的新 IP，以非试玩形式展示。"
+        },
+        {
+          "name": "Silent Hill Townfall",
+          "desc": "Konami 展出的 Silent Hill 系列作品。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作游戏，展会因避开其 11 月发售而调整档期，Netflix 展示吸引大量观众。"
+        }
+      ]
+    },
+    {
+      "id": "163c97d415",
+      "title": "招聘汇总：King、Scopely、Loom、Funday、Tactile、Zynga 等公司人事变动",
+      "summary": "汇总 King、Scopely、Zynga、Tripledot、Trailmix 等手游公司的最新招聘与晋升动态。便于从业者把握休闲手游领域的人才流动与团队扩张方向。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-king-scopely-loom-funday-tactile-zynga-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T09:30:11",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 旗下移动棋盘游戏，Jonathan Marcelino 加入担任产品总监。"
+        }
+      ]
     }
   ]
 }
