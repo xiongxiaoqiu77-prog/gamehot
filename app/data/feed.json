@@ -1,161 +1,186 @@
 {
-  "updated": "2026-09-22",
-  "generated_at": "2026-09-22T07:00:05.853585",
+  "updated": "2026-09-23",
+  "generated_at": "2026-09-23T07:00:05.548341",
   "articles": [
     {
-      "id": "b0b084ed91",
-      "title": "从零 Offer 到收入纪录：一次断掉退路的运营实验",
-      "summary": "讲述一位运营者如何主动砍掉全部 Offer、断掉退路，最终反而做出收入新高的真实案例。对休闲手游的变现设计、Offer 策略与 LiveOps 决策有直接的实操参考价值。",
-      "url": "https://www.deconstructoroffun.com/blog/from-zero-offers-to-record-revenue",
-      "source": "Deconstructor of Fun",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-09-21T13:05:28",
-      "games": []
-    },
-    {
-      "id": "30a8c59b54",
+      "id": "85bde8e540",
       "title": "北京SLG大厂加码二合，柠檬微趣的主场又热闹了",
-      "summary": "白鲸出海报道北京SLG大厂加码二合赛道，柠檬微趣所在的合并消除市场重新升温。对关注休闲消除/二合品类竞争格局、产品布局与买量策略的从业者具有参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52LVpKSFJPMHQtS2I3X1k2azdJb0o0SkpTNkNuU080YmVyYTJ2M28yRkxTU2VvVFNQUldMVlRONDhsYnozWTducFlDdHo?oc=5",
+      "summary": "聚焦合成（merge-2）休闲赛道的竞争格局，北京 SLG 厂商入局二合并对柠檬微趣等头部厂商形成挤压。对关注休闲品类选品、赛道拥挤度与买量格局的从业者有较高参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iejBXSXlEazhnQjI1TWhSNmtUVi1DeTZScDRUOW4zc1lodjJoNDBzVHNvTmQzMjBrVGpkUmRjZTdLUlNGN0tnQk5PX2p4VUpOajZfb3pFRl9WUQ?oc=5",
       "source": "Google News",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-09-21T08:15:07",
+      "score": 8,
+      "published_at": "2026-09-22T09:23:18",
       "games": []
     },
     {
-      "id": "4924f50f5c",
-      "title": "Vita Mahjong、Amaze Go、Meowdoku 开发商 Oakever Games 应对抄袭指控",
-      "summary": "Oakever Games 已在侵权案中败给 Block Blast 开发商 Hungry Studio，目前又面临 Avia Games 的诉讼，行业传言称这只是冰山一角。对休闲品类玩法克隆与法律边界的判断有参考价值。",
-      "url": "https://mobilegamer.biz/vita-mahjong-amaze-go-and-meowdoku-maker-oakever-games-fights-cloning-accusations/",
+      "id": "82953d6bc8",
+      "title": "Jewel Match Solitaire X 评测",
+      "summary": "对 Jewel Match Solitaire X 这款融合宝石消除与纸牌接龙的休闲游戏进行评测，介绍其玩法循环与关卡体验。可作为消除＋接龙混合品类的产品观察参考，但缺少玩法机制与数值层面的深度拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lVEF2UHVDb1ZrZWNTRkZ1OGpnZGJFM2d3SW1GQVFIMEF6WXAwZWRQRnpMOVBLdzlfMm5TOGxyemlkQVFXRGN2WjVSMmhjRTRpeGxoZVhvRjZnbXhlZ1R6UFF4cmZkbnB2MXc?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "泛游戏",
+      "score": 6,
+      "published_at": "2026-09-22T12:13:09",
+      "games": [
+        {
+          "name": "Jewel Match Solitaire X",
+          "desc": "一款结合纸牌接龙与宝石消除/装饰元素的休闲益智游戏。"
+        }
+      ]
+    },
+    {
+      "id": "41f6219de7",
+      "title": "Monopoly Go 公布 KPop Demon Hunters 与 Ghostbusters 全新联动",
+      "summary": "Scopely 的 Monopoly Go 推出 Monster Mash 赛季，时间为 9 月 23 日至 11 月 25 日，并联动 KPop Demon Hunters 与 Ghostbusters。可作为休闲手游 IP 联动节奏与赛季化 LiveOps 排期的观察案例。",
+      "url": "https://mobilegamer.biz/monopoly-go-reveals-new-kpop-demon-hunters-and-ghostbusters-crossovers/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-21T15:29:07",
-      "games": []
-    },
-    {
-      "id": "5b16d31249",
-      "title": "Microsoft 想出在加载界面与过场动画中插入广告的方法",
-      "summary": "微软游戏部门申请了一项将广告整合进主机与 PC 游戏的专利，覆盖加载画面和过场动画。对研究游戏内广告位设计与变现边界有参考意义。",
-      "url": "https://gameworldobserver.com/2026/09/21/microsoft-has-come-up-with-a-way-to-add-ads-to-loading-screens-and-cutscenes",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-21T12:03:15",
-      "games": [
-        {
-          "name": "Forza Horizon 6",
-          "desc": "微软旗下赛车竞速游戏，文中以配图出现；文章讨论微软在加载界面与过场动画插入广告的专利。"
-        }
-      ]
-    },
-    {
-      "id": "e17c0becad",
-      "title": "Activision 援引数据称游戏作弊已形成 85 亿美元产业；69% 的在线多人工作室认为作弊是「显著或非常严重问题」",
-      "summary": "Call of Duty 反作弊团队 Team Ricochet 引用数据说明作弊产业规模，并给出工作室层面的调研结果。对评估在线游戏反作弊投入与安全成本有参考价值。",
-      "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-21T13:27:45",
-      "games": [
-        {
-          "name": "Call of Duty",
-          "desc": "动视旗下在线多人射击游戏系列，其反作弊工作由 Team Ricochet 负责。"
-        }
-      ]
-    },
-    {
-      "id": "9ff4c78ebe",
-      "title": "Tokyo Game Show 2026 回望过去，AI 未来仍不明朗｜观点",
-      "summary": "对 TGS 30 周年的现场观察与评论，指出展会更多在致敬历史，对 AI 驱动的行业未来仍缺乏清晰答案。属于行业趋势评论。",
-      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-21T12:01:04",
-      "games": [
-        {
-          "name": "Stranger Than Heaven",
-          "desc": "Ryu Ga Gotoku Studios 的新 IP，在 SEGA 展台展出。"
-        },
-        {
-          "name": "Persona 4 Golden",
-          "desc": "即将推出的重制版，其试玩是 SEGA 展台最受欢迎的 demo。"
-        },
-        {
-          "name": "Final Fantasy VII remake trilogy",
-          "desc": "Square Enix 展出的重制三部曲最终章，以陨石和萨菲罗斯视觉为主。"
-        },
-        {
-          "name": "Final Fantasy Resonance",
-          "desc": "Square Enix 的 HD-2D 作品，汇集系列历史角色。"
-        },
-        {
-          "name": "Monster Hunter Wilds",
-          "desc": "Capcom 新扩展内容的试玩机占据展台大部分空间。"
-        },
-        {
-          "name": "Resident Evil 2",
-          "desc": "Switch 2 移植版，在 Capcom 展台展出。"
-        },
-        {
-          "name": "Resident Evil 3",
-          "desc": "Switch 2 移植版，在 Capcom 展台展出。"
-        },
-        {
-          "name": "Resident Evil 4",
-          "desc": "Switch 2 移植版，在 Capcom 展台展出。"
-        },
-        {
-          "name": "Mega Man",
-          "desc": "Capcom 展出的新作。"
-        },
-        {
-          "name": "Gundam",
-          "desc": "万代南梦宫展出的新高达成游戏，与动漫联动游戏和 Ace Combat 8 同场。"
-        },
-        {
-          "name": "Ace Combat 8",
-          "desc": "万代南梦宫展出的空战游戏。"
-        },
-        {
-          "name": "Castlevania",
-          "desc": "Konami 展出的新作，采用截然不同的美术风格。"
-        },
-        {
-          "name": "Rhapsody in Scarlet",
-          "desc": "Konami 展出的新 IP，以非试玩形式展示。"
-        },
-        {
-          "name": "Rev:Noir",
-          "desc": "Konami 展出的新 IP，以非试玩形式展示。"
-        },
-        {
-          "name": "Silent Hill Townfall",
-          "desc": "Konami 展出的 Silent Hill 系列作品。"
-        },
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "开放世界动作游戏，展会因避开其 11 月发售而调整档期，Netflix 展示吸引大量观众。"
-        }
-      ]
-    },
-    {
-      "id": "163c97d415",
-      "title": "招聘汇总：King、Scopely、Loom、Funday、Tactile、Zynga 等公司人事变动",
-      "summary": "汇总 King、Scopely、Zynga、Tripledot、Trailmix 等手游公司的最新招聘与晋升动态。便于从业者把握休闲手游领域的人才流动与团队扩张方向。",
-      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-king-scopely-loom-funday-tactile-zynga-and-more/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-21T09:30:11",
+      "published_at": "2026-09-22T15:26:23",
       "games": [
         {
           "name": "Monopoly Go",
-          "desc": "Scopely 旗下移动棋盘游戏，Jonathan Marcelino 加入担任产品总监。"
+          "desc": "Scopely 的移动大富翁游戏，下载量超 3 亿，是达到 60 亿美元 IAP 收入最快的游戏。"
+        },
+        {
+          "name": "Monster Strike",
+          "desc": "热门移动游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "热门移动 MOBA，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "热门移动三消游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "开放世界动作 RPG，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "策略建造移动游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        }
+      ]
+    },
+    {
+      "id": "a561986cc0",
+      "title": "King 在最新一轮 Xbox 裁员中似乎幸免于难",
+      "summary": "报道称 Candy Crush 开发商 King 未受大规模裁员冲击，其职责范围扩大并接手 Microsoft Casual Games。对关注休闲手游大厂组织架构与业务整合的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/king-escapes-major-layoffs-in-latest-round-of-xbox-cuts/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-22T14:25:21",
+      "games": [
+        {
+          "name": "Solitaire Collection",
+          "desc": "Microsoft Casual Games 的常青 PC/移动纸牌游戏合集，文章称 King 扩大职权后纳入该业务。"
+        },
+        {
+          "name": "Minesweeper",
+          "desc": "Microsoft Casual Games 的常青 PC/移动益智游戏，文章明确提及。"
+        },
+        {
+          "name": "Mahjong",
+          "desc": "Microsoft Casual Games 的常青 PC/移动麻将益智游戏，文章明确提及。"
+        },
+        {
+          "name": "Candy Crush",
+          "desc": "King 的知名移动三消游戏，文章以“Candy Crush maker”指代 King。"
+        },
+        {
+          "name": "Halo",
+          "desc": "Xbox 第一方科幻射击游戏系列，文章称 Activision 将开发下一部。"
+        }
+      ]
+    },
+    {
+      "id": "a35539e7da",
+      "title": "「我们想保持非常简单」：Nex Playground 如何在硬件危机中超出预期",
+      "summary": "Nex Playground 团队分享其在硬件成本上涨环境下的经营思路，强调必须留出利润空间才能持续投入逐年上涨的软件开发成本。对做家庭休闲游戏硬件／平台的公司而言，是一份关于硬件与软件投入平衡的实战参考。",
+      "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T15:15:00",
+      "games": [
+        {
+          "name": "Sonic Forces",
+          "desc": "索尼克系列的动作平台游戏，玩家可操控索尼克等角色并使用自定义英雄对抗蛋头博士。"
+        },
+        {
+          "name": "Pac-Man",
+          "desc": "经典街机迷宫追逐游戏，玩家操控吃豆人吃掉豆子并躲避幽灵。"
+        },
+        {
+          "name": "Escape From Tarkov",
+          "desc": "硬核战术生存射击游戏，以高拟真战斗、物资搜集和撤离玩法为核心。"
+        }
+      ]
+    },
+    {
+      "id": "a6eb58aa29",
+      "title": "「已经没有简单答案，也没有现成剧本」——Secret Mode 以两条差异化路线下注",
+      "summary": "独立发行商 Secret Mode 脱离 Sumo Digital 后的发行策略访谈，谈两条不同产品线的布局思路。对理解中小发行商的产品组合与风险对冲有一定启发。",
+      "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T12:00:00",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "高预算《星球大战》竞速游戏，由 Fuse Games 开发、Secret Mode 发行，预计 10 月 6 日推出。"
+        }
+      ]
+    },
+    {
+      "id": "67e4377658",
+      "title": "Bungie 称「与 Destiny 还没结束」，计划恢复已归档的 Destiny 2 内容以重建玩家信任",
+      "summary": "在 Destiny 2 最后一次更新三个月后，Bungie 宣布重新上线被「封存」的战役、突袭与地图。涉及长线运营产品的资产复用与玩家信任修复，对 LiveOps 从业者有一定借鉴意义。",
+      "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T09:43:57",
+      "games": []
+    },
+    {
+      "id": "f7f3dfae88",
+      "title": "被 Atari 收购后，Hipster Whale 可能复活或重塑多款复古经典",
+      "summary": "Hipster Whale 联合创始人 Matt Hall 表示，Pong、Breakout、Centipede、Missile Command 等经典 IP 有望在移动端被重制或重新演绎。属于休闲手游 IP 改编方向的资讯，但缺少具体设计细节。",
+      "url": "https://mobilegamer.biz/hipster-whale-could-revive-or-reimagine-a-range-of-retro-classics-after-atari-acquisition/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T10:50:20",
+      "games": [
+        {
+          "name": "Crossy Road",
+          "desc": "Hipster Whale 的突破性无尽过马路街机手游，下载超 3.4 亿，2014 年发布后 90 天内收入 1000 万美元。"
+        },
+        {
+          "name": "Pong",
+          "desc": "Atari 经典街机乒乓游戏，文章称目前未登陆移动端，Hall 有意将其带回。"
+        },
+        {
+          "name": "Breakout",
+          "desc": "Atari 经典打砖块街机游戏，文章称目前未登陆移动端。"
+        },
+        {
+          "name": "Centipede",
+          "desc": "Atari 经典射击街机游戏，文章称目前未登陆移动端。"
+        },
+        {
+          "name": "Missile Command",
+          "desc": "Atari 经典导弹防御街机游戏，文章称目前未登陆移动端。"
+        },
+        {
+          "name": "Atari 50",
+          "desc": "Atari 复古游戏合集/交互式纪录作品，文章称类似合集也应登陆移动端。"
         }
       ]
     }
