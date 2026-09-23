@@ -1,186 +1,123 @@
 {
-  "updated": "2026-09-23",
-  "generated_at": "2026-09-23T07:00:05.548341",
+  "updated": "2026-09-24",
+  "generated_at": "2026-09-24T07:00:07.372517",
   "articles": [
     {
-      "id": "85bde8e540",
-      "title": "北京SLG大厂加码二合，柠檬微趣的主场又热闹了",
-      "summary": "聚焦合成（merge-2）休闲赛道的竞争格局，北京 SLG 厂商入局二合并对柠檬微趣等头部厂商形成挤压。对关注休闲品类选品、赛道拥挤度与买量格局的从业者有较高参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iejBXSXlEazhnQjI1TWhSNmtUVi1DeTZScDRUOW4zc1lodjJoNDBzVHNvTmQzMjBrVGpkUmRjZTdLUlNGN0tnQk5PX2p4VUpOajZfb3pFRl9WUQ?oc=5",
-      "source": "Google News",
+      "id": "96fb803e33",
+      "title": "创纪录流水与 AI 驱动的效率提升，指向游戏行业全年持续高增长 | Frontline",
+      "summary": "报道游戏行业实现创纪录的 Gross Billings，并指出 AI 带来的效率提升正推动全年持续高增长。对关注手游大盘景气度、买量与研发成本结构的从业者具有参考价值，可辅助判断休闲游戏赛道的投放与变现环境。",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUxnU2lOZG1uYnN6QkZFVzRZWjMzMFRtU09IVmlWenZjYkxtMXI1RklSYk5yVU0tS0ptclUyMjRwc0V6MVl5cjVRLTA0VlA4TFJWRERiVVRQOHNzNC1hRUw3cmhVa3VEOVBnY0o5YjNSYndDNkhhckdCTXZtVU8yazk1VzJSclFHdEdDZGctdDRZXzQxN2FqUDB5RG9WVnBqQTk3cWFLRmhGQXM?oc=5",
+      "source": "重点游戏-Tasty Travels",
       "category": "行业资讯",
-      "score": 8,
-      "published_at": "2026-09-22T09:23:18",
+      "score": 7,
+      "published_at": "2026-09-23T09:53:02",
       "games": []
     },
     {
-      "id": "82953d6bc8",
-      "title": "Jewel Match Solitaire X 评测",
-      "summary": "对 Jewel Match Solitaire X 这款融合宝石消除与纸牌接龙的休闲游戏进行评测，介绍其玩法循环与关卡体验。可作为消除＋接龙混合品类的产品观察参考，但缺少玩法机制与数值层面的深度拆解。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lVEF2UHVDb1ZrZWNTRkZ1OGpnZGJFM2d3SW1GQVFIMEF6WXAwZWRQRnpMOVBLdzlfMm5TOGxyemlkQVFXRGN2WjVSMmhjRTRpeGxoZVhvRjZnbXhlZ1R6UFF4cmZkbnB2MXc?oc=5",
-      "source": "重点游戏-Disney Solitaire",
-      "category": "泛游戏",
+      "id": "62a1319d22",
+      "title": "EU KIDS Act：游戏开发者需要了解什么",
+      "summary": "欧盟委员会于 9 月 17 日公布拟议的 EU KIDS Act 草案，多数争议条款针对社交网络与视频分享平台，但其中部分规定同样适用于在线游戏、AI 陪伴、聊天机器人、应用商店与操作系统。对面向低龄用户的休闲手游团队来说，这是需要提前评估的合规变量。",
+      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-22T12:13:09",
+      "published_at": "2026-09-23T13:43:08",
       "games": [
         {
-          "name": "Jewel Match Solitaire X",
-          "desc": "一款结合纸牌接龙与宝石消除/装饰元素的休闲益智游戏。"
+          "name": "Roblox",
+          "desc": "在线游戏与创作平台，文中称欧盟 KIDS 法案的宽泛定义可能覆盖从 Roblox 到光盘游戏多人模式等在线功能。"
         }
       ]
     },
     {
-      "id": "41f6219de7",
-      "title": "Monopoly Go 公布 KPop Demon Hunters 与 Ghostbusters 全新联动",
-      "summary": "Scopely 的 Monopoly Go 推出 Monster Mash 赛季，时间为 9 月 23 日至 11 月 25 日，并联动 KPop Demon Hunters 与 Ghostbusters。可作为休闲手游 IP 联动节奏与赛季化 LiveOps 排期的观察案例。",
-      "url": "https://mobilegamer.biz/monopoly-go-reveals-new-kpop-demon-hunters-and-ghostbusters-crossovers/",
+      "id": "eebc635b01",
+      "title": "数据周报：移动游戏增长最快榜单、中国区数据、应用提交量激增等",
+      "summary": "汇总了移动端增长最快的游戏、中国市场营销数据、Google Play 应用提交量飙升等信息，并包含 Embracer 与 Top App Games 的动态。适合快速了解一周移动市场大盘走势。",
+      "url": "https://mobilegamer.biz/data-digest-mobiles-fastest-growing-games-china-stats-google-play-submissions-double-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-22T15:26:23",
+      "published_at": "2026-09-23T10:16:22",
       "games": [
         {
-          "name": "Monopoly Go",
-          "desc": "Scopely 的移动大富翁游戏，下载量超 3 亿，是达到 60 亿美元 IAP 收入最快的游戏。"
-        },
-        {
-          "name": "Monster Strike",
-          "desc": "热门移动游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+          "name": "Gossip Harbor",
+          "desc": "Microfun 的 merge 游戏，8 月全球收入榜第二，IAP 收入达 1.11 亿美元并创最大月。"
         },
         {
           "name": "Honor of Kings",
-          "desc": "热门移动 MOBA，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+          "desc": "腾讯的竞技手游，8 月保持全球收入榜第一。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "生存策略手游，8 月全球收入榜前五。"
         },
         {
           "name": "Royal Match",
-          "desc": "热门移动三消游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+          "desc": "三消手游，8 月全球收入榜前五。"
         },
         {
-          "name": "Genshin Impact",
-          "desc": "开放世界动作 RPG，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+          "name": "Candy Crush Saga",
+          "desc": "经典三消手游，8 月全球收入榜前五。"
         },
         {
-          "name": "Clash of Clans",
-          "desc": "策略建造移动游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+          "name": "Fate/Grand Order",
+          "desc": "Fate 系列 RPG/抽卡手游，借 11 周年位列 8 月全球增长榜第一。"
+        },
+        {
+          "name": "Teamfight Tactics",
+          "desc": "自走棋游戏，腾讯拥有或发行，进入 8 月全球增长榜前十并领先腾讯系产品。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "战术射击游戏，腾讯拥有或发行，进入 8 月全球增长榜前十。"
+        },
+        {
+          "name": "Zeus: The God of Arrogance",
+          "desc": "手游，在韩国收入榜登顶后进入 8 月全球增长榜第十。"
+        },
+        {
+          "name": "Gangstar Mirage City",
+          "desc": "腾讯的开放世界犯罪手游，多区域上线后登顶 8 月下载增长榜并升至总榜第七。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "UGC 沙盒与游戏平台，8 月全球下载榜第一。"
+        },
+        {
+          "name": "Free Fire",
+          "desc": "大逃杀手游，8 月全球下载榜第二。"
+        },
+        {
+          "name": "Gangster Miami RP",
+          "desc": "开放世界犯罪与角色扮演手游，因 GTA 6 期待升温而排名上升。"
+        },
+        {
+          "name": "Paper.io 2",
+          "desc": "Voodoo 的休闲 io 竞技游戏，八年老作重返 8 月增长收入榜前五。"
+        },
+        {
+          "name": "GTA 6",
+          "desc": "开放世界犯罪游戏，文中称其预期升温推动同类开放世界犯罪游戏排名上升。"
         }
       ]
     },
     {
-      "id": "a561986cc0",
-      "title": "King 在最新一轮 Xbox 裁员中似乎幸免于难",
-      "summary": "报道称 Candy Crush 开发商 King 未受大规模裁员冲击，其职责范围扩大并接手 Microsoft Casual Games。对关注休闲手游大厂组织架构与业务整合的从业者有参考价值。",
-      "url": "https://mobilegamer.biz/king-escapes-major-layoffs-in-latest-round-of-xbox-cuts/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-22T14:25:21",
-      "games": [
-        {
-          "name": "Solitaire Collection",
-          "desc": "Microsoft Casual Games 的常青 PC/移动纸牌游戏合集，文章称 King 扩大职权后纳入该业务。"
-        },
-        {
-          "name": "Minesweeper",
-          "desc": "Microsoft Casual Games 的常青 PC/移动益智游戏，文章明确提及。"
-        },
-        {
-          "name": "Mahjong",
-          "desc": "Microsoft Casual Games 的常青 PC/移动麻将益智游戏，文章明确提及。"
-        },
-        {
-          "name": "Candy Crush",
-          "desc": "King 的知名移动三消游戏，文章以“Candy Crush maker”指代 King。"
-        },
-        {
-          "name": "Halo",
-          "desc": "Xbox 第一方科幻射击游戏系列，文章称 Activision 将开发下一部。"
-        }
-      ]
-    },
-    {
-      "id": "a35539e7da",
-      "title": "「我们想保持非常简单」：Nex Playground 如何在硬件危机中超出预期",
-      "summary": "Nex Playground 团队分享其在硬件成本上涨环境下的经营思路，强调必须留出利润空间才能持续投入逐年上涨的软件开发成本。对做家庭休闲游戏硬件／平台的公司而言，是一份关于硬件与软件投入平衡的实战参考。",
-      "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-22T15:15:00",
-      "games": [
-        {
-          "name": "Sonic Forces",
-          "desc": "索尼克系列的动作平台游戏，玩家可操控索尼克等角色并使用自定义英雄对抗蛋头博士。"
-        },
-        {
-          "name": "Pac-Man",
-          "desc": "经典街机迷宫追逐游戏，玩家操控吃豆人吃掉豆子并躲避幽灵。"
-        },
-        {
-          "name": "Escape From Tarkov",
-          "desc": "硬核战术生存射击游戏，以高拟真战斗、物资搜集和撤离玩法为核心。"
-        }
-      ]
-    },
-    {
-      "id": "a6eb58aa29",
-      "title": "「已经没有简单答案，也没有现成剧本」——Secret Mode 以两条差异化路线下注",
-      "summary": "独立发行商 Secret Mode 脱离 Sumo Digital 后的发行策略访谈，谈两条不同产品线的布局思路。对理解中小发行商的产品组合与风险对冲有一定启发。",
-      "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-22T12:00:00",
-      "games": [
-        {
-          "name": "Star Wars: Galactic Racer",
-          "desc": "高预算《星球大战》竞速游戏，由 Fuse Games 开发、Secret Mode 发行，预计 10 月 6 日推出。"
-        }
-      ]
-    },
-    {
-      "id": "67e4377658",
-      "title": "Bungie 称「与 Destiny 还没结束」，计划恢复已归档的 Destiny 2 内容以重建玩家信任",
-      "summary": "在 Destiny 2 最后一次更新三个月后，Bungie 宣布重新上线被「封存」的战役、突袭与地图。涉及长线运营产品的资产复用与玩家信任修复，对 LiveOps 从业者有一定借鉴意义。",
-      "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-22T09:43:57",
-      "games": []
-    },
-    {
-      "id": "f7f3dfae88",
-      "title": "被 Atari 收购后，Hipster Whale 可能复活或重塑多款复古经典",
-      "summary": "Hipster Whale 联合创始人 Matt Hall 表示，Pong、Breakout、Centipede、Missile Command 等经典 IP 有望在移动端被重制或重新演绎。属于休闲手游 IP 改编方向的资讯，但缺少具体设计细节。",
-      "url": "https://mobilegamer.biz/hipster-whale-could-revive-or-reimagine-a-range-of-retro-classics-after-atari-acquisition/",
+      "id": "47b7780b86",
+      "title": "《OneState》开发商 ChillBase 靠 GTA-like 需求悄然赚取数百万美元",
+      "summary": "估算显示 ChillBase 累计收入已超 8500 万美元，目前月流水超过 500 万美元。对关注移动端开放世界/模拟品类变现路径的从业者有一定参考意义。",
+      "url": "https://mobilegamer.biz/onestate-maker-chillbase-is-quietly-making-millions-by-meeting-the-demand-for-gta-likes/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-22T10:50:20",
+      "published_at": "2026-09-23T12:08:21",
       "games": [
         {
-          "name": "Crossy Road",
-          "desc": "Hipster Whale 的突破性无尽过马路街机手游，下载超 3.4 亿，2014 年发布后 90 天内收入 1000 万美元。"
+          "name": "OneState",
+          "desc": "GTA-like 开放世界角色扮演手游，由 ChillBase 开发，结合开放世界与角色扮演社区并通过内购和 web 商店创收。"
         },
         {
-          "name": "Pong",
-          "desc": "Atari 经典街机乒乓游戏，文章称目前未登陆移动端，Hall 有意将其带回。"
-        },
-        {
-          "name": "Breakout",
-          "desc": "Atari 经典打砖块街机游戏，文章称目前未登陆移动端。"
-        },
-        {
-          "name": "Centipede",
-          "desc": "Atari 经典射击街机游戏，文章称目前未登陆移动端。"
-        },
-        {
-          "name": "Missile Command",
-          "desc": "Atari 经典导弹防御街机游戏，文章称目前未登陆移动端。"
-        },
-        {
-          "name": "Atari 50",
-          "desc": "Atari 复古游戏合集/交互式纪录作品，文章称类似合集也应登陆移动端。"
+          "name": "GTA 6",
+          "desc": "开放世界犯罪游戏，文中作为开放世界犯罪手游需求增长的参照和行业期待对象被提及。"
         }
       ]
     }
