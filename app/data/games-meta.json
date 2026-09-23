@@ -8639,5 +8639,31 @@
     ],
     "store_url": "https://apps.apple.com/us/app/age-of-empires-mobile/id6476261995?uo=4",
     "store": "appstore"
+  },
+  "State of Decay": {
+    "name": "State of Decay 3",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340720/45dc128cbf1d0498c8ca15663d60aafbf33690e6/header.jpg?t=1780854541",
+    "description": "Play as a community of survivors, build up your settlements with friends, and destroy zombies in State of Decay 3, the latest in the franchise from developer Undead Labs.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340720/10fed4b9bfb0c458d8b5b545c6598cea1bf13eff/ss_10fed4b9bfb0c458d8b5b545c6598cea1bf13eff.600x338.jpg?t=1780854541",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340720/654f0ab4ae45d9237a35dd66adb476ed33939825/ss_654f0ab4ae45d9237a35dd66adb476ed33939825.600x338.jpg?t=1780854541",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340720/1c475ca2365d8feb85c8fafe30c22589e94cfbea/ss_1c475ca2365d8feb85c8fafe30c22589e94cfbea.600x338.jpg?t=1780854541",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340720/e2549bdc8bf1ce7eaa64ab6d9eabdef6b004bca4/ss_e2549bdc8bf1ce7eaa64ab6d9eabdef6b004bca4.600x338.jpg?t=1780854541"
+    ],
+    "store_url": "https://store.steampowered.com/app/1340720",
+    "store": "steam"
+  },
+  "Hellblade": {
+    "name": "Hellblade II: Senua’s Saga",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/eeba63cff53a732f380249a09b0be2bbf49f2635/header.jpg?t=1780854772",
+    "description": "The sequel to the award winning Hellblade: Senua’s Sacrifice, Senua returns in a brutal journey of survival through the myth and torment of Viking Iceland. Intent on saving those who have fallen victim to the horrors of tyranny, Senua faces a battle of overcoming the darkness within and without.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_10c82e3cc0f38c433975168679e93a91310ef466.600x338.jpg?t=1780854772",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_067bf57d04ccc1322184d6a33fd5284e2252a6b9.600x338.jpg?t=1780854772",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_fcb80f5cb3eec049b95cdfde2988f919289f9c31.600x338.jpg?t=1780854772",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_3a6935dd5e7a92b21d73521d9c0ca13b88bafa7d.600x338.jpg?t=1780854772"
+    ],
+    "store_url": "https://store.steampowered.com/app/2461850",
+    "store": "steam"
   }
 }
