@@ -1,125 +1,163 @@
 {
-  "updated": "2026-09-24",
-  "generated_at": "2026-09-24T07:00:07.372517",
+  "updated": "2026-09-25",
+  "generated_at": "2026-09-25T07:14:44.979437",
   "articles": [
     {
-      "id": "96fb803e33",
-      "title": "创纪录流水与 AI 驱动的效率提升，指向游戏行业全年持续高增长 | Frontline",
-      "summary": "报道游戏行业实现创纪录的 Gross Billings，并指出 AI 带来的效率提升正推动全年持续高增长。对关注手游大盘景气度、买量与研发成本结构的从业者具有参考价值，可辅助判断休闲游戏赛道的投放与变现环境。",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUxnU2lOZG1uYnN6QkZFVzRZWjMzMFRtU09IVmlWenZjYkxtMXI1RklSYk5yVU0tS0ptclUyMjRwc0V6MVl5cjVRLTA0VlA4TFJWRERiVVRQOHNzNC1hRUw3cmhVa3VEOVBnY0o5YjNSYndDNkhhckdCTXZtVU8yazk1VzJSclFHdEdDZGctdDRZXzQxN2FqUDB5RG9WVnBqQTk3cWFLRmhGQXM?oc=5",
-      "source": "重点游戏-Tasty Travels",
+      "id": "010acfd855",
+      "title": "YouTube 悄然将 Playables 推向 50 多个市场",
+      "summary": "YouTube 已将即时游玩小游戏平台 Playables 扩展至 50 多个市场，Google 员工透露明年可能引入内购。这是超休闲/即时游戏的重要新增分发渠道信号，对休闲游戏买量与变现布局具有直接参考价值。",
+      "url": "https://mobilegamer.biz/youtube-has-quietly-rolled-out-playables-across-europe/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 7,
-      "published_at": "2026-09-23T09:53:02",
+      "published_at": "2026-09-24T10:49:02",
+      "games": [
+        {
+          "name": "Build A Queen",
+          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Snake Clash》《Stealth Master》合计播放超 9000 万次。"
+        },
+        {
+          "name": "Snake Clash",
+          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Build A Queen》《Stealth Master》合计播放超 9000 万次。"
+        },
+        {
+          "name": "Stealth Master",
+          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Build A Queen》《Snake Clash》合计播放超 9000 万次。"
+        },
+        {
+          "name": "Tall Man Run",
+          "desc": "Supersonic 的移动端网页游戏，在 YouTube Playables 上播放量超过 1.06 亿次。"
+        },
+        {
+          "name": "Angry Birds Showdown",
+          "desc": "《愤怒的小鸟》系列游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Cut The Rope",
+          "desc": "物理解谜游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Tomb of the Mask",
+          "desc": "竖屏街机/跑酷解谜游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Trivia Crack",
+          "desc": "问答竞猜游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Words of Wonders",
+          "desc": "单词拼写/填字游戏，在 YouTube Playables 早期公布中被重点展示。"
+        }
+      ]
+    },
+    {
+      "id": "1bcec54c04",
+      "title": "Supercell 的怪物狩猎游戏 Mo.co 将「重返 beta」",
+      "summary": "Supercell 的 Mo.co 项目将重新进入 beta 阶段，团队在「低维护」状态下继续迭代并测试新功能。该案例展示了头部厂商对表现不佳新游的处理策略，对关注手游新品生命周期管理的从业者有借鉴价值。",
+      "url": "https://mobilegamer.biz/supercells-monster-hunting-game-mo-co-is-going-back-into-beta/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-24T14:10:30",
+      "games": [
+        {
+          "name": "Mo.co",
+          "desc": "Supercell 的怪物狩猎手游，曾以邀请制上线，因表现不及预期而重回 beta 开发阶段。"
+        }
+      ]
+    },
+    {
+      "id": "a3228fceac",
+      "title": "爱尔兰游戏基金扩展，新增多条资助通道",
+      "summary": "爱尔兰游戏基金新增开发基金、原型基金与发行基金三类资助路径，帮助当地开发者获得更细分的资金支持。对关注欧洲中小团队融资环境的从业者有一定参考价值，但与休闲游戏玩法设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T11:10:22",
       "games": []
     },
     {
-      "id": "62a1319d22",
-      "title": "EU KIDS Act：游戏开发者需要了解什么",
-      "summary": "欧盟委员会于 9 月 17 日公布拟议的 EU KIDS Act 草案，多数争议条款针对社交网络与视频分享平台，但其中部分规定同样适用于在线游戏、AI 陪伴、聊天机器人、应用商店与操作系统。对面向低龄用户的休闲手游团队来说，这是需要提前评估的合规变量。",
-      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+      "id": "6eb8d771ea",
+      "title": "荷兰消费者组织起诉 Epic，指控 Fortnite 误导未成年玩家并索赔逾 1 亿欧元",
+      "summary": "荷兰消费者组织 SMC 对 Epic Games 提起集体诉讼，称 Fortnite 在内购设计上误导年轻玩家，索赔金额超过 1 亿欧元。该案反映了欧美对面向未成年人变现机制的监管收紧，对休闲手游的付费设计合规有警示意义。",
+      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-23T13:43:08",
+      "score": 5,
+      "published_at": "2026-09-24T13:48:19",
       "games": [
         {
-          "name": "Roblox",
-          "desc": "在线游戏与创作平台，文中称欧盟 KIDS 法案的宽泛定义可能覆盖从 Roblox 到光盘游戏多人模式等在线功能。"
+          "name": "Fortnite",
+          "desc": "Epic Games 的免费大逃杀/建造竞技游戏，拥有 V-Bucks 虚拟货币与限时道具商店，本案指控其诱导未成年玩家消费。"
         }
       ]
     },
     {
-      "id": "eebc635b01",
-      "title": "数据周报：移动游戏增长最快榜单、中国区数据、应用提交量激增等",
-      "summary": "汇总了移动端增长最快的游戏、中国市场营销数据、Google Play 应用提交量飙升等信息，并包含 Embracer 与 Top App Games 的动态。适合快速了解一周移动市场大盘走势。",
-      "url": "https://mobilegamer.biz/data-digest-mobiles-fastest-growing-games-china-stats-google-play-submissions-double-more/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-23T10:16:22",
-      "games": [
-        {
-          "name": "Gossip Harbor",
-          "desc": "Microfun 的 merge 游戏，8 月全球收入榜第二，IAP 收入达 1.11 亿美元并创最大月。"
-        },
-        {
-          "name": "Honor of Kings",
-          "desc": "腾讯的竞技手游，8 月保持全球收入榜第一。"
-        },
-        {
-          "name": "Whiteout Survival",
-          "desc": "生存策略手游，8 月全球收入榜前五。"
-        },
-        {
-          "name": "Royal Match",
-          "desc": "三消手游，8 月全球收入榜前五。"
-        },
-        {
-          "name": "Candy Crush Saga",
-          "desc": "经典三消手游，8 月全球收入榜前五。"
-        },
-        {
-          "name": "Fate/Grand Order",
-          "desc": "Fate 系列 RPG/抽卡手游，借 11 周年位列 8 月全球增长榜第一。"
-        },
-        {
-          "name": "Teamfight Tactics",
-          "desc": "自走棋游戏，腾讯拥有或发行，进入 8 月全球增长榜前十并领先腾讯系产品。"
-        },
-        {
-          "name": "Valorant",
-          "desc": "战术射击游戏，腾讯拥有或发行，进入 8 月全球增长榜前十。"
-        },
-        {
-          "name": "Zeus: The God of Arrogance",
-          "desc": "手游，在韩国收入榜登顶后进入 8 月全球增长榜第十。"
-        },
-        {
-          "name": "Gangstar Mirage City",
-          "desc": "腾讯的开放世界犯罪手游，多区域上线后登顶 8 月下载增长榜并升至总榜第七。"
-        },
-        {
-          "name": "Roblox",
-          "desc": "UGC 沙盒与游戏平台，8 月全球下载榜第一。"
-        },
-        {
-          "name": "Free Fire",
-          "desc": "大逃杀手游，8 月全球下载榜第二。"
-        },
-        {
-          "name": "Gangster Miami RP",
-          "desc": "开放世界犯罪与角色扮演手游，因 GTA 6 期待升温而排名上升。"
-        },
-        {
-          "name": "Paper.io 2",
-          "desc": "Voodoo 的休闲 io 竞技游戏，八年老作重返 8 月增长收入榜前五。"
-        },
-        {
-          "name": "GTA 6",
-          "desc": "开放世界犯罪游戏，文中称其预期升温推动同类开放世界犯罪游戏排名上升。"
-        }
-      ]
-    },
-    {
-      "id": "47b7780b86",
-      "title": "《OneState》开发商 ChillBase 靠 GTA-like 需求悄然赚取数百万美元",
-      "summary": "估算显示 ChillBase 累计收入已超 8500 万美元，目前月流水超过 500 万美元。对关注移动端开放世界/模拟品类变现路径的从业者有一定参考意义。",
-      "url": "https://mobilegamer.biz/onestate-maker-chillbase-is-quietly-making-millions-by-meeting-the-demand-for-gta-likes/",
-      "source": "Mobile Gamer Biz",
+      "id": "986155c873",
+      "title": "纠偏旧账：MobyGames 允许开发者认领未被署名的作品",
+      "summary": "MobyGames 推出机制，让开发者可以认领自己参与过但未获署名的游戏条目。属于游戏行业档案与文化层面的动态，对从业者了解行业历史记录方式有轻微价值，但与休闲游戏设计运营无关。",
+      "url": "https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-23T12:08:21",
+      "published_at": "2026-09-24T12:00:00",
+      "games": []
+    },
+    {
+      "id": "76c5e7e4b1",
+      "title": "TinyBuild 2026 上半年营收增长 18% 至 2000 万美元，85% 来自自有及第二方 IP",
+      "summary": "TinyBuild 公布 2026 年上半年财报，营收 2000 万美元，同比增长 18%，主要来自老产品线表现与新作发行，其中 85% 收入源于自有和第二方 IP。对关注中小发行商 IP 策略的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T10:12:10",
       "games": [
         {
-          "name": "OneState",
-          "desc": "GTA-like 开放世界角色扮演手游，由 ChillBase 开发，结合开放世界与角色扮演社区并通过内购和 web 商店创收。"
+          "name": "Hello Neighbor",
+          "desc": "TinyBuild 的常青目录游戏之一，在 2026 上半年持续贡献收入。"
         },
         {
-          "name": "GTA 6",
-          "desc": "开放世界犯罪游戏，文中作为开放世界犯罪手游需求增长的参照和行业期待对象被提及。"
+          "name": "Graveyard Keeper",
+          "desc": "TinyBuild 的常青目录游戏之一，在 2026 上半年持续贡献收入。"
+        },
+        {
+          "name": "Hozy",
+          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
+        },
+        {
+          "name": "All Will Fall",
+          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
+        },
+        {
+          "name": "Sand: Raiders of Sophie",
+          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
+        },
+        {
+          "name": "I Am Future",
+          "desc": "TinyBuild 报告期内登陆主机平台的游戏。"
+        },
+        {
+          "name": "The King is Watching",
+          "desc": "TinyBuild 报告期内推出 DLC 的游戏。"
+        },
+        {
+          "name": "Kill It With Fire 2",
+          "desc": "TinyBuild 报告期内登陆 Switch 的游戏。"
         }
       ]
+    },
+    {
+      "id": "cabc66ba5a",
+      "title": "WN Conference Cyprus'26 在利马索尔举行，亮点回顾",
+      "summary": "WN Media Group 主办的第五届塞浦路斯开发者与发行商大会回顾，介绍会议内容与参会者反馈。属于行业活动资讯，对关注欧洲游戏商务网络的从业者有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/24/the-wn-conference-cyprus26-took-place-in-limassol-here-are-the-highlights",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T14:45:29",
+      "games": []
     }
   ]
 }
