@@ -8825,5 +8825,210 @@
     "store_url": "https://apps.apple.com/us/app/free-fire-x-naruto-shippuden/id1300146617?uo=4",
     "store": "appstore"
   },
-  "Gangster Miami RP": null
+  "Gangster Miami RP": null,
+  "Hello Neighbor": {
+    "name": "Hello Neighbor",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/ce/b6/53ceb6fc-e33c-842b-7b35-2e6cc669fafe/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "description": "*Supported Devices: iPhone 6s, iPad 5 (2017), iPad Air 2, iPad Mini 4 and everything newer. iPod Touches are not supported*\n\nHello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement. You play against an advanced AI that learns from your every move. Really enjoying climbing through that backyard window? Expect a bear trap there. Sneaking through the front door? There'll be cameras there soon. Trying to escape? The Neighbor will find a shortcut and catch you.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/66/db/5766db63-dd0d-d9bc-0f51-50070fed00bc/mzl.tiszaskj.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/c3/81/6cc3811e-02bf-477d-f2e8-b3e25698f7f7/mzl.zygyvumc.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/d5/11/53d511f5-d8b8-2ffd-bb16-1032fcfa3dae/mzl.fqqdxfgs.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/54/2b/bf542b00-0401-0190-2783-4d471ddad2cb/mzl.tcdvgjaw.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/hello-neighbor/id1386358600?uo=4",
+    "store": "appstore"
+  },
+  "Graveyard Keeper": {
+    "name": "Graveyard Keeper",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/64/ed/ed/64eded36-a5ec-30a8-3225-6da48e642bc0/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg",
+    "description": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of all time. Build and manage your own graveyard, and expand into other ventures, while finding shortcuts to cut costs. Use all the resources you can find. After all, this is a game about the spirit of capitalism, and doing whatever it takes to build a thriving business. And it’s also a love story.\n\n- Face ethical dilemmas. Do you really want to spend money on that proper burger meat for the witch-burning festival, when you have so many resources lying around? \n- Gather valuable materials and craft new items. Expand your Graveyard into a thriving business. Help yourself -- gather the valuable resources scattered across the surrounding areas, and explore what this land has to offer. \n- Quests and corpses. These dead bodies don't need all those organs, do they? Why not grind them up and sell them to the local butcher? Or you can go on proper quests, you roleplayer.\n- Explore mysterious dungeons. No medieval game would be complete without those! Take a trip into the unknown, and find discover new alchemy ingredients -- which may or may not poison a whole bunch of nearby villagers.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/72/47/fb724749-47ce-deba-8d01-26c91842fe70/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0d/6a/94/0d6a9418-bb7f-de67-8c18-34fc9ef266ea/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f7/87/2a/f7872a35-48fd-baa0-c4fe-b31a06cb3b1a/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/79/cf/f6/79cff6c7-07ae-f6fa-d454-02bed963b763/pr_source.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/graveyard-keeper/id1461238719?uo=4",
+    "store": "appstore"
+  },
+  "Hozy": {
+    "name": "Hozy: Hideaways",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145980/305d1e7d639ebb2ba13ec5649f0ba8b35fc5eb8a/header.jpg?t=1789399205",
+    "description": "Expand your Hozy experience with a free DLC featuring three new levels, new characters, music, and additional items for Sandbox Mode.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145980/603d9748da01dda62be3fd9cbbb8b60ecf540164/ss_603d9748da01dda62be3fd9cbbb8b60ecf540164.600x338.jpg?t=1789399205",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145980/0a5cbd73f612fee1a6bb58d87da68afab2d1eabf/ss_0a5cbd73f612fee1a6bb58d87da68afab2d1eabf.600x338.jpg?t=1789399205",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145980/12e13b3bac3bc17bc16a933f953d202103e36582/ss_12e13b3bac3bc17bc16a933f953d202103e36582.600x338.jpg?t=1789399205",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145980/8f5aed48f0dd4823a10529619a0a1dbcec0a3bb2/ss_8f5aed48f0dd4823a10529619a0a1dbcec0a3bb2.600x338.jpg?t=1789399205"
+    ],
+    "store_url": "https://store.steampowered.com/app/5145980",
+    "store": "steam"
+  },
+  "All Will Fall": {
+    "name": "All Will Fall Soundtrack",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564580/1007601460135aadfacb3d5ad93519bfe1bedaaa/header.jpg?t=1775247034",
+    "description": "33 original tracks that you can hear in All Will Fall, are now available as a standalone OST. ",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564580/654fb8f26cbae3bfa83187f738f78f1b1de93195/ss_654fb8f26cbae3bfa83187f738f78f1b1de93195.600x338.jpg?t=1775247034",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564580/d94388f5ec37e95598f1337686c663cc8c5214fa/ss_d94388f5ec37e95598f1337686c663cc8c5214fa.600x338.jpg?t=1775247034"
+    ],
+    "store_url": "https://store.steampowered.com/app/4564580",
+    "store": "steam"
+  },
+  "Sand: Raiders of Sophie": {
+    "name": "SAND: Raiders of Sophie",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1790248484",
+    "description": "In SAND you build your highly customizable walking mech fortress. Squad up or go solo. Scavenge the dunes, gather loot, weapons, priceless artifacts, survive and extract. Clash with other players in a brutal procedurally generated desert set in an alternate 1910.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/8e83589a795a24e544cc2c28e792ae5722145e4a/ss_8e83589a795a24e544cc2c28e792ae5722145e4a.600x338.jpg?t=1790248484",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/4811b25ef71699a50fea6baf666e101892fbce03/ss_4811b25ef71699a50fea6baf666e101892fbce03.600x338.jpg?t=1790248484",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/f8eb35bb25b343ba2c1ff65ebb53b455dd2d281f/ss_f8eb35bb25b343ba2c1ff65ebb53b455dd2d281f.600x338.jpg?t=1790248484",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/ss_3a83f48f921ea0d674eb5aae4107174769a934cf.600x338.jpg?t=1790248484"
+    ],
+    "store_url": "https://store.steampowered.com/app/1431300",
+    "store": "steam"
+  },
+  "I Am Future": {
+    "name": "I Am Future Soundtrack",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532810/header.jpg?t=1707770358",
+    "description": "An official soundtrack for I Am Future with the tracks released in the game and our trailers",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532810/ss_64b2cc80dfc91498cd1b0b92713a632ee5a167e4.600x338.jpg?t=1707770358"
+    ],
+    "store_url": "https://store.steampowered.com/app/2532810",
+    "store": "steam"
+  },
+  "The King is Watching": null,
+  "Kill It With Fire 2": {
+    "name": "Kill It With Fire",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c0/8c/7b/c08c7b27-2bcf-13bd-3dd7-bd4ca0d76f63/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "description": "*Supported Devices: iPhone 8, iPad (7th Gen), iPad Air (2019), iPad Mini (5th Gen) and everything newer.*\n\nKill It With Fire is a first-person action game about hunting spiders and causing collateral damage.\n\nThe spider - mankind’s most ancient and deadly nemesis. As a licensed Kill It With Fire exterminator, it’s time to fight back! Assemble your arsenal of increasingly excessive weapons, track spiders across suburbia, and burn everything in your path!\n\nFeatures\n\n- Tons of unique weapons and equipment.\n- Eight different spider species.\n- “Realistic” fire simulation system.\n- Gratuitous chaos and destruction.\n- Dozens of optional objectives.\n- Loads of hidden upgrades.\n- Battle in the Arachno-Gauntlet!\n- A secret ending?!?! (...shh!)",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/84/6f/4f/846f4fc9-d20a-d5ec-979e-d2178bc1c5ca/c2315747-6660-4bc2-887f-0e5b0cd6fe5f_AppStore_Screenshot_2.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a3/ba/1f/a3ba1f17-538c-04a9-dfbb-c9fceb68bdfd/9077cc5f-7ae7-46cb-a7f5-43379efd28c2_AppStore_Screenshot_3.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a5/49/91/a5499195-05a2-6bd3-45c7-748e52438019/f089aa33-03a2-4437-8789-573a5bfe6c6a_AppStore_Screenshot_4.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2b/61/53/2b61534d-4f37-5e11-89ed-dae5ad8fcd39/7fd2c3e5-a462-459f-8d57-bf64008b58aa_AppStore_Screenshot_5.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/kill-it-with-fire/id1538981203?uo=4",
+    "store": "appstore"
+  },
+  "Mo.co": {
+    "name": "mo.co",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/4b/2d/a84b2dca-4460-46c8-07a5-1b1f2a336074/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "We’re recruiting monster hunters to join the action, help us fight back the invasion, and harvest.. eerr.. gather Chaos Energy from parallel worlds to fuel our weapons tech and some other experiments that you don’t need to worry about!\n\nDisclaimer: mo.co is free to download and play, and never has in-game ads. However, some game items can also be purchased for real money (including random items). If you don't want to purchase game items for real money, please disable in-app purchases in your device's settings.\n\nPerks of the job: \n\n● Super-powerful, Chaos Energy-infused weapons for you to fight with!\n● Flexible working hours…  it’s a ‘start hunting whenever you want’ situation\n● Cool merch that lets you embody the monster hunting lifestyle. \n● Unlimited Portal jumps to parallel worlds. \n● Fun team environment with plenty of co-op action. \n● Fun leave-me-alone environment where you can hunt solo if that’s your thing. \n● No experience necessary. \n\nStart your monster hunting career at mo.co to enjoy a working environment that lets you… \n\nENJOY BITE-SIZED ADVENTURES\n\nEvery day we launch new expeditions, whether you want a quick hunt or a longer session with friends, our portal technology lets you jump in and out of adventures whenever you want. \n\nEARN, MASTER, AND UPGRADE POWERFUL WEAPONS\n\nUnlock a variety of Chaos Energy infused weapons. Each one comes with special abilities that let you unleash epic combinations. Make your weapons even stronger and enable other power-ups like health regeneration or dodging using Upgrade Cores. \n\nEXPLORE PARALLEL WORLDS \n\nDragonling world has peaceful spirits being tormented by these chaotic lizards. Royal Bug world is a hierarchical society that will not tolerate mo.co’s free-spirited adventures. There’s no telling what worlds the portal will take us to next… \n\nPROVE YOUR SKILLS \n\nElite Contracts put hunters right in the action, against the strongest bosses & tricky situations you’ll need to fight your way out of. If you succeed, you’ll earn Elite Merits, Elite Merch Credits, and climb the leaderboards. \n\nTAKE DOWN BOSSES WITH FRIENDS\n\nWe are a company but we hate bosses. When you join mo.co you’ll be put up against challenging monsters and you'll need to learn their attacks to find the best way to take them down. \n\nFIND MERCH TO FIT YOUR MOOD\n\nFrom epic outfits that’d make any action hero feel powerful to stylish streetwear that matches your weapon, we’re always dropping merch to push the monster hunting lifestyle forward. \n\nSPRAY, EMOTE, AND DANCE YOUR HEART OUT.\n\nLeave your mark with sprays, let friends know your mood with emotes, or start dancing in the face of monsters with gestures. \n\nHUNT ALONE OR TOGETHER\n\nAdventure through parallel worlds solo and crush challenges in the DOJO, or fight with other online hunters for serious multiplayer action. \n\nCOLLAB WITH OTHERS\n\nHunt together to defeat the biggest bosses and most chaotic monster hordes. Whether it’s with real life friends, or other random mo.co hunters, we’re a team out there. By planning weapon choices together you’ll be able to take down the most intimidating of Chaos Monsters. \n\nSupport: \n\nHaving problems? Visit https://support.supercell.com/mo-co/en/index.html or contact us in game by going to Settings > Help and Support.\n\nPrivacy Policy: http://www.supercell.net/privacy-policy/\nTerms of Service: http://www.supercell.net/terms-of-service/\nParent's Guide: http://www.supercell.net/parents\nThe IGRS Rating for this game is 13+\n\nNotice of Access Permission:\n[Optional permission]\nmo.co may request permission via in-game pop ups to access your camera and send you notifications.\nCamera: For in-game scanning of QR codes\nNotifications: For sending notifications related to the game\nConsent is optional and you can use the app and play the game regardless of whether or not you consent. You may refuse to give consent within the game. However, certain app features may not work properly if you refuse optional access permissions.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/bc/63/65bc63f8-c1fb-1361-61fe-e6567a314077/Moco_Join_2796x1290_EN.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/6b/e9/786be921-79b5-fbc7-fe50-dbd93db017d1/Moco_Playstyle_2796x1290_EN.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/f3/08/fcf3088e-f342-80a5-fefb-5c512223127b/Moco_Bosses_2796x1290_EN.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/e0/8d/43e08da6-1c19-6842-ebb5-2af9b6fad666/Moco_Customize_2796x1290_EN.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mo-co/id6474323148?uo=4",
+    "store": "appstore"
+  },
+  "Build A Queen": {
+    "name": "Build A Queen",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/a1/27/d1a12711-91c1-8d19-3b0a-f278fc8c447e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Step into the world of glamour and style with Build A Queen! The ultimate fashion game where you can become a doll maker and create your dream queen! \nBecome a virtual fashion designer and let your creativity shine! Choose your model and dive into project makeover. \nDesign everything - from stunning hairstyles and flawless makeup to the hottest outfits and fabulous accessories! This is your chance to build a sweet doll with your unique style.\nShowcase your looks on the catwalk and compete in thrilling fashion battles! Will you make the right choices to win and become the ultimate Fashion Queen? \nUnlock new clothes and challenges as you progress in this exciting dress up game! \nBuild A Queen is a fun, casual single player game perfect for anyone who loves dress up games, doll games, and makeover challenges. The best part? You can enjoy this offline game anytime, anywhere! \nIf you're a girl who loves fashion, dolls, and design, your journey to becoming a fashion icon starts now! Download Build A Queen and use combinations of makeover tiles to rule the runway!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/a0/1a/18a01a6f-67ed-0cbc-e57d-8ff1a97c2220/050a34c8-12c4-405f-8908-22a6fe78dec7_screen_shot_1671533096.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/14/4a/41/144a41b3-18cc-5566-2590-af1036dd04bc/fa5889d1-5c89-481c-86c6-05f086ee3d7e_screen_shot_1671533340.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e4/35/fe/e435fed4-1bcb-6553-bb44-ba28927bfc40/8058576a-0b49-4fce-9c8a-95650f059a99_screen_shot_1671534251.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/69/dc/7c/69dc7cf6-315f-7344-e117-2ff726fc7222/5a3d8002-8f54-4579-8ea4-c9828c4e9b58_screen_shot_1671534019.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/build-a-queen/id1660583025?uo=4",
+    "store": "appstore"
+  },
+  "Snake Clash": {
+    "name": "Snake Clash!",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/40/0f/f8400f22-2da8-bc00-ac59-3b5ded5aa7ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Snake Clash × Pororo Collab is LIVE! Play as Pororo in the snake battle enjoyed by over 100 million!\n\nWelcome to Snake Clash! The ultimate battle for survival in the world of snakes is about to begin.\n\nStart as a hungry little snake, eat, grow, and fight to evolve into the biggest and most powerful serpent. Engage in thrilling duels in a fierce arena and become the last one standing!\n\n► Eat and Grow\nConstantly move across the endless battlefield, seize opportunities, and devour smaller snakes to evolve. Quick decision-making, precise controls, and strategic movements will determine victory.\n\nThe more you eat, the bigger you get, which in turn increases your attack power and presence. Don't just grow—dominate your opponents and rise to the top of the true food chain.\n\n► Skins & Customization\nBattles aren't just about strength. Collect a variety of skins to express your unique personality and style. You can grow into a being with your own color and charm! From flashy designs to quirky themes, combine countless options to create a one-of-a-kind snake that's unique in the world.\n\n► Multiplayer iO Mode\nGrowth isn't limited to playing alone. Compete with friends in real-time multiplayer or face off against players from around the world. Experience the thrill of a rapidly changing battlefield where the situation can flip in the blink of an eye.\n\nThe battle for the top snake in the arena is always full of tension and excitement. Challenge yourself to become a true champion in a game that keeps you immersed every moment!\n\n\n► Global Ranking System\nYour efforts are rewarded with more than just in-game items. Your achievements in the Tower of Challenges and Seasonal Events are immediately reflected in the global rankings.\n\n- Compete with players worldwide to aim for the highest rank.\n- Receive special rewards and honorable titles based on your ranking.\n- Claim the glory of being #1 and make your name famous in the world of Snake Clash!\n\n► Play Anytime, Anywhere\nNo Wi-Fi? No problem. This is the perfect entertainment to enjoy anytime, anywhere—on a plane, during your commute, or in places without an internet connection. It provides endless fun and immersion whether you have a short moment or a long stretch of time.\n\n► Challenge Now!\nSnake Clash can be called the next evolution of the snake genre, combining the intuitive fun of a classic snake game with innovative elements like boss battles, seasonal events, and a global ranking system. Download now, and jump into the world of eating, fighting, and conquering.\n\nIt's time for your snake to dominate the battlefield!\n\nPRIVACY POLICY:\nhttps://corp.supercent.io/PrivacyPolicy\n\nTERMS OF SERVICE:\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/fa/ae/9bfaae5c-54a0-7906-8a47-1da7f2cedcc3/Frame_243.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/1b/3b/691b3bcb-d236-cc96-cb94-bccac346ae97/Frame_245.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/c6/b7/c4c6b79d-e90b-4d41-e343-61604c4ffa9c/Frame_246.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/75/0d/f0750d5f-f4b9-4a9d-01a9-36044b1b567f/Frame_255.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/snake-clash/id6449243946?uo=4",
+    "store": "appstore"
+  },
+  "Stealth Master": {
+    "name": "Stealth Master: Assassin Ninja",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/53/b4/ce53b479-c283-d82b-3841-e42d8399963e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "► SILENT BUT DEADLY\n \nLooking for a way to spend a quite five minutes? If you mean really quiet and incredibly stealthy, then head into Stealth Master, the silent but deadly mobile game that celebrates all things sneaky, sly, underhand and devious. Prove your ninja credentials by infiltrating buildings, sliding through the shadows, and taking out bad guys at close quarters, doing your job from a distance with a sniper rifle, or pulling off incredible daredevil heists without being seen in this fun action game that boasts loads of cool mechanics, scores of your favorite characters, and a deadly sense of humor.\n \n► DID YOU HEAR SOMETHING?\n \n• One last job – take contracts to eliminate gangsters, executives and other ne’er-do-wells in increasingly difficult ninja assassination missions that require skill, speed, and loads of stealth to reach and take out the boss.\n\n• Tons of guns – try out a whole host of weapons, from the traditional cold steel of the kunai and katana to every type of gun imaginable, including high-powered sniper rifles. Find your favorite form of lethal force and hone your particular skill or choose the right tool for each job and become a true weapons master.\n\n• Adapt to your environment – whether it’s dodging flashlights and lasers, using hidden passages, shooting up explosives to take out multiple enemies, or pretending to be a pot plant, Stealth Master offers dozens of different ways to use the surroundings to your advantage with ingenious game mechanisms that put variation and excitement in every level.\n\n• Steal the unstealable – once you’ve mastered assassination, try your hand at the ultimate stealth task of hi-tech robbery. Now you won’t have to attack anyone, just stay in the shadows, slip past the guards and sophisticated security equipment, and grab the juicy loot without anyone seeing you. New robbery missions offer a combination of traditional stealth moves and a variety of fun brainteasers.\n\n• Work remotely – tired of getting your hands dirty? Now you can do your nefarious deeds at a distance with tricky sniper levels. Train your sights on the target, plan your strategy, keep your head down, and make sure you’ve got an escape route.\n\n• An incredible cast – complete missions and earn cash to unlock dozens of cool, pop culture-inspired characters that you can level up and train to be the ultimate assassins. Choose between action stars, superheroes, supervillains and a super-sneaky imposter to find your favorite ninja.\n \n► THAT WAS UNEXPECTED!\n\nNow with a load of new features, new game modes, new missions, new weapons, and a new character, Stealth Master is even more fun and exciting than before. Looking for action of the stealthy, surreptitious kind? Got what it takes to be a true master ninja assassin? Download the game now and get stealthing.\n\nPrivacy Policy: https://say.games/privacy-policy\nTerms of Use: https://say.games/terms-of-use",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/65/90/526590c9-aa18-a25a-803f-6fb12b25e65c/9bf58496-e27e-4269-ac58-409366b7fbfd_8plus_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/a7/67/39a7678e-a196-d7c2-1089-5accc0f09111/8495a8d6-1134-4d9f-ad12-ca7b1f8f9f39_8plus_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/f3/72/b2f3722a-6bbb-94eb-5ed5-59525089576e/d5dbd0a9-018a-436e-bb1d-04d426509f89_8plus_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/10/9c/2b109c9d-b2c4-6c65-9257-363bfa716bbf/b7d0a707-11e4-47bd-a17a-4d23e70674eb_8plus_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/stealth-master-assassin-ninja/id1518389230?uo=4",
+    "store": "appstore"
+  },
+  "Tall Man Run": {
+    "name": "Tall Man Run",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b5/fb/30b5fb72-6163-0b7a-0ee6-d8eb18c64fa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Get as tall and wide as you can to beat the big boss!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/c9/fb/f9c9fb39-1d6d-05fc-bec6-eb1c91f55bfa/bd35e3c5-492c-4381-a05f-ef83845ddf91_7876785C-EB0A-4EF6-8E0F-C8DE3C49D432.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/bc/31/06bc3145-c0df-03cf-c6f4-93e703b096a0/53c4da39-3052-4f8a-a02e-5d53407572a7_B7156705-3D45-4DBD-AF23-C58747D4EC21.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/11/7b/10/117b1027-4fed-4e03-60ec-e962de09e86a/5636248b-03fe-41bb-8f75-d9e9098764ec_796AD064-60CE-41D9-A390-DE6308A65DF9.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/65/75/426575f6-c720-104f-3cc8-b529f010f4c8/49e3107f-6247-467d-b486-386dc7920b99_A54C0AC4-2D35-46B5-A0A6-7287710B0312.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/tall-man-run/id1599121822?uo=4",
+    "store": "appstore"
+  },
+  "Angry Birds Showdown": null,
+  "Cut The Rope": {
+    "name": "Cut the Rope: Physics Puzzle",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/78/fb/5678fbaa-9370-b34c-c014-56653ff92d84/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "OM NOM IS HUNGRY — AND HE WANTS CANDY!\n\nIt is up to you to help him in 425 physics-based puzzle levels across 17 themed boxes in this GOAT puzzler! Cut ropes, use clever gadgets, and collect stars to feed the adorable green monster Om Nom with a massive sweet tooth. Each box brings new puzzle mechanics and challenges, like:\n• Toy Box – bouncy platforms and unpredictable surprises\n• Magic Box – magic hats and the trick of teleporting the candy\n• Steam Box – valves, steam and mechanical fun\n• Cosmic Box – gravity switches and clever twists\n\nHOW TO PLAY:\n• Cut ropes to guide candy to Om Nom\n• Use bubbles, air cushions, valves and even bees to solve tricky puzzles\n• Defy the laws of physics with superpowers\n• Collect stars and coins to unlock new boxes, gain rewards, and get Om Nom new sweets to eat\n\nFEATURES:\n• Super satisfying physics-based gameplay\n• Fast-paced, addictive single-player brain teasers\n• Hilarious cartoons about Om Nom “Om Nom Stories”\n• Play offline anywhere, anytime\n• Fun for all ages, from kids to the young at heart\n\nFeed Om Nom, collect stars, and enjoy the award-winning, globally loved puzzle adventure that has captivated millions of players worldwide!\n\nCut the Rope is free to download and play, however, some in-game items can be purchased for real money, including randomised items. For more information, please see our Terms of Use (https://www.zeptolab.com/terms) and Privacy Policy (https://www.zeptolab.com/privacy).",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/15/8b/da158bc7-5fef-dab2-b877-edb2897376c8/1-en.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/ab/ac/a5abac7b-b581-c635-52e5-a9c5e2a594eb/2-en.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/71/dc/af71dc44-cd4f-35cb-cdc7-475fbe19e72a/3-en.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/c0/ec/e6c0ec26-d035-7c9c-4b58-eb25fb7d0009/4-en.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/cut-the-rope-physics-puzzle/id1024506959?uo=4",
+    "store": "appstore"
+  },
+  "Tomb of the Mask": {
+    "name": "Tomb of the Mask: Pixel Maze",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/c9/dc/50c9dcf6-0d87-a013-83ea-a043605b422d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Tomb of the Mask is an arcade game with an infinite procedurally generated vertical labyrinth. Seeking for adventure you get into a tomb where you find a strange mask. You put it on and suddenly realize that you can now climb walls - easily and promptly. And that's when all the fun begins. \n\nYou'll face a variety of traps, enemies, game mechanics and power-ups. And as far as time doesn't wait, get a grip and up you go.\n\nWe Love You. Enjoy.\n\n\nSUBSCRIPTION PRICING AND TERMS\n\nSubscription options\n\nIn Tomb of the Mask we offer you the following subscription options:\n1. Weekly Premium offers a weekly subscription for $7.99 after a 3-day free trial. It gives you unlimited energy, 400 coins every day and removes ads.\n2. Monthly Premium offers a monthly subscription for $19.99. It gives you unlimited energy, 400 coins every day and removes ads.\n3. Yearly Premium offers a yearly subscription for $99.99. It gives you unlimited energy, 400 coins every day and removes ads.\n\nEnd of trial and subscription renewal\n\nThis price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence.\n\nPayment will be charged to iTunes Account at confirmation of purchase.\n\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n\nThe account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n\nSubscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.\n\nAny unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nCanceling trial or subscription\n\nYou can turn off the auto-renew for the subscription whenever you want to through iTunes account. Check https://support.apple.com/HT202039. When your current trial/subscription period expires, you will be unsubscribed. The current active subscription period cannot be canceled. After your subscription expires, you will no longer be able to use elements offered in your chosen Subscription Option. \n\nIf you have any questions or comments, feel free to contact us at support@newplg.dev\n\nPrivacy Policy: https://newplg.dev/privacy-policy\nTerms of Use: https://newplg.dev/terms-of-service",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/be/63/22be63ca-2bb5-3038-3035-bab96bd0c697/cd45f341-2df0-4f0d-8e87-a521d613f5a9_0x0ss.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/72/10/277210fd-8cee-603c-4a5d-a29a91d701ba/aab3096f-b3a7-4b17-b2d3-2ff2b75c6ae3_0x0ss__U00284_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/42/14/87421449-480a-6ed9-c198-786d8cdf1ab2/6c82183d-3f11-4eab-a782-ccbf4f569980_0x0ss__U00282_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/17/36/361736a1-6355-7cbd-e3f7-e5cd0c46759b/7085e85c-bae7-46b5-bb81-f91b01017838_0x0ss__U00287_U0029.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/tomb-of-the-mask-pixel-maze/id1057889290?uo=4",
+    "store": "appstore"
+  },
+  "Trivia Crack": {
+    "name": "Trivia Crack: Brain Quiz Games",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/28/07/b42807f8-bd54-4d17-c6ab-57ae4a1d03ef/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+    "description": "AI-Powered Quiz Creator from Trivia Crack\n\nIntroducing AI-Powered Quiz Creator, a brand new quiz experience within Trivia Crack that takes trivia gaming to the next level of questions. Thanks to artificial intelligence (AI), you can now play endless, unique trivia games! This advanced artificial intelligence is key. The artificial intelligence (AI) lets you play any trivia topic you want, arrange letters, answer true or false questions, and much more. And the best part is that you can create it in just a few minutes! The questions from the artificial intelligence AI are fantastic. Create your own trivia episodes, powered by artificial intelligence, with images, sound, video, and stickers. This AI is a game-changer for Trivia Crack. The artificial intelligence (AI) in every quiz is unmatched. Trivia Crack is transformed with artificial intelligence (AI).\n\nPlay, Create, and Connect on Trivia Crack\n\nStart your quiz journey on Trivia Crack now and connect with a community that turns knowledge into entertainment with questions. Play, learn, compete, create, and be a part of this new way to experience trivia!\n\nPLAY  \nDiscover thrilling knowledge on endless questions. Dive into a world full of curiosity and challenge your mind with thousands of questions. These are the best questions in any quiz on Trivia Crack. Enjoy exciting new ways to play trivia with multiple questions and game modes, and play by your own or with friends & family. Every game is a new adventure of questions. The artificial intelligence (AI) ensures every quiz on Trivia Crack is fresh.\n\nCREATE  \nDesign your own custom quizzes and collections using new game modes and innovative formats for questions, all powered by artificial intelligence (AI). This artificial intelligence (AI) makes creating a quiz easy & quick. Use AI-powered creation tools to build engaging trivia experiences and challenge your friends and family. You decide: create with AI, create with your creativity from scratch, or combine both! Trivia Crack makes you the master of your own quiz!\n\nAll user-generated content is moderated using automated systems and manual review to help ensure a safe experience.\n\nCONNECT  \nJoin a vibrant global community that connects millions of Trivia Crack players worldwide. It’s the ultimate Trivia Crack community. Challenge loved ones, make new connections with players around the globe, and experience the joy of discovery. Create unforgettable trivia moments with your friends and family on Trivia Crack!\n\nStart your journey today: play, learn, compete, create, and become a part of this new way to experience trivia with on Trivia Crack. The ultimate quiz on Trivia Crack! Are you ready to challenge your mind with a fun new quiz and incredible questions?\n\nARE YOU READY TO PLAY, CREATE, AND CONNECT?\n\nBy downloading Trivia Crack, you agree to:  \n• etermax Privacy Policy: https://www.etermax.com/privacy  \n• etermax Terms of Service: https://www.etermax.com/terms  \n\nFor additional help, visit https://triviacrack.help.etermax.com  \n\nLearn more about Trivia Crack: https://www.triviacrack.com  \n\nHave feedback? Email us. triviacrack.help@etermax.com  \n\nFollow us for more:  \n• Instagram: https://instagram.com/triviacrack  \n• X: https://x.com/triviacrack  \n• YouTube: https://www.youtube.com/@Trivia-Crack  \n• Tik-Tok: https://www.tiktok.com/@triviacrack  \n• Facebook: https://www.facebook.com/triviacrack",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/a4/ac/45a4ac65-2dc8-cda3-5d5d-e4ba5860cd7f/SS_01.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/d1/42/8ad142b5-568f-bb1a-df98-c5f4cbc233c2/SS_02.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/b1/d2/37b1d2c7-f908-44a9-3953-0072b7489ca2/SS_03.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/23/17/4323174c-e2f9-5a6a-0010-b9929889199f/SS_07.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/trivia-crack-brain-quiz-games/id651510680?uo=4",
+    "store": "appstore"
+  },
+  "Words of Wonders": {
+    "name": "Words of Wonders: Crossword",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/de/46/18de46ea-89c1-0df2-0776-8bd447cb22f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Test your vocabulary!\nFind the hidden words!\nDiscover Wonders!\nBecome a master!\n\nWords Of Wonders will test your vocabulary as you discover the wonders filled with challenging levels. Begin your journey with the first wonder and climb your way up to reach the final wonder. Each wonder and level will get progressively harder and will be unique, thanks to the game’s rich word database. Connect the letters without lifting your finger, find the hidden words on the board!\n\nEnjoy simple and beautiful game design! \nVariety of level designs will give you more fun during the play!\n\nWords Of Wonders is a challenging word game from the makers of Wordz.\n\nSubscription Terms\nHere is the following subscription period available in our game:\nPro Membership offers a weekly subscription, you will be charged $3.99 per week. After buying this subscription, you will get Double Daily Gift, 2 free hints per level and Remove Ads. This is an Auto-renewable subscription. The payment is charged to your account after confirmation. The subscription is renewed unless you turn it off 24 hours before the period ends. \n\nThe prices are established for United States customers. Pricing in other countries may change and actual charges may be converted to your local currency.\n\nEnd of trial and subscription renewal:\n-The payment is charged to your account after a confirmation of purchase.\n-The subscription is renewed unless you turn it off 24 hours before the end of the current period at the cost of the weekly subscription.\n-The user may manage subscription and auto-renewal have to be turned off by going to the user’s account settings after purchase in the Store.\n-No cancellation of the current subscription is allowed during the active subscription period.\n\nCancelling a trial or a subscription:\nIf you want to cancel a subscription you have to cancel it through your account in the Store. This must be done at least 24 hours before to avoid being charged. \n\nFor more information, please visit\nhttps://support.apple.com/HT207865\n\nIf you have any questions, feel free to contact us at: wow@fugo.com.tr\n\nPrivacy Policy and Terms of Use:\nhttp://fugo.com.tr/privacypolicy-wordsofwonders.html",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/d0/20/30d02054-4858-4f0a-4579-93ce6403a7eb/EN_WOW_PLAYSTORE_SS_1_1242x2208.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/3c/ce/253cce26-43f7-00b9-37b4-52950cebf959/EN_WOW_PLAYSTORE_SS_4_1242x2208.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/5f/c9/fd5fc9fc-de75-5945-8e70-5fc4c5bcdf0d/1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/ed/30/08ed30dc-a2d5-2a4d-7e25-024e847a8da9/EN_WOW_PLAYSTORE_SS_2_1242x2208.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/words-of-wonders-crossword/id1369521645?uo=4",
+    "store": "appstore"
+  }
 }
