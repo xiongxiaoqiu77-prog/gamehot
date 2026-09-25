@@ -9100,5 +9100,45 @@
     ],
     "store_url": "https://apps.apple.com/us/app/resident-evil-4/id6462360082?uo=4",
     "store": "appstore"
-  }
+  },
+  "Avatar: Frontiers of Pandora": {
+    "name": "From The Ashes Expansion - Avatar: Frontiers of Pandora™",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823590/fc06fcb8313dc4d321bd462b9cd65e20f85fe80a/header.jpg?t=1766495786",
+    "description": "Continue your adventure on Pandora with the From the Ashes expansion, inspired by the new Avatar: Fire and Ash film.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823590/8daa13d0b8202ee3fbf376de2c33ec32cf59c4d4/ss_8daa13d0b8202ee3fbf376de2c33ec32cf59c4d4.600x338.jpg?t=1766495786",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823590/677e28bd124044c324d2825774bc47b27a5b68cd/ss_677e28bd124044c324d2825774bc47b27a5b68cd.600x338.jpg?t=1766495786",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823590/64655c6974bdc716f16d4fe84d28dcaccb728035/ss_64655c6974bdc716f16d4fe84d28dcaccb728035.600x338.jpg?t=1766495786",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823590/9e68588e4da2ceb38854f0ed819c1ae474f71c8d/ss_9e68588e4da2ceb38854f0ed819c1ae474f71c8d.600x338.jpg?t=1766495786"
+    ],
+    "store_url": "https://store.steampowered.com/app/3823590",
+    "store": "steam"
+  },
+  "Star Wars Outlaws": {
+    "name": "Star Wars",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/fa/8f/edfa8f5c-01e7-5273-ef6e-3fbe25202ea0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "The Star Wars app is your official mobile connection to a galaxy far, far away.\nWith a dynamic interface, the Star Wars app immerses you in breaking news, rich media, social updates, special events, and interactive features. Here’s where the fun begins:\n\n-Get instant notifications on big announcements, including trailer releases and movie news\n-Theme your app with Light Side, Dark Side, or Droid interfaces, each containing different designs, sounds, and animations\n-Take and share a Star Wars “selfie” in various iconic costumes and settings, including Jedi, Princess Leia (with hair buns), Han Solo’s carbon freeze, and more\n-Get Star Wars-themed weather and five-day forecasts, featuring in-universe planets and locales\n-Play classic sound clips and sound effects from your favorite Star Wars characters, creatures, weapons, vehicles, and scenes\n-Watch official Star Wars videos, including movie trailers, The Star Wars Show, behind-the-scenes featurettes, and more\n-Read official Star Wars news and blogs from StarWars.com, including creator interviews, and more\n-Share emojis, animated GIFs, and stickers with your friends and family\n\nNOTE: For the best experience, we recommend using this app on an iPhone 5 or higher running iOS 9.0 and above. Headphones are suggested, especially for Force Trainer. Use Wi-Fi if experiencing connection or loading difficulties.\nThis app contains advertising messages as well as advertising for The Walt Disney Family of Companies.\nPrivacy Policy – http://disneyprivacycenter.com\nTerms of Use – http://disneytermsofuse.com\nYour California Privacy Rights – https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/\nDo Not Sell My Information – https://privacy.thewaltdisneycompany.com/en/dnsmi\nLEGAL DISCLAIMER: Before you download this experience, please consider that this app contains social media links and content, registration to create or sign in using a Star Wars ID account, and push notifications to let you know when we have updates like breaking news, additional content or new features.\nPlease note that this is an English language app with limited features available in local languages. Some versions include regional social feeds.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/95/07/df/9507df80-73ef-f81a-f546-c23a2e704e31/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/64/79/64/647964ee-05d4-4bba-8de6-197e9de24428/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/da/4e/e4da4e65-3035-c29c-5450-8f93b2a511bc/pr_source.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/01/10/ce/0110cef3-d0cd-ea1a-fe83-7840800547c2/pr_source.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/star-wars/id960108075?uo=4",
+    "store": "appstore"
+  },
+  "Tom Clancy's The Division 2": {
+    "name": "Tom Clancy's The Division 2 – Battle for Brooklyn DLC",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572140/9c361a3cefa276313efda47b205791dc18993743/header.jpg?t=1787819761",
+    "description": "The fate of Brooklyn is at risk as the Cleaners are set to return and finish what they started in New York. Battle for Brooklyn is a DLC for The Division 2 and requires the base game to play.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572140/3850d4b8f0249cec317b13bfc5612fa90d7ad8b4/ss_3850d4b8f0249cec317b13bfc5612fa90d7ad8b4.600x338.jpg?t=1787819761",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572140/82b8da67ebad4aada5a86b04851b7c5c7dc7a114/ss_82b8da67ebad4aada5a86b04851b7c5c7dc7a114.600x338.jpg?t=1787819761",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572140/e09d80f7831b7dcacd4a3b2334d9ca6589ef25ca/ss_e09d80f7831b7dcacd4a3b2334d9ca6589ef25ca.600x338.jpg?t=1787819761",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572140/f69fb722a73d98c35aefdb2b10788445d832ea82/ss_f69fb722a73d98c35aefdb2b10788445d832ea82.600x338.jpg?t=1787819761"
+    ],
+    "store_url": "https://store.steampowered.com/app/3572140",
+    "store": "steam"
+  },
+  "Tom Clancy's The Division 3": null
 }
