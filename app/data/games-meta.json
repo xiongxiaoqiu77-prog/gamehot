@@ -9140,5 +9140,86 @@
     "store_url": "https://store.steampowered.com/app/3572140",
     "store": "steam"
   },
-  "Tom Clancy's The Division 3": null
+  "Tom Clancy's The Division 3": null,
+  "Airport Simulator: First Class": null,
+  "Airline Manager 4": null,
+  "EA Sports FC Mobile 27": null,
+  "Bloons Blitz": {
+    "name": "Bloons Blitz",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/32/4d/2c324d28-5c68-e10d-1b93-7329b55ba2db/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Embark on the ultimate road trip adventure across the Bloons universe! Get ready to dive into exciting battles against hundreds of menacing Bloons and unleash your arsenal of attacks in action-packed, roguelike gameplay. \n\nKey Features:\n\t•\tNon-Stop Action: Engage in fast-paced, survivor-style gameplay against relentless waves of Bloons using intuitive, one-handed controls. \n\t•\tIconic Bloons Characters: Play as powerful Heroes each with their own signature weapon and gameplay style. Recruit your favorite Monkeys to join your team and unlock their unique weapons and upgrades.\n\t•\tStrategic, Decision-Based Gameplay: Carefully select your upgrades each run and unlock different powers based on your choices. Make your Monkeys versatile generalists or dive deep into a single path to find powerful epic weapons.\n\t•\tEndless Replayability: Take on exciting, roguelike levels across an infinite map. Discover unique encounters, awesome power-ups, and epic boss fights. Replay levels with special rules and challenges for a new Bloon-popping experience every time.\n\t•\tCollect and Upgrade: Find rare collectible toys to level up your Heroes and unlock game-changing new upgrades. Collect gorgeous stickers to empower your team with special boosts.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/37/36/0f3736a6-d94d-acfb-c266-2ad9767f3172/SplashScreen_1242x1688.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/41/20/8b412029-8f58-da70-fcbd-b746978774a5/Grasslands4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/8a/51/c58a512c-3759-8918-cb71-2a387009893a/WhiteWasteland1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/4b/33/234b3379-a80e-f6e7-32ff-aa67cbe3c518/BossFight.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/bloons-blitz/id6741921686?uo=4",
+    "store": "appstore"
+  },
+  "Kingdom Rush 6: Genesis": {
+    "name": "Kingdom Rush 6: Genesis TD",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/2c/21/8a2c21ed-aa7d-0dcf-5e6a-3d1ece576e98/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "The Kingdom has fallen. Time has turned back. And the only way to save the future is to defend the past. Welcome to Kingdom Rush 6: Genesis\nThe legendary tower defense saga by Ironhide Game Studio returns. Travel back to the dawn of Linirea, recruit the heroes who built the kingdom, and stop a young Vez'nan before darkness takes hold.\n\nA PREQUEL, REWRITTEN\nReturn to the original Kingdom Rush lands at a time when legends were just beginning. Walk through known battlefields and uncover the moment everything went wrong.\n\n15 TOWERS, ENDLESS STRATEGIES\nArchers, mages, barracks, artillery, every tower has a specialty, and the real game is the synergy between them. Build your defense, lock the lane, watch the wave break.\n\n12 LEGENDARY HEROES\nTake two heroes into each battle and combine their abilities. Familiar Linirean champions return to your side, fighting beside you like the old days, and a few faces you're about to meet for the first time.\n\n9 POWERFUL SPELLS\nEquip a loadout of spells and unleash them at the moment that matters, meteor showers, powerful reinforcements, battlefield-wide control. Save them for the bosses. You'll need them!\n\n18 HANDCRAFTED CAMPAIGN STAGES\nCross three landscapes of early Linirea, from the Citadel to the Stormcloud Depths and the far away lands of Arcania. Face 40+ enemies across 5 distinct races, and 6 colossal bosses standing between you and the future.\n\nTHE PLOT THICKENS. \nMore lore, more callbacks, and the Kingdom Rush humor that made you fall in love with Linirea in the first place.\n\nGAME MODES, ACHIEVEMENTS, AND EASTER EGGS\nFor the ones who like to 100% everything: 50+ achievements, harder modes if you're feeling brave, and easter eggs we had way too much fun hiding.\n\nOFFLINE, ANYWHERE\nDefend the realm on the bus, on a plane, in a tower of your own. No connection required.\nDefend the past to change the future. Join the millions of players who have rallied to Linirea since 2011.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/de/c1/f1dec141-2b56-8399-37de-2c3b65da7962/KR6-2026_screenshot_1_iphone_6.5_2778x1284_ENG.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/08/88/d90888ba-e740-b619-198b-df82eb74faff/KR6-2026_screenshot_7_classic-mode_iphone_6.5_2778x1284_ENG.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/ed/89/90ed89f2-6f8f-666d-8cbf-3f20e568a09a/KR6-2026_screenshot_2_iphone_6.5_2778x1284_ENG.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/7b/1a/067b1a2c-54a4-ecb8-ce41-2a1d42e856b6/KR6-2026_screenshot_3_iphone_6.5_2778x1284_ENG.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/kingdom-rush-6-genesis-td/id6759664029?uo=4",
+    "store": "appstore"
+  },
+  "People Tower": {
+    "name": "People Tower!",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b5/b5/53b5b57c-921b-f57c-b741-6e0f974cf886/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Get ready to sort, run, and stack in People Tower! Match colorful characters and build tall towers. Tap a character to send them running down the path. When they reach the right spot, they jump onto the matching color stack.\n\nEach level brings a new puzzle. The path can only hold a limited number of runners, so choose the right colors and order carefully. Rescue frozen characters, sort mystery figures, and avoid getting the path blocked. Tap, match, and stack your team to win!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/3e/8f/b43e8fe5-76eb-0a1a-834f-d60901f8e833/People_Tower_U0021_1242x2688_2026-09-12_at_13.12.24.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/b6/b1/8fb6b181-e461-0f56-54f6-e40bfe467705/People_Tower_U0021_1242x2688_2026-09-12_at_13.16.10.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/28/a7/8328a740-ad24-767f-7c7c-0a55607f8071/People_Tower_U0021_1242x2688_2026-09-12_at_13.13.37.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/bc/a5/ddbca567-8868-73bb-49f2-e4a86b3a231b/People_Tower_U0021_1242x2688_2026-09-12_at_13.15.41.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/people-tower/id6803509379?uo=4",
+    "store": "appstore"
+  },
+  "Sanrio Kawaii Me Live": {
+    "name": "Sanrio Kawaii Me Live!",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ca/cf/84cacf85-2eac-7883-7159-92b1c2f59765/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "Join your favorite Sanrio characters\nand create an incredibly “super KAWAII” live stage!\n“Sanrio Kawaii Me Live!” (Kawamira) is a rhythm and dance game where you can have a blast dancing along with the characters to the music on a sparkling cosmic stage\n\n■ Two modes for everyone to enjoy\nWe’ve got two modes: “Performance Mode,” where characters show off their KAWAII dance moves with simple controls, and “Technical Mode,” where you can enjoy a full-fledged rhythm game!\nWhether you’re new to rhythm games or an advanced player, have fun at your own pace.\n\n■ Create a one-of-a-kind live show\nCustomize live outfits, stage decorations, and special effects to your liking!\nCollect your favorite items to make the stage sparkle, or go all out on the characters’ live outfits and special effects… Create your very own, one-of-a-kind live show.\n\n■ Loads of songs included\nThe game features plenty of your favorite Sanrio songs, including “KAWAII FESTIVAL” from the popular Sanrio Puroland parade and “Pompompurin and Muffin’s Pompom Beat” by Pompompurin.\nGame-exclusive remix versions are also scheduled to appear. New songs will be released one after another, so stay tuned!\n\nThe game also features original songs written by various artists!\nPlus! “Almond Dialogue” by “Zutto Mayonaka de Ii no ni.” has been chosen as the theme song for Kawamira.\nThese tie-in songs vividly bring the world of Kawamira to life.\n\nThe joy of dancing to the beat, the excitement of sharing the stage with the characters, and the ultimate sense of immersion created by your own customizations—*Sanrio Kawaii Me Live!* packs it all in!\nSo, let’s get your very own super KAWAII live show started",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/d1/1a/70d11aa1-4ba4-d281-83bf-076c9372ece9/US_U7248_os_store_A0101_260909_O06_1320_U00d72868.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/75/86/c47586a6-c41f-f2a4-6ded-02712193a138/US_U7248_os_store_A0102_260909_O06_1320_U00d72868.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/cb/b2/9fcbb2a1-d86a-73e3-c377-f5d5c4a01378/US_U7248_os_store_A0103_260909_O06_1320_U00d72868.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/77/3a/a6773ad6-1f7c-7b90-ecc6-9dec94533e58/US_U7248_os_store_A0104_260909_O06_1320_U00d72868.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/sanrio-kawaii-me-live/id6749342133?uo=4",
+    "store": "appstore"
+  },
+  "Athelan Battlegrounds": {
+    "name": "Athelan Battlegrounds",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572070/a18386f22fd485ee5e6e4ed1e22eef2987d070da/header.jpg?t=1789744355",
+    "description": "Athelan Battlegrounds is a PvP turn-based tactics for those who care about player skill above all. Join intergalactic champions in a retro-futuristic arena as they fight for the fate of their planets against contenders from across the cosmos. Every choice matters, and the winner takes all!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572070/b9f263223beb31a8b0991e5e7700c74cef2f580d/ss_b9f263223beb31a8b0991e5e7700c74cef2f580d.600x338.jpg?t=1789744355",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572070/935cc7e499fca6673a03d7625669d98722ffef8d/ss_935cc7e499fca6673a03d7625669d98722ffef8d.600x338.jpg?t=1789744355",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572070/1dd30c689763613ceeac7c6ca6e0694935c9f1d3/ss_1dd30c689763613ceeac7c6ca6e0694935c9f1d3.600x338.jpg?t=1789744355",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572070/f278bf0b53111e8c74374489b8dcb6f47e7c6a31/ss_f278bf0b53111e8c74374489b8dcb6f47e7c6a31.600x338.jpg?t=1789744355"
+    ],
+    "store_url": "https://store.steampowered.com/app/3572070",
+    "store": "steam"
+  },
+  "Zooyale": {
+    "name": "Zooyale",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/d0/6d/3cd06d40-9c55-598c-1c90-9bb26c2aa45c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Enter the arena. Transform. Outlast them all.\n\nZooyale is a fast-paced multiplayer battle royale where mutant fighters clash in intense, ever-shrinking arenas. Choose your fighter, master unique skills, collect mutant kits, and fight to be the last player — or squad — standing.\n\nCHOOSE YOUR FIGHTER\n\nSeven fighters. Seven different playstyles.\n\nPick a tank to absorb damage and hold the frontline. Play a healer to keep your squad alive when the fight turns against you. Choose an assassin to close the gap fast and burst down enemies before they can react. Control space with disruptive skills, dominate movement with mobility-focused fighters, or use stealth and terrain to set up the perfect ambush.\n\nEvery fighter has two active skills with separate cooldowns. Time your abilities, chain your attacks, and create a playstyle that fits you.\n\nTRANSFORM MID-MATCH\n\nTransformation Stations are scattered across the map. Reach one, grab a mutant kit, and transform into a powerful mutant during battle.\n\nYour stats change. Your abilities shift. Your enemies must adapt.\n\nUse transformation at the right moment to reverse a fight, escape danger, break through enemy defenses, or dominate the final circle.\n\nSOLO OR TEAM\n\nPlay for solo glory or team up with friends. Create a lobby, invite your squad, choose complementary fighters, ready up, and drop into battle together.\n\nCoordinate your roles, revive fallen teammates, and fight your way to the top.\n\nSKILL-BASED MATCHMAKING\n\nEvery match is a real contest. Zooyale matches you with players close to your level, so your victories are earned through timing, positioning, teamwork, and smart ability use.\n\nDYNAMIC BATTLEFIELDS\n\nHide in tall grass. Take the high ground. Cross open zones carefully. Use terrain, cover, and mobility to outplay your opponents.\n\nAs the gas zone closes in, the arena becomes smaller, faster, and more dangerous. There is no hiding forever.\n\nREVIVE YOUR TEAMMATES\n\nGetting knocked down is not the end. Crawl toward cover, hold on, and give your squad a chance to bring you back before the timer runs out.\n\nOne clutch revive can change the entire match.\n\nCUSTOMIZE YOUR STYLE\n\nUnlock and equip costumes to stand out in the lobby and on the battlefield. Preview skins in the main menu and build a look that matches your fighter.\n\nPLAY WITH FRIENDS\n\nAdd friends, see who is online, send lobby invites, and build your regular squad. Zooyale is made for players who return for the battles — and for the people they fight beside.\n\nFREE TO PLAY\n\nZooyale is free to play. Download now, choose your fighter, transform in battle, and prove you can outlast them all.\n\nSee you in the arena.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4e/67/cd4e6766-0740-ec6b-1e99-25ffa01131e3/01_unleash-the-beast__iphone-69_2868x1320.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/5a/4e/265a4ee3-7cb5-c034-8291-bb08901d89be/02_own-the-skies__iphone-69_2868x1320.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/c5/4f/f5c54fd1-e8cc-21bc-aba8-714fa2ae88d9/03_last-one-standing__iphone-69_2868x1320.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/58/ad/c658ad3d-c0fc-0586-9e09-74f21909134e/04_the-circle-closes__iphone-69_2868x1320.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/zooyale/id6739884587?uo=4",
+    "store": "appstore"
+  }
 }
