@@ -1,163 +1,224 @@
 {
-  "updated": "2026-09-25",
-  "generated_at": "2026-09-25T07:14:44.979437",
+  "updated": "2026-09-26",
+  "generated_at": "2026-09-26T07:00:15.819065",
   "articles": [
     {
-      "id": "010acfd855",
-      "title": "YouTube 悄然将 Playables 推向 50 多个市场",
-      "summary": "YouTube 已将即时游玩小游戏平台 Playables 扩展至 50 多个市场，Google 员工透露明年可能引入内购。这是超休闲/即时游戏的重要新增分发渠道信号，对休闲游戏买量与变现布局具有直接参考价值。",
-      "url": "https://mobilegamer.biz/youtube-has-quietly-rolled-out-playables-across-europe/",
-      "source": "Mobile Gamer Biz",
+      "id": "14224660a2",
+      "title": "Meta 推出面向移动端与浏览器的 AI 游戏工具，并发布首日支持 Unity 的 VR 眼镜",
+      "summary": "Meta 发布两款 AI 驱动的游戏工具，让用户通过提示词在手机和浏览器上创建 2D 与 3D 游戏，同时公布新一代 VR 眼镜并提供 Unity 首日支持。对关注移动端游戏创作门槛下降与平台分发的从业者值得留意。",
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-09-24T10:49:02",
+      "score": 6,
+      "published_at": "2026-09-25T13:07:11",
       "games": [
         {
-          "name": "Build A Queen",
-          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Snake Clash》《Stealth Master》合计播放超 9000 万次。"
-        },
-        {
-          "name": "Snake Clash",
-          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Build A Queen》《Stealth Master》合计播放超 9000 万次。"
-        },
-        {
-          "name": "Stealth Master",
-          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Build A Queen》《Snake Clash》合计播放超 9000 万次。"
-        },
-        {
-          "name": "Tall Man Run",
-          "desc": "Supersonic 的移动端网页游戏，在 YouTube Playables 上播放量超过 1.06 亿次。"
-        },
-        {
-          "name": "Angry Birds Showdown",
-          "desc": "《愤怒的小鸟》系列游戏，在 YouTube Playables 早期公布中被重点展示。"
-        },
-        {
-          "name": "Cut The Rope",
-          "desc": "物理解谜游戏，在 YouTube Playables 早期公布中被重点展示。"
-        },
-        {
-          "name": "Tomb of the Mask",
-          "desc": "竖屏街机/跑酷解谜游戏，在 YouTube Playables 早期公布中被重点展示。"
-        },
-        {
-          "name": "Trivia Crack",
-          "desc": "问答竞猜游戏，在 YouTube Playables 早期公布中被重点展示。"
-        },
-        {
-          "name": "Words of Wonders",
-          "desc": "单词拼写/填字游戏，在 YouTube Playables 早期公布中被重点展示。"
+          "name": "Roblox",
+          "desc": "用户生成内容的在线游戏平台，文中提及其 Roblox Studio 推出代理式 AI 功能。"
         }
       ]
     },
     {
-      "id": "1bcec54c04",
-      "title": "Supercell 的怪物狩猎游戏 Mo.co 将「重返 beta」",
-      "summary": "Supercell 的 Mo.co 项目将重新进入 beta 阶段，团队在「低维护」状态下继续迭代并测试新功能。该案例展示了头部厂商对表现不佳新游的处理策略，对关注手游新品生命周期管理的从业者有借鉴价值。",
-      "url": "https://mobilegamer.biz/supercells-monster-hunting-game-mo-co-is-going-back-into-beta/",
+      "id": "bd98727c57",
+      "title": "新游速览：EA FC Mobile 27、Aniimo、Bloons、Kingdom Rush、Epic Mickey、Moco 等",
+      "summary": "本期汇总多款移动端新游，包括 EA FC Mobile 27、Meta 的游戏创作应用、Popcore 新作、Sanrio 首款手游等。对关注休闲与手游赛道新品动向、竞品上架节奏的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-ea-fc-mobile-27-aniimo-bloons-kingdom-rush-epic-mickey-moco-and-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-24T14:10:30",
+      "published_at": "2026-09-25T10:31:16",
       "games": [
         {
+          "name": "EA Sports FC Mobile 27",
+          "desc": "EA 的年度足球手游更新，新增 PvE 模式、战术控制和视觉刷新。"
+        },
+        {
+          "name": "Aniimo",
+          "desc": "免费游玩生物收集开放世界 RPG，由 FunPlus 支持，已全球上线 iOS/Android。"
+        },
+        {
+          "name": "Bloons Blitz",
+          "desc": "Bloons 主题的子弹天堂游戏，风格类似 Vampire Survivors，将全球上线 iOS/Android。"
+        },
+        {
+          "name": "Kingdom Rush 6: Genesis",
+          "desc": "塔防系列第六部正统续作，已全球上线 Steam、App Store 和 Google Play。"
+        },
+        {
+          "name": "Disney Epic Mickey: Rebrushed",
+          "desc": "迪士尼米奇平台跳跃游戏复刻版，已登陆 iOS 和 Android。"
+        },
+        {
           "name": "Mo.co",
-          "desc": "Supercell 的怪物狩猎手游，曾以邀请制上线，因表现不及预期而重回 beta 开发阶段。"
+          "desc": "Supercell 的怪物狩猎游戏，因表现不佳而重回 beta 测试。"
+        },
+        {
+          "name": "People Tower",
+          "desc": "Popcore 的排序堆叠混合休闲解谜游戏，正在 iOS 早期测试。"
+        },
+        {
+          "name": "Sanrio Kawaii Me Live",
+          "desc": "Sanrio 首款移动游戏，免费游玩跳舞与节奏游戏，预计 2027 年 1 月上线。"
+        },
+        {
+          "name": "Athelan Battlegrounds",
+          "desc": "回合制战术 PvP 游戏，将于 11 月 25 日登陆 PC 和 Google Play。"
+        },
+        {
+          "name": "Zooyale",
+          "desc": "免费俯视角大逃杀游戏，支持最多 50 人，含动物/变异体变身，已全球上线。"
+        },
+        {
+          "name": "Vampire Survivors",
+          "desc": "被用作 Bloons Blitz 类型参照的子弹天堂/生存割草游戏。"
         }
       ]
     },
     {
-      "id": "a3228fceac",
-      "title": "爱尔兰游戏基金扩展，新增多条资助通道",
-      "summary": "爱尔兰游戏基金新增开发基金、原型基金与发行基金三类资助路径，帮助当地开发者获得更细分的资金支持。对关注欧洲中小团队融资环境的从业者有一定参考价值，但与休闲游戏玩法设计关联较弱。",
-      "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
-      "source": "Game Developer",
+      "id": "633609f795",
+      "title": "Epic Games 因《Fortnite》「黑暗模式」被索赔 1 亿欧元",
+      "summary": "荷兰消费者保护组织 Stichting Massaschade & Consument 针对 Epic Games 提起投诉，指控《Fortnite》存在诱导消费的「黑暗模式」，索赔金额达 1 亿欧元。对研究变现设计合规边界与用户付费体验的从业者有警示意义。",
+      "url": "https://gameworldobserver.com/2026/09/25/epic-games-is-seeking-to-claim-100-million-euros-due-to-dark-patterns-in-fortnite",
+      "source": "Game World Observer",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-24T11:10:22",
-      "games": []
-    },
-    {
-      "id": "6eb8d771ea",
-      "title": "荷兰消费者组织起诉 Epic，指控 Fortnite 误导未成年玩家并索赔逾 1 亿欧元",
-      "summary": "荷兰消费者组织 SMC 对 Epic Games 提起集体诉讼，称 Fortnite 在内购设计上误导年轻玩家，索赔金额超过 1 亿欧元。该案反映了欧美对面向未成年人变现机制的监管收紧，对休闲手游的付费设计合规有警示意义。",
-      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-24T13:48:19",
+      "score": 6,
+      "published_at": "2026-09-25T14:08:50",
       "games": [
         {
           "name": "Fortnite",
-          "desc": "Epic Games 的免费大逃杀/建造竞技游戏，拥有 V-Bucks 虚拟货币与限时道具商店，本案指控其诱导未成年玩家消费。"
+          "desc": "免费大逃杀游戏，因 V-Bucks 内购、倒计时等“黑暗模式”及未成年人数据问题被荷兰消费者组织投诉。"
         }
       ]
     },
     {
-      "id": "986155c873",
-      "title": "纠偏旧账：MobyGames 允许开发者认领未被署名的作品",
-      "summary": "MobyGames 推出机制，让开发者可以认领自己参与过但未获署名的游戏条目。属于游戏行业档案与文化层面的动态，对从业者了解行业历史记录方式有轻微价值，但与休闲游戏设计运营无关。",
-      "url": "https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for",
-      "source": "GamesIndustry.biz",
+      "id": "80139a9c17",
+      "title": "GDC Side Quest：与 Sam Carlisle 探讨联合开发（co-development）机会",
+      "summary": "GDC Festival of Gaming 内容营销经理 Beth Elderkin 与 XDS Spark 联合创始人 Sam Carlisle 对话，讨论游戏联合开发生态的演变与新的合作机会。属于行业制作流程类资讯，对考虑外包或合作研发的团队有参考价值，但与休闲游戏玩法设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+      "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-24T12:00:00",
-      "games": []
-    },
-    {
-      "id": "76c5e7e4b1",
-      "title": "TinyBuild 2026 上半年营收增长 18% 至 2000 万美元，85% 来自自有及第二方 IP",
-      "summary": "TinyBuild 公布 2026 年上半年财报，营收 2000 万美元，同比增长 18%，主要来自老产品线表现与新作发行，其中 85% 收入源于自有和第二方 IP。对关注中小发行商 IP 策略的从业者有参考意义。",
-      "url": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-24T10:12:10",
+      "published_at": "2026-09-25T18:37:03",
       "games": [
         {
-          "name": "Hello Neighbor",
-          "desc": "TinyBuild 的常青目录游戏之一，在 2026 上半年持续贡献收入。"
-        },
-        {
-          "name": "Graveyard Keeper",
-          "desc": "TinyBuild 的常青目录游戏之一，在 2026 上半年持续贡献收入。"
-        },
-        {
-          "name": "Hozy",
-          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
-        },
-        {
-          "name": "All Will Fall",
-          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
-        },
-        {
-          "name": "Sand: Raiders of Sophie",
-          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
-        },
-        {
-          "name": "I Am Future",
-          "desc": "TinyBuild 报告期内登陆主机平台的游戏。"
-        },
-        {
-          "name": "The King is Watching",
-          "desc": "TinyBuild 报告期内推出 DLC 的游戏。"
-        },
-        {
-          "name": "Kill It With Fire 2",
-          "desc": "TinyBuild 报告期内登陆 Switch 的游戏。"
+          "name": "Star Wars Zero Company",
+          "desc": "一款《星球大战》宇宙背景的游戏项目，在文中仅作为相关播客主题被提及，未展开说明具体类型或特点。"
         }
       ]
     },
     {
-      "id": "cabc66ba5a",
-      "title": "WN Conference Cyprus'26 在利马索尔举行，亮点回顾",
-      "summary": "WN Media Group 主办的第五届塞浦路斯开发者与发行商大会回顾，介绍会议内容与参会者反馈。属于行业活动资讯，对关注欧洲游戏商务网络的从业者有一定参考价值。",
-      "url": "https://gameworldobserver.com/2026/09/24/the-wn-conference-cyprus26-took-place-in-limassol-here-are-the-highlights",
-      "source": "Game World Observer",
+      "id": "d3a6acdcff",
+      "title": "GamesIndustry.biz HR Summit 2026 完整议程公布",
+      "summary": "2026年 GamesIndustry.biz 人力资源峰会公布完整嘉宾阵容，HR Confidence Club 创始人 Sarah Venables、Glowmade Studio CEO Jonny Hopper 以及 Playstack 的 Harvey Elliott 与 Carmen Martino 将带来主题演讲，Amiqus 继续担任赞助商。属于行业人才与组织层面的资讯，可供了解欧美游戏公司 HR 与团队管理趋势。",
+      "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-24T14:45:29",
+      "published_at": "2026-09-25T15:30:44",
       "games": []
+    },
+    {
+      "id": "e6b447e4e2",
+      "title": "Xbox 的“重置”没有结束日期｜观点",
+      "summary": "Xbox CEO Asha Sharma 在履新百日之际发文，提出未来百天要对业务进行“重置”，并坦承部门“问责余量”偏低、收入下滑，同时提及硬件元器件危机等宏观压力。文章认为这类措辞往往是裁员前兆，可帮助从业者感知大型平台方的组织与预算走向。",
+      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T13:00:00",
+      "games": [
+        {
+          "name": "Hellblade",
+          "desc": "Ninja Theory 开发的动作冒险游戏，文中提及其开发商命运不确定。"
+        },
+        {
+          "name": "Halo",
+          "desc": "微软旗下科幻第一人称射击系列，文中称 Activision 成为该系列的新管理者。"
+        }
+      ]
+    },
+    {
+      "id": "31811ac048",
+      "title": "Build A Rocket Boy 已任命破产管理人",
+      "summary": "《MindsEye》开发商 Build A Rocket Boy 在最新一轮裁员后已任命破产管理人，公司经营陷入危机。这是当前游戏行业（尤其是高投入项目）风险加剧的又一案例，对关注厂商动态与行业景气度的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T09:55:07",
+      "games": [
+        {
+          "name": "MindsEye",
+          "desc": "Build A Rocket Boy 的首部作品，于 2025 年 6 月发行，因评价和反响不佳而成为工作室危机的焦点。"
+        }
+      ]
+    },
+    {
+      "id": "33e222a902",
+      "title": "任天堂美国公司起诉 Reddit 用户盗版 Switch 软硬件，获赔 450 万美元",
+      "summary": "任天堂美国公司在一起版权侵权案中胜诉，从 Reddit 用户 James C. Williams（网名“Archbox”）处获得 450 万美元赔偿。该案体现了平台方对破解与盗版行为的强硬维权立场，可作为理解主机厂商版权保护与合规风险的参考。",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T08:04:53",
+      "games": []
+    },
+    {
+      "id": "9c8dc5fdbd",
+      "title": "“众筹本质上是一场营销与社区运营”——2026 年开发者用 Kickstarter 融资须知",
+      "summary": "梳理 2026 年游戏开发者使用 Kickstarter 众筹的现状与要点，强调众筹的核心是营销和社区经营而非单纯筹钱。对关注独立游戏融资与社区冷启动的手游团队有一定借鉴意义，但不涉及休闲玩法设计。",
+      "url": "https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T12:00:00",
+      "games": [
+        {
+          "name": "Lawn Mowing Simulator 2",
+          "desc": "割草模拟类游戏，Skyhook Games 通过 Kickstarter 为其筹集开发资金。"
+        },
+        {
+          "name": "Elite: Dangerous",
+          "desc": "Frontier 开发的太空模拟游戏，2012 年在 Kickstarter 上以早期原型筹得超过 150 万英镑。"
+        }
+      ]
+    },
+    {
+      "id": "9629d15cf9",
+      "title": "King 与工会员工签署集体谈判协议",
+      "summary": "King 与瑞典工会 Unionen 及 Sveriges Ingenjörer 签署集体谈判协议，此前一周工会刚刚发起工业行动威胁。这是瑞典游戏行业首份此类协议之一，对关注三消大厂组织架构与团队稳定性的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T09:42:53",
+      "games": [
+        {
+          "name": "Candy Crush",
+          "desc": "King 旗下移动端益智消除游戏，文章以“Candy Crush maker”指代 King。"
+        }
+      ]
+    },
+    {
+      "id": "ebfdec818a",
+      "title": "Trophy Games 从 Paradox Interactive 手中收购《Airport Simulator: First Class》开发商 Playrion",
+      "summary": "丹麦工作室 Trophy Games 完成对模拟经营手游《Airport Simulator: First Class》开发商 Playrion 的收购，卖方为 Paradox Interactive。反映手游细分品类（模拟经营）的资产流动与厂商并购动态。",
+      "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T13:56:43",
+      "games": [
+        {
+          "name": "Airport Simulator: First Class",
+          "desc": "Playrion 开发的机场模拟经营游戏，被 Trophy Games 收购并计划扩展为系列。"
+        },
+        {
+          "name": "Airline Manager 4",
+          "desc": "Trophy Games 于 2021 年收购的航空管理模拟游戏，是其系列化增长模式的起点。"
+        }
+      ]
     }
   ]
 }
