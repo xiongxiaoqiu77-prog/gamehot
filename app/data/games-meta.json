@@ -9223,5 +9223,24 @@
     "store": "appstore"
   },
   "Lawn Mowing Simulator 2": null,
-  "Elite: Dangerous": null
+  "Elite: Dangerous": null,
+  "Murdoku": {
+    "name": "数独杀 - Murdoku",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/bc/97/e4bc97b8-9d16-e882-07d9-9291c8113667/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "破案？恶魔城？这还是你认识的数独吗\n用数独的思维破解杀人案\n揭开恶魔城式地图的迷雾，解锁能力，达成100%探索！\n击败数十种谜题Boss，你能依赖的，只有你的智慧",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/e9/1f/bee91f59-fced-684f-d099-5175d25c602f/screenshot_1784538560811.jpeg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/20/4d/6c204d31-5b97-124d-16e6-fc023bc15983/screenshot_1784538598441.jpeg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/b4/6e/82b46e20-42d1-d904-b01f-dbfa8147c485/screenshot_1784538629000.jpeg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/f7/5f/d4f75f99-1ea0-d8ac-53f3-49ba5a9d2653/screenshot_1784538650508.jpeg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/%E6%95%B0%E7%8B%AC%E6%9D%80-murdoku/id6791810457?uo=4",
+    "store": "appstore"
+  },
+  "Type Help": null,
+  "加利宅邸悬案": null,
+  "邺山彼处": null,
+  "溪埕国民小学系列案件": null,
+  "溪埕国民小学失踪事件": null,
+  "溪埕国民小学六年乙班": null
 }
