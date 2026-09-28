@@ -1,28 +1,146 @@
 {
-  "updated": "2026-09-28",
-  "generated_at": "2026-09-28T07:00:05.994533",
+  "updated": "2026-09-29",
+  "generated_at": "2026-09-29T07:00:05.135438",
   "articles": [
     {
-      "id": "02dacdc832",
-      "title": "CrazyGames vs Poki vs Coolmath Games：625M 差距 [2026] - tech-insider.org",
-      "summary": "文章对比 CrazyGames、Poki、Coolmath Games 三大网页休闲游戏平台，聚焦 2026 年约 6.25 亿访问量差距及市场竞争格局。对休闲游戏从业者了解网页端流量分布、平台竞争与分发渠道有一定参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QQy1iQWpKUEZSRkVxNkRUdm1mbi1aZDF2bzl0MGNwYnk1QTVxZ1RhMTlYTGQ1YlRHMWl5bWFpbzVpNkVuenYyRFRJdWZUMFJmV3BIS2EtM0dKaGRzNHZuQk5UNTNHV0VDSDl2V2xpajBzQWhZZmc?oc=5",
-      "source": "Google News",
+      "id": "471a0882e4",
+      "title": "Zynga 创始人 Mark Pincus：为什么你最钟爱的想法几乎总是错的",
+      "summary": "Deconstructor of Fun 总结 Zynga 创始人 Mark Pincus 的五条经验教训，讨论创意立项为何常常自我欺骗，以及成功如何改变创始人的判断。对休闲游戏团队做立项筛选、快速验证与组织管理有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/zynga-founder-mark-pincus-why-your-favourite-ideas-are-almost-always-wrong",
+      "source": "Deconstructor of Fun",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-27T11:53:53",
-      "games": []
+      "score": 7,
+      "published_at": "2026-09-28T11:18:10",
+      "games": [
+        {
+          "name": "FrontierVille",
+          "desc": "Zynga 推出的边疆拓荒主题社交模拟游戏。"
+        }
+      ]
     },
     {
-      "id": "7bee5bf37d",
-      "title": "2026 年 8 月全球手游收入达 65.7 亿美元",
-      "summary": "报道 2026 年 8 月全球移动游戏收入规模达 65.7 亿美元的市场数据，属于手游大盘走势类行业资讯。对从业者可作为判断休闲品类整体景气度与买量环境的宏观参考，但缺少玩法、数值与变现层面的拆解。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtMUxfaUxpTlU4TndzX3hqeHNtdjRBMm9TZ2lVdFE0S2U4RkZGdVBsRDNVRlNDdnJFNmI4MGNUZHFvRXhhZGdHN2JHU2dqa1hudlhlR0xUbmZzeG9xaVZYUVk2aVFRWi0tZ0NDV2llZm1BUXJteDlPRk5R?oc=5",
-      "source": "Google News",
+      "id": "3daa507680",
+      "title": "Trophy Games 以 260 万美元从 Paradox 手中收购 Airlines Manager 开发商 Playrion",
+      "summary": "Trophy Games 收购 Paradox 旗下的 Playrion（《Airlines Manager》《Airport Simulator: First Class》开发商），并同步上调全年收入指引。属于手游公司并购与营收预期变化的动态，可观察中小型移动模拟/经营品类的资本流向。",
+      "url": "https://mobilegamer.biz/trophy-games-acquires-playrion-from-paradox-interactive-for-2-6m/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-27T08:21:44",
-      "games": []
+      "published_at": "2026-09-28T13:14:04",
+      "games": [
+        {
+          "name": "Airlines Manager",
+          "desc": "航空管理模拟游戏，Playrion 的代表作之一，也是本次收购涉及的核心游戏。"
+        },
+        {
+          "name": "Airport Simulator: First Class",
+          "desc": "机场模拟经营游戏，其底层技术将被 Trophy Games 用于打造新的模拟游戏系列。"
+        },
+        {
+          "name": "Airline Manager 4",
+          "desc": "航空管理游戏，2021 年被 Playrion 收购后成为其多款管理游戏系列的基础。"
+        },
+        {
+          "name": "The Ranchers",
+          "desc": "Playrion 即将推出的游戏，被纳入 Trophy Games 收购后的业绩指引。"
+        },
+        {
+          "name": "Space Manager",
+          "desc": "计划于 10 月 12 日发布的管理游戏，未纳入 Trophy Games 的业绩指引。"
+        }
+      ]
+    },
+    {
+      "id": "2c9ce4c4ea",
+      "title": "Gameloft 宣布运营 13 年的 Minion Rush 即将停运",
+      "summary": "Gameloft 将于 10 月 30 日下架 Minion Rush，服务器在 2027 年 1 月 29 日关闭，结束这款 IP 休闲游戏长达 13 年的运营。对负责长线运营的从业者而言，是观察 IP 授权期限、产品生命周期末端与退场节奏的典型案例。",
+      "url": "https://mobilegamer.biz/gameloft-is-closing-minion-rush-after-a-13-year-run/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-28T09:45:04",
+      "games": [
+        {
+          "name": "Minion Rush",
+          "desc": "基于小黄人 IP 的移动休闲跑酷平台游戏，运营 13 年后将于 2027 年停服。"
+        }
+      ]
+    },
+    {
+      "id": "727c99a78e",
+      "title": "「这是个好故事」：DICE 如何从 Battlefield 2042 的灾难性发售中反弹并推出 Battlefield 6",
+      "summary": "文章讲述 Rebecka Coutaz 在 DICE 最艰难的时期加入，并带队从 Battlefield 2042 的口碑崩盘中恢复、最终推出 Battlefield 6 的过程。属于主机/PC 大作的团队与项目管理叙事，可作为研发管理参考，但与休闲消除品类无关。",
+      "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T18:09:25",
+      "games": [
+        {
+          "name": "Battlefield 2042",
+          "desc": "一款雄心勃勃的多人射击游戏，发售时因评价不佳和技术问题遭遇灾难性反响。"
+        },
+        {
+          "name": "Battlefield 6",
+          "desc": "战地系列的新作，被视为系列全新起点并承载着重返巅峰的期望。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "知名第一人称射击游戏系列，文中仅作为前资深开发者的背景经历被提及。"
+        }
+      ]
+    },
+    {
+      "id": "d0f2a0d9b4",
+      "title": "微软 CEO Nadella 称 Xbox 必须「发明」可持续的商业模式",
+      "summary": "Satya Nadella 表示 Xbox 部门需要「发明」正确的可持续商业模式，以便让更多玩家接触到其游戏。涉及平台级商业模式探索，对关注订阅制与变现结构的从业者有一定参考，但落点在主机生态。",
+      "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T09:05:32",
+      "games": [
+        {
+          "name": "Halo",
+          "desc": "微软旗下标志性的科幻第一人称射击游戏系列，文中被提及将归入 Activision 管理。"
+        },
+        {
+          "name": "Age of Empires",
+          "desc": "微软旗下历史题材即时战略游戏系列，文中同样被提及将归入 Activision 管理。"
+        }
+      ]
+    },
+    {
+      "id": "db517220e2",
+      "title": "Steam Deck 上哪些标签的游戏最受欢迎——GameDiscoverCo 统计数据",
+      "summary": "GameDiscoverCo 创始人 Simon Carless 通过 Steam 用户评论统计，分析 Steam Deck 用户偏好的游戏标签与品类。属于 PC 掌机平台的数据观察，对休闲手游从业者仅有间接参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/28/games-with-which-tags-are-popular-on-the-steam-deck-statistics-from-gamediscoverco",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T13:02:10",
+      "games": [
+        {
+          "name": "UFO 50",
+          "desc": "收录 50 款复古风格小游戏的合集。"
+        },
+        {
+          "name": "Minishoot' Adventures",
+          "desc": "结合俯视角射击与类塞尔达探索的动作冒险游戏。"
+        },
+        {
+          "name": "Dungeons of Hinterberg",
+          "desc": "融合动作战斗、解谜与社交元素的冒险 RPG。"
+        },
+        {
+          "name": "Mina The Hollower",
+          "desc": "Game Boy 风格的动作冒险/类银河恶魔城游戏。"
+        },
+        {
+          "name": "Rogue Prince Of Persia",
+          "desc": "《波斯王子》衍生的 Roguelite 动作平台游戏。"
+        }
+      ]
     }
   ]
 }
