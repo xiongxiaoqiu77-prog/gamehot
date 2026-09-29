@@ -1,144 +1,131 @@
 {
-  "updated": "2026-09-29",
-  "generated_at": "2026-09-29T07:00:05.135438",
+  "updated": "2026-09-30",
+  "generated_at": "2026-09-30T07:00:02.364482",
   "articles": [
     {
-      "id": "471a0882e4",
-      "title": "Zynga 创始人 Mark Pincus：为什么你最钟爱的想法几乎总是错的",
-      "summary": "Deconstructor of Fun 总结 Zynga 创始人 Mark Pincus 的五条经验教训，讨论创意立项为何常常自我欺骗，以及成功如何改变创始人的判断。对休闲游戏团队做立项筛选、快速验证与组织管理有参考价值。",
-      "url": "https://www.deconstructoroffun.com/blog/zynga-founder-mark-pincus-why-your-favourite-ideas-are-almost-always-wrong",
-      "source": "Deconstructor of Fun",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-09-28T11:18:10",
-      "games": [
-        {
-          "name": "FrontierVille",
-          "desc": "Zynga 推出的边疆拓荒主题社交模拟游戏。"
-        }
-      ]
-    },
-    {
-      "id": "3daa507680",
-      "title": "Trophy Games 以 260 万美元从 Paradox 手中收购 Airlines Manager 开发商 Playrion",
-      "summary": "Trophy Games 收购 Paradox 旗下的 Playrion（《Airlines Manager》《Airport Simulator: First Class》开发商），并同步上调全年收入指引。属于手游公司并购与营收预期变化的动态，可观察中小型移动模拟/经营品类的资本流向。",
-      "url": "https://mobilegamer.biz/trophy-games-acquires-playrion-from-paradox-interactive-for-2-6m/",
+      "id": "a3edc934b6",
+      "title": "Zynga 创始人 Mark Pincus 称曾差点以 4 亿美元收购 Supercell",
+      "summary": "Mark Pincus 回顾当年错过收购 Supercell 的机会，称「我们本有机会打造全球最大的游戏公司」。涉及休闲手游史上两家关键公司的资本往事，对理解品类格局演变有参考价值。",
+      "url": "https://mobilegamer.biz/zynga-founder-mark-pincus-claims-he-nearly-bought-supercell-for-400m/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-09-28T13:14:04",
+      "published_at": "2026-09-29T13:12:58",
       "games": [
         {
-          "name": "Airlines Manager",
-          "desc": "航空管理模拟游戏，Playrion 的代表作之一，也是本次收购涉及的核心游戏。"
+          "name": "Hay Day",
+          "desc": "Supercell 开发的卡通风格农场经营模拟游戏。"
         },
         {
-          "name": "Airport Simulator: First Class",
-          "desc": "机场模拟经营游戏，其底层技术将被 Trophy Games 用于打造新的模拟游戏系列。"
+          "name": "Clash of Clans",
+          "desc": "Supercell 开发的策略建造与部落对战手游。"
         },
         {
-          "name": "Airline Manager 4",
-          "desc": "航空管理游戏，2021 年被 Playrion 收购后成为其多款管理游戏系列的基础。"
-        },
-        {
-          "name": "The Ranchers",
-          "desc": "Playrion 即将推出的游戏，被纳入 Trophy Games 收购后的业绩指引。"
-        },
-        {
-          "name": "Space Manager",
-          "desc": "计划于 10 月 12 日发布的管理游戏，未纳入 Trophy Games 的业绩指引。"
+          "name": "Draw Something",
+          "desc": "OMGPOP 开发的社交你画我猜游戏，曾被 Zynga 收购。"
         }
       ]
     },
     {
-      "id": "2c9ce4c4ea",
-      "title": "Gameloft 宣布运营 13 年的 Minion Rush 即将停运",
-      "summary": "Gameloft 将于 10 月 30 日下架 Minion Rush，服务器在 2027 年 1 月 29 日关闭，结束这款 IP 休闲游戏长达 13 年的运营。对负责长线运营的从业者而言，是观察 IP 授权期限、产品生命周期末端与退场节奏的典型案例。",
-      "url": "https://mobilegamer.biz/gameloft-is-closing-minion-rush-after-a-13-year-run/",
+      "id": "0b11dff545",
+      "title": "Steam 的折扣与活动标签页将很快完全由算法驱动",
+      "summary": "Valve 宣布调整 Steam 折扣与活动标签页的展示逻辑，改为完全由算法决定玩家看到哪些游戏。对关注平台分发机制的从业者来说，这是一次关于商店曝光权分配方式变化的重要信号。",
+      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T21:30:00",
+      "games": []
+    },
+    {
+      "id": "f2ab9aa13f",
+      "title": "Control Resonant 总监阐述为何应避免过度的「黄色油漆」引导",
+      "summary": "Remedy 新作总监讨论设计中如何避免用显眼的黄色标记过度提示玩家，主张让玩家自行判断环境元素的意义。对关卡引导与玩家自主性设计有一定启发，但并非针对休闲品类的机制拆解。",
+      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T15:33:32",
+      "games": [
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy 开发的超自然动作冒险游戏，玩家在重力扭曲的曼哈顿中探索，并刻意避免使用黄色油漆式引导。"
+        }
+      ]
+    },
+    {
+      "id": "2433bac6c9",
+      "title": "独立工作室如何在行业波动中生存 | 观点",
+      "summary": "Unfrozen 创始人 Denis Fedorov 分享通过五家工作室共同持股、共享研发与营销能力但保留创作自由的模式来抵御行业波动。对中小团队的组织与商业模式设计有参考意义。",
+      "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T14:39:42",
+      "games": [
+        {
+          "name": "Iratus: Lord of the Dead",
+          "desc": "Unfrozen 开发的黑暗奇幻回合制策略/Roguelike 游戏，玩家扮演死灵法师。"
+        },
+        {
+          "name": "Heroes of Might & Magic: Olden Era",
+          "desc": "Unfrozen 开发的《魔法门之英雄无敌》系列回合制策略新作。"
+        },
+        {
+          "name": "Clair Obscur: Expedition 33",
+          "desc": "Sandfall Interactive 开发的回合制角色扮演游戏，以奇幻风格和弹反机制为特点。"
+        },
+        {
+          "name": "Kingdom Come: Deliverance 2",
+          "desc": "Warhorse Studios 开发的开放世界中世纪写实角色扮演游戏续作。"
+        }
+      ]
+    },
+    {
+      "id": "4e701490ce",
+      "title": "General Intuition 以 62 亿美元估值融资 2.2 亿美元，用游戏录像训练 AI",
+      "summary": "该公司估值较 1 月接近翻三倍，核心方法是用游戏操作录像训练 AI 模型。对手游从业者而言，是观察 AI 与游戏数据资产结合趋势的一条融资动态。",
+      "url": "https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-28T09:45:04",
+      "score": 5,
+      "published_at": "2026-09-29T15:03:08",
       "games": [
         {
-          "name": "Minion Rush",
-          "desc": "基于小黄人 IP 的移动休闲跑酷平台游戏，运营 13 年后将于 2027 年停服。"
+          "name": "Rocket League",
+          "desc": "一款多人在线车辆足球游戏，文中用于说明 AI 世界模型可实时生成类似多人游戏 demo。"
         }
       ]
     },
     {
-      "id": "727c99a78e",
-      "title": "「这是个好故事」：DICE 如何从 Battlefield 2042 的灾难性发售中反弹并推出 Battlefield 6",
-      "summary": "文章讲述 Rebecka Coutaz 在 DICE 最艰难的时期加入，并带队从 Battlefield 2042 的口碑崩盘中恢复、最终推出 Battlefield 6 的过程。属于主机/PC 大作的团队与项目管理叙事，可作为研发管理参考，但与休闲消除品类无关。",
-      "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
-      "source": "GamesIndustry.biz",
+      "id": "e082351114",
+      "title": "腾讯与 Capcom 合作的 Monster Hunter Outlanders 将于 10 月 29 日上线",
+      "summary": "这款手游衍生作在公布近两年后确定于 10 月 29 日推出。属中重度手游新作发行资讯，可作为观察大厂 IP 手游化节奏的参考。",
+      "url": "https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-28T18:09:25",
+      "published_at": "2026-09-29T09:44:59",
       "games": [
         {
-          "name": "Battlefield 2042",
-          "desc": "一款雄心勃勃的多人射击游戏，发售时因评价不佳和技术问题遭遇灾难性反响。"
+          "name": "Monster Hunter Outlanders",
+          "desc": "腾讯 TiMi 与 Capcom 合作开发的《怪物猎人》系列移动端衍生作，主打狩猎、制作、探索与原创角色。"
         },
         {
-          "name": "Battlefield 6",
-          "desc": "战地系列的新作，被视为系列全新起点并承载着重返巅峰的期望。"
+          "name": "Honor of Kings",
+          "desc": "腾讯 TiMi 开发的 MOBA 手游，是全球头部畅销游戏之一。"
         },
         {
-          "name": "Call of Duty",
-          "desc": "知名第一人称射击游戏系列，文中仅作为前资深开发者的背景经历被提及。"
-        }
-      ]
-    },
-    {
-      "id": "d0f2a0d9b4",
-      "title": "微软 CEO Nadella 称 Xbox 必须「发明」可持续的商业模式",
-      "summary": "Satya Nadella 表示 Xbox 部门需要「发明」正确的可持续商业模式，以便让更多玩家接触到其游戏。涉及平台级商业模式探索，对关注订阅制与变现结构的从业者有一定参考，但落点在主机生态。",
-      "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-28T09:05:32",
-      "games": [
-        {
-          "name": "Halo",
-          "desc": "微软旗下标志性的科幻第一人称射击游戏系列，文中被提及将归入 Activision 管理。"
+          "name": "Call of Duty Mobile",
+          "desc": "TiMi 与 Activision 合作开发的《使命召唤》移动端射击游戏。"
         },
         {
-          "name": "Age of Empires",
-          "desc": "微软旗下历史题材即时战略游戏系列，文中同样被提及将归入 Activision 管理。"
-        }
-      ]
-    },
-    {
-      "id": "db517220e2",
-      "title": "Steam Deck 上哪些标签的游戏最受欢迎——GameDiscoverCo 统计数据",
-      "summary": "GameDiscoverCo 创始人 Simon Carless 通过 Steam 用户评论统计，分析 Steam Deck 用户偏好的游戏标签与品类。属于 PC 掌机平台的数据观察，对休闲手游从业者仅有间接参考价值。",
-      "url": "https://gameworldobserver.com/2026/09/28/games-with-which-tags-are-popular-on-the-steam-deck-statistics-from-gamediscoverco",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-28T13:02:10",
-      "games": [
-        {
-          "name": "UFO 50",
-          "desc": "收录 50 款复古风格小游戏的合集。"
+          "name": "Delta Force",
+          "desc": "TiMi 开发的射击游戏。"
         },
         {
-          "name": "Minishoot' Adventures",
-          "desc": "结合俯视角射击与类塞尔达探索的动作冒险游戏。"
-        },
-        {
-          "name": "Dungeons of Hinterberg",
-          "desc": "融合动作战斗、解谜与社交元素的冒险 RPG。"
-        },
-        {
-          "name": "Mina The Hollower",
-          "desc": "Game Boy 风格的动作冒险/类银河恶魔城游戏。"
-        },
-        {
-          "name": "Rogue Prince Of Persia",
-          "desc": "《波斯王子》衍生的 Roguelite 动作平台游戏。"
+          "name": "Age of Empires Mobile",
+          "desc": "TiMi 与微软合作开发/运营的《帝国时代》移动端策略游戏。"
         }
       ]
     }
