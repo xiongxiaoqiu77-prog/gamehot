@@ -9476,5 +9476,116 @@
     ],
     "store_url": "https://apps.apple.com/us/app/age-of-empires-mobile/id6476261995?uo=4",
     "store": "appstore"
-  }
+  },
+  "Horizon: Call of the Mountain": null,
+  "Dying Light": {
+    "name": "Dying Light",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1782913513",
+    "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_a3771358b8eb4ea4c8f99c5850711f55b87804de.600x338.jpg?t=1782913513",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_1f0dc94f46fa1a953827188188887f6a12911ec2.600x338.jpg?t=1782913513",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_488226f013287012e0feaed2fb7799dbe038fd00.600x338.jpg?t=1782913513",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_37f8192f3bf85359ddee0b5c2e9a58eaaf6c4026.600x338.jpg?t=1782913513"
+    ],
+    "store_url": "https://store.steampowered.com/app/239140",
+    "store": "steam"
+  },
+  "Saw: Genesis": {
+    "name": "SAW: Genesis",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2865960/7ff5dae7b5d97701a908f18e828f33a9eaa6ee16/header.jpg?t=1786366758",
+    "description": "A century before Jigsaw, survival demanded sacrifice. Experience the thrilling world of SAW first-hand in a new 3v1 multi-player horror game where three Accused must work together to escape a maze of traps, while one Judge orchestrates their rehabilitation.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2865960/6aae861010b6240bd61bddaaee15bb5111c892e7/ss_6aae861010b6240bd61bddaaee15bb5111c892e7.600x338.jpg?t=1786366758",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2865960/5b6e8d9aefa5c3fa28794077b40fdc37a309973b/ss_5b6e8d9aefa5c3fa28794077b40fdc37a309973b.600x338.jpg?t=1786366758",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2865960/0f733f1680b1d95159c81c8e7e1d218b5136dd59/ss_0f733f1680b1d95159c81c8e7e1d218b5136dd59.600x338.jpg?t=1786366758",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2865960/665a001ded369987b79f87e7e2582dd19e4e68d6/ss_665a001ded369987b79f87e7e2582dd19e4e68d6.600x338.jpg?t=1786366758"
+    ],
+    "store_url": "https://store.steampowered.com/app/2865960",
+    "store": "steam"
+  },
+  "Onyx: The Dark Grip": null,
+  "Star Trek: Infection": {
+    "name": "Star Trek: Infection",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954580/56bc2d41e38178545b45c2b79262e146e7c628ff/header.jpg?t=1779324378",
+    "description": "A VR full-body survival horror experience in the Star Trek universe. Explore a ruined Defiant-class starship as you battle an unknown entity mutating your body. Confront the darkness within the ship…and your mind.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954580/ef0f39031071d867a2c1b054cd8ae7c505828e80/ss_ef0f39031071d867a2c1b054cd8ae7c505828e80.600x338.jpg?t=1779324378",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954580/ab0d204f67799dd5b452e572ea71b4deb32e5ef3/ss_ab0d204f67799dd5b452e572ea71b4deb32e5ef3.600x338.jpg?t=1779324378",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954580/b1f025727ca4ca6d84ea1ded33a2b608ed359296/ss_b1f025727ca4ca6d84ea1ded33a2b608ed359296.600x338.jpg?t=1779324378",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954580/105f84fee2f717a0670dcc3869bc31d02590fd3f/ss_105f84fee2f717a0670dcc3869bc31d02590fd3f.600x338.jpg?t=1779324378"
+    ],
+    "store_url": "https://store.steampowered.com/app/3954580",
+    "store": "steam"
+  },
+  "I Hate This Place": {
+    "name": "I Hate This Place",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2604490/e0b7d61d985ccc37a5956cbe82b20a7230c416e9/header.jpg?t=1770213560",
+    "description": "A craft-based, isometric survival horror game with twisted monsters and warped reality. Scavenge and build to survive terrifying days and nights while using stealth and noise to fight enemies that stalk by sound. All styled with bold comic art and an '80s horror vibe.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2604490/13123e621adf64da82114abda8654c5b01fca728/ss_13123e621adf64da82114abda8654c5b01fca728.600x338.jpg?t=1770213560",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2604490/941c690eaef9ace4f5de7204d19e35630ff19b54/ss_941c690eaef9ace4f5de7204d19e35630ff19b54.600x338.jpg?t=1770213560",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2604490/c3991ac235018d122f173d17aa5787ec57634515/ss_c3991ac235018d122f173d17aa5787ec57634515.600x338.jpg?t=1770213560",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2604490/e13fe7cff41f4fa4969241ae5b14c64633be17e3/ss_e13fe7cff41f4fa4969241ae5b14c64633be17e3.600x338.jpg?t=1770213560"
+    ],
+    "store_url": "https://store.steampowered.com/app/2604490",
+    "store": "steam"
+  },
+  "Blair Witch": {
+    "name": "Blair Witch",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/b16e513ad013f176e24a8d66f2c3ff55d1d9668a/header.jpg?t=1773944489",
+    "description": "A first-person, story-driven psychological horror game based on the cinematic lore of the Blair Witch. Explore the haunted grounds of the Black Hills Forest in a harrowing investigation that forces you to confront the evil that resides deep in the woods.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/ss_d0a21ff458b4eebb9cac92b64f83c69c72853e56.600x338.jpg?t=1773944489",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/ss_3b163b209b58cd9825253fabe62cdd06d004e909.600x338.jpg?t=1773944489",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/ss_b9894cca2cb3de01711a2f636712af7081a92eca.600x338.jpg?t=1773944489",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/ss_7bc7af6ccf562c72e34f7d740be98dbe62b6869e.600x338.jpg?t=1773944489"
+    ],
+    "store_url": "https://store.steampowered.com/app/1092660",
+    "store": "steam"
+  },
+  "Layers of Fear": {
+    "name": "Layers of Fear",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1946700/ef7fe3781df901152466637907c583426c5ff473/header.jpg?t=1773944498",
+    "description": "The era-defining first-person psychological horror in all its terrifying glory. All of the game’s chapters collected into one convenient package that allows you to plumb the depths of madness in pursuit of artistic revelation.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1946700/ss_cdd2f0798bf7b2416bb10982eb1bb74221e70dda.600x338.jpg?t=1773944498",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1946700/ss_7df25eb982d7df80f162701eb97b7af6d88d4ac6.600x338.jpg?t=1773944498",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1946700/ss_a17d16c265f490ec72d7d1eb6726b12b8c206214.600x338.jpg?t=1773944498",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1946700/ss_e522092e3b7e177a5dcc22d029d0e2f113ab1989.600x338.jpg?t=1773944498"
+    ],
+    "store_url": "https://store.steampowered.com/app/1946700",
+    "store": "steam"
+  },
+  "Silent Hill 2": {
+    "name": "SILENT HILL 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1744248682",
+    "description": "Investigating a letter from his late wife, James returns to where they made so many memories - Silent Hill. What he finds is a ghost town, prowled by disturbing monsters and cloaked in deep fog. Confront the monsters, solve puzzles, and search for traces of your wife in this remake of SILENT HILL 2.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_1fdda21610fa23d0ce20b5c44fab8aebd509c5cb.600x338.jpg?t=1744248682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_b20363454a190d737e5ff8e6410d66f0034bd807.600x338.jpg?t=1744248682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_7ba4f2993853179e3049a7f56d7b690b892f33bf.600x338.jpg?t=1744248682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_002b780c7a34d50f186456adcc87dc6012741f97.600x338.jpg?t=1744248682"
+    ],
+    "store_url": "https://store.steampowered.com/app/2124490",
+    "store": "steam"
+  },
+  "Bloober": null,
+  "Dying Light: The Beast": {
+    "name": "Dying Light: The Beast",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
+    "description": "BECOME THE BEAST. SURVIVE THE NIGHT. A terrifying new chapter in the Dying Light universe begins. As Kyle Crane, explore the vast and unpredictable wilderness, uncover a deadly evolution of the infected, and learn to control the beastly powers awakening inside you.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/26ac72d16d3bdec63948f769f34446feba126cb9/ss_26ac72d16d3bdec63948f769f34446feba126cb9.600x338.jpg?t=1789646537",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/664fb0500ab6dfeb8378e90ae45ddcfc86a9d53b/ss_664fb0500ab6dfeb8378e90ae45ddcfc86a9d53b.600x338.jpg?t=1789646537",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/50a84a957ec4fcd627c75692fb50123bb6d799b3/ss_50a84a957ec4fcd627c75692fb50123bb6d799b3.600x338.jpg?t=1789646537",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/a470b06ba2d33e31f50f075efe3fabed1756ce70/ss_a470b06ba2d33e31f50f075efe3fabed1756ce70.600x338.jpg?t=1789646537"
+    ],
+    "store_url": "https://store.steampowered.com/app/3008130",
+    "store": "steam"
+  },
+  "The Last of Us Part I": null,
+  "The Last of Us Part II": null,
+  "Intergalactic: The Heretic Prophet": null,
+  "Flame, Forest and Flood": null
 }
