@@ -9668,5 +9668,97 @@
     ],
     "store_url": "https://apps.apple.com/us/app/%E5%85%89%E7%8E%AF%E5%8A%A9%E6%89%8B/id1671468554?uo=4",
     "store": "appstore"
-  }
+  },
+  "Romeo Is a Dead Man": {
+    "name": "ROMEO IS A DEAD MAN",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/26b831926e8b988fbe89c3744978d43d636cdec1/header.jpg?t=1790821028",
+    "description": "Paint the screen red and travel the cosmos in this bloodstained action adventure game! Witness the latest from Grasshopper Manufacture: the advent of ULTRA-VIOLENT SCIENCE FICTION!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/c0bfd70d98d6356057d5f34631e086697114b3a0/ss_c0bfd70d98d6356057d5f34631e086697114b3a0.600x338.jpg?t=1790821028",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/1874c4773dc3385efb289f738ece99f720f884bc/ss_1874c4773dc3385efb289f738ece99f720f884bc.600x338.jpg?t=1790821028",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/7b767c96257de46280cc1be622926ad4b49d766a/ss_7b767c96257de46280cc1be622926ad4b49d766a.600x338.jpg?t=1790821028",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/25a3c952bfc85186031455aa43b1ec63b1776b33/ss_25a3c952bfc85186031455aa43b1ec63b1776b33.600x338.jpg?t=1790821028"
+    ],
+    "store_url": "https://store.steampowered.com/app/3050900",
+    "store": "steam"
+  },
+  "No More Heroes": {
+    "name": "No More Heroes",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420290/header.jpg?t=1738970229",
+    "description": "Fight your way to the top in this HD remaster of everyone's favorite assassin action game! As all-American otaku Travis Touchdown, use your trusty beam katana to hack-and-slash though the competition and claim the title of world's #1 assassin!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420290/ss_351319157c41083c5efd960e9d7be5f55403cf49.600x338.jpg?t=1738970229",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420290/ss_2b7fa94a84639c52bc8c50ea400b3391cafa6814.600x338.jpg?t=1738970229",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420290/ss_dc06d5650b80fd0e30c1ab7611e70f1d2ec2512f.600x338.jpg?t=1738970229",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420290/ss_21ea2aa297b36cb2c17ea4079140bb133f06a7bb.600x338.jpg?t=1738970229"
+    ],
+    "store_url": "https://store.steampowered.com/app/1420290",
+    "store": "steam"
+  },
+  "The Division": {
+    "name": "The Division Resurgence",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/13/51/931351b2-39a2-76aa-3db6-9251984c51c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Become a Division agent, the last line of defense after society collapses.\n\nExplore a shared open world set in New York City, featuring iconic locations and playable solo or fully in co-op.\nComplete more than 100 world activities as you restore order and uncover an exclusive, canon storyline that reveals a plot threatening the entire city — and beyond. Loot, mod, and customize a wide variety of weapons and gear, along with skins and cosmetics, to build your perfect agent and grow stronger.\n\nCustomize your agent and choose a specialization that fits your playstyle — from tanky Bulwarks to high-firepower Demolitionists. Each specialization features unique skills and powerful ultimate abilities, letting you adapt your role at any time while unlocking new talents in your skill tree.\n\nProtect civilians from dangerous factions, such as the Cleaners who want to burn everything down, or the Rikers driven by greed, as you fight back against the chaos spreading across the city.\n\nEngage in intense PVE combat, competitive PVP modes, and enter the iconic Dark Zone PvPvE experience, where high-risk encounters lead to high-end rewards — if you can extract them.\n\nThe Division Resurgence is designed as a living game, with regular additional content expanding the story, the world, and the challenges ahead.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/fd/c5/bbfdc5ef-6753-b0ef-360c-48b6ca67cebf/TDR_EN_SCREENSHOT_06_Reclaim_2868x1320.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/e8/63/d1e863fc-e666-0ac8-04ac-a8cec0160464/TDR_EN_SCREENSHOT_01_FIGHT_2868x1320.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/26/b8/4e26b8ba-efc5-af9d-be50-67da01a96420/TDR_EN_SCREENSHOT_05_Loot_2868x1320.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/e4/fa/c6e4fa8b-fc3a-4311-3c3a-698e2e0274e5/TDR_EN_SCREENSHOT_03_Customize_2868x1320.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/the-division-resurgence/id1606349410?uo=4",
+    "store": "appstore"
+  },
+  "Ghost Recon": {
+    "name": "Tom Clancy's Ghost Recon® Wildlands",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1790268185",
+    "description": "Lead your elite team of Ghosts in this tactical third-person shooter. Explore a massive open world, infiltrate and destroy the deadly Santa Blanca cartel, and save Bolivia and its people.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/4babf57ef06416f40219c9b73fe69cc2aaa02f49/ss_4babf57ef06416f40219c9b73fe69cc2aaa02f49.600x338.jpg?t=1790268185",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/250926c6324c0412a87d7cd9531e6e502c7a9ab8/ss_250926c6324c0412a87d7cd9531e6e502c7a9ab8.600x338.jpg?t=1790268185",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/f1da2297f61e6c8b1ddd7d11aa5ed13d4e8d9b90/ss_f1da2297f61e6c8b1ddd7d11aa5ed13d4e8d9b90.600x338.jpg?t=1790268185",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/d48f8bb0a3805559b3c6e4d8ddbfae12343ef9c8/ss_d48f8bb0a3805559b3c6e4d8ddbfae12343ef9c8.600x338.jpg?t=1790268185"
+    ],
+    "store_url": "https://store.steampowered.com/app/460930",
+    "store": "steam"
+  },
+  "Splinter Cell": {
+    "name": "Tom Clancy’s Splinter Cell Blacklist",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235600/header.jpg?t=1764775433",
+    "description": "In this stealth-action thriller, a terrorist group known as the Engineers launches the Blacklist, a series of escalating attacks on US interests. Only one man can stop them: legendary covert agent Sam Fisher.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235600/ss_b85d9cae27471119f88a58ce6de1ae56ce8f4fba.600x338.jpg?t=1764775433",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235600/ss_777dbe16137e27ce7c6c4be80a22b6ecae952298.600x338.jpg?t=1764775433",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235600/ss_897f538a2da98a30f86349ff11b10fe99f2539ba.600x338.jpg?t=1764775433",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235600/ss_365ef295ee5e94dc8c1fe349d9e0098fb55c5f76.600x338.jpg?t=1764775433"
+    ],
+    "store_url": "https://store.steampowered.com/app/235600",
+    "store": "steam"
+  },
+  "March of Giants": {
+    "name": "March of Giants",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924600/aed7bf2522b0bae953184c425d1585733169e0b0/header.jpg?t=1790352371",
+    "description": "Free-to-play 4v4 War MOBA where you play as a Giant, lead an army of soldiers and deploy tactical structures known as &quot;Battleworks&quot; on a ravaged urban battlefield. Request access below for a chance to join future playtests",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924600/e3f5bce713f405f3383cb3f3ca52c22583080c5b/ss_e3f5bce713f405f3383cb3f3ca52c22583080c5b.600x338.jpg?t=1790352371",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924600/55f59b7871b6727ac38f2a938765d2440080672b/ss_55f59b7871b6727ac38f2a938765d2440080672b.600x338.jpg?t=1790352371",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924600/de82f6b7064438109b586689833a58f7dccc1bbd/ss_de82f6b7064438109b586689833a58f7dccc1bbd.600x338.jpg?t=1790352371",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924600/920bcd45e570e162f3d487ae14ea3b8e4676eaeb/ss_920bcd45e570e162f3d487ae14ea3b8e4676eaeb.600x338.jpg?t=1790352371"
+    ],
+    "store_url": "https://store.steampowered.com/app/1924600",
+    "store": "steam"
+  },
+  "Ground Control": {
+    "name": "Ground Control Academy",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/0c/6d/cb0c6d22-3167-2f66-3ba0-55327e8ccf82/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "For members of Ground Control Academy to reserve their place in a class, sign up for gym events, and general account management like updating headshots and credit card on file.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/b6/af/3cb6af9c-9973-b42e-fe15-2c40a4290693/phone.6.5-1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/44/03/aa440315-fe75-3b4a-29f1-15101835d82f/phone.6.5-2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ce/93/e0ce933c-32a9-0ea0-bccf-5bb282320c5c/phone.6.5-3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/20/44/4b204430-0460-c61c-4556-1111d64c4592/phone.6.5-4.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/ground-control-academy/id6787139854?uo=4",
+    "store": "appstore"
+  },
+  "World in Conflict": null
 }
