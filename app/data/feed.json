@@ -1,133 +1,239 @@
 {
-  "updated": "2026-09-30",
-  "generated_at": "2026-09-30T07:00:02.364482",
+  "updated": "2026-10-02",
+  "generated_at": "2026-10-02T07:00:10.186094",
   "articles": [
     {
-      "id": "a3edc934b6",
-      "title": "Zynga 创始人 Mark Pincus 称曾差点以 4 亿美元收购 Supercell",
-      "summary": "Mark Pincus 回顾当年错过收购 Supercell 的机会，称「我们本有机会打造全球最大的游戏公司」。涉及休闲手游史上两家关键公司的资本往事，对理解品类格局演变有参考价值。",
-      "url": "https://mobilegamer.biz/zynga-founder-mark-pincus-claims-he-nearly-bought-supercell-for-400m/",
+      "id": "386a02f8f8",
+      "title": "Video Games Europe 回击欧盟监管机构对 King、Supercell、Mojang 等的内购调查",
+      "summary": "欧盟支持的 CPC Network 对11家游戏公司发起协同执法，直指内购（IAP）实践，涉及 King、Supercell、Mojang 等头部厂商；Video Games Europe 与 EGDF 随即公开反驳。该事件直接关系到休闲手游的付费设计、虚拟货币与抽卡机制的合规边界，值得作为发行与商业化团队的风险预警。",
+      "url": "https://mobilegamer.biz/video-games-europe-hits-back-at-eu-watchdog-targeting-king-supercell-mojang-and-more-over-iap-practices/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-09-29T13:12:58",
+      "score": 7,
+      "published_at": "2026-10-01T12:36:19",
       "games": [
         {
-          "name": "Hay Day",
-          "desc": "Supercell 开发的卡通风格农场经营模拟游戏。"
-        },
-        {
-          "name": "Clash of Clans",
-          "desc": "Supercell 开发的策略建造与部落对战手游。"
-        },
-        {
-          "name": "Draw Something",
-          "desc": "OMGPOP 开发的社交你画我猜游戏，曾被 Zynga 收购。"
+          "name": "Runescape",
+          "desc": "经典 MMORPG，其虚拟货币相关判例被引用为行业立场依据。"
         }
       ]
     },
     {
-      "id": "0b11dff545",
-      "title": "Steam 的折扣与活动标签页将很快完全由算法驱动",
-      "summary": "Valve 宣布调整 Steam 折扣与活动标签页的展示逻辑，改为完全由算法决定玩家看到哪些游戏。对关注平台分发机制的从业者来说，这是一次关于商店曝光权分配方式变化的重要信号。",
-      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-29T21:30:00",
-      "games": []
-    },
-    {
-      "id": "f2ab9aa13f",
-      "title": "Control Resonant 总监阐述为何应避免过度的「黄色油漆」引导",
-      "summary": "Remedy 新作总监讨论设计中如何避免用显眼的黄色标记过度提示玩家，主张让玩家自行判断环境元素的意义。对关卡引导与玩家自主性设计有一定启发，但并非针对休闲品类的机制拆解。",
-      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-09-29T15:33:32",
-      "games": [
-        {
-          "name": "Control Resonant",
-          "desc": "Remedy 开发的超自然动作冒险游戏，玩家在重力扭曲的曼哈顿中探索，并刻意避免使用黄色油漆式引导。"
-        }
-      ]
-    },
-    {
-      "id": "2433bac6c9",
-      "title": "独立工作室如何在行业波动中生存 | 观点",
-      "summary": "Unfrozen 创始人 Denis Fedorov 分享通过五家工作室共同持股、共享研发与营销能力但保留创作自由的模式来抵御行业波动。对中小团队的组织与商业模式设计有参考意义。",
-      "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+      "id": "f25c7b722c",
+      "title": "育碧蒙特利尔工会发起“保留混合办公”请愿，签名已超300个",
+      "summary": "育碧蒙特利尔工会发起请愿，要求公司保留混合办公制度，目前已收集超过300个签名。属于游戏行业劳资与公司动态类资讯，对关注海外大厂组织管理与人力政策的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-29T14:39:42",
+      "published_at": "2026-10-01T13:28:21",
+      "games": []
+    },
+    {
+      "id": "a50bb91616",
+      "title": "'Xbox 不出售'，CEO Asha Sharma 表示",
+      "summary": "微软旗下 Xbox 新任 CEO Asha Sharma 在接受《纽约时报》采访时明确表态 Xbox 不会被出售，回应了外界关于该业务可能被剥离的猜测。属于公司层面的行业动态，与休闲/消除类手游的设计与变现无直接关联，仅供参考行业格局。",
+      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T18:37:27",
+      "games": []
+    },
+    {
+      "id": "ba4d79ad34",
+      "title": "GCAP 2026：Alanah Pearce、Housemarque 与 Mixtape 开发者将亮相墨尔本大会",
+      "summary": "Games Connect Asia Pacific（GCAP）将于2026年10月5日至7日重返墨尔本，迎来20周年，由 IGEA 主办，汇聚澳洲及全球开发者、发行商。属于区域性行业会议资讯，对关注澳洲及独立开发生态的从业者有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/01/gcap-2026-alanah-pearce-housemarque-and-mixtape-developers-to-headline-melbourne-conference",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T11:05:45",
       "games": [
         {
-          "name": "Iratus: Lord of the Dead",
-          "desc": "Unfrozen 开发的黑暗奇幻回合制策略/Roguelike 游戏，玩家扮演死灵法师。"
+          "name": "SAROS",
+          "desc": "Housemarque 的游戏，由 Gregory Louden 执导。"
         },
         {
-          "name": "Heroes of Might & Magic: Olden Era",
-          "desc": "Unfrozen 开发的《魔法门之英雄无敌》系列回合制策略新作。"
+          "name": "Returnal",
+          "desc": "Housemarque 游戏，Gregory Louden 曾任其叙事与过场导演。"
         },
         {
-          "name": "Clair Obscur: Expedition 33",
-          "desc": "Sandfall Interactive 开发的回合制角色扮演游戏，以奇幻风格和弹反机制为特点。"
+          "name": "Mixtape",
+          "desc": "Beethoven & Dinosaur 开发的游戏，GCAP 2026 将有环节讨论其设计与打磨流程。"
         },
         {
-          "name": "Kingdom Come: Deliverance 2",
-          "desc": "Warhorse Studios 开发的开放世界中世纪写实角色扮演游戏续作。"
+          "name": "Aether & Iron",
+          "desc": "澳大利亚游戏开发者奖年度游戏提名之一，与 Chaos Theory Games 相关。"
         }
       ]
     },
     {
-      "id": "4e701490ce",
-      "title": "General Intuition 以 62 亿美元估值融资 2.2 亿美元，用游戏录像训练 AI",
-      "summary": "该公司估值较 1 月接近翻三倍，核心方法是用游戏操作录像训练 AI 模型。对手游从业者而言，是观察 AI 与游戏数据资产结合趋势的一条融资动态。",
-      "url": "https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/",
-      "source": "Mobile Gamer Biz",
+      "id": "068ad1eec5",
+      "title": "Newzoo八月PC与主机收入榜：新作强势领跑",
+      "summary": "Newzoo公布八月PC与主机收入Top 20榜单，EA Sports Madden NFL 27在主机榜空降第二，House House的联机新作Big Walk位列PC榜第三。属于市场数据类行业资讯，可了解头部新品表现，但以PC/主机为主，与休闲手游赛道关联一般。",
+      "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-29T15:03:08",
+      "published_at": "2026-10-01T08:25:00",
       "games": [
         {
-          "name": "Rocket League",
-          "desc": "一款多人在线车辆足球游戏，文中用于说明 AI 世界模型可实时生成类似多人游戏 demo。"
+          "name": "EA Sports Madden NFL 27",
+          "desc": "EA年度NFL模拟体育游戏，八月主机收入榜首发第2名。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "House House开发的合作游戏，八月PC收入榜首发第3名。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "Respawn Entertainment开发的星球大战题材游戏，八月PC收入榜第6、主机榜第20。"
+        },
+        {
+          "name": "Mortal Shell 2",
+          "desc": "《Mortal Shell》续作，八月在PC和主机双平台首发上榜。"
+        },
+        {
+          "name": "Hell Let Loose: Vietnam",
+          "desc": "以越战为背景的《Hell Let Loose》系列射击游戏，八月双平台首发上榜。"
+        },
+        {
+          "name": "Marvel Tōkon: Fighting Souls",
+          "desc": "漫威题材格斗游戏，八月主机收入榜首发第14名。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "Dazed Games开发的游戏，八月PC收入榜首发第9名。"
+        },
+        {
+          "name": "No More Room in Hell 2",
+          "desc": "Torn Banner Studios开发的丧尸合作射击游戏，八月PC收入榜第19名。"
+        },
+        {
+          "name": "Pokémon Pokopia",
+          "desc": "宝可梦衍生游戏，因Bubbly Basin DLC发布从主机榜第28升至第7。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "Epic的长期运营大逃杀/沙盒游戏，八月PC MAU第3、主机MAU第1，并借第七章第四季联动增长。"
+        },
+        {
+          "name": "Sonic the Hedgehog",
+          "desc": "世嘉经典平台动作游戏系列，作为《Fortnite》第七章第四季联动内容登场。"
+        },
+        {
+          "name": "Mega Man",
+          "desc": "卡普空经典动作平台游戏系列，作为《Fortnite》联动内容登场。"
+        },
+        {
+          "name": "Kingdom Hearts",
+          "desc": "史克威尔艾尼克斯动作RPG系列，作为《Fortnite》联动内容登场。"
+        },
+        {
+          "name": "Marvel's Spider-Man 2",
+          "desc": "漫威蜘蛛侠动作冒险游戏，因电影相关免费战衣更新和限时折扣升至主机MAU第12。"
+        },
+        {
+          "name": "Helldivers 2",
+          "desc": "合作射击游戏，因加入PlayStation Plus目录在主机和PC MAU均升至第19。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot战术英雄射击游戏，八月PC收入榜第2名。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "Riot多人在线战术竞技游戏，八月PC收入榜第4名。"
+        },
+        {
+          "name": "Counter-Strike 2 & Go",
+          "desc": "Valve战术射击游戏系列，八月PC收入榜第5名。"
+        },
+        {
+          "name": "World of Warcraft",
+          "desc": "暴雪大型多人在线角色扮演游戏，八月PC收入榜第7名。"
+        },
+        {
+          "name": "The Sims 4",
+          "desc": "EA生活模拟游戏，八月PC收入榜第8名。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "Respawn英雄大逃杀射击游戏，八月PC收入榜第10名。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "网易漫威题材团队英雄射击游戏，八月PC收入榜第11名。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "暴雪团队英雄射击游戏，八月PC收入榜第12名。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "Mojang沙盒生存建造游戏，八月PC收入榜第13名。"
+        },
+        {
+          "name": "Palworld",
+          "desc": "开放世界生存制作与生物收集游戏，八月PC收入榜第16名。"
+        },
+        {
+          "name": "Escape From Tarkov",
+          "desc": "Battlestate硬核撤离射击游戏，八月PC收入榜第17名。"
+        },
+        {
+          "name": "Dead by Daylight",
+          "desc": "非对称多人恐怖游戏，八月PC收入榜第20名。"
+        },
+        {
+          "name": "EA Sports College Football 27",
+          "desc": "EA年度大学橄榄球体育游戏，八月主机收入榜第3名。"
         }
       ]
     },
     {
-      "id": "e082351114",
-      "title": "腾讯与 Capcom 合作的 Monster Hunter Outlanders 将于 10 月 29 日上线",
-      "summary": "这款手游衍生作在公布近两年后确定于 10 月 29 日推出。属中重度手游新作发行资讯，可作为观察大厂 IP 手游化节奏的参考。",
-      "url": "https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/",
+      "id": "8320d5126e",
+      "title": "Devolver旗下《Reigns》开发商Nerial成立13年后关闭",
+      "summary": "Devolver与Nerial共同决定终止工作室开发业务，约八名员工正在寻找新机会。Nerial曾打造《Reigns》《Card Shark》等带有移动端属性的卡牌叙事游戏，其关闭对关注小型创意工作室生存状况与移动卡牌品类的从业者有一定参考意义。",
+      "url": "https://mobilegamer.biz/reigns-and-card-shark-developer-nerial-closes-after-13-years/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-09-29T09:44:59",
+      "published_at": "2026-10-01T14:51:54",
       "games": [
         {
-          "name": "Monster Hunter Outlanders",
-          "desc": "腾讯 TiMi 与 Capcom 合作开发的《怪物猎人》系列移动端衍生作，主打狩猎、制作、探索与原创角色。"
+          "name": "Reigns",
+          "desc": "Nerial开发的卡牌决策类游戏，2016年推出后据估创收620万美元。"
         },
         {
-          "name": "Honor of Kings",
-          "desc": "腾讯 TiMi 开发的 MOBA 手游，是全球头部畅销游戏之一。"
+          "name": "Reigns: Game of Thrones",
+          "desc": "《Reigns》的授权衍生作，基于《权力的游戏》，据估创收220万美元。"
         },
         {
-          "name": "Call of Duty Mobile",
-          "desc": "TiMi 与 Activision 合作开发的《使命召唤》移动端射击游戏。"
+          "name": "Reigns: Three Kingdoms",
+          "desc": "通过Netflix发行的《Reigns》衍生作，以三国为背景。"
         },
         {
-          "name": "Delta Force",
-          "desc": "TiMi 开发的射击游戏。"
+          "name": "Reigns: The Witcher",
+          "desc": "《Reigns》的《巫师》授权衍生作，据估创收19.1万美元。"
         },
         {
-          "name": "Age of Empires Mobile",
-          "desc": "TiMi 与微软合作开发/运营的《帝国时代》移动端策略游戏。"
+          "name": "The Crush House",
+          "desc": "Nerial于2024年在PC推出的叙事惊悚游戏。"
         }
       ]
+    },
+    {
+      "id": "f079600aab",
+      "title": "AppLovin 起诉 Unity，指控其通过 Ad Quality SDK 违规收集数据",
+      "summary": "AppLovin 请求法院禁止 Unity 通过其免费的 Ad Quality 工具收集数据，双方就广告数据归属爆发诉讼。这属于手游买量与广告变现基础设施层的博弈，对依赖广告变现的休闲游戏团队有间接影响。",
+      "url": "https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T10:19:08",
+      "games": []
     }
   ]
 }
