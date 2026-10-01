@@ -9760,5 +9760,18 @@
     "store_url": "https://apps.apple.com/us/app/ground-control-academy/id6787139854?uo=4",
     "store": "appstore"
   },
-  "World in Conflict": null
+  "World in Conflict": null,
+  "Vampirium: 1997": {
+    "name": "Vampirium: 1997",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035190/42680e4009b7b20d6fb103edfaa0f8474a53d1bc/header.jpg?t=1788980610",
+    "description": "1997. Dracula is King of England. At his command, master your dark gifts to assassinate his enemies and secure his vampiric empire. Infiltrate locked-down locations, adapt and survive in living environments and uncover your own unique methods of executing missions.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035190/d6221a79a29209f1af5634c98bb9d4756dad20f3/ss_d6221a79a29209f1af5634c98bb9d4756dad20f3.600x338.jpg?t=1788980610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035190/a531ce9c729ea1fee832ee347bb0b12334758bef/ss_a531ce9c729ea1fee832ee347bb0b12334758bef.600x338.jpg?t=1788980610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035190/b46b8e1d5a8b909d46b9c7639f59cb5effa3f5e0/ss_b46b8e1d5a8b909d46b9c7639f59cb5effa3f5e0.600x338.jpg?t=1788980610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035190/62f0eb0ad0fa5328741833067aa4babe8ad6c233/ss_62f0eb0ad0fa5328741833067aa4babe8ad6c233.600x338.jpg?t=1788980610"
+    ],
+    "store_url": "https://store.steampowered.com/app/4035190",
+    "store": "steam"
+  }
 }
