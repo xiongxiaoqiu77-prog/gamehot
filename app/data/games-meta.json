@@ -9640,5 +9640,33 @@
     "store_url": "https://apps.apple.com/us/app/last-light-wasteland/id6754545818?uo=4",
     "store": "appstore"
   },
-  "Puzzle Sort": null
+  "Puzzle Sort": null,
+  "命运 2": null,
+  "命运": {
+    "name": "命运-冠位指定（Fate/Grand Order）",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/d4/19/dbd4196a-68cb-8a74-ca0b-045d0795e10c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "被誉为日本“蚁后级IP”的Fate系列首款正版手游《Fate/Grand Order》正式上线！《Fate/Grand Order》（中文译名《命运-冠位指定》，以下简称《FGO》）由TYPE-MOON出品，由bilibili游戏在大陆地区独家代理发行。\n \n人类将于2017年灭绝---\n为什么？怎么会？是谁？做了什么？\n面对众多疑问，研究者们陷入了疑惑。就在这时，他们观测到了新的异变。\n公元2004年，日本某个地方都市，在这里，出现了前所未有的[无法观测的领域]\n为了保护与夺回人类未来，必须进行时间旅行重返过去，\n执行与“历史”对抗的作战！\n \n游戏特色：\n \n【Fate系列首款正版手游，100万字剧情描绘史上最大圣杯战争！】\n《FGO》剧情原案由Fate之父奈须蘑菇亲自执笔，长达100万字的小说级故事线将为您揭露多重背景设定！\n \n【史上最多英灵集结，跨越时代的终极召唤！】\n在《FGO》中可召唤的从者包含了《Fate/Zero》、《Fate/stay night》等多部知名Fate作品中的经典角色，以及多位《FGO》首创英灵与您展开命运的羁绊，更有全新职阶首次于Fate系列中登场！\n \n【指令卡式战斗，原汁原味的日式RPG！】\n在《FGO》中，战斗通过对从者下达的命令用指令卡来表现，通过回合制的形式展开指令战斗。战斗分为战术阶段与指令阶段，根据您的选择，从者会分别发动攻击。己方攻击后，转为敌方行动。敌方行动后一回合结束。\n \n【50多位知名画师参与英灵绘制，40位以上声优倾情献声！】\n《FGO》力邀武内崇在内的50余位知名画师组成超豪华美术团队，更特邀Fate系列原班声优参与配音！\n\n【建议机型】\niPhone 6s及以上\niPad mini 4, iPad Air 2及以上",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/a5/d2/1ca5d294-af69-5135-0e4c-40039e1b088a/1_U56fe.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/86/b9/d386b99b-1460-2647-803e-3f8b0f36e20b/2_U56fe.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/02/e7/3902e7fb-2a29-8417-03b3-3c5ab037235e/3_U56fe.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ed/44/b6ed4400-8e64-ad7e-b27c-3134fa9c0197/4_U56fe.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/%E5%91%BD%E8%BF%90-%E5%86%A0%E4%BD%8D%E6%8C%87%E5%AE%9A-fate-grand-order/id1108397779?uo=4",
+    "store": "appstore"
+  },
+  "失落星船：马拉松": null,
+  "光环": {
+    "name": "光环助手",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/18/0b/3a180b05-bfaf-96aa-066a-9de1ff324705/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "光环助手app是我司自行研发产品，运营时间已持续8年\n光环助手app旨在建立硬核玩家的游戏生态。让用户从中获取更多的快乐，玩家们一起分享交流好游戏，在讨论中发现更多快乐\n\n功能介绍：\n游戏资讯：发布热门游戏的动态，为玩家推送最新的游戏消息\n游戏视频：大量游戏测评视频，给玩家提供更丰富的内容展示\n游戏工具：提供多个主流游戏的攻略合集给玩家阅览\n游戏礼包：提供时下热门游戏礼包码供玩家领取\n游戏社区：玩家互相解答游戏攻略，分享游戏心得",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/44/9e/51/449e51f9-6ef3-64aa-cedb-a5ec00aa6c63/52b41b82-3252-446c-9845-c512c9dc356c_b00@3x.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/a0/39/cca0392d-5fe4-fbeb-1f12-0c84424a2bdc/d47d8e99-9176-4d3c-8b21-204b73f98ad8_b04@3x.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d7/10/b9/d710b90b-f2a6-d661-da99-508fdef1569e/347b7cf7-dc21-4f1f-9ca0-6964074a5942_b03@3x.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0d/0d/64/0d0d649c-0cb6-0799-d1ef-5ede5be5516a/a42e31c5-8727-4cc0-8229-a8e9531f5e5a_b01@3x.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/%E5%85%89%E7%8E%AF%E5%8A%A9%E6%89%8B/id1671468554?uo=4",
+    "store": "appstore"
+  }
 }
