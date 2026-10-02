@@ -10165,5 +10165,32 @@
     ],
     "store_url": "https://apps.apple.com/us/app/blindspot-car-spotting-game/id6789834293?uo=4",
     "store": "appstore"
-  }
+  },
+  "Zephon": {
+    "name": "ZEPHON",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481170/header.jpg?t=1788774310",
+    "description": "From the developers of Warhammer 40,000: Gladius, ZEPHON is a post-apocalyptic 4X strategy game built on Proxy’s unique tactical combat system. Guide survivors through a turbulent future, navigating unexpected disasters, eldritch horror and cyberpunk monstrosities. What will you do to survive?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481170/ss_e8a849f356a5398380c785cf09e46aec76bd2f43.600x338.jpg?t=1788774310",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481170/ss_cb6da4aac2f11154ac296ef5942dac2654028594.600x338.jpg?t=1788774310",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481170/ss_d7694f8d47a4de1c0a699c76491a9b1f0230a505.600x338.jpg?t=1788774310",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481170/ss_eb9f7d490920c8d4415b1692b1f4ce56a40eed0e.600x338.jpg?t=1788774310"
+    ],
+    "store_url": "https://store.steampowered.com/app/1481170",
+    "store": "steam"
+  },
+  "Down With The Ship": {
+    "name": "Down with the Ship",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/db762aeca69844a088643bd5e04d5b1dc8ac4a19/header.jpg?t=1783456029",
+    "description": "Strategic auto battler where you design a heavily-armed spaceship. Draft 200+ items, outfit your hull, and unleash it in async PvP. Blend captains and factions for absurd combos and galactic domination. Roll, buy, place, pray.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d6b5c59a5ba38dce03371df6ba713dfec2dd7f25/ss_d6b5c59a5ba38dce03371df6ba713dfec2dd7f25.600x338.jpg?t=1783456029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/c17db272613e17b40d44ada9830c169d3a0b9abb/ss_c17db272613e17b40d44ada9830c169d3a0b9abb.600x338.jpg?t=1783456029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d2c886bac4b8f677b367b560fac89b692b6a6d34/ss_d2c886bac4b8f677b367b560fac89b692b6a6d34.600x338.jpg?t=1783456029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d4e5f7e45275a1355b2635625ec833bd0060a54b/ss_d4e5f7e45275a1355b2635625ec833bd0060a54b.600x338.jpg?t=1783456029"
+    ],
+    "store_url": "https://store.steampowered.com/app/3523750",
+    "store": "steam"
+  },
+  "Endless Space 2": null
 }
