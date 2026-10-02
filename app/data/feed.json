@@ -1,239 +1,264 @@
 {
-  "updated": "2026-10-02",
-  "generated_at": "2026-10-02T07:00:10.186094",
+  "updated": "2026-10-03",
+  "generated_at": "2026-10-03T07:00:04.800833",
   "articles": [
     {
-      "id": "386a02f8f8",
-      "title": "Video Games Europe 回击欧盟监管机构对 King、Supercell、Mojang 等的内购调查",
-      "summary": "欧盟支持的 CPC Network 对11家游戏公司发起协同执法，直指内购（IAP）实践，涉及 King、Supercell、Mojang 等头部厂商；Video Games Europe 与 EGDF 随即公开反驳。该事件直接关系到休闲手游的付费设计、虚拟货币与抽卡机制的合规边界，值得作为发行与商业化团队的风险预警。",
-      "url": "https://mobilegamer.biz/video-games-europe-hits-back-at-eu-watchdog-targeting-king-supercell-mojang-and-more-over-iap-practices/",
+      "id": "46bcb8ef97",
+      "title": "新游速览：Sifu、Castlevania、Microsoft Jewel、One Piece、River City Survivors 等",
+      "summary": "本周手游新作汇总，涵盖 Sifu、Castlevania、Microsoft Jewel、One Piece、River City Survivors，以及 Tencent、FunPlus、Plug In Digital 等厂商的新品。其中 Microsoft Jewel 等消除向产品对休闲品类从业者有一定监测价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-sifu-castlevania-microsoft-jewel-one-piece-river-city-survivors-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-10-01T12:36:19",
+      "score": 6,
+      "published_at": "2026-10-02T10:54:53",
       "games": [
         {
-          "name": "Runescape",
-          "desc": "经典 MMORPG，其虚拟货币相关判例被引用为行业立场依据。"
+          "name": "Sifu",
+          "desc": "Sloclap开发的武术动作格斗游戏，将登陆移动端并采用触屏操作。"
+        },
+        {
+          "name": "Castlevania",
+          "desc": "Konami于1986年推出的经典动作游戏，为纪念40周年在移动端限免。"
+        },
+        {
+          "name": "Microsoft Jewel",
+          "desc": "微软休闲益智游戏，登陆iOS和Android并支持Xbox成就与跨平台同步。"
+        },
+        {
+          "name": "One Piece: Grand Gourmet",
+          "desc": "Bandai Namco以草帽一伙为主题的餐厅经营模拟游戏。"
+        },
+        {
+          "name": "River City Survivors: Downtown of the Dead",
+          "desc": "Arc System Works将热血系列改为幸存者类玩法，并登陆Apple Arcade。"
+        },
+        {
+          "name": "Namco Legendary Mountains",
+          "desc": "BeXide开发的体素益智堆叠游戏，融合南梦宫经典街机角色胶囊。"
+        },
+        {
+          "name": "New Three Kingdoms: Glory Reborn",
+          "desc": "腾讯在中国软启动的三国题材策略游戏。"
+        },
+        {
+          "name": "Codenames Party",
+          "desc": "Czech Games Edition的派对游戏，登陆Netflix Games并可用手机当控制器。"
+        },
+        {
+          "name": "Lil’ Guardsman",
+          "desc": "tinyBuild的叙事冒险游戏，由Plug In Digital发行移动版。"
+        },
+        {
+          "name": "State of Desire",
+          "desc": "FunPlus International发行的监狱管理与帮派政治题材免费18+游戏。"
+        },
+        {
+          "name": "Dragon Village 3",
+          "desc": "Highbrow的生物题材游戏，出现在本期新游速览中。"
         }
       ]
     },
     {
-      "id": "f25c7b722c",
-      "title": "育碧蒙特利尔工会发起“保留混合办公”请愿，签名已超300个",
-      "summary": "育碧蒙特利尔工会发起请愿，要求公司保留混合办公制度，目前已收集超过300个签名。属于游戏行业劳资与公司动态类资讯，对关注海外大厂组织管理与人力政策的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
+      "id": "6f78268d79",
+      "title": "Bungie 联合创始人及 Destiny 2 叙事总监创办跨媒体工作室 Stone Kite",
+      "summary": "Bungie 联合创始人 Jason Jones 与 Destiny 2 叙事总监 Margaret Stohl 共同创立跨媒体工作室 Stone Kite。该动态反映头部游戏人才向跨媒体内容开发流动，对关注行业组织与内容战略的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-01T13:28:21",
-      "games": []
-    },
-    {
-      "id": "a50bb91616",
-      "title": "'Xbox 不出售'，CEO Asha Sharma 表示",
-      "summary": "微软旗下 Xbox 新任 CEO Asha Sharma 在接受《纽约时报》采访时明确表态 Xbox 不会被出售，回应了外界关于该业务可能被剥离的猜测。属于公司层面的行业动态，与休闲/消除类手游的设计与变现无直接关联，仅供参考行业格局。",
-      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-01T18:37:27",
-      "games": []
-    },
-    {
-      "id": "ba4d79ad34",
-      "title": "GCAP 2026：Alanah Pearce、Housemarque 与 Mixtape 开发者将亮相墨尔本大会",
-      "summary": "Games Connect Asia Pacific（GCAP）将于2026年10月5日至7日重返墨尔本，迎来20周年，由 IGEA 主办，汇聚澳洲及全球开发者、发行商。属于区域性行业会议资讯，对关注澳洲及独立开发生态的从业者有一定参考价值。",
-      "url": "https://gameworldobserver.com/2026/10/01/gcap-2026-alanah-pearce-housemarque-and-mixtape-developers-to-headline-melbourne-conference",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-01T11:05:45",
+      "published_at": "2026-10-02T13:54:44",
       "games": [
         {
-          "name": "SAROS",
-          "desc": "Housemarque 的游戏，由 Gregory Louden 执导。"
+          "name": "Destiny 2",
+          "desc": "Bungie 开发的在线多人刷宝射击游戏，文章提到其叙事总监 Margaret Stohl 参与创办 Stone Kite。"
         },
         {
-          "name": "Returnal",
-          "desc": "Housemarque 游戏，Gregory Louden 曾任其叙事与过场导演。"
+          "name": "Halo",
+          "desc": "Bungie 联合创作的科幻第一人称射击游戏系列，文章称 Jason Jones 参与共同创作。"
         },
         {
-          "name": "Mixtape",
-          "desc": "Beethoven & Dinosaur 开发的游戏，GCAP 2026 将有环节讨论其设计与打磨流程。"
-        },
-        {
-          "name": "Aether & Iron",
-          "desc": "澳大利亚游戏开发者奖年度游戏提名之一，与 Chaos Theory Games 相关。"
+          "name": "Destiny",
+          "desc": "Bungie 联合创作的科幻在线多人射击游戏系列，文章称 Jason Jones 参与共同创作。"
         }
       ]
     },
     {
-      "id": "068ad1eec5",
-      "title": "Newzoo八月PC与主机收入榜：新作强势领跑",
-      "summary": "Newzoo公布八月PC与主机收入Top 20榜单，EA Sports Madden NFL 27在主机榜空降第二，House House的联机新作Big Walk位列PC榜第三。属于市场数据类行业资讯，可了解头部新品表现，但以PC/主机为主，与休闲手游赛道关联一般。",
-      "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+      "id": "2f6f83a8bc",
+      "title": "2026 英国最佳工作场所奖获奖名单揭晓",
+      "summary": "2026 英国最佳工作场所奖在伦敦 Royal Institution 颁发，Dink、Hangar 13、Jagex: The RuneScape Company、NaturalMotion Games、Rare、Snap Finger Click 获特别奖。对从业者而言，可用于了解英国游戏工作室的雇主品牌与人才市场动态。",
+      "url": "https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-01T08:25:00",
+      "published_at": "2026-10-02T12:56:58",
       "games": [
         {
-          "name": "EA Sports Madden NFL 27",
-          "desc": "EA年度NFL模拟体育游戏，八月主机收入榜首发第2名。"
-        },
-        {
-          "name": "Big Walk",
-          "desc": "House House开发的合作游戏，八月PC收入榜首发第3名。"
-        },
-        {
-          "name": "Star Wars Zero Company",
-          "desc": "Respawn Entertainment开发的星球大战题材游戏，八月PC收入榜第6、主机榜第20。"
-        },
-        {
-          "name": "Mortal Shell 2",
-          "desc": "《Mortal Shell》续作，八月在PC和主机双平台首发上榜。"
-        },
-        {
-          "name": "Hell Let Loose: Vietnam",
-          "desc": "以越战为背景的《Hell Let Loose》系列射击游戏，八月双平台首发上榜。"
-        },
-        {
-          "name": "Marvel Tōkon: Fighting Souls",
-          "desc": "漫威题材格斗游戏，八月主机收入榜首发第14名。"
-        },
-        {
-          "name": "How to Fish",
-          "desc": "Dazed Games开发的游戏，八月PC收入榜首发第9名。"
-        },
-        {
-          "name": "No More Room in Hell 2",
-          "desc": "Torn Banner Studios开发的丧尸合作射击游戏，八月PC收入榜第19名。"
-        },
-        {
-          "name": "Pokémon Pokopia",
-          "desc": "宝可梦衍生游戏，因Bubbly Basin DLC发布从主机榜第28升至第7。"
-        },
-        {
-          "name": "Fortnite",
-          "desc": "Epic的长期运营大逃杀/沙盒游戏，八月PC MAU第3、主机MAU第1，并借第七章第四季联动增长。"
-        },
-        {
-          "name": "Sonic the Hedgehog",
-          "desc": "世嘉经典平台动作游戏系列，作为《Fortnite》第七章第四季联动内容登场。"
-        },
-        {
-          "name": "Mega Man",
-          "desc": "卡普空经典动作平台游戏系列，作为《Fortnite》联动内容登场。"
-        },
-        {
-          "name": "Kingdom Hearts",
-          "desc": "史克威尔艾尼克斯动作RPG系列，作为《Fortnite》联动内容登场。"
-        },
-        {
-          "name": "Marvel's Spider-Man 2",
-          "desc": "漫威蜘蛛侠动作冒险游戏，因电影相关免费战衣更新和限时折扣升至主机MAU第12。"
-        },
-        {
-          "name": "Helldivers 2",
-          "desc": "合作射击游戏，因加入PlayStation Plus目录在主机和PC MAU均升至第19。"
-        },
-        {
-          "name": "Valorant",
-          "desc": "Riot战术英雄射击游戏，八月PC收入榜第2名。"
-        },
-        {
-          "name": "League of Legends",
-          "desc": "Riot多人在线战术竞技游戏，八月PC收入榜第4名。"
-        },
-        {
-          "name": "Counter-Strike 2 & Go",
-          "desc": "Valve战术射击游戏系列，八月PC收入榜第5名。"
-        },
-        {
-          "name": "World of Warcraft",
-          "desc": "暴雪大型多人在线角色扮演游戏，八月PC收入榜第7名。"
-        },
-        {
-          "name": "The Sims 4",
-          "desc": "EA生活模拟游戏，八月PC收入榜第8名。"
-        },
-        {
-          "name": "Apex Legends",
-          "desc": "Respawn英雄大逃杀射击游戏，八月PC收入榜第10名。"
-        },
-        {
-          "name": "Marvel Rivals",
-          "desc": "网易漫威题材团队英雄射击游戏，八月PC收入榜第11名。"
-        },
-        {
-          "name": "Overwatch",
-          "desc": "暴雪团队英雄射击游戏，八月PC收入榜第12名。"
-        },
-        {
-          "name": "Minecraft",
-          "desc": "Mojang沙盒生存建造游戏，八月PC收入榜第13名。"
-        },
-        {
-          "name": "Palworld",
-          "desc": "开放世界生存制作与生物收集游戏，八月PC收入榜第16名。"
-        },
-        {
-          "name": "Escape From Tarkov",
-          "desc": "Battlestate硬核撤离射击游戏，八月PC收入榜第17名。"
-        },
-        {
-          "name": "Dead by Daylight",
-          "desc": "非对称多人恐怖游戏，八月PC收入榜第20名。"
-        },
-        {
-          "name": "EA Sports College Football 27",
-          "desc": "EA年度大学橄榄球体育游戏，八月主机收入榜第3名。"
+          "name": "RuneScape",
+          "desc": "Jagex 开发的经典 MMORPG，文章以获奖公司名“Jagex: The RuneScape Company”提及。"
         }
       ]
     },
     {
-      "id": "8320d5126e",
-      "title": "Devolver旗下《Reigns》开发商Nerial成立13年后关闭",
-      "summary": "Devolver与Nerial共同决定终止工作室开发业务，约八名员工正在寻找新机会。Nerial曾打造《Reigns》《Card Shark》等带有移动端属性的卡牌叙事游戏，其关闭对关注小型创意工作室生存状况与移动卡牌品类的从业者有一定参考意义。",
-      "url": "https://mobilegamer.biz/reigns-and-card-shark-developer-nerial-closes-after-13-years/",
-      "source": "Mobile Gamer Biz",
+      "id": "bc208b606c",
+      "title": "Krafton 关闭 PUBG 衍生项目 Black Budget，距封闭 Alpha 测试仅九个月",
+      "summary": "Krafton 宣布停止开发 PUBG 衍生项目 Black Budget，距其在 Steam 进行封闭 Alpha 测试约九个月。该动态体现大厂在衍生项目和新玩法上的试错与收缩，对关注射击品类与项目管理的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-01T14:51:54",
+      "published_at": "2026-10-02T08:03:39",
+      "games": [
+        {
+          "name": "PUBG: Black Budget",
+          "desc": "以时间循环为核心的撤离射击游戏，目标为整队生存逃离而非最后一人存活的大逃杀，已被 Krafton 停止开发。"
+        },
+        {
+          "name": "PUBG Battlegrounds",
+          "desc": "Krafton 旗下大逃杀射击游戏（常简称 PUBG），文章称其被规划扩展为带沙盒 UGC 的内容平台。"
+        },
+        {
+          "name": "Blindspot",
+          "desc": "PUBG 衍生免费游玩项目，在抢先体验两个月后被 Krafton 关闭。"
+        },
+        {
+          "name": "PUBG: Ded.Net",
+          "desc": "PUBG 衍生多人在线射击游戏，带有 roguelike 成长要素，于 Gamescom 公布。"
+        },
+        {
+          "name": "Subnautica 2",
+          "desc": "Unknown Worlds 开发的水下生存游戏，文章称其成功推动 Krafton 创纪录 Q2 业绩。"
+        }
+      ]
+    },
+    {
+      "id": "7b43cfba57",
+      "title": "“它常常反而让我活更多”——为什么 AI 可能给游戏公司增加而非节省工作量",
+      "summary": "GamesIndustry.biz HR 峰会上的讨论指出，生成式 AI 在游戏公司内部未必带来效率提升，反而可能因审核、返工与流程重构增加工作量。对关注团队产能与研发流程的手游团队有间接参考意义。",
+      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T14:29:12",
+      "games": []
+    },
+    {
+      "id": "937ef4729a",
+      "title": "索尼就实体媒介展开咨询：迟到总比不到好 | 观点",
+      "summary": "索尼在宣布终止实体游戏发行支持后，才回头向开发合作伙伴征求意见。文章质疑这一决策顺序，认为影响所有合作伙伴的重大变动本应在公布前沟通，属于主机/发行层面的行业观察。",
+      "url": "https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T15:19:56",
+      "games": []
+    },
+    {
+      "id": "99c2254d03",
+      "title": "Reigns 开发商 Nerial 因两年'重大经营亏损'宣布关闭",
+      "summary": "曾开发 Reigns 与 Card Shark 的 Nerial 宣布进入'休眠模式'并停止运营。对关注中小体量、买断制与移动端混合作品的团队来说，是一个反映独立发行与变现压力的案例。",
+      "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T11:19:13",
       "games": [
         {
           "name": "Reigns",
-          "desc": "Nerial开发的卡牌决策类游戏，2016年推出后据估创收620万美元。"
+          "desc": "一款以滑动卡牌抉择为核心的王国统治策略游戏。"
         },
         {
-          "name": "Reigns: Game of Thrones",
-          "desc": "《Reigns》的授权衍生作，基于《权力的游戏》，据估创收220万美元。"
-        },
-        {
-          "name": "Reigns: Three Kingdoms",
-          "desc": "通过Netflix发行的《Reigns》衍生作，以三国为背景。"
-        },
-        {
-          "name": "Reigns: The Witcher",
-          "desc": "《Reigns》的《巫师》授权衍生作，据估创收19.1万美元。"
-        },
-        {
-          "name": "The Crush House",
-          "desc": "Nerial于2024年在PC推出的叙事惊悚游戏。"
+          "name": "Card Shark",
+          "desc": "一款以18世纪法国赌桌出千为主题的叙事冒险游戏。"
         }
       ]
     },
     {
-      "id": "f079600aab",
-      "title": "AppLovin 起诉 Unity，指控其通过 Ad Quality SDK 违规收集数据",
-      "summary": "AppLovin 请求法院禁止 Unity 通过其免费的 Ad Quality 工具收集数据，双方就广告数据归属爆发诉讼。这属于手游买量与广告变现基础设施层的博弈，对依赖广告变现的休闲游戏团队有间接影响。",
-      "url": "https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/",
+      "id": "e92f0c6b2b",
+      "title": "2XKO 需要'数十万乃至数百万'的高 MAU 基数才能成立",
+      "summary": "Riot Games 首席产品官 Marc Merrill 表示 2XKO 若要长期可持续，月活用户需达到数十万甚至数百万量级。文章透露出免费竞技产品的 MAU 门槛逻辑，对理解长线运营的用户规模要求有参考意义。",
+      "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T10:10:00",
+      "games": [
+        {
+          "name": "2XKO",
+          "desc": "Riot Games推出的免费2v2团队格斗游戏，曾计划作为长期服务型游戏运营。"
+        },
+        {
+          "name": "Street Fighter 6",
+          "desc": "卡普空推出的格斗游戏，文章称其发售影响了2XKO的上线表现。"
+        },
+        {
+          "name": "Rising Thunder",
+          "desc": "Radiant Entertainment推出的免费1v1格斗游戏Alpha，被视为2XKO的重要灵感来源。"
+        }
+      ]
+    },
+    {
+      "id": "14717902b3",
+      "title": "Supercell、Rovio、Playdemic、First Touch、Sybo 等支持 SpecialEffect 的 One Special Day",
+      "summary": "残障玩家慈善机构 SpecialEffect 的年度旗舰活动启动，多家手游厂商捐出部分内购与 DLC 收入。反映头部休闲手游公司在公益与品牌层面的联动方式。",
+      "url": "https://mobilegamer.biz/supercell-rovio-playdemic-first-touch-sybo-and-more-back-specialeffects-one-special-day/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-01T10:19:08",
-      "games": []
+      "published_at": "2026-10-02T09:01:31",
+      "games": [
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell的基地建造与部落对战策略手游。"
+        },
+        {
+          "name": "Brawl Stars",
+          "desc": "Supercell的多人在线竞技场射击/乱斗手游。"
+        },
+        {
+          "name": "Clash Royale",
+          "desc": "Supercell的实时卡牌对战与塔防策略手游。"
+        },
+        {
+          "name": "Angry Birds 2",
+          "desc": "Rovio的物理弹射益智续作手游。"
+        },
+        {
+          "name": "Golf Clash",
+          "desc": "Playdemic的实时高尔夫对战手游。"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "Sybo的无限跑酷手游。"
+        },
+        {
+          "name": "Dream League Soccer",
+          "desc": "First Touch的移动端足球游戏。"
+        },
+        {
+          "name": "8 Ball Pool",
+          "desc": "Miniclip的在线台球对战游戏。"
+        },
+        {
+          "name": "Open Drive",
+          "desc": "SpecialEffect推出的首款iOS游戏，面向多种身体障碍玩家设计。"
+        }
+      ]
+    },
+    {
+      "id": "36cd4687d7",
+      "title": "Disney 目前没有收购 Epic Games 的计划",
+      "summary": "针对今年春季流传的收购传闻，Disney 总裁兼创意总监 Dana Walden 部分否认了相关说法。属于大厂资本与投资动向类资讯，与休闲游戏品类关联一般。",
+      "url": "https://gameworldobserver.com/2026/10/02/disney-is-not-planning-to-purchase-epic-games-at-least-not-at-the-moment",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T13:33:45",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games的跨平台大逃杀/沙盒建造游戏，常与迪士尼旗下IP联动。"
+        }
+      ]
     }
   ]
 }
