@@ -10367,5 +10367,31 @@
     "store_url": "https://store.steampowered.com/app/1771300",
     "store": "steam"
   },
-  "Assassin's Creed series": null
+  "Assassin's Creed series": null,
+  "ARC Raiders": {
+    "name": "ARC Raiders Companion Helper",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/5e/ffdf5ed0-fa60-b54e-8c75-3c987a746257/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
+    "description": "Arc Raiders Companion Helper is an unofficial informational app created for fans of Arc Raiders and extraction shooter games.\n\n\n\nThe app helps players better understand genre mechanics, explore maps, organize gear ideas, and learn general strategies in a simple and structured way.\n\n\n\nFeatures:\n\n\n\nGeneral guides for sci-fi FPS and extraction shooters\n\nMaps and location overviews\n\nExample loadouts and gear concepts\n\nTips for tactics and survival\n\nContinuously updated knowledge base\n\n\n\nWho it’s for:\n\n\n\nNew players learning the genre\n\nPlayers who want structured reference material\n\nFans of sci-fi and tactical shooters\n\n\n\nImportant notice:\n\n\n\nThis is an unofficial, fan-made application\n\nIt is not affiliated with, endorsed, or sponsored by any game developers or publishers\n\nAll content is provided for informational purposes only\n\n\n\nSubscription Information\n\n\n\nSome features may require a subscription.\n\nPayment will be charged to your Apple ID account at confirmation of purchase.\n\nThe subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.\n\nYou can manage or cancel your subscription at any time in your Apple ID account settings after purchase.\n\nNo refunds are provided for unused portions of the subscription period.\n\n\n\nLegal\n\n\n\nTerms of Use: https://docs.google.com/document/d/17ge3OdsQipg_vFMBSrgFxA7CTxXRdBXCKMz6CvmaYmg/edit?tab=t.0#heading=h.l97jy7i87fdb\n\n\n\nPrivacy Policy: https://docs.google.com/document/d/1s4o6OFXCml93_HTLAt7T2sEiEuHNKc6kQVtd1IclckI/edit?tab=t.0",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/2d/dd/302dddc6-a0a9-14e4-5277-0d06584a8b1e/Frame_587.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/3e/a2/623ea2cc-11f1-59f5-ddb5-2bd063527d85/Frame_5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/cb/83/a8cb8313-66e0-d190-0599-51cce28d3e3c/Frame_7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/6c/62/d76c629b-7de0-4a36-37cb-e32d04095bf8/Frame_8.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/arc-raiders-companion-helper/id6757082968?uo=4",
+    "store": "appstore"
+  },
+  "The Finals": {
+    "name": "THE FINALS",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/61f55ef49a74c76bf9fda9ec35bc3101eeee2b3e/header.jpg?t=1789034839",
+    "description": "THE FINALS is the world’s first Dynamism Shooter, a free-to-play, fast-paced, physics-driven, first-person shooter set on the stage of the biggest Gameshow of the future! Fight for Fans and fortune in fully-destructible, virtual Arenas that guarantee no two rounds will ever play the same!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/320437621741c7be66de4b42d7633b9b0a60fd49/ss_320437621741c7be66de4b42d7633b9b0a60fd49.600x338.jpg?t=1789034839",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/3c20dd5e9fcfbbbabe8f9050b06de2c1a8eba471/ss_3c20dd5e9fcfbbbabe8f9050b06de2c1a8eba471.600x338.jpg?t=1789034839",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/aba261218adfb917756e1736c33bea77597d47ee/ss_aba261218adfb917756e1736c33bea77597d47ee.600x338.jpg?t=1789034839",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/4e4afb25df89ca2821c0d16cd32d55a0d3c5366d/ss_4e4afb25df89ca2821c0d16cd32d55a0d3c5366d.600x338.jpg?t=1789034839"
+    ],
+    "store_url": "https://store.steampowered.com/app/2073850",
+    "store": "steam"
+  }
 }
