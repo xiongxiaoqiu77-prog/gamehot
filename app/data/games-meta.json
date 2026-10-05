@@ -10314,5 +10314,44 @@
     ],
     "store_url": "https://apps.apple.com/us/app/honkai-star-rail/id1599719154?uo=4",
     "store": "appstore"
+  },
+  "Hellblade: Senua’s Saga": null,
+  "Bleeding Edge": {
+    "name": "Bleeding Edge",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1189800/header.jpg?t=1776350195",
+    "description": "Grab your team and tear it up in Bleeding Edge, an electrifying online brawler where every fighter comes mechanically enhanced for mayhem!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1189800/ss_54bad30945b7b71a455fde0c6b29852af703bde9.600x338.jpg?t=1776350195",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1189800/ss_c4ed8f8100ef45fc742b06ca07539e0607691ec1.600x338.jpg?t=1776350195",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1189800/ss_0cc27f378aee7cc56a4fa19b505d2738303a8341.600x338.jpg?t=1776350195",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1189800/ss_f4c5e35450770f32cbdfce9cc25070649b24fac8.600x338.jpg?t=1776350195"
+    ],
+    "store_url": "https://store.steampowered.com/app/1189800",
+    "store": "steam"
+  },
+  "Enslaved": {
+    "name": "Enslaved by oiid",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/aa/8e/c9aa8ed3-e11d-28df-a2a5-9c0b26a53742/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+    "description": "We are excited and proud to introduce our very own Enslaved superfan app!  \n\nOur aim is to connect with our listeners in a more direct way, and to create a space where you guys also can get to know each other and keep in touch across physical and geographical boundaries. \n\n  Get yourself updated on live shows, take deep dives into our recorded music and receive exclusive first dibs on band news straight from the source, merchandise and interact directly with us.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/61/34/2161343c-16f5-09f2-35dc-3eac96181bec/1_Feed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/48/e1/4748e197-4a32-1c1e-8fd5-275c7daf3414/3_Mixer.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/9e/21/c39e2116-c54a-8de5-4914-3efc66ab5fa9/2_Library.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/enslaved-by-oiid/id6743796573?uo=4",
+    "store": "appstore"
+  },
+  "DmC: Devil May Cry": {
+    "name": "DmC: Devil May Cry",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220440/header.jpg?t=1768870001",
+    "description": "In this retelling of Dante's origin story which is set against a contemporary backdrop, DmC Devil May Cry™ retains the stylish action.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220440/ss_5e89cc2ac0468afa40bd9bd6932b41a0db9016f5.600x338.jpg?t=1768870001",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220440/ss_4ee2134ba7a118241db88f211660d28bedfc062c.600x338.jpg?t=1768870001",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220440/ss_195b2507916f1e1b075e4dc9cf697bd383219dfd.600x338.jpg?t=1768870001",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220440/ss_9edb3da7e3a6fe2ac99f7964da44894b4d9c8f87.600x338.jpg?t=1768870001"
+    ],
+    "store_url": "https://store.steampowered.com/app/220440",
+    "store": "steam"
   }
 }
