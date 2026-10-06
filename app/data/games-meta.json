@@ -10406,5 +10406,59 @@
     ],
     "store_url": "https://apps.apple.com/us/app/nba-2k25-myteam/id6502691094?uo=4",
     "store": "appstore"
+  },
+  "Crazy Taxi: World Tour": {
+    "name": "Crazy Taxi: World Tour",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924540/7ccfd3f4ac88238c6719e5e161d57b0524e18bce/header.jpg?t=1789596114",
+    "description": "Play as Axel in an all-new, high-octane adventure as he sets out to recover his stolen taxi and chase down a mysterious organization causing chaos around the world. Race through iconic locations and tackle extreme missions in the long-awaited return of the classic series.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924540/a962fae0f189ebd35fd8d491ea8233d79520acfc/ss_a962fae0f189ebd35fd8d491ea8233d79520acfc.600x338.jpg?t=1789596114",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924540/82e02e5174bd3754cb4c355cb0b2f5d3ddb59d5c/ss_82e02e5174bd3754cb4c355cb0b2f5d3ddb59d5c.600x338.jpg?t=1789596114",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924540/47fb25190c221587a4e8727edcb5dbdfb9bf4626/ss_47fb25190c221587a4e8727edcb5dbdfb9bf4626.600x338.jpg?t=1789596114",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924540/f20bc8c65913d730378b5fa230d16f3eca521ad3/ss_f20bc8c65913d730378b5fa230d16f3eca521ad3.600x338.jpg?t=1789596114"
+    ],
+    "store_url": "https://store.steampowered.com/app/2924540",
+    "store": "steam"
+  },
+  "Sky": {
+    "name": "Sky Guide - 3D星座星图指南",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/b1/02/92b102c4-c815-91de-ed56-3f0e2a6763cb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+    "description": "想体验手握明月摘星辰的浪漫吗？只需打开 Sky Guide，将设备举过头顶，即可自动识别任何星星、星座、行星和人造卫星！使用方便、功能强大，任何经验水平的追星人皆可适用，带给你极致的观星体验。\n\n那是恒星还是火星？夜空的奥秘从未如此刻一般直白清晰。通过 Sky Guide 的 AR 模式，在现实世界的天空之上叠加示意图形，毫不费力地直观呈现出天空中的繁星。你是否曾经努力地想要辨别各个星座，但又不愿在纸质的星象图上费力摸索？现在，这些都不再是问题了。\n\n一个光点划过夜空，光芒越来越盛。那会是什么呢？如此疑惑将不复存在。你可以跟踪某一颗明亮的卫星，还可以在国际空间站即将飞过你所在位置时，及时收到通知。\n\n把握过去和未来。了解当晚的月亮将会出现在哪里，以便你可以抓拍到完美的照片，或亲眼见证史上最壮观的彗星。\n\n无论你要寻找射手座、土星还是下一场大型流星雨，Sky Guide 都能提供海量信息和丰富的图示，来充分满足你的好奇心。此外，还可以通过 Sky Guide 的个性化日历，随时掌握在特定位置发生的天文事件（如日食和月食）的最新动态。\n\n无论有无 Wi-Fi、蜂窝移动网络服务和 GPS，Sky Guide 都可以照常运行。所以，无论你走到哪里，所有信息皆触手可及。\n\n和我们的数百万名用户一起，通过 Sky Guide 与星辰建立更深厚的联系。它可能会永久地改变你看待头顶这片天空的方式。\n\n使用条款 https://www.fifthstarlabs.com/terms-of-use",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/d9/c3/50d9c3ea-0765-fe1f-cba8-ae57807eba7d/01_APP_IPHONE_67.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/78/16/f4781624-0372-8a8c-5e2e-330baa290532/02_APP_IPHONE_67.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/67/c9/c467c950-94fa-a130-741c-d66158d78b11/03_APP_IPHONE_67.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/6b/2e/cd6b2e90-a98a-9a7c-c54c-ff2a2fefc47b/04_APP_IPHONE_67.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/sky-guide-3d%E6%98%9F%E5%BA%A7%E6%98%9F%E5%9B%BE%E6%8C%87%E5%8D%97/id576588894?uo=4",
+    "store": "appstore"
+  },
+  "Project Comet": null,
+  "Marvel Strike Force": {
+    "name": "MARVEL Strike Force: Squad RPG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/46/04/6f460489-7741-ba1a-3c21-c86b480a60f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "The fate of the world is in your hands playing MARVEL Strike Force! Team up with Marvel super heroes and super villains in this action-packed, visually stunning free-to-play game for iPhone or iPad. Defend Earth against Marvel's legendary threats by building teams of Marvel characters from every corner of the multiverse like Mister Fantastic, Loki, Venom, Spider-Man, Captain America, Iron Man, and more. Inject hero blood into your veins by dominating the competition in a slew of game modes ranging from Alliance team-ups to single player rumbles. The world is watching… answer the call in MARVEL Strike Force!\n\n\nASSEMBLE YOUR SQUAD\nForm a RPG squad of powerful MARVEL Super Heroes and Super Villains in a fight to save the universe. Mix and match characters from all corners of the multiverse for an experience unlike other single player games.\n\nSTRENGTH THROUGH EVOLUTION\nOutfit and upgrade your Marvel Super Heroes and Super Villains to become stronger than ever before. Strengthen characters for specific single player game modes or to dominate across every battle.\n\nSTRATEGIC DOMINATION\nWho you bring to the fight matters in this super hero game. Pair up specific heroes and villains in squads to form synergies and take out enemies. Utilize RPG fight tactics during 5v5 battles to vanquish the greatest villains of the Marvel Universe.\n\nEPIC COMBAT\nExperience groundbreaking RPG gameplay cinematics in this super hero game as your squads unleash dynamic chain combos with a single tap.\n\nSTUNNING VISUALS\nPlay through a visually stunning mobile game experience leading your favorite Marvel characters in this super hero game. The world of Marvel has never looked so good in a single player game!\n\nHeroes assemble: Play MARVEL Strike Force, the best RPG today!\n\nBy downloading this app, you agree to our Privacy Policy and Terms of Service, available at https://scopely.com/privacy/ and https://scopely.com/tos/.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/8e/d1/f18ed17a-688f-6f13-4393-c533e30b90b7/MSF-64049_SM_Quick_Iteration_Screenshot_-_Design_resizes_2868x1320_26xc3eb40o.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/01/61/4501616d-0ff9-3b95-fa9b-8769a827761e/MSF-64248_SM_Quick_Iteration_Screenshot2__2868x1320_5lgpz4gvry.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/66/43/f6664388-ea8a-4c27-5ac3-bc4a1b42b2cd/MSF-40980_ASOScrenshotsPack_2796x1290_SS2_lrqfudl8ed.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/e6/4a/dbe64a13-d55f-df32-9680-08ef0c522b53/MSF-40980_ASOScrenshotsPack_2796x1290_SS3_bly7r8u3bc.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/marvel-strike-force-squad-rpg/id1292952049?uo=4",
+    "store": "appstore"
+  },
+  "WWE Generations": null,
+  "Tiny Eden": {
+    "name": "Tiny Eden",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/0b5b185315c8df684c2566c2e9c74fb85432b9aa/header.jpg?t=1788941142",
+    "description": "A cozy first-person farming sim, set in the heart of a futuristic city. Grow plants, cook what you harvest, and discover new varieties as you turn your apartment into a thriving urban garden, from a small balcony to a rooftop paradise.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/f0726fc62b8cb278f06a0765703106c0c2b06585/ss_f0726fc62b8cb278f06a0765703106c0c2b06585.600x338.jpg?t=1788941142",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/e74ebbecfed8e0819b92ebeac2a9a9f31b9f2ffa/ss_e74ebbecfed8e0819b92ebeac2a9a9f31b9f2ffa.600x338.jpg?t=1788941142",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/80909dd37f0fb8feacc48ec0a308e2444615af63/ss_80909dd37f0fb8feacc48ec0a308e2444615af63.600x338.jpg?t=1788941142",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/2ac9442a3f5f20e20723747054aab35ff7be1b52/ss_2ac9442a3f5f20e20723747054aab35ff7be1b52.600x338.jpg?t=1788941142"
+    ],
+    "store_url": "https://store.steampowered.com/app/3375110",
+    "store": "steam"
   }
 }
