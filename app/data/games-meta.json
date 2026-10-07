@@ -10603,5 +10603,31 @@
     ],
     "store_url": "https://apps.apple.com/us/app/peppermint-services/id6738274984?uo=4",
     "store": "appstore"
+  },
+  "Indiana Jones and the Great Circle": {
+    "name": "Indiana Jones and the Great Circle",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
+    "description": "Uncover one of history’s greatest mysteries in a first-person, single-player adventure. The year is 1937, sinister forces are scouring the globe for the secret to an ancient power connected to the Great Circle, and only one person can stop them - Indiana Jones™.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_8221cf729bc6491919a8532679be64f1c67dcdaf.600x338.jpg?t=1778168392",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_ef822ff1dca1f8badda449656bc4c969b60a784f.600x338.jpg?t=1778168392",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_993951f7591595daa6e121d8f5aa77d61080efbd.600x338.jpg?t=1778168392",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_e95faa8f895e21296c5dcb35842e5480657148bc.600x338.jpg?t=1778168392"
+    ],
+    "store_url": "https://store.steampowered.com/app/2677660",
+    "store": "steam"
+  },
+  "Hogwarts Legacy": {
+    "name": "Hogwarts Legacy",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+    "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.600x338.jpg?t=1790708992",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.600x338.jpg?t=1790708992",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.600x338.jpg?t=1790708992",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.600x338.jpg?t=1790708992"
+    ],
+    "store_url": "https://store.steampowered.com/app/990080",
+    "store": "steam"
   }
 }
