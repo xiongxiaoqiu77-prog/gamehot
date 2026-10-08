@@ -10629,5 +10629,18 @@
     ],
     "store_url": "https://store.steampowered.com/app/990080",
     "store": "steam"
+  },
+  "Tasty Travels": {
+    "name": "Tasty Travels: Merge Game",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/84/b5/a384b58b-569b-9e31-07a2-28816b966e74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Embark on a culinary journey in Tasty Travels: Merge Game, where your passion for cooking meets the excitement of exploration! Merge ingredients to create mouth-watering dishes as you travel the world!\n\nUnlock the secrets of world cuisine, master regional specialties, and share your gastronomic tales with friends everywhere!\n\nStay connected with Tasty Travels: Merge Game on Facebook for exclusive offers and updates!\nFacebook: https://www.facebook.com/profile.php?id=61551040873010\n\nMerge Ingredients \n • Discover and merge over 500 unique ingredients across different levels!\n • Drag and merge ingredients in your home kitchen to whip up fabulous new dishes!\n • Complete quests for tourists to unlock new recipes and destinations, from renowned culinary capitals to quaint town squares!\n\nSocial Interaction \n • Connect with friends worldwide, share your culinary adventures, and earn their admiration!\n • Share recipes to enhance your food adventures and host delightful virtual cooking parties!\n\nUnlock Travel Destinations \n • Collect coins to unlock exciting new travel destinations, from bustling town markets to serene garden parks!\n • Visit and savor the ambiance of the world's most celebrated culinary cities, each brimming with unique flavors and traditions!\n • Dive into the immersive challenges scattered across each new destination, solving culinary-themed puzzles to progress!\n • Unearth hidden gems in charming towns, where local chefs challenge you with their master recipes.\n\nEngaging Stories \n • Embark on a captivating story that takes you through various towns, each with its own mystery and unique recipes to uncover!\n • Help a young girl realize her dream of becoming a vlogger, exploring her family's secrets as she travels the world with her friends.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/2c/cb/fb2ccbfa-a1d9-a599-cc97-9dbfe4a96ff1/1290x2796-0_english.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/5d/bf/665dbf0a-25e4-abd8-8e1b-5d5222e44fb9/1290x2796-1a_english.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/df/30/0fdf3004-300a-6169-599a-d7a58713d760/1290x2796-2_english.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/ff/e4/82ffe412-e086-2481-4b57-8cb088914b89/1290x2796-3_english.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=4",
+    "store": "appstore"
   }
 }
