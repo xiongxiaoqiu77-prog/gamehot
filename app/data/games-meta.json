@@ -10947,5 +10947,32 @@
     ],
     "store_url": "https://store.steampowered.com/app/1446780",
     "store": "steam"
+  },
+  "Barbie: Game Girl": null,
+  "Dead Space": {
+    "name": "Dead Space",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576",
+    "description": "The sci-fi survival-horror classic returns, completely rebuilt to offer an even more immersive experience — including visual, audio, and gameplay improvements — while staying faithful to the original game’s thrilling vision.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_b4b02766216117747640523bb6e258d44053e355.600x338.jpg?t=1777396576",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_179cb4f80343d464ea2d7712b5982555271ad707.600x338.jpg?t=1777396576",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_06f8cc8ad27e53078b09df03c5c3fb1c75459960.600x338.jpg?t=1777396576",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_a7a0bceba764978d54ff0bb7ba0f0aa08487cd05.600x338.jpg?t=1777396576"
+    ],
+    "store_url": "https://store.steampowered.com/app/1693980",
+    "store": "steam"
+  },
+  "The Callisto Protocol": {
+    "name": "The Callisto Protocol™",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1760331403",
+    "description": "Survive to escape the horrors of Callisto and uncover the dark secrets of Jupiter’s dead moon.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_4daaba46ca4be453dfdc2c1c2af5f96c85921457.600x338.jpg?t=1760331403",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_187717234058d8d23583cbde9dcd0b22456fcd2d.600x338.jpg?t=1760331403",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_3eaa6817de5d3849c0f6fa04b937165147804c82.600x338.jpg?t=1760331403",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/ss_bcee7d0948cdcd3ff45012f10ebc6fc73a8ffc61.600x338.jpg?t=1760331403"
+    ],
+    "store_url": "https://store.steampowered.com/app/1544020",
+    "store": "steam"
   }
 }
