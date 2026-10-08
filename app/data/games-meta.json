@@ -10642,5 +10642,32 @@
     ],
     "store_url": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=4",
     "store": "appstore"
-  }
+  },
+  "Arkham": {
+    "name": "Arkham: Crypto Intelligence",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/b0/94/deb09496-83fc-434b-b5bb-a50431bd6e70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "Arkham is a blockchain data analytics platform used by millions of traders, investors, and researchers to understand the people and companies behind blockchain activity.\n\nArkham deanonymizes blockchain addresses - connecting wallets to famous people and large companies. With 3 billion address labels and 750,000+ unique entity profiles, you can see what top traders, whales, companies, ETFs, and influencers are doing using live on-chain data.\n\nLIVE BLOCKCHAIN DATA\n\nSearch any address, entity, or token. View full portfolio breakdowns, balance histories, and transaction flows across supported chains.\n\nTrack the wallets of institutions like Strategy, Tesla, and the Bitcoin & ETH ETFs.\n\nAnalyze any wallet's P&L, counterparties, and historical performance.\n\nALERTS & DASHBOARDS\n\nSet alerts on any on-chain transaction. Get notified via email or Telegram when wallets move funds\n\nMonitor exchange reserves, ETF inflows/outflows, and stablecoin movements.\n\nBe notified in real-time when influencers are buying or selling any token.\n\nWHO USES ARKHAM\n\nArkham is used by traders to track the markets, hedge funds to track their competition, journalists to find stories hidden in data - and compliance, investigations and research teams to track hackers, criminals and other nefarious actors.\n\n-\n\nArkham is free to use. Simply download, register an account and get started.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/c4/d6/18c4d606-1099-0556-5716-fe21e41a02bd/1284x2778_1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/28/a4/0828a483-0e53-2cbc-5640-0ed927c71044/1284x2778_4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/d6/95/41d69556-3be5-4efa-79ce-30d6a0d8599e/1284x2778_2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/34/d2/fd34d2ff-aae2-40db-0f55-96729b39893d/1284x2778_3.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/arkham-crypto-intelligence/id6746058457?uo=4",
+    "store": "appstore"
+  },
+  "Lego": {
+    "name": "LEGO® Builder: 3D Instructions",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/9e/90/af9e9061-a4d4-feee-dee6-616a739c2b78/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "LEGO® Builder is the official building instructions app for LEGO® sets that guides you on an easy, fun, and collaborative digital building adventure.\n\nBuild your set like never before:\n\n- Step into a new way of building with an intuitive 3D building experience that lets you zoom, rotate, and view LEGO® sets from every angle.\n\n- Use step-by-step digital building instructions to see each brick clearly and bring your set to life with confidence.\n\nBuild Together with friends and family!\n\n- Build Together is a fun, social building experience designed for multiple builders to work together.\n\n- You can team up and divide tasks to complete your LEGO® set as a group - perfect for fun social family nights, birthdays, or holidays like Valentine’s Day, Easter, Mother’s Day, Father’s Day or Christmas.\n\n- Share a PIN code to join as a host or builder, take turns completing building steps, and collaborate to finish the model together.\n\n- Check in the app to see if your LEGO® set can be built using the Build Together feature.\n\nDiscover thousands of LEGO® instructions\n\n- Explore a digital library of LEGO® building instructions from 2000 to today.\n\n- Search by set name or number, or scan the QR code on your instruction manual to open it instantly in the app.\n\nFollow a story as you build\n\n- Unlock enriched content and guided building experiences for select LEGO® themes, bringing extra fun and imagination to your 3D building journey.\n\nUnlock more with a LEGO® Account\n\n- Save your progress, build a digital collection of your LEGO® sets, and track your total number of bricks.\n\n- Pick up right where you left off - anytime, anywhere.\n\nTrack your building journey\n\n- Now you can keep a record of your completed sets, see your total bricks built, and celebrate your progress as a LEGO® Builder.\n\nThings to keep in mind\n\n- You’ll need a stable internet connection to use this app. We’re always adding new digital building instructions so you can expand your collection, explore new sets, and find even more ways to build together.\n\n- Want to know if your set includes digital instructions or Build Together mode? Check in the app and start your collaborative adventure today!\n\nWe're eager to hear how we can make the LEGO® Builder app even better for you! Please leave us your thoughts and recommendations in the reviews to help us make the LEGO® Builder app even better.\n\nLEGO, the LEGO logo, the Brick and Knob configurations, and the Minifigure are trademarks of the LEGO Group. © 2025 The LEGO Group.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/82/a8/d782a8f7-7d8d-bebc-0297-ea7578223b48/Lego_Builder_iOS_US_1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/f3/f2/94f3f254-e4b8-10df-ebab-0a9a3b19b855/Lego_Builder_iOS_US_2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/ef/21/24ef21d8-3897-38a5-668f-449a7a4cc8a0/Lego_Builder_iOS_US_3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/4a/b0/884ab064-857d-f546-010a-ea03e1277931/Lego_Builder_iOS_US_4.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/lego-builder-3d-instructions/id1486159728?uo=4",
+    "store": "appstore"
+  },
+  "1943: Rise of Hydra": null
 }
