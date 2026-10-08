@@ -10988,5 +10988,31 @@
     "store_url": "https://apps.apple.com/us/app/what-remains-of-edith-finch/id1508051949?uo=4",
     "store": "appstore"
   },
-  "Project Gardens": null
+  "Project Gardens": null,
+  "Necesse": {
+    "name": "Necesse",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/4b2e7f5253b4595a523e5c8b27a8ea6214e14ac6/header_alt_assets_5.jpg?t=1790679641",
+    "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/8e73418f3635e6f80474a64080553123cc787eb1/ss_8e73418f3635e6f80474a64080553123cc787eb1.600x338.jpg?t=1790679641",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/418476bed069ce151c1e81081b9e167c1f5b8d0d/ss_418476bed069ce151c1e81081b9e167c1f5b8d0d.600x338.jpg?t=1790679641",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_94e7f9f4e07b5fd7190ee650d35bdeefd7517e34.600x338.jpg?t=1790679641",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_c6c639a500f4190d74a4a9947a291f1064baad91.600x338.jpg?t=1790679641"
+    ],
+    "store_url": "https://store.steampowered.com/app/1169040",
+    "store": "steam"
+  },
+  "Far Far West": {
+    "name": "Far Far West",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/2d55092d45b1784dcc7cb0ba6ad3f919e62eb5d0/header.jpg?t=1791297066",
+    "description": "Yee-haw, Cowboys! Team up in this chaotic 1-4 player co-op shooter. Journey to the Far Far West to blast monsters, sling spells, complete missions, and collect bounties. Work as a team to get in, get paid and get out (mostly) alive.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/110f3af90aadc45fa41258a4a9938f4c7d43e471/ss_110f3af90aadc45fa41258a4a9938f4c7d43e471.600x338.jpg?t=1791297066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/e01f460ce19362a79a858ce8dee89e071f5847b2/ss_e01f460ce19362a79a858ce8dee89e071f5847b2.600x338.jpg?t=1791297066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/e07364ba6284e001b6ca7838bedc1fce0969352c/ss_e07364ba6284e001b6ca7838bedc1fce0969352c.600x338.jpg?t=1791297066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/889fe66d51444de10db7c9ae445e8ece0d706b83/ss_889fe66d51444de10db7c9ae445e8ece0d706b83.600x338.jpg?t=1791297066"
+    ],
+    "store_url": "https://store.steampowered.com/app/3124540",
+    "store": "steam"
+  }
 }
