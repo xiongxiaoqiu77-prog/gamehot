@@ -10974,5 +10974,19 @@
     ],
     "store_url": "https://store.steampowered.com/app/1544020",
     "store": "steam"
-  }
+  },
+  "What Remains of Edith Finch": {
+    "name": "What Remains of Edith Finch",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/9b/ff/6c9bffa0-09cc-b70f-ce72-bcc1bd5b22f6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "description": "*ATTENTION* Works with compatible Apple devices below.\n\nWhat Remains of Edith Finch is a collection of strange tales about a family in Washington state. \n\nAs Edith, you’ll explore the colossal Finch house, searching for stories as she explores her family history and tries to figure out why she's the last one in her family left alive. Each story you find lets you experience the life of a new family member on the day of their death, with stories ranging from the distant past to the present day. \n\nThe gameplay and tone of the stories are as varied as the Finches themselves. The only constants are that each is played from a first-person perspective and that each story ends with that family member's death. \n\nUltimately, it's a game about what it feels like to be humbled and astonished by the vast and unknowable world around us. \n\nCreated by Giant Sparrow, the team behind the first-person painting game The Unfinished Swan.\n\niPhone - 7th generation and higher\niPhone SE - 2nd generation\niPad - 6th generation and higher\niPad Air - 3rd generation and higher\niPad mini - 5th generation and higher\niPod touch - 7th generation\niPad Pro - 2nd generation and higher",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/38/97/dd/3897dd53-5abc-03fe-eb84-cd178b8493a0/8c25189f-cad3-4ea3-bf04-54ad44f1fc8b_Finch_Beach_iOS_5-5.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/93/8d/eb/938deb81-e8d3-5cc6-1068-7696c194aec8/9722507e-a2e2-47a9-bbf3-fb84f6aae281_Finch_Coronation_iOS_5-5.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/cc/8c/fa/cc8cfa88-d1f4-4b3c-8273-d2949caa6eb6/25bee27a-eb55-4d5a-a9f4-1a515b6fabe4_Finch_Coronation2_iOS_5-5.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/4b/e1/8f/4be18fff-4890-3ad4-fbd0-220fbe6cfc4a/25e22687-905b-4519-8860-db4a6a386aff_Finch_Swing_iOS_5-5.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/what-remains-of-edith-finch/id1508051949?uo=4",
+    "store": "appstore"
+  },
+  "Project Gardens": null
 }
