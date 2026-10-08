@@ -10710,5 +10710,44 @@
     "store": "steam"
   },
   "Minecraft Dungeons 2": null,
-  "World of Warcraft Forever": null
+  "World of Warcraft Forever": null,
+  "Dungeons & Dragons": {
+    "name": "Spells for Dungeons & Dragons",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/b0/59/09b059b0-767e-d5cd-0e10-645ac6f0635d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Finally you can manage your Spells for Dungeons & Dragons (D&D) Fifth Edition (5e) anywhere and use them any time!\n\nStop browse the books for hours and slow down each session: open the app, type the name of the spell and you'll instantly have all the details, with some beautiful illustrations.\n\n---\n\nPermission to copy, modify and distribute the files collectively known as the System Reference Document 5.1 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a.\n\n---\n\nAbout Subscription:\n\n- Spells for Dungeons & Dragons (D&D) Fifth Edition (5e) provides 1-month membership and 1-year membership for you to subscribe;\n- Payment will be charged to your iTunes account at confirmation of purchase;\n- Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period;\n- Your account will be charged for renewal within 24-hours before the end of the current period;\n- You can manage your subscription and switch off the auto-renew by accessing your device Settings;\n- All personal data is handled over under the terms and conditions of Spells for D&D 5e's Privacy Policy. More details can be found here:\n\nhttps://spells.altervista.org/terms-conditions/\nhttps://spells.altervista.org/privacy-policy/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/58/4f/be/584fbede-fb27-e779-e98b-e35093e59752/989eb53d-2f6a-4592-ab02-8038540c76f0_image1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/56/d2/89/56d2896c-4064-a0bb-8a2b-3e47fad512f6/a0d6c2f8-7bb5-4f15-9b87-4d1d07c9b7e1_image2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ff/56/3f/ff563fa7-ab3f-115c-0e79-1b688ca881f6/0ba87502-b78b-429f-8e7f-e97d9ba62c85_image3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/4c/08/fb/4c08fb41-5926-8e36-ea2e-51ceab20d6b2/1743c095-1cfd-41b3-a38b-42ccfd3250ce_image4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/spells-for-dungeons-dragons/id1474173779?uo=4",
+    "store": "appstore"
+  },
+  "Duel Masters": {
+    "name": "Duel Masters: Player Challenge",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/d4/ff/fbd4ff18-4ab7-a39d-3c5c-2b8bf59a8511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to 2 Player Games Online! Play your favorite 1v1 two-player games and make friends. Enjoy minimal graphics and thrilling duels with ongoing challenges. Compete in the cup and keep the excitement going!\n\nChoose from various games like Ship Battle, Soccer Challenge, Grab the Fish, Billiards, Tic Tac Toe, Ping Pong, and more! Play offline or on the same device. It's fun, fast, and perfect for couples or friends. Join now and make new friends while playing multiplayer and casual games!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1d/64/df1d6446-9ff8-7bf5-8db0-2e2b35fba749/8a188ea0-ab7b-4693-baef-86cc55b7e0dd_12.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/7f/a3/427fa340-e012-bc7e-35e4-2e9a113ba070/1a465f58-ec2a-48cb-bf44-963226f0a0e4_7.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/eb/f2/18ebf2c3-bef9-4b3d-1e92-eee73b5a1983/0d37cd19-5b44-432a-9420-7274c9a80277_5.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/73/83/087383be-ea1e-bf29-6b7b-22bb7ff6c496/4594b9e6-7e41-4075-9b39-c0f71442a197_240624_DuelMaster_LYDH_06A24_1242x2208_A3.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/duel-masters-player-challenge/id6499241466?uo=4",
+    "store": "appstore"
+  },
+  "Magic: The Gathering Arena": {
+    "name": "Magic: The Gathering Arena",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/7e/77/b97e77a3-2710-0af3-bc5e-218531b60263/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to the digital Multiverse! Magic: The Gathering is the original trading card game- and now you can download and start playing for free with your friends from anywhere!\n\nMagic: The Gathering Arena empowers you to discover your strategy, meet the planeswalkers, explore the multiverse, and battle friends around the world. Collect, build and master your unique deck that will become its own legend. Your battle is only the beginning; duel on stunning battlefields, and enjoy Arena’s game changing battle effects and immerse yourself in the game. Start playing for free, challenge your friends, unlock cards, and feel the magic of the original fantasy CCG!\n\nNO EXPERIENCE NECESSARY\nNever played Magic before? No problem! Magic: The Gathering Arena’s tutorial system takes you through the playstyles so you can find your strategy and decide if you’re the type to overwhelm your opponent with brute strength, if subterfuge is more your style, or anything in between. Meet characters from around the multiverse and try out spells and artifacts that make learning to play the original fantasy collectible card game quick and fun. It’s never been easier to play Magic! Collect cards to build a deck that matches your personality, then master your strategy to battle friends and be part of the TCG that started them all.\n\nGAME ON(LINE)\nThe original TCG is now digital! Explore the fantasy worlds of Magic: The Gathering Arena and build your deck, play a variety of game formats to collect cards, master multiple strategies, and hone your skills against friends or the AI. With multiple game formats like Draft and Brawl, 15 unlockable collectible decks, and explosive card combo effects: Your ideal Magic: The Gathering playstyle is at your fingertips! Show off eye-popping cosmetics like avatars, card sleeves, and pets and collect daily rewards to grow your collection and build powerful decks that reflect your personal strategy.\n\nCHALLENGE AND PLAY\nDuel your friends for glory or enter in-game tournaments for exciting prizes! With Draft and Brawl pairing, there is always someone to game with. Special in-game events offer exciting rewards, and with Esports qualifiers your Pro-Magic dreams are closer than you think in the Arena Premier Play League! Queue into casual battles to hone your strategy at your own pace, or battle in Esports qualifiers and frequent tournaments to flaunt your mastery.\n\nFANTASY AND MAGIC\nDive into the fantasy planes of Magic: The Gathering and write your own legend through Magic’s immersive lore and vibrant card art. Find your path through the multiverse using only favorite characters and their most iconic spells and artifacts, or create a theme deck with a narrative that makes sense only to you. Your story is only just beginning!\n\nAll prices inclusive of VAT. \nWizards of the Coast, Magic: The Gathering, Magic: The Gathering Arena, their respective logos, Magic, the mana symbols, the planeswalker symbol, and all character names and their distinctive likenesses are property of Wizards of the Coast LLC. ©2019-2026 Wizards. \nPlease visit https://company.wizards.com/legal/wizards-coasts-privacy-policy to view Wizards of the Coast's privacy policy and https://company.wizards.com/legal/terms to view Wizards of the Coast's terms of use.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/50/ee/1b50ee6a-438d-f956-5a79-303d2906aba2/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_CardGame_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/75/95/3675957d-c46a-26c7-0c86-15368155b907/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_CrossPlatform_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/30/bd/0930bdb9-40f5-06b2-3209-97100ee7a46f/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_CompeteOnline_EN.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/c1/56/d6c1561b-5ab7-adcc-a9bf-c68e88a39799/2208x1242_Wizards_2566B_C1_Evergreen_StorefrontTemplate_ChooseFormat_Mobile_EN.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/magic-the-gathering-arena/id1496227521?uo=4",
+    "store": "appstore"
+  }
 }
