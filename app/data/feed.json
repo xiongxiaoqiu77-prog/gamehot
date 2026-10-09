@@ -1,278 +1,278 @@
 {
-  "updated": "2026-10-09",
-  "generated_at": "2026-10-09T07:00:03.915876",
+  "updated": "2026-10-10",
+  "generated_at": "2026-10-10T07:00:08.292032",
   "articles": [
     {
-      "id": "678cdb7b70",
-      "title": "Paramount 与 Warner 合并为 Skydance 后，其手游产品矩阵长什么样",
-      "summary": "梳理 Skydance 手握的 Harry Potter、Game of Thrones、DC、Star Trek 等 IP 在移动端的产品与授权组合，并指出多重授权协议让版图相当复杂。对关注 IP 改编手游与授权合作的从业者有参考价值。",
-      "url": "https://mobilegamer.biz/as-paramount-and-warner-become-skydance-heres-what-its-mobile-catalogue-looks-like/",
+      "id": "031a49081f",
+      "title": "新游速览：Football Manager、Honor of Kings Chess、Zynga 骰子游戏、Warhammer Survivors 等",
+      "summary": "汇总本周值得关注的新游，包括 Football Manager、Honor of Kings Chess、Zynga 的骰子新作以及 Warhammer Survivors 等，并提及 Crossy Road Rush、Asphalt Track Star 等产品。对把握手游新品方向与品类趋势有直接参考价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-football-manager-honor-of-kings-chess-zyngas-dice-game-warhammer-survivors-and-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-08T14:17:06",
+      "published_at": "2026-10-09T09:48:58",
       "games": [
         {
-          "name": "Game of Thrones: Dragonfire",
-          "desc": "2026年6月2日上线的权游手游，是华纳组合中月IAP收入最高的游戏，7至9月约收入330万至450万美元。"
+          "name": "Football Manager 27",
+          "desc": "Sega 的足球经营模拟游戏，Football Manager 27 Mobile 将于 11 月 10 日通过 Netflix 全球上线移动端，并与 PC/主机版同步推出。"
         },
         {
-          "name": "Game of Thrones: Conquest",
-          "desc": "2017年上线的权游策略手游，仍能带来约100万至120万美元的月IAP收入。"
+          "name": "Football Manager Touch",
+          "desc": "Football Manager 系列通常同期登陆 Apple Arcade 的版本，本作细节尚未公布。"
         },
         {
-          "name": "Mortal Kombat",
-          "desc": "2015年发布的移动版格斗游戏，是华纳第三赚钱的手游，月均IAP收入近100万美元。"
+          "name": "Honor of Kings Chess / 王者万象棋",
+          "desc": "腾讯《王者荣耀》的自走棋衍生作，已在中国 iOS 上线，暂无官方英文名。"
         },
         {
-          "name": "Injustice 2",
-          "desc": "DC题材格斗手游，近30天IAP收入约43.2万美元。"
+          "name": "Honor of Kings",
+          "desc": "腾讯的 MOBA 游戏，《王者万象棋》是其自走棋衍生作。"
         },
         {
-          "name": "Injustice",
-          "desc": "DC题材格斗手游，近30天IAP收入约29.9万美元。"
+          "name": "Dice Companions",
+          "desc": "Zynga 的掷骰子棋盘冒险游戏，正在波多黎各和美国安卓端测试。"
         },
         {
-          "name": "Heads Up!",
-          "desc": "派对猜词手游，近30天IAP收入约28.9万美元。"
+          "name": "Warhammer Survivors",
+          "desc": "Auroch Digital 的 roguelite 弹幕天堂游戏，11 月 10 日登陆移动端、PC、Switch、PS5 和 Xbox。"
         },
         {
-          "name": "DC Worlds Collide",
-          "desc": "DC题材手游，近30天IAP收入约24.6万美元。"
+          "name": "The Conjuring: Unspoken",
+          "desc": "基于《招魂》电影系列的叙事恐怖游戏，10 月 13 日登陆 Netflix TV，会员免费，用手机当控制器。"
         },
         {
-          "name": "Lego Star Wars",
-          "desc": "乐高星战题材旧款手游，月IAP收入约1万至3万美元。"
+          "name": "Crossy Road Rush",
+          "desc": "Atari 将在 Apple Arcade 独占推出的新作，11 月 5 日上线。"
         },
         {
-          "name": "Lego Ninjago",
-          "desc": "乐高幻影忍者题材旧款手游，月IAP收入约1万至3万美元。"
+          "name": "Kami 2+",
+          "desc": "将与《Crossy Road Rush》同期登陆 Apple Arcade 的游戏。"
         },
         {
-          "name": "Lego Marvel Super Heroes",
-          "desc": "乐高漫威超级英雄题材旧款手游，月IAP收入约1万至3万美元。"
+          "name": "Food Stylist+",
+          "desc": "将与《Crossy Road Rush》同期登陆 Apple Arcade 的游戏。"
         },
-        {
-          "name": "Lego Jurassic World",
-          "desc": "乐高侏罗纪世界题材旧款手游，月IAP收入约1万至3万美元。"
-        },
-        {
-          "name": "Lego Batman",
-          "desc": "乐高蝙蝠侠题材旧款手游，月IAP收入约1万至3万美元。"
-        },
-        {
-          "name": "Harry Potter: Hogwarts Mystery",
-          "desc": "Jam City开发的哈利波特叙事冒险手游，典型月IAP收入约160万至180万美元，华纳作为授权方分成。"
-        },
-        {
-          "name": "Harry Potter: Puzzles & Spells",
-          "desc": "Zynga开发的哈利波特三消手游，典型月IAP收入约120万美元。"
-        },
-        {
-          "name": "Harry Potter: Magic Awakened",
-          "desc": "网易运营的哈利波特手游，9月IAP收入升至约100万美元。"
-        },
-        {
-          "name": "Game of Thrones Slots Casino",
-          "desc": "Zynga开发的权游主题老虎机手游，典型月收入约160万美元。"
-        },
-        {
-          "name": "Game of Thrones: Legends",
-          "desc": "Zynga开发的权游手游，月收入约70万美元。"
-        },
-        {
-          "name": "Game of Thrones: Kingsroad",
-          "desc": "Netmarble运营的权游手游，文章称其表现挣扎。"
-        }
-      ]
-    },
-    {
-      "id": "f8613ef296",
-      "title": "Capcom 的 Monster Hunter Rise 疑似将通过 Netflix 登陆移动端",
-      "summary": "移动版针对触屏重做了操作方式，并通过进度解锁活动任务。属于知名 IP 移植手游的新动态，对关注手游发行渠道与 Netflix 游戏布局的从业者有参考意义。",
-      "url": "https://mobilegamer.biz/capcoms-monster-hunter-rise-appears-to-be-coming-to-mobile-through-netflix/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-08T11:29:38",
-      "games": [
         {
           "name": "Monster Hunter Rise",
-          "desc": "卡普空的动作狩猎RPG，现通过Netflix登陆iOS和Android，免费下载但需Netflix会员，并针对移动端调整了触控和恢复按钮。"
+          "desc": "Capcom 的怪物狩猎动作游戏，据商店列表显示可能登陆 Netflix，尚无日期。"
         },
         {
-          "name": "Monster Hunter Outlanders",
-          "desc": "腾讯与卡普空合作的开放世界生存狩猎手游，将于10月29日上线移动端。"
+          "name": "Asphalt Track Star",
+          "desc": "Gameloft 的卡通风格赛车系列延伸作，商店列表显示将面向安卓智能手表推出。"
+        },
+        {
+          "name": "Tangle Out: Color Maze",
+          "desc": "Lion Studios 的方向逻辑解谜游戏，玩家旋转箭头穿越迷宫寻找出口，已登陆 iOS 和 Android。"
+        },
+        {
+          "name": "The Operator",
+          "desc": "ICO Partners 的阴谋调查冒险游戏，已登陆 iOS 和 Android，此前登陆 Steam、Switch 和 GOG；免费下载，完整版一次性购买解锁。"
+        },
+        {
+          "name": "Formula Ride",
+          "desc": "7Seas Entertainment 的赛车游戏，包含轮胎管理和进站策略，预计 10 月 12-13 日上线 Android 和 iOS，已开放预注册。"
+        },
+        {
+          "name": "PAPgame",
+          "desc": "Not Just Music 的第一人称音乐游戏，计划 2026 年底前登陆 Android 和 iOS，包含 35 个进度等级等要素。"
         }
       ]
     },
     {
-      "id": "5229dee5b7",
-      "title": "Google 在 10 亿英镑英国集体诉讼中为 Play Store 抽成辩护",
-      "summary": "原告主张 Google 最高 30% 的抽成被转嫁给约 2000 万英国消费者。涉及移动应用商店分成与平台合规，对手游变现与发行成本研究有参考价值。",
-      "url": "https://mobilegamer.biz/google-defends-play-store-commissions-in-1bn-uk-class-action/",
+      "id": "f1ead45716",
+      "title": "Ubisoft 上线仅七个月即关停 Rainbow Six Mobile",
+      "summary": "Rainbow Six Mobile 上线七个月后宣告关停，AppMagic 估算其生命周期 IAP 收入约 530 万美元、下载量 1310 万次。是研究手游买量成本、留存与项目止损决策的典型案例。",
+      "url": "https://mobilegamer.biz/ubisoft-is-closing-rainbow-six-mobile-just-seven-months-after-launch/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-08T09:33:27",
-      "games": []
+      "published_at": "2026-10-09T08:54:56",
+      "games": [
+        {
+          "name": "Rainbow Six Mobile",
+          "desc": "Ubisoft 的战术射击手游，上线仅七个月后宣布将关停，下一赛季持续到 2027 年 1 月 15 日。"
+        }
+      ]
     },
     {
-      "id": "12acc5358f",
-      "title": "特朗普政府暂停 Microsoft 申请绿卡的资格，指控其存在欺诈行为",
-      "summary": "美国政府暂停了 Microsoft 为外籍员工申请 H1-B 签证与绿卡的能力，指控其存在欺诈行为，可能影响 Xbox 部门的招聘。属于大厂人事与政策层面的行业动态，与休闲游戏玩法或变现无直接关系。",
-      "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+      "id": "efa1601610",
+      "title": "报道：Double Fine 工会组建运动因沟通不畅与文化冲突而瓦解",
+      "summary": "Game Developer 报道称，Double Fine Productions 的工会资格认定问题与公司延续数十年的文化正面碰撞，最终导致工会运动失败。对关注工作室治理与劳资关系的从业者有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-08T18:05:00",
+      "published_at": "2026-10-09T14:49:18",
       "games": []
     },
     {
-      "id": "8c58246cbd",
-      "title": "Xbox 宣布成立新部门 XP，推出影视、主题公园等跨媒介衍生内容",
-      "summary": "Xbox 公布 XP 业务单元，专注跨媒介品牌延伸，包括 Fallout 剧集与 Minecraft 主题公园。对研究 IP 联动与跨平台变现的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+      "id": "d65a787f08",
+      "title": "Undead Labs 负责人「不愿透露」裁员影响人数：「我不想把对这些人的影响简化成一个数字或统计」",
+      "summary": "Undead Labs 工作室负责人 Philip Holt 在团队脱离 Xbox 独立后，拒绝披露具体裁员规模。反映微软体系内工作室重组与人力调整的最新动态。",
+      "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-08T12:18:40",
+      "published_at": "2026-10-09T13:58:18",
       "games": [
         {
-          "name": "Minecraft",
-          "desc": "沙盒建造与生存游戏，计划推出 Minecraft World 主题公园等跨媒介体验。"
+          "name": "State of Decay 3",
+          "desc": "Undead Labs 开发的开放世界僵尸生存游戏，是《腐烂国度》系列续作。"
+        }
+      ]
+    },
+    {
+      "id": "0ece10f39a",
+      "title": "Paramount Pictures 将打造 Cyberpunk 2077 世界观真人电影，CD Projekt Red 联合制作",
+      "summary": "Paramount Pictures 宣布改编一部设定在 Cyberpunk 2077 宇宙的真人电影，由 CD Projekt Red 联合制片。体现头部游戏 IP 向影视跨媒介延展的行业趋势。",
+      "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T12:54:02",
+      "games": [
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt Red 开发的开放世界动作角色扮演游戏，设定在反乌托邦的夜之城。"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red 正在开发的《巫师》系列奇幻动作角色扮演游戏新作。"
+        },
+        {
+          "name": "Resident Evil",
+          "desc": "Capcom 的生存恐怖游戏系列，围绕生化危机与丧尸/变异生物展开。"
         },
         {
           "name": "Fallout",
-          "desc": "后末日角色扮演游戏系列，其电视剧被纳入 Xbox 新 XP 部门的跨媒介业务。"
-        }
-      ]
-    },
-    {
-      "id": "a6a45fb50e",
-      "title": "由 Journey 与 Sky: Children of the Light 老兵创立的 Gardens Interactive 完成超 3500 万美元 B 轮融资",
-      "summary": "Gardens Interactive 获 Lightspeed Venture Partners 领投的 3500 万美元 B 轮融资，累计融资超 7000 万美元。属于融资与团队动态，对关注新兴工作室的从业者有信息价值。",
-      "url": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-08T09:58:52",
-      "games": [
-        {
-          "name": "Journey",
-          "desc": "以无文字叙事和在线共玩为特点的冒险游戏。"
+          "desc": "以后末日废土为背景的角色扮演游戏系列，包含探索、生存与阵营选择。"
         },
         {
-          "name": "Sky: Children of the Light",
-          "desc": "强调社交互动与多人探索的冒险游戏。"
-        },
-        {
-          "name": "What Remains of Edith Finch",
-          "desc": "第一人称叙事冒险游戏，围绕家族故事展开。"
-        },
-        {
-          "name": "Project Gardens",
-          "desc": "开发中的多人共享幻想冒险游戏，包含社交角色扮演元素。"
-        }
-      ]
-    },
-    {
-      "id": "33e39343f0",
-      "title": "“现在一个好的创意比 AI 更能省钱”——Glen Schofield 谈退休、Callisto Protocol 开发与 3A 现状",
-      "summary": "资深开发者 Glen Schofield 回顾职业生涯，谈及 Callisto Protocol 的开发历程以及 3A 制作的成本与创意取舍，并表达了对 AI 降本效果的怀疑。对理解大厂项目管理和创意价值有一定参考，但不涉及休闲品类。",
-      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-08T13:30:00",
-      "games": [
-        {
-          "name": "Barbie: Game Girl",
-          "desc": "1992 年的 Game Boy 平台游戏，是 Glen Schofield 职业生涯早期参与的作品之一。"
+          "name": "Street Fighter",
+          "desc": "Capcom 的经典格斗游戏系列，以一对一格斗与标志性角色著称。"
         },
         {
           "name": "Call of Duty",
-          "desc": "知名第一人称射击游戏系列，Schofield 曾领导开发该系列的 Sledgehammer Games 工作室。"
-        },
-        {
-          "name": "Dead Space",
-          "desc": "科幻生存恐怖游戏，Schofield 担任执行制作人，并被视为《The Callisto Protocol》风格上的前作参照。"
-        },
-        {
-          "name": "The Callisto Protocol",
-          "desc": "2022 年推出的科幻生存恐怖游戏，由 Striking Distance Studios 开发，是 Schofield 在 Krafton 旗下的最后一部作品。"
+          "desc": "动视发行的第一人称射击游戏系列，以现代/历史战争射击体验闻名。"
         }
       ]
     },
     {
-      "id": "ace017b480",
-      "title": "NBA 2K27 登顶美国 8 月销量榜，成为 2026 年第三畅销游戏｜美国月度榜",
-      "summary": "Circana 数据显示 NBA 2K27 位居美国 8 月销量榜首，并跻身 2026 年销量前三。可作为主机/PC 市场大盘的参考数据，但与休闲消除品类关联有限。",
-      "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts",
+      "id": "47b987ae09",
+      "title": "Sony 同意向 Meta 转让 400 余项全球 VR 专利，依据 2025 年 12 月协议",
+      "summary": "Sony 已同意向 Meta 转让 419 项全球 VR 专利，其中 180 项在美国提交，相关协议于 2025 年 12 月签署。对判断 VR 平台格局与专利集中度有参考意义。",
+      "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-08T13:00:00",
+      "published_at": "2026-10-09T10:50:02",
+      "games": [
+        {
+          "name": "Horizon Call of the Mountain",
+          "desc": "Guerrilla Games 开发的 PSVR 2 虚拟现实动作冒险游戏，设定在《地平线》世界。"
+        },
+        {
+          "name": "Firewall Ultra",
+          "desc": "First Contact Entertainment 开发的 PSVR 2 第一人称虚拟现实射击游戏。"
+        }
+      ]
+    },
+    {
+      "id": "0cc8dfdfcb",
+      "title": "Avalanche Studio Group 将全球发行、营销与分销 Supermassive Games 作品",
+      "summary": "Nordisk Games 宣布旗下 Avalanche Studios Group 与 Supermassive Games 达成发行合作。反映集团内部资源整合与发行体系的重新划分。",
+      "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T08:51:01",
+      "games": [
+        {
+          "name": "Directive 8020",
+          "desc": "Supermassive Games 开发的科幻恐怖互动叙事游戏，今年推出。"
+        },
+        {
+          "name": "Hunter: Call of the Wild",
+          "desc": "Avalanche Studios 相关的开放世界狩猎模拟游戏，拥有持续在线服务与玩家社区。"
+        }
+      ]
+    },
+    {
+      "id": "02375cf7db",
+      "title": "这本该是云游戏的高光时刻，但事实并非如此｜观点",
+      "summary": "文章围绕 Xbox 拿下 GTA VI 独家云游戏串流权的消息，讨论为何云游戏始终没能真正迎来爆发。对关注平台分发与云游戏商业化的从业者具有参考价值。",
+      "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T15:42:04",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI (GTA 6)",
+          "desc": "备受期待的开放世界动作冒险游戏，其流媒体独占传闻成为讨论云游戏困境的焦点。"
+        }
+      ]
+    },
+    {
+      "id": "0a875605b2",
+      "title": "电子游戏不是儿童心理健康的敌人，无视它们才是｜观点",
+      "summary": "文章反驳了将青少年心理问题简单归咎于游戏的主流叙事，指出游戏对社交焦虑、ADHD 等群体可能起到支持作用。对理解用户心理与产品社会价值有启发。",
+      "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T11:01:00",
+      "games": []
+    },
+    {
+      "id": "52f80bfe6b",
+      "title": "八月底美国畅销榜前十中，六款新作直接空降",
+      "summary": "Circana 分析师 Mat Piscatella 公布 2026 年 8 月美国游戏市场数据，显示新作销售表现良好，但整体支出仍在持续下滑。属主机/PC 市场数据类资讯。",
+      "url": "https://gameworldobserver.com/2026/10/09/six-new-releases-immediately-entered-the-top-10-best-selling-games-in-the-us-by-the-end-of-august",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T13:22:27",
       "games": [
         {
           "name": "NBA 2K27",
-          "desc": "篮球模拟/体育游戏，2026年8月26日抢先体验，登顶美国8月销量榜，并成为2026年第三畅销游戏。"
+          "desc": "篮球体育模拟游戏，是 2026 年 8 月美国最畅销付费游戏，完整发售前已凭高级版进入统计。"
         },
         {
-          "name": "NBA 2K25",
-          "desc": "篮球模拟游戏，文章提到其将于月底从商店下架，服务器于2026年12月31日关闭。"
+          "name": "EA Sports Madden NFL 27",
+          "desc": "美式橄榄球体育游戏，新发售即位列 2026 年 8 月美国畅销付费游戏第二。"
         },
         {
-          "name": "Madden NFL 27",
-          "desc": "美式橄榄球体育游戏，8月美国销量榜第2的新作。"
+          "name": "Marvel Tokon: Fighting Souls",
+          "desc": "漫威题材格斗游戏，新发售进入 2026 年 8 月美国畅销付费游戏第三。"
         },
         {
-          "name": "Marvel Tōkon: Fighting Souls",
-          "desc": "漫威题材格斗游戏，8月美国销量榜第3的新作。"
+          "name": "EA Sports Kickoff Bundle",
+          "desc": "EA Sports 推出的体育游戏捆绑包/产品，新发售进入 2026 年 8 月美国畅销付费游戏第四。"
         },
         {
-          "name": "EA Sports College Football 27",
-          "desc": "大学美式橄榄球体育游戏，与Madden NFL 27一同包含在Kickoff Bundle中，该捆绑包8月销量第4。"
-        },
-        {
-          "name": "Star Wars: Zero Company",
-          "desc": "Respawn Entertainment开发的星球大战游戏，8月美国销量榜第5的新作。"
-        },
-        {
-          "name": "Elden Ring",
-          "desc": "FromSoftware的动作RPG，因8月28日推出Switch 2版销量上升34位至第7。"
-        },
-        {
-          "name": "Monopoly Go",
-          "desc": "大富翁主题手游，8月进入手游收入前三。"
-        },
-        {
-          "name": "Royal Match",
-          "desc": "三消手游，8月进入手游收入前三。"
-        },
-        {
-          "name": "Candy Crush Saga",
-          "desc": "三消手游，8月进入手游收入前三。"
-        },
-        {
-          "name": "Pokemon Go",
-          "desc": "AR地理定位手游，10周年庆祝结束后排名下降4位至第7，10周年活动据估计收入4850万美元。"
+          "name": "Star Wars Zero Company",
+          "desc": "星球大战题材新作，新发售进入 2026 年 8 月美国畅销付费游戏第五。"
         },
         {
           "name": "Halo: Campaign Evolved",
-          "desc": "光环系列射击游戏，8月美国销量榜第6。"
+          "desc": "《光环》系列战役相关作品，位列 2026 年 8 月美国畅销付费游戏第六。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "开放世界动作角色扮演游戏，在 2026 年 8 月美国畅销付费榜上升 34 位至第七。"
         },
         {
           "name": "Big Walk",
-          "desc": "8月美国销量榜第8的新作。"
+          "desc": "新发售游戏，进入 2026 年 8 月美国畅销付费游戏第八；正文未提供更多类型说明。"
         },
         {
           "name": "Mario Kart World",
-          "desc": "马力欧卡丁车竞速游戏，8月美国销量榜第9。"
+          "desc": "马力欧卡丁车系列竞速游戏，在 2026 年 8 月美国畅销付费榜上升 10 位至第九。"
         },
         {
-          "name": "Splatoon Raid",
-          "desc": "斯普拉遁系列游戏，8月美国销量榜第10。"
+          "name": "Splatoon Raiders",
+          "desc": "斯普拉遁系列新作，在 2026 年 8 月美国畅销付费榜位列第十。"
         }
       ]
     }
