@@ -11077,5 +11077,18 @@
     ],
     "store_url": "https://store.steampowered.com/app/2878580",
     "store": "steam"
+  },
+  "Hell Let Loose": {
+    "name": "Hell Let Loose Maps",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/09/90/870990c2-4b28-763a-a85e-5695bf4df238/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+    "description": "Hell Let Loose Maps provides a way for Hell Let Loose players to see all the maps from the game in one place, as well as create their own map variations that can be saved and exported! \n\nThis is a personal learning project that I made for the Hell Let Loose Community and is not affiliated with Hell Let Loose, Team 17, or Black Matter Studio.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9a/39/6b/9a396bd3-3961-c243-ffd1-bd85bd88be99/0fc3d682-e873-4340-86b9-e217fa3df54e_Carentan1242x2208.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b9/f4/b9/b9f4b92f-3a59-5249-905d-5ad00a7da10c/7d26ca50-da62-4105-ac5d-69921e73b909_CarentanToggled1242x2208.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ee/f1/ce/eef1ce59-ba74-52fa-c4ba-991f66476c54/4710c405-17e9-44d0-888c-b7ea574db6cf_OmahaBeach1242x2208.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/76/74/df/7674df0e-6a15-f6b3-cb1a-76c658710d08/4b5f8df8-07a3-4e3a-93b6-f9686ac7baa6_UtahBeach1242x2208.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/hell-let-loose-maps/id1621805768?uo=4",
+    "store": "appstore"
   }
 }
