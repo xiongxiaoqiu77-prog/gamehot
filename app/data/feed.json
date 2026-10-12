@@ -1,278 +1,179 @@
 {
-  "updated": "2026-10-10",
-  "generated_at": "2026-10-10T07:00:08.292032",
+  "updated": "2026-10-13",
+  "generated_at": "2026-10-13T07:00:06.412810",
   "articles": [
     {
-      "id": "031a49081f",
-      "title": "新游速览：Football Manager、Honor of Kings Chess、Zynga 骰子游戏、Warhammer Survivors 等",
-      "summary": "汇总本周值得关注的新游，包括 Football Manager、Honor of Kings Chess、Zynga 的骰子新作以及 Warhammer Survivors 等，并提及 Crossy Road Rush、Asphalt Track Star 等产品。对把握手游新品方向与品类趋势有直接参考价值。",
-      "url": "https://mobilegamer.biz/new-game-digest-football-manager-honor-of-kings-chess-zyngas-dice-game-warhammer-survivors-and-more/",
-      "source": "Mobile Gamer Biz",
+      "id": "802b1082fa",
+      "title": "顶级工作室该如何分配 AI 预算",
+      "summary": "Deconstructor of Fun 的 Michail Katkoff 结合与全球多家工作室的合作经验，拆解 AI 预算应该花在哪些环节，指出实际支出通常比计划高出约 30%，并分析这一趋势对初级岗位招聘的影响。",
+      "url": "https://www.deconstructoroffun.com/blog/how-game-studios-should-allocate-ai-budgets",
+      "source": "Deconstructor of Fun",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-09T09:48:58",
-      "games": [
-        {
-          "name": "Football Manager 27",
-          "desc": "Sega 的足球经营模拟游戏，Football Manager 27 Mobile 将于 11 月 10 日通过 Netflix 全球上线移动端，并与 PC/主机版同步推出。"
-        },
-        {
-          "name": "Football Manager Touch",
-          "desc": "Football Manager 系列通常同期登陆 Apple Arcade 的版本，本作细节尚未公布。"
-        },
-        {
-          "name": "Honor of Kings Chess / 王者万象棋",
-          "desc": "腾讯《王者荣耀》的自走棋衍生作，已在中国 iOS 上线，暂无官方英文名。"
-        },
-        {
-          "name": "Honor of Kings",
-          "desc": "腾讯的 MOBA 游戏，《王者万象棋》是其自走棋衍生作。"
-        },
-        {
-          "name": "Dice Companions",
-          "desc": "Zynga 的掷骰子棋盘冒险游戏，正在波多黎各和美国安卓端测试。"
-        },
-        {
-          "name": "Warhammer Survivors",
-          "desc": "Auroch Digital 的 roguelite 弹幕天堂游戏，11 月 10 日登陆移动端、PC、Switch、PS5 和 Xbox。"
-        },
-        {
-          "name": "The Conjuring: Unspoken",
-          "desc": "基于《招魂》电影系列的叙事恐怖游戏，10 月 13 日登陆 Netflix TV，会员免费，用手机当控制器。"
-        },
-        {
-          "name": "Crossy Road Rush",
-          "desc": "Atari 将在 Apple Arcade 独占推出的新作，11 月 5 日上线。"
-        },
-        {
-          "name": "Kami 2+",
-          "desc": "将与《Crossy Road Rush》同期登陆 Apple Arcade 的游戏。"
-        },
-        {
-          "name": "Food Stylist+",
-          "desc": "将与《Crossy Road Rush》同期登陆 Apple Arcade 的游戏。"
-        },
-        {
-          "name": "Monster Hunter Rise",
-          "desc": "Capcom 的怪物狩猎动作游戏，据商店列表显示可能登陆 Netflix，尚无日期。"
-        },
-        {
-          "name": "Asphalt Track Star",
-          "desc": "Gameloft 的卡通风格赛车系列延伸作，商店列表显示将面向安卓智能手表推出。"
-        },
-        {
-          "name": "Tangle Out: Color Maze",
-          "desc": "Lion Studios 的方向逻辑解谜游戏，玩家旋转箭头穿越迷宫寻找出口，已登陆 iOS 和 Android。"
-        },
-        {
-          "name": "The Operator",
-          "desc": "ICO Partners 的阴谋调查冒险游戏，已登陆 iOS 和 Android，此前登陆 Steam、Switch 和 GOG；免费下载，完整版一次性购买解锁。"
-        },
-        {
-          "name": "Formula Ride",
-          "desc": "7Seas Entertainment 的赛车游戏，包含轮胎管理和进站策略，预计 10 月 12-13 日上线 Android 和 iOS，已开放预注册。"
-        },
-        {
-          "name": "PAPgame",
-          "desc": "Not Just Music 的第一人称音乐游戏，计划 2026 年底前登陆 Android 和 iOS，包含 35 个进度等级等要素。"
-        }
-      ]
-    },
-    {
-      "id": "f1ead45716",
-      "title": "Ubisoft 上线仅七个月即关停 Rainbow Six Mobile",
-      "summary": "Rainbow Six Mobile 上线七个月后宣告关停，AppMagic 估算其生命周期 IAP 收入约 530 万美元、下载量 1310 万次。是研究手游买量成本、留存与项目止损决策的典型案例。",
-      "url": "https://mobilegamer.biz/ubisoft-is-closing-rainbow-six-mobile-just-seven-months-after-launch/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-09T08:54:56",
-      "games": [
-        {
-          "name": "Rainbow Six Mobile",
-          "desc": "Ubisoft 的战术射击手游，上线仅七个月后宣布将关停，下一赛季持续到 2027 年 1 月 15 日。"
-        }
-      ]
-    },
-    {
-      "id": "efa1601610",
-      "title": "报道：Double Fine 工会组建运动因沟通不畅与文化冲突而瓦解",
-      "summary": "Game Developer 报道称，Double Fine Productions 的工会资格认定问题与公司延续数十年的文化正面碰撞，最终导致工会运动失败。对关注工作室治理与劳资关系的从业者有参考价值。",
-      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-09T14:49:18",
+      "published_at": "2026-10-12T12:34:07",
       "games": []
     },
     {
-      "id": "d65a787f08",
-      "title": "Undead Labs 负责人「不愿透露」裁员影响人数：「我不想把对这些人的影响简化成一个数字或统计」",
-      "summary": "Undead Labs 工作室负责人 Philip Holt 在团队脱离 Xbox 独立后，拒绝披露具体裁员规模。反映微软体系内工作室重组与人力调整的最新动态。",
-      "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
-      "source": "GamesIndustry.biz",
+      "id": "2fb907ca64",
+      "title": "Fingersoft 将关闭 Lego Hill Climb Adventures，但不会裁员",
+      "summary": "Fingersoft 宣布关闭 Lego Hill Climb Adventures，原因是该作表现不足以支撑长期 F2P 模式，但不会因此裁员。对关注休闲手游 IP 联动与产品退场决策的从业者有参考意义。",
+      "url": "https://mobilegamer.biz/fingersoft-to-close-lego-hill-climb-adventures-but-no-staff-will-be-let-go/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-09T13:58:18",
+      "score": 6,
+      "published_at": "2026-10-12T08:51:39",
       "games": [
         {
-          "name": "State of Decay 3",
-          "desc": "Undead Labs 开发的开放世界僵尸生存游戏，是《腐烂国度》系列续作。"
+          "name": "Lego Hill Climb Adventures",
+          "desc": "Fingersoft的乐高授权免费赛车手游，因表现不足以长期支持而停止开发，内购将移除并从商店下架。"
+        },
+        {
+          "name": "Lego Hill Climb Adventures+",
+          "desc": "Apple Arcade上的无内购版本，在原版停止开发后仍可游玩。"
+        },
+        {
+          "name": "Hill Climb Racing 3",
+          "desc": "Fingersoft的赛车游戏续作，目前仅在英国、挪威、瑞典、芬兰的Google Play软启动，计划全球上线。"
+        },
+        {
+          "name": "Hill Climb Racing",
+          "desc": "Fingersoft旗下知名赛车游戏，文中作为该工作室的代表作提及。"
         }
       ]
     },
     {
-      "id": "0ece10f39a",
-      "title": "Paramount Pictures 将打造 Cyberpunk 2077 世界观真人电影，CD Projekt Red 联合制作",
-      "summary": "Paramount Pictures 宣布改编一部设定在 Cyberpunk 2077 宇宙的真人电影，由 CD Projekt Red 联合制片。体现头部游戏 IP 向影视跨媒介延展的行业趋势。",
-      "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+      "id": "fa660cb621",
+      "title": "Epic Games 推迟 Disney 合作游戏，并要求开发者转向「AI 优先」生产模式",
+      "summary": "Epic Games 推迟了与 Disney 的合作射击游戏（含 Marvel 与 Star Wars 角色），同时要求团队采用「AI 优先」的开发流程。这是大厂研发组织方式与项目排期变动的一手信号，对关注行业风向的从业者有参考价值，但与休闲/三消赛道无直接关系。",
+      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-09T12:54:02",
+      "published_at": "2026-10-12T19:54:58",
       "games": [
         {
-          "name": "Cyberpunk 2077",
-          "desc": "CD Projekt Red 开发的开放世界动作角色扮演游戏，设定在反乌托邦的夜之城。"
+          "name": "Fortnite",
+          "desc": "Epic Games 旗下的在线多人游戏，以战斗皇家玩法和持续运营著称；文中提到其玩家参与度放缓。"
         },
         {
-          "name": "The Witcher 4",
-          "desc": "CD Projekt Red 正在开发的《巫师》系列奇幻动作角色扮演游戏新作。"
-        },
-        {
-          "name": "Resident Evil",
-          "desc": "Capcom 的生存恐怖游戏系列，围绕生化危机与丧尸/变异生物展开。"
-        },
-        {
-          "name": "Fallout",
-          "desc": "以后末日废土为背景的角色扮演游戏系列，包含探索、生存与阵营选择。"
-        },
-        {
-          "name": "Street Fighter",
-          "desc": "Capcom 的经典格斗游戏系列，以一对一格斗与标志性角色著称。"
-        },
-        {
-          "name": "Call of Duty",
-          "desc": "动视发行的第一人称射击游戏系列，以现代/历史战争射击体验闻名。"
+          "name": "Dragon Quest",
+          "desc": "堀井雄二创作的经典日式角色扮演游戏系列；文中提到其创作者用 AI 在约 30 分钟内制作了一款新游戏。"
         }
       ]
     },
     {
-      "id": "47b987ae09",
-      "title": "Sony 同意向 Meta 转让 400 余项全球 VR 专利，依据 2025 年 12 月协议",
-      "summary": "Sony 已同意向 Meta 转让 419 项全球 VR 专利，其中 180 项在美国提交，相关协议于 2025 年 12 月签署。对判断 VR 平台格局与专利集中度有参考意义。",
-      "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
+      "id": "32b36fd04b",
+      "title": "游戏圈最快乐的人讨厌生成式 AI",
+      "summary": "《Dwarf Fortress》开发者 Tarn Adams 讲述与兄弟 Zach 自 2002 年以来持续迭代这款程序生成世界的历程，并表达对生成式 AI 的抵触。可作为了解长线独立游戏设计理念与开发者心态的参考。",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "source": "GamesIndustry.biz",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-12T13:11:17",
+      "games": [
+        {
+          "name": "Dwarf Fortress",
+          "desc": "一款由 Bay 12 Games 开发的深度程序生成世界模拟与殖民地管理游戏，以复杂系统、混乱涌现叙事和极高自由度著称。"
+        }
+      ]
+    },
+    {
+      "id": "54266ba32d",
+      "title": "Dragon Quest 创作者 Yuji Horii 发布他称用 AI 约 30 分钟做成的游戏",
+      "summary": "Dragon Quest 之父堀井雄二称借助 AI 在约 30 分钟内完成并发布了一款新游戏。可作为观察 AI 辅助开发效率与行业争议的素材，但与休闲三消品类的设计/变现关联有限。",
+      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-09T10:50:02",
+      "published_at": "2026-10-12T18:49:25",
       "games": [
         {
-          "name": "Horizon Call of the Mountain",
-          "desc": "Guerrilla Games 开发的 PSVR 2 虚拟现实动作冒险游戏，设定在《地平线》世界。"
+          "name": "Dragon Quest",
+          "desc": "由 Yuji Horii 创作的经典角色扮演游戏系列。"
         },
         {
-          "name": "Firewall Ultra",
-          "desc": "First Contact Entertainment 开发的 PSVR 2 第一人称虚拟现实射击游戏。"
-        }
-      ]
-    },
-    {
-      "id": "0cc8dfdfcb",
-      "title": "Avalanche Studio Group 将全球发行、营销与分销 Supermassive Games 作品",
-      "summary": "Nordisk Games 宣布旗下 Avalanche Studios Group 与 Supermassive Games 达成发行合作。反映集团内部资源整合与发行体系的重新划分。",
-      "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-09T08:51:01",
-      "games": [
-        {
-          "name": "Directive 8020",
-          "desc": "Supermassive Games 开发的科幻恐怖互动叙事游戏，今年推出。"
+          "name": "Dragon Quest X",
+          "desc": "《勇者斗恶龙》系列在线 RPG，Square Enix 与 Google 合作为其加入 Gemini 驱动的聊天机器人 Chatty Slimey。"
         },
         {
-          "name": "Hunter: Call of the Wild",
-          "desc": "Avalanche Studios 相关的开放世界狩猎模拟游戏，拥有持续在线服务与玩家社区。"
-        }
-      ]
-    },
-    {
-      "id": "02375cf7db",
-      "title": "这本该是云游戏的高光时刻，但事实并非如此｜观点",
-      "summary": "文章围绕 Xbox 拿下 GTA VI 独家云游戏串流权的消息，讨论为何云游戏始终没能真正迎来爆发。对关注平台分发与云游戏商业化的从业者具有参考价值。",
-      "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-09T15:42:04",
-      "games": [
+          "name": "Dragon Quest 12",
+          "desc": "《勇者斗恶龙》系列正在开发中的新作，Yuji Horii 参与其中。"
+        },
         {
-          "name": "Grand Theft Auto VI (GTA 6)",
-          "desc": "备受期待的开放世界动作冒险游戏，其流媒体独占传闻成为讨论云游戏困境的焦点。"
+          "name": "The Portopia Serial Murder Case",
+          "desc": "1983 年的推理冒险游戏，Yuji Horii 称当年独自完成故事、绘画与编程。"
+        },
+        {
+          "name": "Next: The Portopia Serial Murder Case",
+          "desc": "Yuji Horii 参与、计划于 2027 年推出的《港口连续杀人事件》新作。"
         }
       ]
     },
     {
-      "id": "0a875605b2",
-      "title": "电子游戏不是儿童心理健康的敌人，无视它们才是｜观点",
-      "summary": "文章反驳了将青少年心理问题简单归咎于游戏的主流叙事，指出游戏对社交焦虑、ADHD 等群体可能起到支持作用。对理解用户心理与产品社会价值有启发。",
-      "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-09T11:01:00",
-      "games": []
-    },
-    {
-      "id": "52f80bfe6b",
-      "title": "八月底美国畅销榜前十中，六款新作直接空降",
-      "summary": "Circana 分析师 Mat Piscatella 公布 2026 年 8 月美国游戏市场数据，显示新作销售表现良好，但整体支出仍在持续下滑。属主机/PC 市场数据类资讯。",
-      "url": "https://gameworldobserver.com/2026/10/09/six-new-releases-immediately-entered-the-top-10-best-selling-games-in-the-us-by-the-end-of-august",
+      "id": "803b18392b",
+      "title": "Nintendo 不打算停止发行实体版游戏",
+      "summary": "任天堂拉美区总经理 Bill van Zyll 在采访中表示，公司没有停止发行实体版游戏的计划。属平台发行策略资讯，对关注渠道与用户触达方式的从业者有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games",
       "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-09T13:22:27",
+      "published_at": "2026-10-12T12:22:29",
       "games": [
         {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "任天堂发行的经典动作冒险游戏，以3D探索、解谜和时空穿越玩法著称。"
+        }
+      ]
+    },
+    {
+      "id": "d01b99290f",
+      "title": "Aream & Co：Q3 游戏行业并购总额达 578 亿美元，含 EA 550 亿美元杠杆收购",
+      "summary": "投行 Aream & Co 数据显示，第三季度游戏行业并购交易数量稳定在 54 笔，总额 578 亿美元，其中 EA 的 550 亿美元杠杆收购占据绝大部分。可作为行业资本动向的参考。",
+      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T16:00:00",
+      "games": [
+        {
+          "name": "Wardogs",
+          "desc": "一款新IP合作/独立向PC游戏，Q3收入1.03亿美元，是PC增长的代表作之一。"
+        },
+        {
+          "name": "Assassin's Creed Black Flag Resynched",
+          "desc": "育碧推出的《刺客信条：黑旗》相关作品，Q3收入5500万美元，位列当季PC消费收入第二。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "Dazed Games开发的游戏，Q3收入1100万美元，位列当季PC消费收入第三。"
+        },
+        {
+          "name": "FC27",
+          "desc": "主机平台Q3收入最高的新作，售出490万份。"
+        },
+        {
           "name": "NBA 2K27",
-          "desc": "篮球体育模拟游戏，是 2026 年 8 月美国最畅销付费游戏，完整发售前已凭高级版进入统计。"
+          "desc": "主机平台Q3销量第二的新作，售出240万份。"
         },
         {
-          "name": "EA Sports Madden NFL 27",
-          "desc": "美式橄榄球体育游戏，新发售即位列 2026 年 8 月美国畅销付费游戏第二。"
-        },
+          "name": "Wolverine",
+          "desc": "主机平台Q3销量第三的新作，售出210万份。"
+        }
+      ]
+    },
+    {
+      "id": "7b06068a35",
+      "title": "No Man's Sky 将于 10 月 28 日登陆 iPhone 和 iPad",
+      "summary": "Hello Games 宣布 No Man's Sky 将于 10 月 28 日推出移动版，为完整游戏而非简化移植，但不包含多人模式和行星聚落功能。可作为主机/PC 内容向移动端迁移的观察案例。",
+      "url": "https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T14:38:28",
+      "games": [
         {
-          "name": "Marvel Tokon: Fighting Souls",
-          "desc": "漫威题材格斗游戏，新发售进入 2026 年 8 月美国畅销付费游戏第三。"
-        },
-        {
-          "name": "EA Sports Kickoff Bundle",
-          "desc": "EA Sports 推出的体育游戏捆绑包/产品，新发售进入 2026 年 8 月美国畅销付费游戏第四。"
-        },
-        {
-          "name": "Star Wars Zero Company",
-          "desc": "星球大战题材新作，新发售进入 2026 年 8 月美国畅销付费游戏第五。"
-        },
-        {
-          "name": "Halo: Campaign Evolved",
-          "desc": "《光环》系列战役相关作品，位列 2026 年 8 月美国畅销付费游戏第六。"
-        },
-        {
-          "name": "Elden Ring",
-          "desc": "开放世界动作角色扮演游戏，在 2026 年 8 月美国畅销付费榜上升 34 位至第七。"
-        },
-        {
-          "name": "Big Walk",
-          "desc": "新发售游戏，进入 2026 年 8 月美国畅销付费游戏第八；正文未提供更多类型说明。"
-        },
-        {
-          "name": "Mario Kart World",
-          "desc": "马力欧卡丁车系列竞速游戏，在 2026 年 8 月美国畅销付费榜上升 10 位至第九。"
-        },
-        {
-          "name": "Splatoon Raiders",
-          "desc": "斯普拉遁系列新作，在 2026 年 8 月美国畅销付费榜位列第十。"
+          "name": "No Man's Sky",
+          "desc": "Hello Games的太空探索生存沙盒游戏，将于10月28日登陆iPhone和iPad，支持触控、手柄、键鼠和投屏，缺少多人及行星定居点功能。"
         }
       ]
     }
