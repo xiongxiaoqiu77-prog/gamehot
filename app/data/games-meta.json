@@ -11440,5 +11440,44 @@
     ],
     "store_url": "https://apps.apple.com/us/app/dwarf-fortress-remote/id1003660287?uo=4",
     "store": "appstore"
+  },
+  "Warhammer 40,000: Boltgun": {
+    "name": "Warhammer 40,000: Boltgun Boom",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/9b/3b/649b3bff-7382-dddf-d4be-0e1e1ba36f01/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
+    "description": "TRY BEFORE YOU BUY\nPlay the first 3 levels for free. Unlock the full game with a one-time in-app purchase.\n\nEnter the grim darkness of the far future and purge the enemies of the Imperium in a brutal first-person shooter built for mobile.\n\nFight as a relentless Space Marine across sprawling battlefields overrun by Chaos. Tear through cultists, traitors, and daemons with an arsenal of devastating weapons and explosive combat inspired by classic fast-paced shooters.\n\nBattle through massive campaigns filled with deadly enemies, hidden paths, towering war machines, and the unmistakable gothic fury of the Warhammer 40,000 universe — fully adapted for mobile play.\nFEATURES\n• Intense retro-inspired FPS combat\n• Large single-player campaign across multiple worlds\n• Iconic Warhammer 40,000 weapons and enemies\n• Fast movement, brutal firefights, and relentless action\n• Mobile-optimized controls and gameplay systems\n• Premium experience with no ads or energy mechanics\n\nIn the grim darkness of the far future, there is only war.\n\n*********\n\nNOTE:\n- The game contains optional in-app purchases. You can disable this feature in the settings menu of your device. \n- Check our Privacy Policy at https://www.nitrogames.com/privacy-policy/\n- Check our Terms of Service at https://www.nitrogames.com/terms-of-service/\n\n\nWarhammer 40,000: Boltgun Boom © Copyright Games Workshop Limited 2026. Boltgun Boom, the Boltgun Boom logo, GW, Games Workshop, Space Marine, 40K, Warhammer, Warhammer 40,000, 40,000, the ‘Aquila' Double-headed Eagle logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world, and used under licence. Auroch Digital and its logos are trademarks or registered trademarks of Auroch Digital. Unreal® Engine, Copyright 1998 – 2026 Epic Games, Inc. Nitro Games is a trademark or a registered trademark of Nitro Games Oyj. All rights reserved to their respective owners.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/a2/bb/0ea2bb0d-58c9-3844-f05c-4e55f3004820/BoltgunBoom_Screenshot1_AppStoreABnoCopy_23062026.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/ff/00/39ff00e8-fa55-a256-42b0-2a6aca7dbea3/BoltgunBoom_Screenshot4_AppStoreABNoCopy_23062026.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/89/c0/4489c069-3e67-c54a-b737-6a5728ffa6d3/BoltgunBoom_Screenshot2_AppStoreABNoCopy_23062026.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/cc/b3/b6ccb33d-0ec7-bd9d-3163-5a2fa4bdf2fe/BoltgunBoom_Screenshot3_AppStoreABNoCopy_23062026.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/warhammer-40-000-boltgun-boom/id6767193770?uo=4",
+    "store": "appstore"
+  },
+  "Chosen by Odin": {
+    "name": "Chosen by Odin",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120230/62d1580d82db0080b3e18447b035f564990879e6/header.jpg?t=1787771024",
+    "description": "Hunt the cults of Ragnarök across epic Norse realms in this 1-3 player co-op action game. Wield Godly powers, roll dice to shape mighty builds with your friends, and escape as overwhelming hordes close in. Return to Valhalla, grow stronger, and rewrite the saga.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120230/b09f14f5fcb030b4e5fbc610cdabe348628c0f1d/ss_b09f14f5fcb030b4e5fbc610cdabe348628c0f1d.600x338.jpg?t=1787771024",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120230/79acf9af3d0aaf8cde84933da61f6c2254fc7e9f/ss_79acf9af3d0aaf8cde84933da61f6c2254fc7e9f.600x338.jpg?t=1787771024",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120230/a2e410cf7d38cfb01e1024f940ffd98cea02b00e/ss_a2e410cf7d38cfb01e1024f940ffd98cea02b00e.600x338.jpg?t=1787771024",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120230/234bf3a2f5087d876ff149275a4239eb9f9c399f/ss_234bf3a2f5087d876ff149275a4239eb9f9c399f.600x338.jpg?t=1787771024"
+    ],
+    "store_url": "https://store.steampowered.com/app/1120230",
+    "store": "steam"
+  },
+  "Over the Hill": {
+    "name": "over the hill",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1791201212",
+    "description": "Explore the world in the golden age of offroading. Drive iconic 4x4 vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/6015a28c504bf0c90c293e6e02bb7909e25a5db7/ss_6015a28c504bf0c90c293e6e02bb7909e25a5db7.600x338.jpg?t=1791201212",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/95306c51913d336b5ac997e55f3b74d5ca122d28/ss_95306c51913d336b5ac997e55f3b74d5ca122d28.600x338.jpg?t=1791201212",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/40b010e7eab0efc48c789ee918293f914babade4/ss_40b010e7eab0efc48c789ee918293f914babade4.600x338.jpg?t=1791201212",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/09155a08afcb404179d7ffec4fc04d31fb88e4c3/ss_09155a08afcb404179d7ffec4fc04d31fb88e4c3.600x338.jpg?t=1791201212"
+    ],
+    "store_url": "https://store.steampowered.com/app/2929250",
+    "store": "steam"
   }
 }
