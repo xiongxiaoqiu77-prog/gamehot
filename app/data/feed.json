@@ -1,179 +1,161 @@
 {
-  "updated": "2026-10-13",
-  "generated_at": "2026-10-13T07:00:06.412810",
+  "updated": "2026-10-14",
+  "generated_at": "2026-10-14T07:00:06.783575",
   "articles": [
     {
-      "id": "802b1082fa",
-      "title": "顶级工作室该如何分配 AI 预算",
-      "summary": "Deconstructor of Fun 的 Michail Katkoff 结合与全球多家工作室的合作经验，拆解 AI 预算应该花在哪些环节，指出实际支出通常比计划高出约 30%，并分析这一趋势对初级岗位招聘的影响。",
-      "url": "https://www.deconstructoroffun.com/blog/how-game-studios-should-allocate-ai-budgets",
-      "source": "Deconstructor of Fun",
+      "id": "14c264723f",
+      "title": "AdSurge：Miniclip 借助腾讯 AI 与 Easybrain 数据打造的新广告网络",
+      "summary": "Miniclip 联合腾讯 AI 和 Easybrain 数据推出 AdSurge，同时覆盖用户获取与广告变现。对休闲/手游团队而言，这是了解移动广告网络格局、买量和变现渠道变化的重要行业动态，但文章未深入拆解投放机制。",
+      "url": "https://mobilegamer.biz/adsurge-is-the-new-ad-network-built-by-miniclip-with-help-from-tencent-ai-and-easybrain-data/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-12T12:34:07",
+      "score": 7,
+      "published_at": "2026-10-13T18:24:05",
       "games": []
     },
     {
-      "id": "2fb907ca64",
-      "title": "Fingersoft 将关闭 Lego Hill Climb Adventures，但不会裁员",
-      "summary": "Fingersoft 宣布关闭 Lego Hill Climb Adventures，原因是该作表现不足以支撑长期 F2P 模式，但不会因此裁员。对关注休闲手游 IP 联动与产品退场决策的从业者有参考意义。",
-      "url": "https://mobilegamer.biz/fingersoft-to-close-lego-hill-climb-adventures-but-no-staff-will-be-let-go/",
+      "id": "1271d46c1e",
+      "title": "Rovio 的重建意味着重新聚焦 Angry Birds、Sonic，并谨慎挑选新项目",
+      "summary": "Sega West COO 兼 Rovio CEO Alex Pelletier-Normand 谈论 Sonic Rumble Party 的挣扎、为何 Apple 和 Google 不值得拿 30% 分成，以及 Rovio 重建期的项目选择。对移动休闲游戏公司的 IP 运营、平台策略和新品立项有较高参考价值。",
+      "url": "https://mobilegamer.biz/rovios-rebuild-means-refocusing-on-angry-birds-sonic-and-picking-new-projects-carefully/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-13T11:37:57",
+      "games": [
+        {
+          "name": "Angry Birds",
+          "desc": "Rovio 的核心休闲弹弓/益智游戏 IP，是公司重建与重新聚焦的重点。"
+        },
+        {
+          "name": "Sonic",
+          "desc": "世嘉旗下的经典动作冒险游戏系列/IP，Rovio 重建中被列为聚焦对象之一。"
+        },
+        {
+          "name": "Angry Birds Dream Blast",
+          "desc": "Rovio 的一款消除解谜手游，其表现不佳是公司裁员的原因之一。"
+        },
+        {
+          "name": "Sonic Blitz",
+          "desc": "Rovio 被取消的索尼克系列手游项目，并伴随哥本哈根办公室关闭。"
+        },
+        {
+          "name": "Angry Birds 2",
+          "desc": "Rovio Stockholm 主要运营的 Angry Birds 系列续作手游。"
+        },
+        {
+          "name": "Angry Birds Match",
+          "desc": "文章在 Rovio 益智工作室产品线中以 Match 简称提及的 Angry Birds 系列益智游戏。"
+        },
+        {
+          "name": "Angry Birds Friends",
+          "desc": "文章在 Rovio 益智工作室产品线中以 Friends 简称提及的 Angry Birds 系列社交益智游戏。"
+        }
+      ]
+    },
+    {
+      "id": "5559b8a6c1",
+      "title": "Google Play 将新增一系列发现、策展与 AI 功能",
+      "summary": "Google Play 正在上线多项发现、策展和 AI 相关新功能，同时把 Dave the Diver、Warhammer 40,000: Boltgun 等 PC 游戏带入 Play，并将 Game Trials 扩展到 PC 端。对关注手游分发、买量与曝光机制的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/google-play-is-adding-a-raft-of-new-discovery-curation-and-ai-features/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-12T08:51:39",
+      "published_at": "2026-10-13T17:00:30",
       "games": [
         {
-          "name": "Lego Hill Climb Adventures",
-          "desc": "Fingersoft的乐高授权免费赛车手游，因表现不足以长期支持而停止开发，内购将移除并从商店下架。"
+          "name": "Dave the Diver",
+          "desc": "一款被引入 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
         },
         {
-          "name": "Lego Hill Climb Adventures+",
-          "desc": "Apple Arcade上的无内购版本，在原版停止开发后仍可游玩。"
+          "name": "Warhammer 40,000: Boltgun",
+          "desc": "一款登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
         },
         {
-          "name": "Hill Climb Racing 3",
-          "desc": "Fingersoft的赛车游戏续作，目前仅在英国、挪威、瑞典、芬兰的Google Play软启动，计划全球上线。"
+          "name": "Replaced",
+          "desc": "计划在未来几个月内登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
         },
         {
-          "name": "Hill Climb Racing",
-          "desc": "Fingersoft旗下知名赛车游戏，文中作为该工作室的代表作提及。"
+          "name": "Chosen by Odin",
+          "desc": "计划在未来几个月内登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
+        },
+        {
+          "name": "Over the Hill",
+          "desc": "计划在未来几个月内登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
         }
       ]
     },
     {
-      "id": "fa660cb621",
-      "title": "Epic Games 推迟 Disney 合作游戏，并要求开发者转向「AI 优先」生产模式",
-      "summary": "Epic Games 推迟了与 Disney 的合作射击游戏（含 Marvel 与 Star Wars 角色），同时要求团队采用「AI 优先」的开发流程。这是大厂研发组织方式与项目排期变动的一手信号，对关注行业风向的从业者有参考价值，但与休闲/三消赛道无直接关系。",
-      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "id": "598d399303",
+      "title": "Xbox 宣布成立 Xbox Labs，试水新兴创意与「新技术」",
+      "summary": "Xbox CEO Asha Sharma 宣布成立内部新团队 Xbox Labs，由游戏制作人、工程师与科学家组成，负责快速开发、迭代并测试新工具、产品与功能，以玩家和开发者的实际反馈作为成败标准。属于平台方组织与研发机制动态，对休闲手游从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-12T19:54:58",
-      "games": [
-        {
-          "name": "Fortnite",
-          "desc": "Epic Games 旗下的在线多人游戏，以战斗皇家玩法和持续运营著称；文中提到其玩家参与度放缓。"
-        },
-        {
-          "name": "Dragon Quest",
-          "desc": "堀井雄二创作的经典日式角色扮演游戏系列；文中提到其创作者用 AI 在约 30 分钟内制作了一款新游戏。"
-        }
-      ]
+      "published_at": "2026-10-13T19:00:00",
+      "games": []
     },
     {
-      "id": "32b36fd04b",
-      "title": "游戏圈最快乐的人讨厌生成式 AI",
-      "summary": "《Dwarf Fortress》开发者 Tarn Adams 讲述与兄弟 Zach 自 2002 年以来持续迭代这款程序生成世界的历程，并表达对生成式 AI 的抵触。可作为了解长线独立游戏设计理念与开发者心态的参考。",
-      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-      "source": "GamesIndustry.biz",
-      "category": "泛游戏",
+      "id": "1f835656c5",
+      "title": "Owlchemy CEO：VR 仍是新兴市场，因为它还没通过「咖啡馆测试」",
+      "summary": "Owlchemy 首席执行官 Andrew Eiche 认为 VR 尚未成为主流，原因是它还没通过类似「咖啡馆测试」的日常使用门槛，并指出部分 VR 公司因不愿迎合受众需求而裁员成风。对关注新兴平台与团队生存策略的从业者有一定参考价值，但与休闲消除品类关联较弱。",
+      "url": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
+      "source": "Game Developer",
+      "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-12T13:11:17",
+      "published_at": "2026-10-13T13:15:00",
       "games": [
         {
-          "name": "Dwarf Fortress",
-          "desc": "一款由 Bay 12 Games 开发的深度程序生成世界模拟与殖民地管理游戏，以复杂系统、混乱涌现叙事和极高自由度著称。"
+          "name": "Balatro",
+          "desc": "一款结合扑克与 Roguelike 牌组构建的热门游戏。"
         }
       ]
     },
     {
-      "id": "54266ba32d",
-      "title": "Dragon Quest 创作者 Yuji Horii 发布他称用 AI 约 30 分钟做成的游戏",
-      "summary": "Dragon Quest 之父堀井雄二称借助 AI 在约 30 分钟内完成并发布了一款新游戏。可作为观察 AI 辅助开发效率与行业争议的素材，但与休闲三消品类的设计/变现关联有限。",
-      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+      "id": "5f7e2efdfc",
+      "title": "“多年搭建、推介和融资游戏的经历，让同样的失败令人痛心”——GameDataCore 为何想弄清玩家感受",
+      "summary": "GameDataCore 试图穿透 Steam 评论噪音，识别玩家对游戏的真实感受、开发者应解决的问题以及下一款可考虑的产品方向。对关注用户反馈分析和产品迭代的从业者有参考价值，但并非休闲游戏专项拆解。",
+      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-12T18:49:25",
+      "published_at": "2026-10-13T12:30:00",
+      "games": []
+    },
+    {
+      "id": "792ab90373",
+      "title": "塑造 2026 年游戏行业的六大监管风险指南",
+      "summary": "Bird & Bird 律师 Dr Simon Hembt 围绕 IP、AI/科技和媒体监管，梳理 2026 年游戏公司面临的六类监管风险。对需要做合规与发行风险预判的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-13T11:25:38",
       "games": [
         {
-          "name": "Dragon Quest",
-          "desc": "由 Yuji Horii 创作的经典角色扮演游戏系列。"
-        },
-        {
-          "name": "Dragon Quest X",
-          "desc": "《勇者斗恶龙》系列在线 RPG，Square Enix 与 Google 合作为其加入 Gemini 驱动的聊天机器人 Chatty Slimey。"
-        },
-        {
-          "name": "Dragon Quest 12",
-          "desc": "《勇者斗恶龙》系列正在开发中的新作，Yuji Horii 参与其中。"
-        },
-        {
-          "name": "The Portopia Serial Murder Case",
-          "desc": "1983 年的推理冒险游戏，Yuji Horii 称当年独自完成故事、绘画与编程。"
-        },
-        {
-          "name": "Next: The Portopia Serial Murder Case",
-          "desc": "Yuji Horii 参与、计划于 2027 年推出的《港口连续杀人事件》新作。"
+          "name": "Star Stable",
+          "desc": "一款面向儿童的在线游戏，因虚拟货币定价、内购激励等机制受到欧盟消费者保护合作网络审查。"
         }
       ]
     },
     {
-      "id": "803b18392b",
-      "title": "Nintendo 不打算停止发行实体版游戏",
-      "summary": "任天堂拉美区总经理 Bill van Zyll 在采访中表示，公司没有停止发行实体版游戏的计划。属平台发行策略资讯，对关注渠道与用户触达方式的从业者有一定参考价值。",
-      "url": "https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games",
+      "id": "0511b4dfc2",
+      "title": "“不再手写代码”：Epic Games 决定在开发中积极采用 AI",
+      "summary": "Epic Games 正转向 AI-first 开发方式，重点采用人工智能技术。该动态反映大型游戏公司的研发流程变化，但与休闲三消/消除游戏的直接关联有限。",
+      "url": "https://gameworldobserver.com/2026/10/13/no-more-hand-written-code-epic-games-decides-to-actively-utilize-ai-in-development",
       "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-12T12:22:29",
+      "published_at": "2026-10-13T13:57:00",
       "games": [
         {
-          "name": "The Legend of Zelda: Ocarina of Time",
-          "desc": "任天堂发行的经典动作冒险游戏，以3D探索、解谜和时空穿越玩法著称。"
-        }
-      ]
-    },
-    {
-      "id": "d01b99290f",
-      "title": "Aream & Co：Q3 游戏行业并购总额达 578 亿美元，含 EA 550 亿美元杠杆收购",
-      "summary": "投行 Aream & Co 数据显示，第三季度游戏行业并购交易数量稳定在 54 笔，总额 578 亿美元，其中 EA 的 550 亿美元杠杆收购占据绝大部分。可作为行业资本动向的参考。",
-      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-12T16:00:00",
-      "games": [
-        {
-          "name": "Wardogs",
-          "desc": "一款新IP合作/独立向PC游戏，Q3收入1.03亿美元，是PC增长的代表作之一。"
+          "name": "Fortnite",
+          "desc": "Epic Games 的大逃杀游戏，文章称 Epic 正推动 AI-first 开发并可能用 AI 生成代码与美术。"
         },
         {
-          "name": "Assassin's Creed Black Flag Resynched",
-          "desc": "育碧推出的《刺客信条：黑旗》相关作品，Q3收入5500万美元，位列当季PC消费收入第二。"
-        },
-        {
-          "name": "How to Fish",
-          "desc": "Dazed Games开发的游戏，Q3收入1100万美元，位列当季PC消费收入第三。"
-        },
-        {
-          "name": "FC27",
-          "desc": "主机平台Q3收入最高的新作，售出490万份。"
-        },
-        {
-          "name": "NBA 2K27",
-          "desc": "主机平台Q3销量第二的新作，售出240万份。"
-        },
-        {
-          "name": "Wolverine",
-          "desc": "主机平台Q3销量第三的新作，售出210万份。"
-        }
-      ]
-    },
-    {
-      "id": "7b06068a35",
-      "title": "No Man's Sky 将于 10 月 28 日登陆 iPhone 和 iPad",
-      "summary": "Hello Games 宣布 No Man's Sky 将于 10 月 28 日推出移动版，为完整游戏而非简化移植，但不包含多人模式和行星聚落功能。可作为主机/PC 内容向移动端迁移的观察案例。",
-      "url": "https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-12T14:38:28",
-      "games": [
-        {
-          "name": "No Man's Sky",
-          "desc": "Hello Games的太空探索生存沙盒游戏，将于10月28日登陆iPhone和iPad，支持触控、手柄、键鼠和投屏，缺少多人及行星定居点功能。"
+          "name": "未公布的迪士尼授权游戏",
+          "desc": "一款融合漫威与星球大战英雄的射击游戏，因 Epic 转向 AI 开发而延期。"
         }
       ]
     }
