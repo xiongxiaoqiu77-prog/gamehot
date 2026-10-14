@@ -11708,5 +11708,31 @@
     ],
     "store_url": "https://store.steampowered.com/app/1064221",
     "store": "steam"
+  },
+  "S&box": {
+    "name": "s&box",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/0f64b7e4f9628fdcff7e1f86696d08b9d280de5e/header.jpg?t=1791282405",
+    "description": "s&amp;box is a game creation platform. Play, create, and share games, all in one place. Hundreds of games ready to jump into with your friends.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/b8d344b8e736f47d46db9c5ec4585a4382b2d1ad/ss_b8d344b8e736f47d46db9c5ec4585a4382b2d1ad.600x338.jpg?t=1791282405",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/2c5d9c5591235eb1785883b19409eb4ea155134f/ss_2c5d9c5591235eb1785883b19409eb4ea155134f.600x338.jpg?t=1791282405",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/6626c86d50d73560dfbb96d9982f8045a7163ee7/ss_6626c86d50d73560dfbb96d9982f8045a7163ee7.600x338.jpg?t=1791282405",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/b9c23b57a7d710fbd936c10f4d4c53c5416224a0/ss_b9c23b57a7d710fbd936c10f4d4c53c5416224a0.600x338.jpg?t=1791282405"
+    ],
+    "store_url": "https://store.steampowered.com/app/590830",
+    "store": "steam"
+  },
+  "Garry's Mod": {
+    "name": "GaryM Garry's Mod Mobile Mods",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/6f/18/286f184d-aa49-3226-1203-3ae434ce32a6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "GaryM: Garry's Mod Mobile Mods is your ultimate digital armory, designed to completely revolutionize your sandbox experience. If you are tired of the standard assets and want to inject pure, unpredictable chaos into your physics-based environments, this application provides an unparalleled toolkit. It serves as a direct gateway to a massive archive of custom content, allowing you to instantly populate your world with everything from terrifying Nextbots to highly detailed custom maps without the usual technical hurdles.\nTransforming a blank canvas into a cinematic battleground requires the right resources, and our centralized hub delivers exactly that. Seamlessly browse through a meticulously categorized collection of high-octane modifications, ensuring your gameplay remains fresh and endlessly entertaining. Whether you are looking to equip devastating new weapons, spawn unique NPCs, or completely alter your character's identity with fresh skins, this comprehensive suite puts absolute creative and destructive control directly into your hands.\n[ THE CREATOR'S VAULT ]\n• Nextbot & NPC Archive Populate your environments with dynamic entities. Spawn terrifying Nextbots for intense survival runs or deploy custom NPCs to create complex, interactive scenarios and massive sandbox battles.\n• Custom Map Schematics Break out of the standard testing rooms. Discover and explore entirely new Maps, ranging from eerie backrooms to massive urban environments built specifically for destructive physics experiments.\n• The Arsenal & Items Upgrade your destructive capabilities. Equip an extensive range of custom Weapons and unique interactive Items that completely change the mechanics of your firefights and world manipulation.\n• Visual Identity Skins Stand out in the chaos. Browse a vast collection of unique Skins to personalize your digital avatar, ensuring your character looks exactly how you want while navigating the sandbox.\n\nSubscription Required\nThis app requires an active auto-renewable subscription to access all app features.\nNo free version of the service is available.\nSubscription details:\n• Weekly subscription from $9.99 (price varies by region).\n• Payment is charged to your Apple Account upon purchase confirmation.\n• Subscription renews automatically unless canceled at least 24 hours before the end of the current period.\n• Manage or cancel your subscription anytime in Apple Account Settings.\nFor comprehensive data handling guidelines and service terms, please review: \nPrivacy Policy: [https://docs.google.com/document/d/1nx3PcFILs19q_Q-t6P6hZRph-XTtkTr-K_GctjJAGZE/edit?usp=sharing\nTerms of Use: [https://docs.google.com/document/d/1P7dWRYOrlT2vlnlLamHO4MqGF14k2D5-RK40jp-2Pn4/edit?usp=sharing\n\nDISCLAIMER This is an unofficial, third-party companion application. It is not affiliated with, endorsed by, or sponsored by Facepunch Studios or Valve Corporation. All game assets, names, and trademarks belong to their respective owners. EULA: https://store.steampowered.com/eula/4000_eula_1",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/3a/49/8f3a491e-c34a-f1fb-8105-94cdc525ae45/iPhone_01.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/34/17/643417da-72a0-c30b-4e86-62f91e075192/iPhone_02.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/7b/6e/9d7b6e3c-4682-cc9a-31fb-becb73ca849e/iPhone_03.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/bc/1f/e8bc1f61-18bd-276b-6a92-2d900bf5113b/iPhone_04.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/garym-garrys-mod-mobile-mods/id6756872378?uo=4",
+    "store": "appstore"
   }
 }
