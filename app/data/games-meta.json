@@ -11668,5 +11668,31 @@
     ],
     "store_url": "https://apps.apple.com/us/app/bus-fever-party/id6746743297?uo=4",
     "store": "appstore"
+  },
+  "Dune: Awakening": {
+    "name": "Dune: Awakening",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/c23906beee3fdf1cd48980f340a2b76a3590d765/header_alt_assets_9.jpg?t=1790856134",
+    "description": "Dune: Awakening is a single- and multiplayer Open World Survival game with immersive adventure and RPG gameplay. Explore, build, craft, and unravel a cinematic Dune story as you rise from survival to greatness on the most legendary planet in the universe. Just remember: the sandworm always comes.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/c4f058fb805eefa9f07f1cb3a695a9534ba1920a/ss_c4f058fb805eefa9f07f1cb3a695a9534ba1920a.600x338.jpg?t=1790856134",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ae8340a47868d75e3d29ee6038eb4159ee13dd5c/ss_ae8340a47868d75e3d29ee6038eb4159ee13dd5c.600x338.jpg?t=1790856134",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ss_8616aceb30a8b01979c16a5aea46f9ef587f7ff3.600x338.jpg?t=1790856134",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/45924e55eb2d04831e1e47f96949d6b673790fe4/ss_45924e55eb2d04831e1e47f96949d6b673790fe4.600x338.jpg?t=1790856134"
+    ],
+    "store_url": "https://store.steampowered.com/app/1172710",
+    "store": "steam"
+  },
+  "Metal: Hellsinger": {
+    "name": "Metal: Hellsinger",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061910/header.jpg?t=1788334430",
+    "description": "Slay to the rhythm of metal and vengeance on an infernal journey through the eight Hells. Make them fear the beat. Metal: Hellsinger is a rhythm FPS bursting with demons, badass weapons, and heavy metal music.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061910/ss_018c8a1fecff6c98fb40c911c01aaeddcd6f6cd7.600x338.jpg?t=1788334430",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061910/ss_8941ae01736e10329905689bbdc3242000f4fe7a.600x338.jpg?t=1788334430",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061910/ss_bd727c8f5f091626637178e8eeeb3d971b8e1489.600x338.jpg?t=1788334430",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061910/ss_8c31259d68daf73ba0973fbc5691da2fb5f02365.600x338.jpg?t=1788334430"
+    ],
+    "store_url": "https://store.steampowered.com/app/1061910",
+    "store": "steam"
   }
 }
