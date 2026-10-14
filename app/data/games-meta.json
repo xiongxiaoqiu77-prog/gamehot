@@ -11694,5 +11694,19 @@
     ],
     "store_url": "https://store.steampowered.com/app/1061910",
     "store": "steam"
+  },
+  "Grand Theft Auto 6 (GTA 6)": null,
+  "Halo: Combat Evolved": {
+    "name": "Halo: Combat Evolved Anniversary",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064221/header.jpg?t=1634231276",
+    "description": "Halo: Combat Evolved Anniversary comes to PC as the second installment of Halo: The Master Chief Collection, chronicling the rise of the legendary Master Chief.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064221/ss_237c21c0824571f17ea6e286bfed88e83b0d1ac0.600x338.jpg?t=1634231276",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064221/ss_1df66dab41f25a49786f7e4c4555ee5f42dce35e.600x338.jpg?t=1634231276",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064221/ss_5b9465f7aa2cb4de67f724ef2bff98407f545a7c.600x338.jpg?t=1634231276",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064221/ss_dcb1d72fa552c8a9e681beea3501d4ad9c0805fa.600x338.jpg?t=1634231276"
+    ],
+    "store_url": "https://store.steampowered.com/app/1064221",
+    "store": "steam"
   }
 }
