@@ -11479,5 +11479,20 @@
     ],
     "store_url": "https://store.steampowered.com/app/2929250",
     "store": "steam"
-  }
+  },
+  "Everwild": {
+    "name": "Everwilds: Island Survival Sim",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/67/b5/4367b569-436a-0b6f-ed07-5327921a3f72/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "Can you keep your island alive?\n\nEverwilds is a relaxing wildlife survival sim where you build and balance a living island ecosystem. Animals breed, hunt, age, and die without direct control. Your job is to guide the food chain, protect fragile species, and keep your island from falling silent.\n\nWATCH YOUR ISLAND COME ALIVE\n\nRelease foxes, rabbits, deer, bears, wolves, eagles, boars, salmon, and owls, then watch nature take its course. Every animal has its own diet, behaviour, and role in the ecosystem. Predators hunt. Prey breeds. Seasons change everything.\n\nMANAGE THE FOOD CHAIN\n\nToo many wolves and your deer may disappear. Too many deer and your island can fall out of balance. Earn coins, feed struggling animals, scare predators away from prey, and unlock new territory. Every decision ripples through the wilds.\n\nSURVIVE THE SEASONS\n\nSpring brings new life. Summer helps your island flourish. Autumn is your chance to prepare. Winter is the real test, with scarce food and tougher survival conditions. How long can your ecosystem last?\n\nUNLOCK THE TROPICAL BIOME\n\nExpand southward to discover a lush tropical island with its own animals, climate, and challenges. Find rare and legendary species including the Panther, Blue Morpho butterfly, Crocodile, Sea Turtle, Toucan, Macaw, Iguana, and more.\n\nCLIMB THE LEADERBOARDS\n\nSubmit your best island runs, compare survival scores, and compete for rare animal leaderboard points. The longer your ecosystem survives, the more your island’s story grows.\n\nFEATURES\n\n• Living predator-prey ecosystem\n• 18 unique animal species across two biomes\n• Seasonal survival with Spring, Summer, Autumn, and Winter\n• Unlockable tropical biome with rare and legendary animals\n• Global leaderboard and personal best tracking\n• Achievements for long-term goals\n• Relaxing nature-inspired sound effects\n• No ads\n\nEverwilds is for players who love nature, strategy, cozy simulation games, and the satisfaction of watching a complex system thrive under their care.\n\nYour island is waiting. How long will it survive?",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/e3/b7/b2e3b7b8-2f10-0b76-c7dc-3064f074763d/01-home-screen.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/6d/23/0a6d2330-5633-99a4-050e-ab0d0de7d39e/02-animal-detail.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/02/26/af0226bb-f006-c0fd-9fef-36752a744b0b/03-night-winter-survival.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/5b/8b/c55b8bc9-34e5-b2b3-5f92-62a7585af555/04-global-leaderboard.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/everwilds-island-survival-sim/id6760156060?uo=4",
+    "store": "appstore"
+  },
+  "Project Blackbird": null,
+  "Project Mara": null
 }
