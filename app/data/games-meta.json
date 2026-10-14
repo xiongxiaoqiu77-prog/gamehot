@@ -11521,5 +11521,47 @@
     "store_url": "https://apps.apple.com/us/app/globle-guess-hidden-country/id6742774774?uo=4",
     "store": "appstore"
   },
-  "Metazooa": null
+  "Metazooa": null,
+  "Modern Warfare": {
+    "name": "Call of Duty®: Modern Warfare® 4",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1791824484",
+    "description": "War erupts on the Korean Peninsula as North Korea launches an invasion that threatens to destabilize the world in Call of Duty®: Modern Warfare® 4.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.600x338.jpg?t=1791824484",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/ca97243a998802a38c7cddf195cee327c5760353/ss_ca97243a998802a38c7cddf195cee327c5760353.600x338.jpg?t=1791824484",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/6b8f4040a1e923f036e04d9eb21ecb0f866be57e/ss_6b8f4040a1e923f036e04d9eb21ecb0f866be57e.600x338.jpg?t=1791824484",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/c6f865bd79b76a1fa50c59cd17a68d7837abf0b2/ss_c6f865bd79b76a1fa50c59cd17a68d7837abf0b2.600x338.jpg?t=1791824484"
+    ],
+    "store_url": "https://store.steampowered.com/app/4435490",
+    "store": "steam"
+  },
+  "Mario 64": null,
+  "P.T.": null,
+  "GTA V": null,
+  "Bloodborne": {
+    "name": "Game Guide for Bloodborne",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/b3/3e/72/b33e724a-43be-2bf0-a8ca-18e07ca2651e/mzl.wzgejvjl.png/512x512bb.jpg",
+    "description": "Strategy guide for the PS4 game Bloodborne.\nIncludes Item info & Drop Locations, Bosses & Strategies, Covenants, Tips, and much more.\nContains information known so far about The Old Hunters DLC.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/22/02/51/22025137-257e-bbac-66f4-b4e4dd83ac11/mzm.ktoufqzh.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/cd/04/55/cd045561-53bd-8816-1f14-53dca126d647/mzm.gebpnoxe.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/6b/12/db/6b12db4f-6da7-989c-c959-855a93fa8c2b/mzm.cnnvoltk.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/04/a6/26/04a6262c-56a8-35f0-55c7-48d48a31494f/mzm.emllzagl.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/game-guide-for-bloodborne/id975003559?uo=4",
+    "store": "appstore"
+  },
+  "Portal": {
+    "name": "FolioSpace Online Portal",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/78/75/7a78753a-314e-98f3-b0b6-1aaa71a15792/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "FolioSpace (formerly Online Portal by AppFolio) is for residents whose management company uses AppFolio Property Manager. Stay connected to your property or association manager and enjoy instant, on-demand access to your one-stop shop for the information and tools you need.\n\n• Pay rent or dues and set up automatic payments\n• Submit and monitor the status of maintenance requests \n• Access important documents like inspection reports for tenants and meeting minutes for homeowners\n• View and download your lease agreement\n• Homeowners can submit architectural requests and view association-related events",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/a9/7a/bfa97ad1-f13f-382b-1ee7-d8cd4886093b/frame_1st_screenshot.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/59/40/cd5940b6-bf3a-8a0c-7c5e-64e7c48b5244/frame_2nd_screenshot.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/64/a1/b264a14e-27e1-d4a8-f20f-6d9aec894b8a/frame_3rd_screenshot.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/d8/ad/6dd8ad1d-9bb6-172e-b369-2af488da53aa/frame_4th_screenshot.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/foliospace-online-portal/id1376350358?uo=4",
+    "store": "appstore"
+  }
 }
