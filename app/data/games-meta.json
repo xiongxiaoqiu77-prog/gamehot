@@ -11790,5 +11790,44 @@
     "store_url": "https://apps.apple.com/us/app/doom/id336347946?uo=4",
     "store": "appstore"
   },
-  "Star Wars and Marvel shooter": null
+  "Star Wars and Marvel shooter": null,
+  "Luck be a Landlord": {
+    "name": "Luck be a Landlord",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/91/00/8b910000-5772-1bfb-b6ed-381aa02ab87f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "description": "Defeat your landlord in this slot machine roguelike deckbuilder!\n\nYour landlord is knocking on your door. You have one coin left to your name. You insert the coin into your slot machine...and...JACKPOT! Luck be a Landlord, tonight!\n\nLuck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.\n\nFeatures:\n152 Symbols\n227 Items\n186 Achievements\n20 Apartment Floors",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/24/4f/2a/244f2ae0-e550-2e8b-a957-72fd7b69c367/e2ab7fa9-f4d6-4443-b7f4-74a8e022aa15_en1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d1/ae/3f/d1ae3f3c-42d6-e5c7-ba9a-2fd3cfb7c247/e258fb8e-ac68-4185-9c0d-06c623609dfc_en2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6c/e1/48/6ce14827-9ceb-c97b-f55b-27b32153cac4/88bf629b-d97f-4b60-89ef-464d1605d870_en3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6f/a7/9f6fa72b-7b5a-9d18-9048-31aed223b528/eee2614f-3a61-4ea4-8031-4dac11c39fdb_en4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/luck-be-a-landlord/id6450724928?uo=4",
+    "store": "appstore"
+  },
+  "All Will Rise": {
+    "name": "All Will Rise",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165340/99cbbf9312a2b93f7b8e01f60afbd6effcd7e9cb/header.jpg?t=1789730622",
+    "description": "The river is a god, and they killed her. It’s time for ordinary people to hold them to account. Manage your team. Mix with ecoterrorists and godmen. Build your deck, follow leads and find allies. Make your case, and win the battle for the future.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165340/8223533eff0d1ddaf2fd43a6b99b072533b78382/ss_8223533eff0d1ddaf2fd43a6b99b072533b78382.600x338.jpg?t=1789730622",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165340/1c986fb6b5bc3ad87fbee6e9620434274878bfb4/ss_1c986fb6b5bc3ad87fbee6e9620434274878bfb4.600x338.jpg?t=1789730622",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165340/953df675ccf741e9f229a5a0458438c359e9ba49/ss_953df675ccf741e9f229a5a0458438c359e9ba49.600x338.jpg?t=1789730622",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165340/8610b178ced6002d3e1b9f763903a30aca0d5924/ss_8610b178ced6002d3e1b9f763903a30aca0d5924.600x338.jpg?t=1789730622"
+    ],
+    "store_url": "https://store.steampowered.com/app/3165340",
+    "store": "steam"
+  },
+  "Tenderfoot Tactics": {
+    "name": "Tenderfoot Tactics",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061610/header.jpg?t=1769108319",
+    "description": "A party of goblins, granted magic by an ancient spirit, wanders the archipelago, fighting back the terrible Fog. Wield elemental power with wild repercussions in this open-world tactics RPG.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061610/ss_f03479ef6046ec93be124d09e567a80685d1526f.600x338.jpg?t=1769108319",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061610/ss_5e2f62a16392107a55364e27a72c6e3969bfc47a.600x338.jpg?t=1769108319",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061610/ss_aa9b757f27a8dbabdf60178ea460116bd4f8a6ae.600x338.jpg?t=1769108319",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061610/ss_a5ca3b9627e5a50c3ba06580b45dfb2fb02cc013.600x338.jpg?t=1769108319"
+    ],
+    "store_url": "https://store.steampowered.com/app/1061610",
+    "store": "steam"
+  }
 }
