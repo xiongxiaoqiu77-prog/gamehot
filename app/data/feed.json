@@ -1,330 +1,163 @@
 {
-  "updated": "2026-10-15",
-  "generated_at": "2026-10-15T07:00:16.909295",
+  "updated": "2026-10-16",
+  "generated_at": "2026-10-16T07:00:05.156250",
   "articles": [
     {
-      "id": "9b6481777d",
-      "title": "Google Play 新增 Game Finder、Sprints 与 Sidekick Playbacks，加码游戏发现",
-      "summary": "Google Play 推出一批面向游戏的新发现与社交功能，包括个性化推荐工具 Game Finder、限时竞技玩法 Sprints，以及通过 Sidekick 悬浮层分享游戏片段。对休闲手游团队来说，这意味着新的曝光位置与社交传播入口。",
-      "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
-      "source": "GamesIndustry.biz",
+      "id": "4838e904b7",
+      "title": "Steam 正经历「愿望单通胀」，但愿望单依然重要——分析",
+      "summary": "游戏营销专家 Chris Zukowski 在 How To Market A Game 博客中检视了 Steam 愿望单价值下降的说法，认为其仍具重要性但存在通胀现象。对休闲游戏发行与买量前的预热策略有参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/15/steam-is-experiencing-wishlist-inflation-but-they-are-still-important-analysis",
+      "source": "Game World Observer",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-14T21:02:24",
-      "games": [
-        {
-          "name": "Dave the Diver",
-          "desc": "海洋冒险与餐厅经营游戏，将作为 PC 作品加入 Google Play，并支持 Android 与 PC 云存档。"
-        },
-        {
-          "name": "Warhammer 40,000: Boltgun",
-          "desc": "战锤 40K 背景的复古快节奏第一人称射击游戏，将作为 PC 作品加入 Google Play，并支持跨端云存档。"
-        },
-        {
-          "name": "PUBG Mobile",
-          "desc": "战术竞技大逃杀手游，接入 Google Level Up 指南后高价值玩家新增与消费有所提升。"
-        }
-      ]
+      "published_at": "2026-10-15T14:24:50",
+      "games": []
     },
     {
-      "id": "cc9da7d2dc",
-      "title": "Supercell 确认 Squad Busters 将于 12 月 14 日停服",
-      "summary": "该游戏将于 12 月 1 日从 App Store 和 Google Play 下架，全球上线仅两年多即宣告终止。这是 Supercell 罕见的失败案例，对研究休闲竞技手游留存与长线运营的从业者具有警示意义。",
-      "url": "https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/",
-      "source": "Mobile Gamer Biz",
+      "id": "a81928cc96",
+      "title": "你需要游戏数据分析师吗？哪些部分可以自动化——GameAnalytics",
+      "summary": "GameAnalytics 探讨游戏团队是否需要专职数据分析师，以及哪些分析工作可交由 AI 自动化。对组建数据职能的手游团队有实践参考意义。",
+      "url": "https://www.gameanalytics.com/blog/do-you-need-a-game-data-analyst-and-what-parts-can-be-automated",
+      "source": "GameAnalytics",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-14T14:26:22",
-      "games": [
-        {
-          "name": "Squad Busters",
-          "desc": "Supercell 多角色乱斗派对手游，2024 年 5 月全球上线，确定于 12 月 14 日停服。"
-        },
-        {
-          "name": "Rainbow Six Mobile",
-          "desc": "Ubisoft 战术射击手游，文章提及它在本月被宣布关闭。"
-        },
-        {
-          "name": "Lego Hill Climb Adventures",
-          "desc": "Fingersoft 的乐高主题赛车与爬山冒险手游，文章提及它在本月被宣布关闭。"
-        }
-      ]
+      "published_at": "2026-10-15T12:47:51",
+      "games": []
     },
     {
-      "id": "0c557344e9",
-      "title": "数据周报：Flow 融资 4600 万美元，Spill 获 1050 万，Scopely Explore 登顶美国增长榜",
-      "summary": "本期汇总多起融资消息、Q3 数据以及应用内活动表现数据，其中 Scopely Explore 位列美国增长榜榜首。对关注手游市场动向与买量增长的从业者有一定参考价值。",
-      "url": "https://mobilegamer.biz/data-digest-flow-gets-46m-spill-lands-10-5m-scopely-explore-tops-us-growth-charts-more/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-14T09:41:05",
-      "games": [
-        {
-          "name": "Smash Fest",
-          "desc": "Flow Games 开发的手游，7 月下载量从约 200 万增至 1020 万，收入显著增长。"
-        },
-        {
-          "name": "Roblox",
-          "desc": "用户生成内容平台与游戏，9 月在 iOS 和 Google Play 收入增长最大，增加 5590 万美元。"
-        },
-        {
-          "name": "Dragon Ball Z Dokkan Battle",
-          "desc": "龙珠 IP 手机游戏，9 月收入增长榜第二。"
-        },
-        {
-          "name": "Zeus: The God of Arrogance",
-          "desc": "韩国热门手游，2025 年 8 月 26 日上线，9 月收入增长榜第三。"
-        },
-        {
-          "name": "Mobile Legends: Bang Bang",
-          "desc": "MOBA 手游，9 月日活增长最高，增加 380 万。"
-        },
-        {
-          "name": "Bus Fever",
-          "desc": "手机游戏，9 月下载增长最大，增加 1200 万，环比增长 333%。"
-        }
-      ]
-    },
-    {
-      "id": "8644ef73f9",
-      "title": "不再手写代码？Epic 的 Disney 项目据报道转向「AI 优先」开发",
-      "summary": "据报道，正在开发中的 Star Wars 与 Marvel 射击游戏的开发者被要求大量依赖 AI，尤其是在代码与美术创作环节。对从业者而言，这反映了头部厂商研发流程中 AI 渗透的最新动向。",
-      "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+      "id": "d607c812aa",
+      "title": "Caves of Qud: Diaspora 开创先河，成为 Steam 首个以抢先体验形式发行的 DLC",
+      "summary": "roguelike RPG《Caves of Qud》已结束 Steam 抢先体验，但其新 DLC Diaspora 将以抢先体验形式上线，成为 Steam 抢先体验计划中首个 DLC 案例。对关注发行模式创新与内容更新节奏的从业者具有参考意义。",
+      "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-14T20:24:47",
+      "published_at": "2026-10-15T14:00:00",
       "games": [
         {
-          "name": "Star Wars and Marvel shooter",
-          "desc": "Epic 正在开发的未公布星球大战与漫威题材射击游戏，据报道转向 AI 优先开发并延期。"
+          "name": "Caves of Qud",
+          "desc": "一款 roguelike RPG，已结束 Steam 抢先体验并于 2024 年发布 1.0；其 DLC《Diaspora》将首次以抢先体验形式发行。"
         }
       ]
     },
     {
-      "id": "d00d2f75fd",
-      "title": "《Duke Nukem 3D》关卡设计师 Richard 'Levelord' Gray 逝世，享年 68 岁",
-      "summary": "经典 FPS《Duke Nukem 3D》的关卡设计师 Richard 'Levelord' Gray 去世，享年 68 岁，业内多方发文悼念。他因关卡节奏与空间设计上的开创性工作而闻名，对理解关卡设计方法论仍有参考价值。对三消/休闲游戏从业者而言属于行业人物动态，与玩法与变现主题关联较弱。",
-      "url": "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68",
+      "id": "597cfe7ab1",
+      "title": "DayZ 制作人 Dean Hall 发布开源游戏开发框架 Brutal",
+      "summary": "行业老兵 Dean Hall 通过其旗下 Ahwoo 与 RocketWerkz 两家公司合作推出开源游戏开发框架 Brutal。属于开发者工具与团队动态类资讯，与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-14T19:45:48",
+      "published_at": "2026-10-15T14:31:28",
       "games": [
         {
-          "name": "Duke Nukem 3D",
-          "desc": "第一人称射击游戏，Gray 因担任关卡设计师而闻名，包含作弊才能发现的经典彩蛋。"
+          "name": "DayZ",
+          "desc": "Dean Hall 创作的知名生存游戏，文章以其制作人身份引入。"
         },
         {
-          "name": "Quake: Scourge of Armagon",
-          "desc": "《Quake》的官方资料片，第一人称射击游戏，是 Gray 在 Ritual Entertainment 时期的参与作品。"
+          "name": "Kitten Space Adventure",
+          "desc": "RocketWerkz 使用 Brutal 框架开发的项目之一。"
         },
         {
-          "name": "Sin",
-          "desc": "第一人称射击游戏，Gray 在 Ritual Entertainment 期间参与开发的作品之一。"
+          "name": "Kitten Space Agency",
+          "desc": "RocketWerkz 直接使用 Brutal 框架制作的游戏。"
         },
         {
-          "name": "Star Trek: Elite Force 2",
-          "desc": "基于《星际迷航》的第一人称射击游戏，Gray 参与制作的作品之一。"
+          "name": "Rimworld",
+          "desc": "Ludeon Studios 的游戏，采用由 Brutal 支持的新 Waylith 引擎。"
         },
         {
-          "name": "Counter-Strike: Condition Zero",
-          "desc": "战术第一人称射击游戏，Gray 参与制作的作品之一。"
-        },
-        {
-          "name": "25 to Life",
-          "desc": "第三人称射击游戏，Gray 参与制作的作品之一。"
-        },
-        {
-          "name": "Doom",
-          "desc": "经典第一人称射击游戏，Gray 因其制作的 Doom 关卡而被 Scott Miller 招募。"
+          "name": "Kerbal Space Program",
+          "desc": "Felipe Falanghe 创作的太空模拟游戏，他也在使用 Brutal 构建新项目。"
         }
       ]
     },
     {
-      "id": "61f2a1a60b",
-      "title": "S&box 计划转为免费游玩并拥抱人工策展，称“游戏界 Netflix 行不通”",
-      "summary": "Facepunch Studios 计划年底将 S&box 平台转为免费游玩，并从追求游戏数量转向推广最优秀、最受欢迎的作品。对关注平台型产品、F2P 与内容策展的从业者有一定参考，但与休闲三消/消除手游的关联较弱。",
-      "url": "https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work",
+      "id": "24fd1dc0c0",
+      "title": "Reforj 开发商 4J Studios 公布 PC 版发行计划",
+      "summary": "4J Studios 宣布其开放世界生存沙盒新作 Reforj 将于 2027 年第一季度在 PC 平台开启封闭测试。属于新游发行节奏类资讯，与休闲消除品类无直接关联。",
+      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-14T17:58:59",
+      "published_at": "2026-10-15T13:25:49",
       "games": [
         {
-          "name": "S&box",
-          "desc": "Facepunch 开发的沙盒游戏/平台，计划年底转为免费游玩并转向人工策展。"
-        },
-        {
-          "name": "Garry's Mod",
-          "desc": "Facepunch 的经典沙盒游戏，S&box 计划在 NPC、载具、多人功能和模组支持等方面与其对齐并超越。"
+          "name": "Reforj",
+          "desc": "4J Studios 开发的开放世界生存沙盒，计划于 2027 年第一季度在 PC 进行封闭测试。"
         }
       ]
     },
     {
-      "id": "3972af3269",
-      "title": "如何经营一家独立游戏工作室：第 3 部分，处理问题",
-      "summary": "该系列第三篇从目标设定转向团队运营中最不有趣却最关键的部分——问题处理，讲述独立工作室如何面对与化解日常经营危机。对中小团队管理者有流程与心态层面的参考价值，但与三消/休闲品类的玩法与变现设计无直接关联。",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues",
+      "id": "0d749cc909",
+      "title": "House House 为支持 BDS 运动将不在 Xbox 发行 Big Walk",
+      "summary": "墨尔本开发商 House House 宣布其合作游戏 Big Walk 将不登陆 Xbox，以支持巴勒斯坦主导的 BDS 抵制运动。反映了当下发行决策与政治立场交织的行业现象。",
+      "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-14T14:00:00",
+      "published_at": "2026-10-15T11:08:03",
+      "games": [
+        {
+          "name": "Big Walk",
+          "desc": "House House 开发的合作游戏，因支持 BDS 运动决定不在 Xbox 发行。"
+        },
+        {
+          "name": "Luck be a Landlord",
+          "desc": "Dan Dilorio 开发的独立游戏，因抵制 Xbox 呼吁玩家不要在 Xbox 购买。"
+        },
+        {
+          "name": "All Will Rise",
+          "desc": "Speculative Agency 开发的游戏，开发商表示有兴趣加入 No Games for Genocide 抵制行动。"
+        },
+        {
+          "name": "Tenderfoot Tactics",
+          "desc": "Ice Water 开发的独立游戏，为支持 BDS 运动已从 Xbox 下架。"
+        }
+      ]
+    },
+    {
+      "id": "ed54ed4b96",
+      "title": "Epic Games 称其全新「vibe coded」启动器冷启动到商店页比 Steam 快 46%",
+      "summary": "Epic Games 发布新版启动器 Beta，宣称从冷启动到商店页面的速度比 Steam 快 46%。对关注平台竞争与商店转化效率的从业者有一定参考意义。",
+      "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T09:35:29",
       "games": []
     },
     {
-      "id": "653ea41b82",
-      "title": "Rockstar 下一款游戏不会再用八年：'GTA 6 期间打造的引擎、工具与团队将让我们更快'",
-      "summary": "Rockstar 为开发 GTA 6 将团队规模扩大一倍以上，并表示借助已建成的引擎、工具链与团队，后续作品不会再耗时八年。属于头部厂商产能与研发管线动态，对理解 3A 工业化效率有参考意义，但与休闲手游领域关联较弱。",
-      "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
+      "id": "de4c749d39",
+      "title": "Ubisoft 将在杜塞尔多夫、柏林和美因茨推行「自愿离职计划」裁员",
+      "summary": "Ubisoft 计划在德国三个工作室裁减约 100 名员工，作为其自愿离职方案的一部分。反映了大型发行商持续收缩成本的组织动态。",
+      "url": "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-14T12:26:32",
+      "published_at": "2026-10-15T08:09:37",
       "games": [
-        {
-          "name": "Grand Theft Auto 6 (GTA 6)",
-          "desc": "Rockstar Games 正在开发的开放世界动作冒险游戏，计划于 2026 年 11 月 19 日发售，并被视为未来更快构建新内容的基础。"
-        },
-        {
-          "name": "Red Dead Redemption 2",
-          "desc": "Rockstar 于 2018 年推出的开放世界西部题材动作冒险游戏，文中提到其发售时工作室有 2,441 名员工。"
-        }
-      ]
-    },
-    {
-      "id": "83a866227e",
-      "title": "ESA 点名复古主机厂商 Anbernic，建议将其列入美国政府「恶名市场名单」",
-      "summary": "美国娱乐软件协会（ESA）建议把复古掌机厂商 Anbernic 纳入美国政府的恶名市场名单，指控其涉及盗版内容。反映主机与版权方对模拟器/复古硬件生态的持续施压，属于行业版权动态，与休闲手游设计运营关联不大。",
-      "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-14T09:59:16",
-      "games": []
-    },
-    {
-      "id": "13f006862c",
-      "title": "XBOX 成立专门试验新技术的新部门",
-      "summary": "微软在 XBOX 内部继续组建新团队，继 XP 之后宣布成立 XBOX LABS，专注于为游戏开发探索当前可用技术。属于厂商研发组织动态，对关注技术探索方向的从业者有信息价值，但与休闲手游设计运营关联有限。",
-      "url": "https://gameworldobserver.com/2026/10/14/xbox-has-opened-a-division-for-experimenting-with-new-technologies",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-14T14:56:07",
-      "games": [
-        {
-          "name": "Halo: Combat Evolved",
-          "desc": "经典科幻第一人称射击游戏，文中被举例为有浏览器版本实验。"
-        },
-        {
-          "name": "Minecraft",
-          "desc": "沙盒建造游戏，文中作为被 AI mod 嵌入《Elden Ring》的例子。"
-        },
-        {
-          "name": "Elden Ring",
-          "desc": "开放世界动作角色扮演游戏，文中作为 AI mod 将《Minecraft》嵌入其中的例子。"
-        }
-      ]
-    },
-    {
-      "id": "ca6420fa96",
-      "title": "Funcom 将裁员重组，转为专注 Conan Exiles 与 Dune: Awakening 的长线运营",
-      "summary": "挪威开发商 Funcom 宣布重组，未来只聚焦 Conan Exiles 与 Dune: Awakening 的 LiveOps 运营，裁员规模未披露。掌舵 11 年的 CEO Rui Casais 将于年底离任，由首席产品官 Scott Junior 接任。对关注长线运营型产品组织调整的从业者有一定参考价值。",
-      "url": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-14T16:34:08",
-      "games": [
-        {
-          "name": "Conan Exiles",
-          "desc": "Funcom 的长期运营游戏之一，近期推出 Enhanced 版并将继续扩展。"
-        },
-        {
-          "name": "Dune: Awakening",
-          "desc": "Funcom 迄今最大项目，已从全面制作转向长期发布后开发与运营。"
-        },
-        {
-          "name": "Metal: Hellsinger",
-          "desc": "由 The Outsiders 创作、Funcom 于 2021 年收购工作室时纳入旗下的游戏。"
-        }
-      ]
-    },
-    {
-      "id": "bc49e3ef69",
-      "title": "'我想做一档自己愿意看的节目'——Galaxies 如何在拥挤的发布会生态中找到位置",
-      "summary": "第四届 Galaxies Showcase 即将首播，该节目在疫情后涌现的众多数字发布会中定位独立与 AA 级作品的中段市场，由 Outside Xbox 的 Jane Douglas 主持。对从业者而言，这是了解游戏宣发渠道分化与中型发行机会的窗口。",
-      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-14T14:57:54",
-      "games": [
-        {
-          "name": "Mass Effect",
-          "desc": "科幻动作角色扮演游戏系列，文章作为玩家更期待在发布会上看到的作品被提及。"
-        },
-        {
-          "name": "FIFA",
-          "desc": "EA 足球体育游戏系列，文章举例说发布会中常占用时间而玩家可能不关心。"
-        },
-        {
-          "name": "NFL",
-          "desc": "美式橄榄球体育游戏系列，与 FIFA 一同被作为发布会中冗长内容的例子。"
-        }
-      ]
-    },
-    {
-      "id": "f96a586cb5",
-      "title": "休闲游戏平台 Legacy Games 将于今年 12 月关闭在线商店",
-      "summary": "休闲游戏发行平台 Legacy Games 宣布将于 2026 年 12 月 31 日关闭其在线商店。对休闲游戏分发渠道格局观察者有一定参考价值，但信息量有限。",
-      "url": "https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-14T13:42:31",
-      "games": []
-    },
-    {
-      "id": "101a650a12",
-      "title": "Ubisoft 关闭 Trials 开发商 RedLynx 并裁减新加坡工作室岗位",
-      "summary": "Ubisoft 提议关闭芬兰工作室 RedLynx，并在主导 Skull and Bones 的新加坡工作室大幅裁员，这是其削减成本、重组为 Creative Houses 架构的最新动作。对关注大厂手游业务收缩的从业者有参考意义。",
-      "url": "https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-14T08:55:05",
-      "games": [
-        {
-          "name": "Trials",
-          "desc": "RedLynx 开发的摩托车特技与物理竞速系列，文章提及 Trials 2、Trials HD 和 Trials Fusion。"
-        },
-        {
-          "name": "Skull and Bones",
-          "desc": "Ubisoft Singapore 领导开发的海盗海战游戏，经历多次延期后于 2024 年发售。"
-        },
-        {
-          "name": "Assassin's Creed",
-          "desc": "Ubisoft 动作冒险系列，Ubisoft Singapore 曾负责其海战部分。"
-        },
         {
           "name": "Tom Clancy's The Division",
-          "desc": "汤姆·克兰西系列射击角色扮演游戏，文章提及 Massive Entertainment 因该系列命名。"
+          "desc": "育碧 Massive Entertainment 负责的第三人称射击/动作角色扮演游戏系列。"
+        },
+        {
+          "name": "Ghost Recon",
+          "desc": "育碧 Massive Entertainment 负责的战术射击游戏系列。"
+        },
+        {
+          "name": "Splinter Cell",
+          "desc": "育碧 Massive Entertainment 负责的潜行动作游戏系列。"
+        },
+        {
+          "name": "March of the Giants",
+          "desc": "育碧 Massive Entertainment 负责的新原创 IP，文章未说明具体类型。"
+        },
+        {
+          "name": "Trials",
+          "desc": "RedLynx 开发的游戏系列，文章提到其开发商被关闭。"
         }
       ]
-    },
-    {
-      "id": "b74e2ac0ae",
-      "title": "GameAnalytics 详解：免费版、Pro 版各有什么，以及每项功能的作用",
-      "summary": "梳理 GameAnalytics 各产品线、定价以及每项功能对应的实际研发需求。对需要选择数据分析工具的手游团队有工具选型参考价值。",
-      "url": "https://www.gameanalytics.com/blog/gameanalytics-products-free-vs-pro",
-      "source": "GameAnalytics",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-14T11:27:31",
-      "games": []
     }
   ]
 }
