@@ -11895,5 +11895,86 @@
     ],
     "store_url": "https://store.steampowered.com/app/3202730",
     "store": "steam"
-  }
+  },
+  "Everspace": {
+    "name": "EverSpace",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/1d/99/681d9998-6077-a51d-1bc2-50395b12f1ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "EverSpace is an algorithmic reverb designed for creating enormous spaces, evolving ambience and richly modulated echoes. Built upon the CloudSeed engine by Ghost Note Audio, its architecture draws inspiration from the algorithmic studio reverbs of the 1980s, where networks of delays and diffusion were used to create spaces that extended far beyond the limits of the physical world.\n\nRather than attempting to recreate a particular room, hall or vintage hardware unit, EverSpace embraces the more creative possibilities of algorithmic reverb. Dense diffusion, multiple delay stages and extensive modulation allow sounds to bloom into vast, constantly moving environments — from spacious reflections and drifting echoes to seemingly endless atmospheric tails.\n\nAt more extreme settings, EverSpace becomes much more than a conventional reverb. Simple sounds can be transformed into thick evolving pads, shimmering textures and expansive ambient soundscapes, with subtle variations within the reverb network ensuring that the resulting space remains alive and in motion.\n\nEverSpace can be used as a traditional send or insert effect, but it is at its best when treated as a creative sound-design tool where the reverb itself becomes part of the sound.\n\nFeatures\n\n○ CloudSeed algorithmic reverb engine — a sophisticated multi-stage architecture inspired by classic algorithmic studio reverbs.\n\n○ Early reflection and diffusion network — control density, delay, modulation and feedback to shape the initial character of the space.\n\n○ Extensive late-reverb section — create everything from diffuse ambience to enormous, slowly evolving reverb tails.\n\n○ Deep modulation — independently shape the movement of diffusion and delay stages for lush, animated spaces.\n\n○ Multi-tap delay stage — adds rhythmic reflections, echoes and additional complexity before the main reverb network.\n\n○ Integrated equalisation — low and high frequency shaping plus filtering to sculpt the colour and decay of the reverb.\n\n○ Seed controls — regenerate the internal delay and diffusion structures to produce different variations from the same settings.\n\n○ Interpolation modes — alter the behaviour and character of the internal delay network.\n\n○ Real-time visualisation — waveform and frequency displays provide visual feedback as sounds enter and evolve through EverSpace.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/f6/46/39f646ae-6064-6f63-1a09-8c7d3873337a/Screenshot_2026-08-04_at_06.54.33.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b4/c0/b2b4c0f7-9706-5e32-7eb9-27a79300452a/Screenshot_2026-08-04_at_06.55.26.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/53/81/965381e7-41f9-5925-d037-53736d7aa628/Screenshot_2026-08-04_at_06.59.08.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/f1/65/64f165d4-4722-5abd-216b-4c97b3f22c84/Screenshot_2026-08-04_at_07.02.25.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/everspace/id6795970970?uo=4",
+    "store": "appstore"
+  },
+  "Titanium Court": {
+    "name": "Titanium Court",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2364580/e7bc5cb46a5594994b821d92b475ca6327ee11d6/header.jpg?t=1790726458",
+    "description": "A critically-acclaimed surreal masterpiece. This is how AP Thomson would describe Titanium Court if not for the curse he bears as punishment for his hubris. Instead he can only use the crudest of terms and so he describes Titanium Court as &quot;a clever ploy to trick gamers into reading my book.&quot; Yuck!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2364580/ad3558c4f85c4194872e4599f3b6d6a4bd91e44e/ss_ad3558c4f85c4194872e4599f3b6d6a4bd91e44e.600x338.jpg?t=1790726458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2364580/fa77a8dca7ed867975f47ca01bd4379c182f0e1e/ss_fa77a8dca7ed867975f47ca01bd4379c182f0e1e.600x338.jpg?t=1790726458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2364580/f1a0f5053ce6f0d40712b42416ba32d3cfabb614/ss_f1a0f5053ce6f0d40712b42416ba32d3cfabb614.600x338.jpg?t=1790726458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2364580/814dd532c08f971d6f16fdb537f3971ae9897428/ss_814dd532c08f971d6f16fdb537f3971ae9897428.600x338.jpg?t=1790726458"
+    ],
+    "store_url": "https://store.steampowered.com/app/2364580",
+    "store": "steam"
+  },
+  "Consume Me": {
+    "name": "Consume Me",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/ca/98/56ca9836-5934-cb85-34e6-ef55a9ef7a13/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "BEING A TEENAGER SUCKS. So we made a videogame about it.\n\nHey remember when your parents, your friends, and society at large all conspired to make you feel ugly, lazy, stupid, and unloved despite the brilliant human spirit contained within you? No? Well, allow us to refresh your memory via the timeless medium of a slice-of-life role-playing game!\n\nIn Consume Me, you take on the role of Jenny, young, in love, and entering her final year of high school. Make meticulous scheduling decisions to maximize your glow-up! Solve the puzzle game of dieting! Evade distractions as you pursue scholarly success! Do chores to get money from mom at a rate much lower than minimum wage!\n\nCan you win the heart of the boy of your dreams? Can you hold on to it? Can you chart a course towards a sustainable future? Can you fit just one more TODO goal on your plate, or is it already full to bursting? Most importantly, does any of this matter--either in the game, or in a broader sense? I don't have time to spoil the story here, so I'll just give you a free tip: if you have the spare money, buy some coffee at the corner store and drink it for an extra free-time unit.\n\nFeatures: \n- A darkly funny coming-of-age story: You'll laugh, you'll cry, you'll get a little hungry, sometimes all at the same time! Sorry about that!\n- Every meal a puzzle: Eat your lunch, but be careful not too eat too much. Also, try not to eat too little either. Throw any food you don't want to the dog. It's fine, she's not on a diet!\n- Gripping strategic decision making: A limited amount of time and an unlimited number of things to do!? This classic combination introduces the ultimate strategic question: How should you be spending your time? It's up to you to answer this question...every day of your life!\n- Obtain powerful equipment: Choose from a selection of garments that help you dress for success. But be warned, the armor of this world degrades after a mere single day of use...until you renew it via that ancient ritual known only as \"laundry.\"\n- Over 13 possible endings: Most of them bad!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/af/3c/69af3c58-1644-0c57-d379-538464052b54/new_phone_food_tetris_en.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/a7/21/53a72196-f05a-5164-aeb6-af8a5e4ad065/phone_free_time_en.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/e9/2a/bee92a64-fb1a-2abf-6c4a-349e20d46a47/phone_scale.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/1f/d5/011fd59d-b9ca-8b9b-b342-9e085a9a34f6/phone_todo_en.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/consume-me/id6769877287?uo=4",
+    "store": "appstore"
+  },
+  "Fortune-499": {
+    "name": "Fortune-499",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840610/header.jpg?t=1526013255",
+    "description": "There is no future in the future.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840610/ss_71e357d3c70aa77e3db12997d3d12616ddcec8b5.600x338.jpg?t=1526013255",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840610/ss_929b4bc70efb70778e2ebfe414500dee38333528.600x338.jpg?t=1526013255",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840610/ss_1bec049db7bd352bd381a9591969661fabe3cd5a.600x338.jpg?t=1526013255",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840610/ss_a16464647ba51289f24565341ea9a8a54b5bee0e.600x338.jpg?t=1526013255"
+    ],
+    "store_url": "https://store.steampowered.com/app/840610",
+    "store": "steam"
+  },
+  "No Man’s Sky": null,
+  "Vampire Crawlers": {
+    "name": "Vampire Crawlers",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/ca/59/8aca5941-6fc6-20bd-3a01-ec3a9734bcbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "In a dark world, a new adventure begins. Explore maps, level up powers, kill monsters. Find treasures.\n\nFrom the somehow triple-BAFTA‑winning creators of Vampire Survivors, Vampire Crawlers: The Turbo Wildcard from Vampire Survivors turns the snowballing thrill of Survivors into a hyper turn‑based, card‑driven BLOBBER with rogue-lite elements. Build busted decks, explore familiar dungeons from a new perspective, and unleash world‑ending combos. Either take your time and be tactical, or play turns as fast as you humanly can: The outcome is always accurate, we call it hyper for a reason! \n\nWhat is this game about \nSnowballing, turn‑based carnage: Play cards in ascending mana order to land combos; each step multiplies the next card’s effect. Use Wilds to extend the stack and keep going to 10, 20, 30… Can you reach infinite? \nPick your pace: Either take your time and be tactical, or play turns as fast as you humanly can: The outcome is always accurate, we call it hyper for a reason! \nDeck-Building: Accumulate experience and level up to gain new cards, headbutt chests for customization gems and power‑ups; chase weapon evolutions and summon survivors to trigger cascade of effects and break the game. \nCrawling: Explore multi‑floor dungeons packed with something seldom seen in Vampire Survivors: functioning walls. And then all sorts of unique treasures and interactions. Find the shovel to dig into the next floor, that will most likely take place in the clouds! \n\nStarting Tips: \n- Try different Crawlers, each one changes your deck. \n- Visit the village after every run and remember to buy Power-Ups. \n- Play cards in ascending mana to trigger combos.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/07/4d/f5074dbc-d929-6698-2372-1a6e484dfa6c/VampireCrawlers_Screenshot_01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/94/f9/c694f9fb-759b-b447-7ae8-277890a2c95f/VampireCrawlers_Screenshot_02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/df/8a/66df8a93-3b00-90e6-dd61-d035e6d0fa62/VampireCrawlers_Screenshot_03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/53/47/aa5347d4-2218-0fef-960e-1c995cd28d27/VampireCrawlers_Screenshot_04.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/vampire-crawlers/id6749456796?uo=4",
+    "store": "appstore"
+  },
+  "9 Kings": {
+    "name": "9 Kings",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/67/75/14677591-4fc6-fcb4-83f7-a09a3a0f6457/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "*Try 9 Kings for free and buy the full game to unlock all Kings, new quests, multiplayer and more!*\n\nGrow your empire, craft your deck, fight massive battles and break the game with insane builds to become the King of Kings in this fast-paced roguelike kingdom builder\n\nFEATURES:\n\n-Play as one of nine kings, each with their own playstyle: stockpile gold to hire mercenaries, harness the forces of nature, warp the laws of time, dabble in dark magic or raise hordes of fiendish imps ready to fight for you\n\n-Grow your citadel as you strategically place your cards to expand your territory, upgrade buildings and towers, recruit new troops and boost them by stacking effects and spells\n\n-Craft your deck carefully by looting rival kings to combine their unique cards with yours and create new powerful synergies\n\n-Protect your kingdom as long as you can against increasingly powerful enemies and attempt to break the game with insane builds as you endure decades of war, strife and unpredictable events\n\n-Enjoy endless replayability in this roguelike autobattler: every run is different, mastery comes from experimentation and new ground can be conquered through unique challenges in Quest Mode\n\n-Climb the ranks, customize your look and prove yourself to truly be the king of kings as you battle eight rivals in async multiplayer\n\nCAREFULLY REDESIGNED FOR MOBILE\nRevamped interface – exclusive mobile UI with complete touch control\nGame Center achievements\nCloud Save – Share your progress between iOS devices\niPhone 17 Optimization (including Pro Max)",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/49/fd/2849fd92-c359-68fc-70fd-1240ade8a506/9K-6.9-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9e/44/bf9e444b-e8aa-e278-5121-4aafd27387f0/9K-6.9-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/1c/53/131c5378-1680-4e72-c59e-c9a041cf29a0/9K-6.9-3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/88/9b/b2889bb8-d3be-895d-23d5-73549ae0ad4b/9K-6.9-4.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/9-kings/id6757860952?uo=4",
+    "store": "appstore"
+  },
+  "Gundam Blitz Order": null,
+  "Totopia World": null
 }
