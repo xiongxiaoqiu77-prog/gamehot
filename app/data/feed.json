@@ -1,161 +1,150 @@
 {
-  "updated": "2026-10-16",
-  "generated_at": "2026-10-16T07:00:05.156250",
+  "updated": "2026-10-17",
+  "generated_at": "2026-10-17T07:00:19.206521",
   "articles": [
     {
-      "id": "4838e904b7",
-      "title": "Steam 正经历「愿望单通胀」，但愿望单依然重要——分析",
-      "summary": "游戏营销专家 Chris Zukowski 在 How To Market A Game 博客中检视了 Steam 愿望单价值下降的说法，认为其仍具重要性但存在通胀现象。对休闲游戏发行与买量前的预热策略有参考价值。",
-      "url": "https://gameworldobserver.com/2026/10/15/steam-is-experiencing-wishlist-inflation-but-they-are-still-important-analysis",
+      "id": "f36eea175b",
+      "title": "Gamescom Asia x Thailand Game Show 2026 新增印尼、日本、马来西亚和美国四个展馆",
+      "summary": "展会宣布新增四个展馆，展团总数达到 20 个，覆盖亚洲、欧洲和北美共 12 个市场。属于区域展会规模扩张的行业动态，对关注东南亚手游发行渠道与出海资源的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T12:44:48",
+      "games": []
+    },
+    {
+      "id": "190a4a1e77",
+      "title": "Game Republic New Horizons 2026 参会人数增长 78%，突破 461 人",
+      "summary": "英国行业活动 Game Republic New Horizons 2026 的到场人数从 259 人增至 461 人，同比增长 78%。属于区域游戏行业活动的参会数据快讯，可作为观察欧美中小开发者生态活跃度的侧证。",
+      "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T10:10:06",
+      "games": []
+    },
+    {
+      "id": "6843ec0d95",
+      "title": "Sega 与 Creative Assembly 因「未达玩家与我们自己的标准」下架 Total War: Shogun 2 重制版",
+      "summary": "因 AI 放大技术与性能问题引发玩家不满，Sega 和 Creative Assembly 暂时将 Total War: Shogun 2 – Complete Edition 从商店下架。对关注重制版品控、玩家反馈处理与口碑风险的团队有借鉴意义。",
+      "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T08:22:20",
+      "games": [
+        {
+          "name": "Total War: Shogun 2 – Complete Edition",
+          "desc": "《全面战争：幕府将军2》的完整/重制版本，属于历史题材策略游戏，因AI放大等性能问题被暂时下架。"
+        },
+        {
+          "name": "Crazy Taxi: World Tour",
+          "desc": "世嘉《疯狂出租车》系列新作，主打街头载客竞速玩法，开发中曾使用生成式AI辅助背景资产。"
+        }
+      ]
+    },
+    {
+      "id": "e6a9bd7992",
+      "title": "Star Wars: Galactic Racer 如何通过「分布式开发」保持核心团队精简与可持续",
+      "summary": "Fuse Games 的 CEO Matt Webster 分享该作 PS5 版 Metacritic 88 分背后的团队组织方式，强调小核心团队加分布式协作的开发模式。对关注手游工作室人效与外包协作的团队有一定参考意义。",
+      "url": "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T14:30:00",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "由 Fuse Games 开发的星战题材赛车游戏，采用 roguelike 结构，PS5 版 Metacritic 88 分。"
+        }
+      ]
+    },
+    {
+      "id": "6d55f30c6d",
+      "title": "Fishlabs 因「项目需求变化」宣布裁员，研发与支持团队受影响",
+      "summary": "德国开发商 Fishlabs 宣布裁减研发与支持团队人员，理由是项目需求发生变化。作为有手游研发背景的德国工作室，其收缩反映了欧洲手游研发端的成本压力。",
+      "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T09:27:33",
+      "games": [
+        {
+          "name": "Everspace",
+          "desc": "由 Rockfish Games 开发的太空射击游戏系列，文中作为该工作室背景及其新作计划被提及。"
+        }
+      ]
+    },
+    {
+      "id": "f9938d54f2",
+      "title": "新游速递：Titanium Court、No Man's Sky、Sifu、Vampire Crawlers 等",
+      "summary": "汇总 Nuverse、Atari、Raw Fury、Noodlecake、Konami 等厂商的新作动态。对关注移动端新品供给与发行节奏的从业者可作为一次性扫描清单。",
+      "url": "https://mobilegamer.biz/new-game-digest-titanium-court-no-mans-sky-sifu-vampire-crawlers-and-many-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T09:29:27",
+      "games": [
+        {
+          "name": "Titanium Court",
+          "desc": "Fellow Traveller 发行的三消与塔防游戏，由 AP Thomson 创作，登陆 iOS、Android、PS5、Switch 和 Switch 2。"
+        },
+        {
+          "name": "Consume Me",
+          "desc": "AP Thomson 的过往游戏作品，在 Titanium Court 创作者介绍中被提及，文中未介绍类型/特点。"
+        },
+        {
+          "name": "Fortune-499",
+          "desc": "AP Thomson 的过往游戏作品，在 Titanium Court 创作者介绍中被提及，文中未介绍类型/特点。"
+        },
+        {
+          "name": "No Man’s Sky",
+          "desc": "Hello Games 的太空探索与生存游戏，移动版登陆 iPhone/iPad，包含所有主要资料片及 Cosmos 更新。"
+        },
+        {
+          "name": "Sifu",
+          "desc": "Sloclap 的功夫格斗游戏，移动版登陆 iOS/Android，支持自定义触控、重制相机和手柄。"
+        },
+        {
+          "name": "Vampire Crawlers",
+          "desc": "Poncle 推出的哥特卡片战斗与牌组构筑游戏，登陆 iOS/Android，同时也已登陆 PC 和主机。"
+        },
+        {
+          "name": "Vampire Survivors",
+          "desc": "Poncle 开发的游戏，文中作为 Vampire Crawlers 开发商的代表作被提及。"
+        },
+        {
+          "name": "9 Kings",
+          "desc": "Hooded Horse 和 Sad Socket 开发、Playdigious 发行的 roguelike 王国建造游戏，移动版免费试玩后 $9.99 解锁。"
+        },
+        {
+          "name": "Little Kitty, Big City",
+          "desc": "Double Dagger Studio 的开放世界冒险游戏，玩家扮演小猫在多彩城市中找回家路，现已登陆 iPhone/iPad。"
+        },
+        {
+          "name": "Gundam Blitz Order",
+          "desc": "Bandai Namco 的 Gundam 题材放置游戏，登陆 iOS/Android，玩家组建机动战士、战舰和装甲队伍，含自动战斗、Boss 战和 PvP。"
+        },
+        {
+          "name": "Totopia World",
+          "desc": "Nuverse 的免费派对平台跳跃游戏，正在德国 Android 平台软启动。"
+        }
+      ]
+    },
+    {
+      "id": "cb420a8c0b",
+      "title": "美国拟立法赋予玩家对数字版游戏的 ownership 权利",
+      "summary": "美国国会议员 Ritchie Torres 准备提出 Power to the Players Act，旨在保护玩家权益，防止发行商撤销已购游戏访问权。对涉及数字内容销售与下架策略的手游发行方有潜在合规影响。",
+      "url": "https://gameworldobserver.com/2026/10/16/in-the-united-states-a-proposal-has-been-made-to-legally-grant-gamers-ownership-rights-to-digital-versions-of-games",
       "source": "Game World Observer",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-15T14:24:50",
-      "games": []
-    },
-    {
-      "id": "a81928cc96",
-      "title": "你需要游戏数据分析师吗？哪些部分可以自动化——GameAnalytics",
-      "summary": "GameAnalytics 探讨游戏团队是否需要专职数据分析师，以及哪些分析工作可交由 AI 自动化。对组建数据职能的手游团队有实践参考意义。",
-      "url": "https://www.gameanalytics.com/blog/do-you-need-a-game-data-analyst-and-what-parts-can-be-automated",
-      "source": "GameAnalytics",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-15T12:47:51",
-      "games": []
-    },
-    {
-      "id": "d607c812aa",
-      "title": "Caves of Qud: Diaspora 开创先河，成为 Steam 首个以抢先体验形式发行的 DLC",
-      "summary": "roguelike RPG《Caves of Qud》已结束 Steam 抢先体验，但其新 DLC Diaspora 将以抢先体验形式上线，成为 Steam 抢先体验计划中首个 DLC 案例。对关注发行模式创新与内容更新节奏的从业者具有参考意义。",
-      "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
-      "source": "Game Developer",
-      "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-15T14:00:00",
+      "published_at": "2026-10-16T13:30:45",
       "games": [
         {
-          "name": "Caves of Qud",
-          "desc": "一款 roguelike RPG，已结束 Steam 抢先体验并于 2024 年发布 1.0；其 DLC《Diaspora》将首次以抢先体验形式发行。"
-        }
-      ]
-    },
-    {
-      "id": "597cfe7ab1",
-      "title": "DayZ 制作人 Dean Hall 发布开源游戏开发框架 Brutal",
-      "summary": "行业老兵 Dean Hall 通过其旗下 Ahwoo 与 RocketWerkz 两家公司合作推出开源游戏开发框架 Brutal。属于开发者工具与团队动态类资讯，与休闲手游关联较弱。",
-      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-15T14:31:28",
-      "games": [
-        {
-          "name": "DayZ",
-          "desc": "Dean Hall 创作的知名生存游戏，文章以其制作人身份引入。"
-        },
-        {
-          "name": "Kitten Space Adventure",
-          "desc": "RocketWerkz 使用 Brutal 框架开发的项目之一。"
-        },
-        {
-          "name": "Kitten Space Agency",
-          "desc": "RocketWerkz 直接使用 Brutal 框架制作的游戏。"
-        },
-        {
-          "name": "Rimworld",
-          "desc": "Ludeon Studios 的游戏，采用由 Brutal 支持的新 Waylith 引擎。"
-        },
-        {
-          "name": "Kerbal Space Program",
-          "desc": "Felipe Falanghe 创作的太空模拟游戏，他也在使用 Brutal 构建新项目。"
-        }
-      ]
-    },
-    {
-      "id": "24fd1dc0c0",
-      "title": "Reforj 开发商 4J Studios 公布 PC 版发行计划",
-      "summary": "4J Studios 宣布其开放世界生存沙盒新作 Reforj 将于 2027 年第一季度在 PC 平台开启封闭测试。属于新游发行节奏类资讯，与休闲消除品类无直接关联。",
-      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-15T13:25:49",
-      "games": [
-        {
-          "name": "Reforj",
-          "desc": "4J Studios 开发的开放世界生存沙盒，计划于 2027 年第一季度在 PC 进行封闭测试。"
-        }
-      ]
-    },
-    {
-      "id": "0d749cc909",
-      "title": "House House 为支持 BDS 运动将不在 Xbox 发行 Big Walk",
-      "summary": "墨尔本开发商 House House 宣布其合作游戏 Big Walk 将不登陆 Xbox，以支持巴勒斯坦主导的 BDS 抵制运动。反映了当下发行决策与政治立场交织的行业现象。",
-      "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-15T11:08:03",
-      "games": [
-        {
-          "name": "Big Walk",
-          "desc": "House House 开发的合作游戏，因支持 BDS 运动决定不在 Xbox 发行。"
-        },
-        {
-          "name": "Luck be a Landlord",
-          "desc": "Dan Dilorio 开发的独立游戏，因抵制 Xbox 呼吁玩家不要在 Xbox 购买。"
-        },
-        {
-          "name": "All Will Rise",
-          "desc": "Speculative Agency 开发的游戏，开发商表示有兴趣加入 No Games for Genocide 抵制行动。"
-        },
-        {
-          "name": "Tenderfoot Tactics",
-          "desc": "Ice Water 开发的独立游戏，为支持 BDS 运动已从 Xbox 下架。"
-        }
-      ]
-    },
-    {
-      "id": "ed54ed4b96",
-      "title": "Epic Games 称其全新「vibe coded」启动器冷启动到商店页比 Steam 快 46%",
-      "summary": "Epic Games 发布新版启动器 Beta，宣称从冷启动到商店页面的速度比 Steam 快 46%。对关注平台竞争与商店转化效率的从业者有一定参考意义。",
-      "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-15T09:35:29",
-      "games": []
-    },
-    {
-      "id": "de4c749d39",
-      "title": "Ubisoft 将在杜塞尔多夫、柏林和美因茨推行「自愿离职计划」裁员",
-      "summary": "Ubisoft 计划在德国三个工作室裁减约 100 名员工，作为其自愿离职方案的一部分。反映了大型发行商持续收缩成本的组织动态。",
-      "url": "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-15T08:09:37",
-      "games": [
-        {
-          "name": "Tom Clancy's The Division",
-          "desc": "育碧 Massive Entertainment 负责的第三人称射击/动作角色扮演游戏系列。"
-        },
-        {
-          "name": "Ghost Recon",
-          "desc": "育碧 Massive Entertainment 负责的战术射击游戏系列。"
-        },
-        {
-          "name": "Splinter Cell",
-          "desc": "育碧 Massive Entertainment 负责的潜行动作游戏系列。"
-        },
-        {
-          "name": "March of the Giants",
-          "desc": "育碧 Massive Entertainment 负责的新原创 IP，文章未说明具体类型。"
-        },
-        {
-          "name": "Trials",
-          "desc": "RedLynx 开发的游戏系列，文章提到其开发商被关闭。"
+          "name": "NBA 2K25",
+          "desc": "篮球模拟游戏，文中作为数字游戏所有权立法报道的配图/示例被提及。"
         }
       ]
     }
