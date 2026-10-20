@@ -12138,5 +12138,19 @@
     ],
     "store_url": "https://store.steampowered.com/app/1718460",
     "store": "steam"
-  }
+  },
+  "Gardens": {
+    "name": "Gardenscapes",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/b1/f0/dbb1f00e-5031-70dd-3b6f-9a4feb52635f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Gardenscapes, the first game from the Playrix Scapes™ series! Make match-3 combinations and bring coziness and beauty to every corner of your garden.\n\nSolve fun puzzles, restore and explore new areas of the garden, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!\n\nGame Features:\n● Gameplay loved by millions of players! Make match-3 combinations and decorate your garden while enjoying an entertaining story!\n● Over 16,000 captivating levels with explosive power-ups, useful boosters, and cool elements.\n● Exciting events! Embark on fascinating Expeditions, compete against other players in different challenges, and win awesome prizes!\n● One-of-a-kind garden areas with unique layouts, from fountain ensembles to island landscapes.\n● Loads of fun characters: meet Austin's friends and neighbors!\n● Adorable pets that will become your faithful companions!\n\nPlay with your Facebook and Game Center friends, or make new friends in the game community!\n\nGardenscapes is free to play, but some in-game elements (including randomized items) can be purchased for real money. If you don't want to take advantage of this option, simply turn it off in your device's Restrictions menu.\n\nA Wi-Fi or internet connection is not required to play.\n *An internet connection is required to access competitions and additional features.\n\nDo you like Gardenscapes? Follow us!\nFacebook: https://www.facebook.com/Gardenscapes\nInstagram: https://www.instagram.com/gardenscapes_mobile/\n\nNeed to report an issue or ask a question? Contact Player Support through the game by going to Settings > Help and Support. If you can't access the game, use the web chat by clicking the chat icon in the lower right corner of our website: https://playrix.helpshift.com/hc/en/5-gardenscapes/\n\nTerms of Use: https://playrix.com/terms/index_en.html\n\nPrivacy Policy: https://playrix.com/privacy/index_en.html",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/97/8a/da978ade-81de-4498-d677-83e3055df51b/1284x2778_gs_aso_screenshot134_en_v1_p1_as.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/0c/80/d30c808a-2c7b-c22b-68ca-a9aeb147bd51/1284x2778_gs_aso_screenshot134_en_v1_p2_as.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/61/52/c061525d-a61f-1c1d-b2ab-a738930a48a7/1284x2778_gs_aso_screenshot134_en_v1_p3_as.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/97/f7/5697f7d3-ac74-46ab-f352-8d089794aa07/1284x2778_gs_aso_screenshot134_en_v1_p4_as.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/gardenscapes/id1105855019?uo=4",
+    "store": "appstore"
+  },
+  "Blaseball": null
 }
