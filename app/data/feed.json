@@ -1,17 +1,196 @@
 {
-  "updated": "2026-10-18",
-  "generated_at": "2026-10-18T07:00:01.917839",
+  "updated": "2026-10-21",
+  "generated_at": "2026-10-21T07:00:04.768229",
   "articles": [
     {
-      "id": "5131a98ce0",
-      "title": "成就土耳其创始人的特质，也正是制约其生态发展的因素",
-      "summary": "文章剖析伊斯坦布尔如何凭借激烈竞争成为全球手游之都，以及这种「内卷式 rivalry」如何阻碍知识沉淀、造成人才外流、让成功团队难以留在本地。对关注手游产业带、团队组织与出海人才布局的从业者具有参考价值。",
-      "url": "https://www.deconstructoroffun.com/blog/what-makes-turkish-founders-excel-is-what-holds-the-ecosystem-back",
-      "source": "Deconstructor of Fun",
+      "id": "fb60bc0e55",
+      "title": "AI 生成应用和游戏涌入，App Store 审核时间被拖慢",
+      "summary": "文章报道大量 AI 生成应用和游戏导致 App Store 审核周期显著变长，而 Google Play 审核时间据称仍较稳定。对准备上线的手游团队安排发行节奏和风险预案有实际参考价值。",
+      "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-10-17T08:35:46",
+      "score": 6,
+      "published_at": "2026-10-20T10:29:00",
       "games": []
+    },
+    {
+      "id": "cc626cdfa8",
+      "title": "如何在不制造风险的情况下让 AI Agent 访问游戏数据——GameAnalytics",
+      "summary": "GameAnalytics 讨论给 AI Agent 开放游戏数据权限时，相比人类分析师会带来查询频率、文本注入和数据外发等新风险。对依赖数据分析做 LiveOps 和商业化的手游团队有安全治理参考，但不涉及具体玩法设计。",
+      "url": "https://www.gameanalytics.com/blog/how-to-give-an-ai-agent-access-to-your-game-data",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-20T11:02:52",
+      "games": []
+    },
+    {
+      "id": "3b3f92fc2b",
+      "title": "GDC Festival of Gaming 2027 改为四天制，以打造更高质量、更聚焦的体验",
+      "summary": "GDC Festival of Gaming 2027 将调整为周一至周四的四天日程，官方称旨在提升参会体验的聚焦度与价值。对休闲游戏从业者而言属于会议安排动态，缺少玩法与商业化层面的实质分析。",
+      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T08:37:14",
+      "games": []
+    },
+    {
+      "id": "d77437def0",
+      "title": "Griffin Gaming Partners与Entertainment 360联合推出制作公司Hitpoint Entertainment",
+      "summary": "Griffin Gaming Partners与好莱坞人才经纪公司Entertainment 360共同成立Hitpoint Entertainment，专注将游戏IP改编为影视作品。这体现游戏与影视跨媒介合作趋势，对拥有强IP的休闲游戏公司评估授权和改编机会有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T15:10:33",
+      "games": [
+        {
+          "name": "Missile Command",
+          "desc": "经典街机导弹防御射击游戏，文中作为可能被改编为电影的游戏IP被提及。"
+        },
+        {
+          "name": "Sonic The Hedgehog",
+          "desc": "世嘉经典平台动作游戏系列，文中提及其电影改编系列。"
+        },
+        {
+          "name": "The Legend of Zelda",
+          "desc": "任天堂动作冒险游戏系列，文中提及其真人影视改编项目。"
+        },
+        {
+          "name": "Zephon",
+          "desc": "Proxy Studios开发的4X策略游戏，文中出现在作者参与项目简介中。"
+        },
+        {
+          "name": "Down With The Ship",
+          "desc": "Iron Anchor Studios开发的游戏，文中出现在作者参与项目简介中，未说明具体类型。"
+        },
+        {
+          "name": "Endless Space 2",
+          "desc": "Amplitude Studio于2017年推出的游戏，文中出现在作者参与项目简介中，属于太空4X策略系列。"
+        }
+      ]
+    },
+    {
+      "id": "0206cc3bba",
+      "title": "日本演员联盟发布指南，应对生成式AI未经授权复制声音表演",
+      "summary": "日本演员联盟发布新指南，针对生成式AI未经授权复制声音表演的问题提出规范。对游戏配音和本地化制作而言，这提示AI语音使用需更重视授权与合规，尤其影响有角色配音的手游项目。",
+      "url": "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T10:42:26",
+      "games": []
+    },
+    {
+      "id": "ffc61ea0ea",
+      "title": "Fuse Games CEO 拆解《Star Wars: Galactic Racer》的 codev 协作开发框架",
+      "summary": "Fuse Games CEO 介绍与外部团队协作开发《Star Wars: Galactic Racer》的 codev 框架，重点在分布式制作流程与沟通机制。对休闲游戏团队理解外包和联合开发管理有参考，但不涉及三消玩法、关卡或变现设计。",
+      "url": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T18:39:12",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "一款《星球大战》背景的竞速游戏，登陆PC和主机，采用核心团队与联合开发/外包伙伴协作的分布式开发模式。"
+        },
+        {
+          "name": "Escape the Backrooms",
+          "desc": "一款Backrooms题材游戏，文中作为Blackbird Interactive与Secret Mode合作开发、借势Backrooms热潮的案例被提及。"
+        }
+      ]
+    },
+    {
+      "id": "c583b090db",
+      "title": "三年、7000万美元、仍无发售日：投资者为何持续押注 Gardens",
+      "summary": "讨论 Gardens Interactive 在原型展示后三年仍未公布发售日、却又获得超3500万美元新融资的情况，分析投资者为何继续看好。内容偏向游戏投资与团队节奏，对休闲游戏从业者的直接玩法或变现参考有限。",
+      "url": "https://naavik.co/podcast/three-years-70m-no-release-date-why-investors-keep-betting-on-gardens/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T13:27:25",
+      "games": [
+        {
+          "name": "Gardens",
+          "desc": "一款在线生存角色扮演“strandbox”，玩家与陌生人相遇、建立关系并共同重塑世界。"
+        },
+        {
+          "name": "Journey",
+          "desc": "一款以无言叙事和旅程体验著称的冒险游戏。"
+        },
+        {
+          "name": "Sky",
+          "desc": "一款以社交飞行与协作探索为特点的冒险游戏。"
+        },
+        {
+          "name": "What Remains of Edith Finch",
+          "desc": "一款以第一人称探索和家族叙事为特点的叙事冒险游戏。"
+        },
+        {
+          "name": "Blaseball",
+          "desc": "一款以荒诞棒球模拟和社区参与为特点的浏览器游戏。"
+        }
+      ]
+    },
+    {
+      "id": "66cd4b48dc",
+      "title": "Innersloth 联合创始人警告开发者：市面上存在一些非常糟糕的交易",
+      "summary": "围绕独立游戏合作与发行交易中的不公平条款发出警告，提醒开发者审慎评估合同。对休闲游戏团队有商业合作风险提示价值，但不涉及具体产品设计分析。",
+      "url": "https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T16:01:46",
+      "games": []
+    },
+    {
+      "id": "054ae004f6",
+      "title": "认识 GameAnalytics AI Agent",
+      "summary": "介绍 GameAnalytics 新推出的 AI Agent，可用自然语言直接查询游戏数据，无需 SQL 或仪表盘。对游戏运营数据分析有工具参考价值，但未涉及休闲游戏玩法或变现拆解。",
+      "url": "https://www.gameanalytics.com/blog/gameanalytics-ai-agent",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T09:01:12",
+      "games": []
+    },
+    {
+      "id": "727f3dcdc2",
+      "title": "“玩家想与品牌互动，而不只是消费它们”——Mattel 谈新游戏工作室、为何登陆 Roblox 及从 NetEase 学到的经验",
+      "summary": "Mattel 介绍其新成立的 Mattel Game Studios 如何围绕自有 IP 做游戏、选择 Roblox 平台以及从与 NetEase 合作中吸取的经验。对 IP 手游和品牌联动有中等参考价值，但不涉及三消或消除核心设计。",
+      "url": "https://www.gamesindustry.biz/players-want-to-engage-with-brands-not-just-consume-them-mattel-on-its-new-game-studios-arm-why-its-releasing-on-roblox-and-what-it-learnt-from-netease",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T12:30:00",
+      "games": [
+        {
+          "name": "Phase 10",
+          "desc": "Mattel 旗下的现有卡牌游戏，被列为整合后游戏产品组合中的一员。"
+        },
+        {
+          "name": "Uno Wild",
+          "desc": "Mattel 近期公布的自发行 UNO 系列游戏。"
+        },
+        {
+          "name": "Hot Wheels Infinite Rush",
+          "desc": "基于 Hot Wheels IP 的授权合作游戏。"
+        },
+        {
+          "name": "Masters of the Universe: Dragon Pearl of Destruction",
+          "desc": "基于 Masters of the Universe IP 的授权游戏，由 Bitmap Bureau 开发。"
+        },
+        {
+          "name": "Skeletor: Until Next Time",
+          "desc": "与 Amber 合作开发的 Skeletor 主题游戏。"
+        },
+        {
+          "name": "Terminator 2D: No Fate",
+          "desc": "Bitmap Bureau 开发的 2D 游戏，文中作为该工作室背景提及。"
+        }
+      ]
     }
   ]
 }
