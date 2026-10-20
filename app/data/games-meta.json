@@ -12070,5 +12070,19 @@
     ],
     "store_url": "https://apps.apple.com/us/app/match-villains/id6479752688?uo=4",
     "store": "appstore"
+  },
+  "Dungeons & Dragons (D&D)": null,
+  "Samson": {
+    "name": "Samson Construction Management",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/99/57/7e9957cc-5c30-a425-47dc-4d645ff8fb97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "The Samson Management App is a powerful workforce management solution built for construction companies. The Samson Management App is the all-in-one workforce management solution built specifically for construction companies, contractors, and field crews. Designed to connect the office and job site in real time, Samson streamlines daily operations so your team can stay productive, accountable, and on schedule.\nWith Samson, employees can clock in and out from the field, submit daily reports, track labor hours, complete safety documentation, and stay connected with project managers instantly. Office staff gains better visibility into workforce activity, job progress, and compliance requirements, all from one centralized platform.\nWhether managing one project or multiple crews, Samson helps reduce paperwork, improve communication, increase efficiency, and keep projects moving forward safely and smoothly.\nKey Features:\n• Employee time tracking and attendance\n• Daily reports and field documentation\n• Safety forms and compliance management\n• Real-time communication between office and field\n• Workforce visibility and labor tracking\n• Simplified project coordination and reporting\nBuilt for the demands of construction. Powered for the pace of the fields and field teams. It connects office staff and job site crews with real-time tools to track time, manage reports, and maintain safety compliance.\nDesigned to simplify daily operations, Samson helps you reduce paperwork, improve communication, and keep your projects running smoothly.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/9c/76/b19c76b9-eed7-11bb-85bc-6d429e2684a0/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/e6/48/bae648f7-f3bd-0753-f72e-b9ddea2b8909/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/27/7c/09277c00-8e85-4e4a-e7bb-d77c9c21b2b7/mzl.innxfpxe.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/c9/83/80c983e8-0355-fa7c-1fa4-b4f68d6eff1f/mzl.trbvzlxw.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/samson-construction-management/id1441082312?uo=4",
+    "store": "appstore"
   }
 }
