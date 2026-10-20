@@ -12166,5 +12166,20 @@
     "store_url": "https://store.steampowered.com/app/203650",
     "store": "steam"
   },
-  "The Legend of Zelda": null
+  "The Legend of Zelda": null,
+  "GTA 6 / Grand Theft Auto VI": null,
+  "Call of Duty: Modern Warfare 2": null,
+  "Black Ops 6": {
+    "name": "Call of Duty®: Black Ops 6",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/836828b783fc1208664d6c3f9fe88e9abf060813/header.jpg?t=1783699904",
+    "description": "Call of Duty®: Black Ops 6 is signature Black Ops across a cinematic single-player Campaign, a best-in-class Multiplayer experience and with the epic return of Round-Based Zombies.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/0d3fffebfd9343ff4233a87967a6f63cc81757a5/ss_0d3fffebfd9343ff4233a87967a6f63cc81757a5.600x338.jpg?t=1783699904",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/cbde45c18646285d0262ef8704c5e151fec7d5ee/ss_cbde45c18646285d0262ef8704c5e151fec7d5ee.600x338.jpg?t=1783699904",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/b93aa26ac3303757428e6e314afbdeb860e99417/ss_b93aa26ac3303757428e6e314afbdeb860e99417.600x338.jpg?t=1783699904",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384550/e3f85646e7722a62d04a71e3a68d12ecc7a2314b/ss_e3f85646e7722a62d04a71e3a68d12ecc7a2314b.600x338.jpg?t=1783699904"
+    ],
+    "store_url": "https://store.steampowered.com/app/4384550",
+    "store": "steam"
+  }
 }
