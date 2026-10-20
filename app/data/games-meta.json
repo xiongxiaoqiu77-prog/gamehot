@@ -12152,5 +12152,19 @@
     "store_url": "https://apps.apple.com/us/app/gardenscapes/id1105855019?uo=4",
     "store": "appstore"
   },
-  "Blaseball": null
+  "Blaseball": null,
+  "Sonic The Hedgehog": {
+    "name": "Sonic the Hedgehog 4 - Episode II",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203650/header.jpg?t=1762753131",
+    "description": "The Sonic 4 Saga continues in Episode II with the return of a beloved side kick and fan-favorite villains! Following the events of Episode I, Metal Sonic has returned to form an alliance with Dr. Eggman! To face this new evil, Sonic will have to call upon an old friend to help him save the day!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203650/ss_d272680784637da673a032b42b3c83495e4e0497.600x338.jpg?t=1762753131",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203650/ss_4adac26ee15b0d6279679fcbaaf273ba8462351d.600x338.jpg?t=1762753131",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203650/ss_78c60e9b48e1fed5350f59819645e42ac95edde5.600x338.jpg?t=1762753131",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203650/ss_01c4db88021b5aedc14598e4ef847cb92a700a90.600x338.jpg?t=1762753131"
+    ],
+    "store_url": "https://store.steampowered.com/app/203650",
+    "store": "steam"
+  },
+  "The Legend of Zelda": null
 }
