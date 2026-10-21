@@ -12404,5 +12404,19 @@
     ],
     "store_url": "https://apps.apple.com/us/app/touchgrind-skate-2/id720068876?uo=4",
     "store": "appstore"
+  },
+  "Star Wars: Battlefront": null,
+  "Shattered Steel": {
+    "name": "Shattered Steel",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624060/header.jpg?t=1762284572",
+    "description": "Save your species as you engage in fast-paced mechanized combat in the single-player campaign containing 50 adrenaline-pounding missions and arm your Planet Runner with blazing firepower - over 25 armaments, including gatling guns, guided missiles, fuel-air mortars and plasma cannons.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624060/ss_bdc4a74d3a49972161f656dc419e546b5d97f283.600x338.jpg?t=1762284572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624060/ss_4e3a7bd1639af020998e110097f14f586083c4e9.600x338.jpg?t=1762284572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624060/ss_f19032015351645372bc0469306fbdf3ee243fd0.600x338.jpg?t=1762284572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624060/ss_1a403b6bd4fa4f475fa434e5ab7357cd49f76f4d.600x338.jpg?t=1762284572"
+    ],
+    "store_url": "https://store.steampowered.com/app/624060",
+    "store": "steam"
   }
 }
