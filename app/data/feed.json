@@ -1,255 +1,272 @@
 {
-  "updated": "2026-10-22",
-  "generated_at": "2026-10-22T07:00:12.048624",
+  "updated": "2026-10-23",
+  "generated_at": "2026-10-23T07:00:05.518675",
   "articles": [
     {
-      "id": "7bd3b450dd",
-      "title": "Monopoly Go 第三季度为 Hasbro 贡献4100万美元，九个月累计1.27亿美元",
-      "summary": "Scopely 的 Monopoly Go 第三季度版权收入4100万美元，与2025年持平，期间推进了 Looney Tunes、KPop Demon Hunters 与 Ghostbusters 等多个IP联动。可作为休闲大盘产品借助高频IP联动维持收入的LiveOps案例参考。",
-      "url": "https://mobilegamer.biz/monopoly-go-earned-hasbro-41m-in-q3-taking-its-nine-month-total-to-127m/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-10-21T11:17:18",
-      "games": [
-        {
-          "name": "Monopoly Go",
-          "desc": "Scopely发行的移动棋盘/骰子游戏，第三季度为Hasbro贡献4100万美元。"
-        },
-        {
-          "name": "Magic: The Gathering",
-          "desc": "集换式卡牌游戏，季度收入首次突破6亿美元。"
-        }
-      ]
-    },
-    {
-      "id": "f18915f160",
-      "title": "数据周报：Scopely、Century、Dream 领跑发行商榜，Block Blast 与 Arrows 登顶下载榜",
-      "summary": "汇总一周手游榜单与数据，涵盖发行商排名、下载榜，以及 Mag Interactive、Strikerz、CrazyGames 的统计，并对比 Royal Smash 与 Smash Fest 的表现。适合快速跟踪休闲与消除类竞品的市场位置。",
-      "url": "https://mobilegamer.biz/data-digest-scopely-century-and-dream-lead-publisher-list-block-blast-and-arrows-top-download-chart-more/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-10-21T09:49:01",
-      "games": [
-        {
-          "name": "Monopoly Go",
-          "desc": "Scopely的移动棋盘游戏，第三季度以5.07亿美元美国收入位居发行商收入榜首。"
-        },
-        {
-          "name": "Pokémon Go",
-          "desc": "Niantic的AR位置游戏，10周年活动推动其美国净IAP环比约翻倍。"
-        },
-        {
-          "name": "Gossip Harbor",
-          "desc": "Microfun旗下游戏，几乎贡献其当期收入增长，文章未详述类型。"
-        },
-        {
-          "name": "Block Blast",
-          "desc": "超休闲方块解谜游戏，第三季度全球下载4700万，居超休闲下载榜首位。"
-        },
-        {
-          "name": "Arrow Puzzle",
-          "desc": "箭头解谜游戏，第三季度全球下载4200万，排名第二。"
-        },
-        {
-          "name": "Meowdoku",
-          "desc": "2026年发布的超休闲解谜游戏，第三季度下载3200万。"
-        },
-        {
-          "name": "Amaze Go",
-          "desc": "2026年发布的超休闲游戏，进入第三季度下载榜。"
-        },
-        {
-          "name": "Bus Traffic Fever",
-          "desc": "2026年发布的超休闲游戏，进入第三季度下载榜。"
-        },
-        {
-          "name": "EA FC",
-          "desc": "足球体育游戏，UFL在移动端对标和竞争的作品。"
-        },
-        {
-          "name": "UFL",
-          "desc": "Strikerz开发的免费足球游戏，移动端下载突破1000万。"
-        }
-      ]
-    },
-    {
-      "id": "35e678a99a",
-      "title": "如何运营独立游戏工作室：第4部分，设定并达成季度重点工作",
-      "summary": "文章介绍独立游戏工作室如何用季度重点工作（rocks）拆解目标、管理执行并提升达成率。对休闲游戏团队的项目管理和季度规划有参考价值，但不涉及具体玩法、数值或变现设计。",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks",
+      "id": "2caae019e4",
+      "title": "“开发难度令人崩溃”——《Dispatch》的混乱开发历程与AdHoc Studio下一步计划",
+      "summary": "文章回顾《Dispatch》首章上线一年后的成功与混乱开发过程，并讨论AdHoc Studio后续规划。对理解叙事型独立游戏团队管理和爆款形成有参考，但与休闲消除手游的关卡、数值和商业化关联较弱。",
+      "url": "https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-21T14:00:00",
-      "games": []
-    },
-    {
-      "id": "e3dd9c06a9",
-      "title": "Wargaming 联合创始人创办的 Mika Games 融资1000万美元，投资软发布之后的团队",
-      "summary": "Mika Games 由 Flint Capital 领投完成1000万美元融资，资金用于产品研发与付费买量测试，重点支持已过软发布阶段的工作室。对手游从业者而言，反映的是软发布后买量验证环节的资本关注点。",
-      "url": "https://mobilegamer.biz/wargaming-cofounders-mika-games-raises-10m-to-back-studios-beyond-soft-launch/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-21T14:05:48",
+      "published_at": "2026-10-22T16:15:00",
       "games": [
         {
-          "name": "Legendale",
-          "desc": "Mika Games投资组合中的产品，拥有超过300万玩家，文章未说明具体类型。"
-        },
-        {
-          "name": "Punko",
-          "desc": "Agonalea Games开发的移动游戏，下载量超过50万。"
+          "name": "Dispatch",
+          "desc": "AdHoc Studio 开发的分集式喜剧叙事游戏，共八集，文章围绕其混乱开发历程与发行成功展开。"
         }
       ]
     },
     {
-      "id": "34ef6a9da2",
-      "title": "EA关闭Mass Effect、Dragon Age缔造者BioWare，结束30年游戏开发",
-      "summary": "EA据报裁员400人，其中50人为BioWare剩余员工，BioWare在成立30年后关闭。该消息反映大型主机/PC工作室重组与IP风险，但与休闲消除手游的玩法、运营和变现关联较弱。",
-      "url": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
+      "id": "17edf86b34",
+      "title": "为什么仪表盘不再够用（以及AI代理能解锁什么）——GameAnalytics",
+      "summary": "GameAnalytics讨论游戏数据分析从静态仪表盘转向AI代理按需生成洞察，以及数据团队角色变化。文章对手游LiveOps数据体系有参考，但并非休闲玩法或变现的专项拆解。",
+      "url": "https://www.gameanalytics.com/blog/why-dashboards-arent-enough-anymore-and-what-ai-agents-unlock-instead",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-22T11:10:43",
+      "games": []
+    },
+    {
+      "id": "dcc7526d2b",
+      "title": "VR先驱Owlchemy Labs转向XR，新作《Hyper Visor》将随HTC XREAL Aura头显首发",
+      "summary": "Owlchemy Labs宣布新作《Hyper Visor》将作为HTC XREAL Aura头显首发游戏，标志其从VR向XR扩展。内容属于平台与新品动态，对三消/休闲手游的玩法、变现和LiveOps没有直接分析价值，仅可作XR硬件生态观察。",
+      "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-21T18:57:37",
+      "published_at": "2026-10-22T14:37:37",
       "games": [
         {
-          "name": "Mass Effect",
-          "desc": "BioWare开发的科幻角色扮演游戏系列，文中提及EA裁员涉及该系列新作。"
-        },
-        {
-          "name": "Dragon Age",
-          "desc": "BioWare开发的奇幻角色扮演游戏系列，文中作为其代表作之一提及。"
-        },
-        {
-          "name": "Star Wars: Knights of the Old Republic",
-          "desc": "BioWare开发的《星球大战》角色扮演游戏，文中作为其代表作之一提及。"
-        },
-        {
-          "name": "Project Lotus",
-          "desc": "《模拟人生》系列中已取消的代号新作。"
-        },
-        {
-          "name": "Project Evergreen",
-          "desc": "文中被列为优先事项的代号游戏项目，具体类型未说明。"
-        },
-        {
-          "name": "skate",
-          "desc": "Full Circle Studios开发的在线滑板游戏，文中称EA正从中调配资源但仍维持开发。"
-        },
-        {
-          "name": "Star Wars: Battlefront",
-          "desc": "《星球大战：前线》系列，文中称Respawn与DICE可能合作开发新作。"
-        },
-        {
-          "name": "Shattered Steel",
-          "desc": "BioWare于1995年成立后推出的首款游戏，文中作为其作品起点提及。"
-        },
-        {
-          "name": "Dragon Age: The Veilguard",
-          "desc": "《龙腾世纪》系列最新作，文中作为BioWare作品时间线的终点提及。"
+          "name": "Hyper Visor",
+          "desc": "Owlchemy Labs 开发的原创 XR 街机射击游戏，玩家用双手和一副“有生命的墨镜”通关八个融合节奏游戏、横版射击等传统类型的关卡。"
         }
       ]
     },
     {
-      "id": "2b516137bb",
-      "title": "揭开工会面纱：游戏管理者需要了解什么",
-      "summary": "文章面向游戏公司管理者，解释与工会合作正在从可能性变为必然性，以及管理者需要了解的关键事项。内容涉及游戏行业劳动关系与组织管理，但不直接讨论休闲游戏玩法、数值或 LiveOps。",
-      "url": "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know",
+      "id": "e013ba8fc1",
+      "title": "《Marvel's Wolverine》领跑美国9月销量榜，创《Helldivers 2》以来Sony发行游戏最高月度销售额",
+      "summary": "报道《Marvel's Wolverine》在美国9月销量榜领先，并创下Sony自《Helldivers 2》以来最高月度美元销售额。属于主机AAA销售动态，对休闲手游市场判断仅有间接参考。",
+      "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-21T08:00:00",
+      "published_at": "2026-10-22T13:00:08",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "索尼发行的《金刚狼》题材游戏，在2026年9月美国销量榜登顶，并创下自《Helldivers 2》以来索尼发行游戏最高月度销售额。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球模拟游戏，9月美国销量榜排名第2，并超过《Resident Evil Requiem》成为2026年年初至今最畅销游戏。"
+        },
+        {
+          "name": "EA Sports FC 27",
+          "desc": "足球体育游戏，9月美国销量榜排名第3，表现不及《Marvel's Wolverine》。"
+        },
+        {
+          "name": "Fire Emblem: Fortune's Weave",
+          "desc": "《火焰纹章》系列策略角色扮演新作，9月新上榜并排名第4。"
+        },
+        {
+          "name": "The Blood of Dawnwalker",
+          "desc": "9月新上榜并进入前五的黑暗奇幻动作RPG，文章主要提及其销量排名。"
+        },
+        {
+          "name": "Wardogs",
+          "desc": "9月新上榜并排名第6的销量榜游戏。"
+        },
+        {
+          "name": "Onimusha: Way of the Sword",
+          "desc": "《鬼武者》系列动作游戏新作，9月新上榜并排名第7。"
+        },
+        {
+          "name": "Halloween: The Game",
+          "desc": "9月新上榜并排名第8的恐怖题材游戏。"
+        },
+        {
+          "name": "Ace Combat 8: Wings of Theve",
+          "desc": "《皇牌空战》系列空战射击新作，9月新上榜并排名第9。"
+        },
+        {
+          "name": "Madden NFL 27",
+          "desc": "美式橄榄球体育游戏，9月美国销量榜排名第10。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "生存恐怖游戏，曾领跑2026年年初至今销量，后被《NBA 2K27》超越。"
+        },
+        {
+          "name": "Helldivers 2",
+          "desc": "索尼发行的合作射击游戏，被文章用作《Marvel's Wolverine》月度销售额的对比基准。"
+        }
+      ]
+    },
+    {
+      "id": "7d7cb4e4d4",
+      "title": "Pantaloon推出订阅服务，策展“大胆而怪异”的独立游戏库",
+      "summary": "Pantaloon介绍其新订阅服务，通过策展方式构建“大胆而怪异”的独立游戏库。文章反映独立游戏分发与订阅模式探索，但与三消/消除类手游的设计和运营关联有限。",
+      "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T11:00:00",
+      "games": [
+        {
+          "name": "Sub-Verge",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Occlude",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "It Takes a War",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Boxroom",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Offbeat",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Rolla",
+          "desc": "近期推出并随 Playbill 首发上线的独立游戏。"
+        },
+        {
+          "name": "Buckshot Roulette",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Critical Reflex 与 Mike Klubnika 推出。"
+        },
+        {
+          "name": "Silt",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Fireshine 与 Spiral Circus Games 推出。"
+        },
+        {
+          "name": "Ex Sanguis",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Firesquid 与 Lightbulb Crew 推出。"
+        },
+        {
+          "name": "Death Crown",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 5WORD Team 推出。"
+        },
+        {
+          "name": "Kids",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Playables 推出。"
+        },
+        {
+          "name": "Four Last Things",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Akupara Games 与 Joe Richardson 推出。"
+        },
+        {
+          "name": "Cabin Factory",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Future Friends Games 与 International Cat Studios 推出。"
+        },
+        {
+          "name": "Virtue: Prologue",
+          "desc": "Devolver 发行的限时独占视觉中篇小说式游戏，是《Virtue and a Sledgehammer》的伴生作品，10月27日推出。"
+        },
+        {
+          "name": "Virtue and a Sledgehammer",
+          "desc": "文章中提到的即将推出游戏，其视觉中篇小说式伴生作品《Virtue: Prologue》将先行推出。"
+        },
+        {
+          "name": "Isle Goblin",
+          "desc": "Playbill 首发试玩阵容中的独立游戏，由 Fireshine 与 Kilowatt Games 推出。"
+        },
+        {
+          "name": "Mr Magpie’s Harmless Card Game",
+          "desc": "Playbill 首发试玩阵容中的卡牌游戏，由 Behaviour Interactive、Gambit Digital 与 Giant Light Studios 推出。"
+        },
+        {
+          "name": "Lemonade Apocalypse",
+          "desc": "Pantaloon 旗下随 Playbill 首发试玩的游戏之一。"
+        }
+      ]
+    },
+    {
+      "id": "472c89f204",
+      "title": "Xbox公布云游戏时长限制定价：10小时3.99美元起",
+      "summary": "Xbox公布Game Pass云游戏时长限制的定价方案，最低3.99美元10小时。该动态涉及平台订阅与云游戏变现，可为理解游戏付费模式提供背景，但与休闲手游内购/广告变现无直接关系。",
+      "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T09:14:16",
       "games": []
     },
     {
-      "id": "a83652d398",
-      "title": "2026年独立游戏与原创IP迎来爆发",
-      "summary": "Sensor Tower 为 GamesIndustry.biz 提供的研究显示，2026年PC与主机畅销产品中独立游戏和原创IP的占比明显高于2025年。可作为判断原创IP价值的市场侧参考，但与手游休闲赛道关联有限。",
-      "url": "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026",
+      "id": "18d2241463",
+      "title": "报告探讨Roblox如何在2026上半年成为总时长最高游戏后留住年长玩家",
+      "summary": "报告称Roblox在2026上半年PC和主机平台产生40.5亿小时游玩时长，成为总时长最高的游戏。文章关注其年长用户留存策略，对平台型游戏LiveOps有参考，但与三消/消除品类关联有限。",
+      "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-21T11:39:48",
+      "published_at": "2026-10-22T11:00:00",
       "games": [
         {
-          "name": "Meccha Chameleon",
-          "desc": "低预算合作派对游戏（friendslop），2026年首月销量约1390万套，是当期最大独立游戏爆款之一。"
-        },
-        {
-          "name": "How to Fish",
-          "desc": "低预算合作派对游戏（friendslop），2026年首月销量约790万套。"
-        },
-        {
-          "name": "Slay the Spire 2",
-          "desc": "独立游戏续作热门，2026年首月销量约590万套。"
-        },
-        {
-          "name": "Hollow Knight: Silksong",
-          "desc": "独立游戏续作热门，2026年首月销量约520万套。"
-        },
-        {
-          "name": "Escape from Duckov",
-          "desc": "2026年独立游戏热门，首月销量约400万套。"
-        }
-      ]
-    },
-    {
-      "id": "95b05f92f8",
-      "title": "数据显示：GTA 6 发售时 Call of Duty、EA Sports FC 等产品最易流失玩家",
-      "summary": "新数据表明竞技射击与体育品类在 GTA 6 上线当期最容易被抢走用户时长。对休闲品类可借鉴的是「大盘级新品上线期的用户时长争夺」这一排期风险。",
-      "url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-21T10:53:35",
-      "games": [
-        {
-          "name": "Grand Theft Auto VI",
-          "desc": "备受期待的开放世界游戏，调查称69%的PC和主机玩家计划在其发售时游玩。"
-        },
-        {
-          "name": "Call of Duty",
-          "desc": "竞争性射击游戏，被列为GTA 6发售时最易流失玩家的作品之一。"
-        },
-        {
-          "name": "Battlefield",
-          "desc": "竞争性射击游戏，被列为GTA 6发售时易流失玩家的作品之一。"
-        },
-        {
-          "name": "Apex Legends",
-          "desc": "竞争性射击/大逃杀游戏，被列为GTA 6发售时易流失玩家的作品之一。"
+          "name": "Roblox",
+          "desc": "用户生成内容平台/游戏，2026年上半年在PC和主机上产生40.5亿小时游玩时长，成为总时长最高游戏。"
         },
         {
           "name": "Fortnite",
-          "desc": "竞争性射击/大逃杀游戏，即使高粘性玩家也可能在GTA 6发售时流失。"
+          "desc": "长期运营的在线服务型游戏，是Roblox流失玩家常转向的同类游戏之一。"
         },
         {
-          "name": "EA Sports FC",
-          "desc": "体育游戏，被列为GTA 6发售时易流失玩家的作品之一。"
+          "name": "Minecraft",
+          "desc": "长期运营的沙盒/生存类在线服务游戏，也是Roblox流失玩家常转向的同类游戏之一。"
         },
         {
-          "name": "NBA 2K",
-          "desc": "篮球体育游戏，被列为GTA 6发售时易流失玩家的作品之一。"
+          "name": "Call of Duty",
+          "desc": "写实射击游戏系列，约30%的Roblox流失玩家偏好此类游戏。"
         },
         {
-          "name": "Counter-Strike 2",
-          "desc": "仅PC端的竞争性射击游戏，是风险分析中的异常项，玩家在GTA 6发售时游玩意向较低。"
+          "name": "Grand Theft Auto Online",
+          "desc": "写实射击/开放世界在线游戏，与Call of Duty并列为Roblox流失玩家偏好的动作射击类游戏。"
+        },
+        {
+          "name": "Sonic Speed Simulator",
+          "desc": "使用Roblox Studio开发发行的品牌游戏，2022年发布，2024年成为首个访问量突破10亿的Roblox品牌游戏。"
         }
       ]
     },
     {
-      "id": "e255d1b22d",
-      "title": "Vivrato：欧美97%的工作室负责人在研发中使用过AI",
-      "summary": "调研显示97%的欧美工作室负责人在研发某个环节使用过AI，94%至少在一个生产阶段使用。属于行业生产端趋势数据，对三消美术与关卡生产提效有间接参考。",
-      "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+      "id": "50ce987165",
+      "title": "法院裁定Apple违反竞争法后Fortnite重返澳大利亚iOS",
+      "summary": "澳大利亚法院认定Apple违反竞争法，要求开放iOS第三方应用商店，Fortnite因此重返当地iOS。该动态对移动游戏分发与平台政策有参考，对休闲手游发行有间接影响。",
+      "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-21T08:40:54",
-      "games": []
+      "published_at": "2026-10-22T08:08:08",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "大逃杀/在线服务型游戏，因澳大利亚法院裁定Apple违反竞争法而重返澳大利亚iOS。"
+        }
+      ]
+    },
+    {
+      "id": "eb41b499df",
+      "title": "Supercell遭遇网络攻击，称玩家数据未受影响",
+      "summary": "Clash of Clans开发商Supercell表示上周遭多次网络攻击，已通知警方和监管机构，但玩家数据未受影响。该事件对手游公司安全运营与危机响应有警示意义。",
+      "url": "https://mobilegamer.biz/supercell-hit-by-cyberattack-but-says-no-player-data-was-affected/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T10:47:27",
+      "games": [
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell开发的策略手游，文中以“Clash of Clans developer”指代Supercell并报道其遭遇网络攻击但玩家数据未受影响。"
+        }
+      ]
     }
   ]
 }
