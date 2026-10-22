@@ -12433,5 +12433,256 @@
     "store": "appstore"
   },
   "Grand Theft Auto Online": null,
-  "Sonic Speed Simulator": null
+  "Sonic Speed Simulator": null,
+  "Hyper Visor": null,
+  "Dispatch": {
+    "name": "Dispatch: Deliver More",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/c6/f6/25c6f6be-0552-0989-54c0-de333a5e8db1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "This app supports both independent delivery professionals and company-owned fleet drivers.\n\nFor independent delivery professionals:\n\nDispatch works with Delivery Pros who approach their work with reliability, communication, and care. You’re part of a growing delivery network that connects you with delivery opportunities tailored to your vehicle, skills, and goals.\n\n• Work your way – Choose when and where you drive.\n• Stay in control – Accept only the deliveries that fit your schedule.\n• Earn more efficiently – Instant payouts, fair order matching, and easy-to-use tools that help you maximize your time and earnings.\n• A support team that has your back – A respectful, responsive team that’s here when you need help.\n• Join a professional network – Partner with businesses that value reliability, care, and great service.\n\nGet started as a Dispatch Delivery Pro today: www.dispatchit.com/drivers",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/fd/d8/46fdd8c9-8868-87ad-d38c-1ce154a014c2/a2cdfd9f-2edc-4aa8-aa38-3b327505940f_00._Homehome_screen.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/d2/71/b0d271dc-a892-5351-5a0d-2ff7475df7b9/7fe22227-4fa1-4623-a23b-cfae103dc4b9_02-ios7plus.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/9c/63/2f9c630a-7717-ba9c-285b-deeac249537d/fb743836-a76a-416e-b040-db49a8cdea0a_03-ios7plus.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/30/84/fa308413-c2c4-4e42-3612-7e54a804e7b6/96ab04c1-d627-4e02-b109-a966d82cca3c_04-ios7plus.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/dispatch-deliver-more/id1175097181?uo=4",
+    "store": "appstore"
+  },
+  "EA Sports FC 27": null,
+  "Fire Emblem: Fortune's Weave": null,
+  "Ace Combat 8: Wings of Theve": {
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1792128424",
+    "description": "Soar through the skies and rise above every challenge to earn your place among the elite. Engage in intense aerial combat to dominate the battlefield with powerful weapons. Experience a breathtaking campaign filled with high-stakes missions, hard choices, and deep squad connections.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/4a99c9c55a7d7163370dc68a5a9008517a32e84a/ss_4a99c9c55a7d7163370dc68a5a9008517a32e84a.600x338.jpg?t=1792128424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/21213f14e460fd45dcc765d1d5ac02333b909d99/ss_21213f14e460fd45dcc765d1d5ac02333b909d99.600x338.jpg?t=1792128424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/9a10471075c3e34d3dcfa7def65d23a2adca478d/ss_9a10471075c3e34d3dcfa7def65d23a2adca478d.600x338.jpg?t=1792128424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/e3759c9a25dbc27325e0454d5f80af8021e8b505/ss_e3759c9a25dbc27325e0454d5f80af8021e8b505.600x338.jpg?t=1792128424"
+    ],
+    "store_url": "https://store.steampowered.com/app/2288340",
+    "store": "steam"
+  },
+  "Sub-Verge": {
+    "name": "Sub-Verge",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/header.jpg?t=1749679195",
+    "description": "Conversation is a dangerous game. Manipulate a fractured band of renegade divers to reach the depths of this short narrative puzzle. Uncover alliances and expose betrayals — before something horrific from the dark abyss silences you all. Don’t let the conversation get too deep.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/ss_d5ec42f2ca3dd6b1044d25fd57d7394efbf93ab4.600x338.jpg?t=1749679195",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/ss_e6917ed70991d642d23910ac78a0a3bf63b789e7.600x338.jpg?t=1749679195",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/ss_07f8fd30656b74829169e11a27ab90359fe561b2.600x338.jpg?t=1749679195",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3487020/ss_586d181a6a25282dd7880d90530c78cdb7e22f3e.600x338.jpg?t=1749679195"
+    ],
+    "store_url": "https://store.steampowered.com/app/3487020",
+    "store": "steam"
+  },
+  "Occlude": {
+    "name": "Occluder",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/cc/c2/eaccc2bb-8e33-ddef-1b2e-868ccbecb05e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+    "description": "***** INTRODUCTORY PRICE *****\n\nThe perfect app to practice and learn about oculomotor pathologies.\nA useful tool to practice diagnosis of ocular pathologies related to external eye muscles with the Cover Test.\nYou can simulate an specific Phoria or Tropia.\n\nTest yourself with Occluder!\n\nYou can practice Cover/Uncover test with the following pathologies:\n1. Near and distant phorias\n2. Near and distant tropias\n\nWe will soon include more pathologies\n\nTo become our tester send a mail to occluderapp@gmail.com",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/71/96/3d/71963d2d-979b-9ba4-71d3-105e73867ab4/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/75/16/19/751619c8-c857-99db-3f28-2c948d1489b1/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/fe/5e/7c/fe5e7cdf-eedf-ed66-17c7-f891bd63ded1/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/d2/0f/2f/d20f2fe5-8c4f-7d28-dd5c-008768f20f36/pr_source.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/occluder/id1116490982?uo=4",
+    "store": "appstore"
+  },
+  "It Takes a War": {
+    "name": "It Takes a War",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919530/226399d3b2576a0888d6c4875ce42fe5cf683b57/header.jpg?t=1779975265",
+    "description": "Graphics! Guns! Glory! Get ready to drop into a devastatingly real depiction of the battlefield as you and your team take on a relentless foe. It Takes a War presents a new vision for the team-based tactical shooter genre.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919530/54463bf71aa4b3001fdd74a0851b3759686135ed/ss_54463bf71aa4b3001fdd74a0851b3759686135ed.600x338.jpg?t=1779975265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919530/ca85f953731bbf9545ebcb5ce6b395ab9c87c877/ss_ca85f953731bbf9545ebcb5ce6b395ab9c87c877.600x338.jpg?t=1779975265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919530/6d0ee0e760466876e77c581bf922b20b4be680bf/ss_6d0ee0e760466876e77c581bf922b20b4be680bf.600x338.jpg?t=1779975265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919530/388e4b6a5290c2d38dd10b4e30beff9d0a68f5f6/ss_388e4b6a5290c2d38dd10b4e30beff9d0a68f5f6.600x338.jpg?t=1779975265"
+    ],
+    "store_url": "https://store.steampowered.com/app/3919530",
+    "store": "steam"
+  },
+  "Boxroom": {
+    "name": "BOXROOM",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335460/604da940e85a84b3d980ab6f783db7a1b63c6f61/header.jpg?t=1790866260",
+    "description": "BOXROOM allows you to design, define and decorate a room - a sanctuary - for your Steam library, and then revel in the organisation of your game collection.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335460/f24c65fb57ed33c8d5e552ce6b7eb35d319e66d5/ss_f24c65fb57ed33c8d5e552ce6b7eb35d319e66d5.600x338.jpg?t=1790866260",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335460/3638727b7b88dbc6aba977adc77c9ec3f98cdf2e/ss_3638727b7b88dbc6aba977adc77c9ec3f98cdf2e.600x338.jpg?t=1790866260",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335460/b69d0a41f24eab8d29a5f3e77ceb24aebe04271c/ss_b69d0a41f24eab8d29a5f3e77ceb24aebe04271c.600x338.jpg?t=1790866260",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335460/cb82651c83d9480efd941497360b76b25303f4e8/ss_cb82651c83d9480efd941497360b76b25303f4e8.600x338.jpg?t=1790866260"
+    ],
+    "store_url": "https://store.steampowered.com/app/4335460",
+    "store": "steam"
+  },
+  "Offbeat": {
+    "name": "OFFBEAT",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/1c/d1/551cd125-51e7-9e08-a733-456677b3bf38/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+    "description": "OFFBEAT, müşterilerimiz için geliştirilmiş bir çevrimiçi sipariş uygulamasıdır. Müşteriler uygulama üzerinden yetki talebinde bulunabilir; talep onaylandıktan sonra ürünlerimizi görüntüleyebilir ve online sipariş verebilirler. \n\nOFFBEAT – Erkek Giyimde Toptan Alışverişin Merkezi\n\nAçıklama:\nErkek moda dünyasının en güncel trendlerini, kaliteli işçilik ve avantajlı fiyatlarla cebinize getiriyoruz. OFFBEAT mobil uygulaması ile artık koleksiyonlarımıza ulaşmak ve sipariş vermek çok daha hızlı!\n   • Geniş Ürün Yelpazesi: Günlük giyimden dış giyime, İç giyimden aksesuara binlerce model.\n   • Hızlı Sipariş: Stok durumunu anlık takip edin, tek tıkla sepetinizi oluşturun.\n   • Özel Bildirimler: Yeni gelen koleksiyonlardan ve sadece uygulama kullanıcılarına özel indirimlerden ilk siz haberdar olun.\n* Hızlı Sevkiyat: Türkiye’nin her yerine hızlı ve güvenilir teslimat.\n\nİşletmenizi bir adım öne taşımak ve vitrininizi yenilemek için hemen indirin!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/44/88/bf4488b7-d481-7877-e54f-8719a924aac1/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-02-05_at_19.54.33.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/04/c0/e504c04b-c4bb-7847-50a7-72e329505ccb/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-02-05_at_20.13.07.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/a8/4a/16a84a28-0b36-29cc-2b30-75e48a2dcafc/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-02-05_at_20.13.17.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/94/41/6e944170-c722-65c6-6760-390fbb7ecac4/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-02-05_at_20.13.26.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/offbeat/id6758769139?uo=4",
+    "store": "appstore"
+  },
+  "Rolla": {
+    "name": "Rolla Video",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ac/ea/18acea4d-e40f-94d5-59c2-d059856d2377/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "description": "Here’s how it works:\n\n1. Join – Get invited to a campaign from a brand you love and accept with one tap.\n\n2. Capture – Follow simple, step-by-step prompts to record the exact shots and messages the brand is looking for.\n\n3. Earn – Submit your clips and unlock perks like discounts, free products, reposts, or shoutouts for participating.\n\nTerms of Service: https://www.rollavideo.com/terms\nPrivacy Policy: https://www.rollavideo.com/privacy\nLearn more on our website: https://www.rollavideo.com",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/40/7f/f2407fb3-ff2a-5fd9-18ed-1bf9477f2f1f/6c75e9a1-5e5a-4b81-a8a6-0070820398fa_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/66/57/47665723-2e92-b30a-27a9-9f7c9146085f/592d4d58-554b-4e0e-9fdb-bc2725dabf78_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/0d/98/0d0d9865-40a1-c819-a745-f10c1b4defda/0875ca85-a7cb-41dc-a800-a87046be7f25_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/fe/c8/6bfec879-a697-9f30-8867-39271a15079e/11e16e6c-0f7e-4d6c-9d0d-b405fb8e1133_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/rolla-video/id1594007848?uo=4",
+    "store": "appstore"
+  },
+  "Buckshot Roulette": {
+    "name": "Buckshot Roulette",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/header.jpg?t=1783085442",
+    "description": "Play Russian roulette with a 12-gauge shotgun. Four enter. One leaves. Roll the dice with your life. Good luck!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_c9c2df013e1c2d1b97f2c5cce57c22c24efd5178.600x338.jpg?t=1783085442",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_aa132ad8e9bfc79d9ff5bd60e89e7f2d69af1d84.600x338.jpg?t=1783085442",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_3ef4fc68827fa9ba6a713f314925c6d5d7a05d16.600x338.jpg?t=1783085442",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_3644e6813bba9e87add09ad5e7b150bb9283a850.600x338.jpg?t=1783085442"
+    ],
+    "store_url": "https://store.steampowered.com/app/2835570",
+    "store": "steam"
+  },
+  "Silt": {
+    "name": "SILT",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/4b/f0/5f4bf00a-01b7-03ae-68c3-2792b4551d61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "*Try SILT for free and unlock the full game to continue your journey!*\n\nDive into a surreal ocean abyss in an atmospheric puzzle-adventure. Explore dangerous waters, possess sea creatures and solve environmental puzzles to discover what lies deep below the surface…\n\nSILT is a surreal underwater puzzle-adventure game. Alone in an underwater abyss, you are a diver searching the deep to uncover long-forgotten mysteries. \nPossess the creatures around you to solve puzzles and travel further into the darkness…\n\nNature has evolved into bizarre forms. Discover strange organisms, unexplored ruins and ancient machinery hidden beneath the water’s surface.\n\nSurvive encounters with giant deep-sea goliaths. Harness their power to awaken a long-dormant force at the centre of the abyss.\n\nExperience art brought to life.  SILT’s unsettling, monochrome world is constructed from the sketches and dark imagination of artist Mr Mead. A harrowing journey awaits you…\n\nEPILEPSY WARNING\n\nPlease read before playing this game or allowing your children to play it:\nSome people are susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights and moving patterns in everyday life. Such people may have a seizure while watching television images or playing certain video games. This may happen even if the person has no medical history of epilepsy or has never had any epileptic seizures.\n\nIf you or anyone in your family has ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights or moving patterns, consult your doctor prior to playing this game. If you or your family experience any symptoms of seizure while playing this game, such as dizziness, nausea, or loss of consciousness, stop playing immediately and seek medical attention.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/9f/c8/979fc88b-2275-e71a-4227-990a3578319c/c8015aa5-cb44-4f26-8b18-56a830b02be1_Silt.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/af/eb/c7afebd4-5d26-c17b-1286-b598f73ffb97/848161de-d700-44c6-8370-77ea50c124e0_image_008_0000.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/34/f1/a934f180-b883-0262-b1fe-4386b568e89a/b3677944-1ff4-4811-a4ef-a27f44d74feb_image_011_0001.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/a3/90/c1a3908d-3b47-bb72-fc9a-deed3a71161d/cc0fbacd-e730-4178-919f-e66856eff05f_image_005_0002.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/silt/id6477457763?uo=4",
+    "store": "appstore"
+  },
+  "Ex Sanguis": {
+    "name": "Ex Sanguis",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275050/b837e3d58d0d8674db3b405cbe1fd094018ced15/header.jpg?t=1792505013",
+    "description": "Bleed the world back to life in a series of tactical, turn-based bloodbaths! Lead your STILLAE, elite warriors in the fight to save a dying world from the forces of STASIS. Slay foes, kick them back on the timeline, and trigger chain events where elegance and blood flow as one.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275050/63540594e109a9aa5235b1bbf329ea0d5f9fff3e/ss_63540594e109a9aa5235b1bbf329ea0d5f9fff3e.600x338.jpg?t=1792505013",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275050/7554bfb1110f6ea03ed149e25290366a9ee85d9d/ss_7554bfb1110f6ea03ed149e25290366a9ee85d9d.600x338.jpg?t=1792505013",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275050/55be6b00442a90b56796fbe973a63fad74777fe1/ss_55be6b00442a90b56796fbe973a63fad74777fe1.600x338.jpg?t=1792505013",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275050/8e248d0527c65eb75a3682c77a541c8eb50e9535/ss_8e248d0527c65eb75a3682c77a541c8eb50e9535.600x338.jpg?t=1792505013"
+    ],
+    "store_url": "https://store.steampowered.com/app/3275050",
+    "store": "steam"
+  },
+  "Death Crown": {
+    "name": "Death Crown",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814530/7bbfe99cc098b0b212dd1edb16225051cd6dcebb/header.jpg?t=1792257231",
+    "description": "A 1-bit real-time strategy game where you play as Death herself. Build structures, conquer lands, and lead legions of the dead against humanity. Humans thought they had defeated Death. Show them how wrong they were.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814530/ss_17387294580e41c57a14a49f7846d924f73e5069.600x338.jpg?t=1792257231",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814530/ss_76c0cd8dc8fc75d0e06201cb81061d5ff4fadfbc.600x338.jpg?t=1792257231",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814530/ss_0f1eaedcf09f7ce76205890b1c67ebafcfed5639.600x338.jpg?t=1792257231",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814530/ss_f003ece229f935ab3f247f86223421b0f44510cb.600x338.jpg?t=1792257231"
+    ],
+    "store_url": "https://store.steampowered.com/app/814530",
+    "store": "steam"
+  },
+  "Kids": {
+    "name": "YouTube Kids",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8e/bc/e58ebc14-0d54-94b9-6ae0-7fa7204263ee/logo_youtube_kids_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+    "description": "Inspire your kids to uncover their unique interests\nHelp your kids explore video content they love and parents trust, in an app made just for kids. With easy navigation tools and a suite of features, you can help your kids spend time online uncovering new interests, unleashing their imagination, and building their confidence in their own unique world.\n\nHelp your kids grow at their own pace\nYour kids are unique, so they should only see content they're ready to explore. Decide what videos will help them make the most of their time online, then personalize individual profiles using custom content filters as they grow.\n\n- Help your youngest kids learn their ABCs, nurture their curiosity, and more in the Preschool mode.\n- Expand your kids interests to songs, cartoons, or DIY crafts in Younger mode.\n- Give your older kids the freedom to search popular music and gaming videos in Older mode.\n- Or hand-pick the videos, channels, and collections your kids can see in Approved Content Only mode.\n\nRewatch videos and bond over favorites\nQuickly find your kids’ favorite videos and the content you’ve shared with them in the Watch it Again tab.\n\nShape your kids’ viewing experience with Parental Controls\nParental Control features help you limit what your kids watch and better guide their viewing experience. Our blocking process aims to help keep videos on YouTube Kids family-friendly and safe – but each family's preferences are unique. Don't like a video or channel, or see inappropriate content? Flag it for our team to review.\n\nSet a screen-time limit\nEncourage your kids to take a break in between exploring content. Use the Timer feature to freeze the app when screen time is up so your kids can apply their new skills to the real world.\n\nSee important information\n- Parental setup is needed to ensure the best experience for your family.\n- Kids may see commercial content from YouTube creators that are not paid ads.\n- See The Privacy Notice for Google Accounts managed with Family Link for information on our privacy practices for signing in with a Google Account.\n- If your kids use the app without signing in with their Google Account, the YouTube Kids Privacy Notice applies.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/26/04/e12604ec-5fc6-fdef-48f9-89325ad4c1a7/1_iphone6Plus_1.en-AU_Phone_iOS_1_2208x1242.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/f0/5a/03f05a07-4622-12d3-f1c8-5a2bdb1f7095/2_iphone6Plus_2.en-AU_Phone_iOS_2_2208x1242.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/35/c2/d235c2d1-a08f-5283-f83d-ee3325591d07/3_iphone6Plus_3.en-AU_Phone_iOS_3_2208x1242.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/6b/7e/ef6b7ef4-1956-01e3-a5ec-73b57dd3c28f/4_iphone6Plus_4.en-AU_Phone_iOS_4_2208x1242.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/youtube-kids/id936971630?uo=4",
+    "store": "appstore"
+  },
+  "Four Last Things": {
+    "name": "Four Last Things",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/09/e5/05/09e5055c-bbc5-9181-ac5c-8e129c35d1c5/AppIcon-1x_U007emarketing-85-220-8.png/512x512bb.jpg",
+    "description": "Pilfer from poets, bargain with bishops and serenade the local simpleton on your hapless quest for absolution. Four Last Things is a point-and-click adventure game made from Renaissance-era paintings. \n\nIt's kind of like if Monkey Island had been made in 16th century Flanders, by a time-travelling Monty Python fanboy...\n\n***In the beginning God created the heavens and the earth. God saw all that he had made, and it was good. Then the Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.\n\n'Ooops,' said god, seeing he had created a fool. But before he was able to remedy his error, man spoke;\n\n'No backsies!' he chirped, and scuttled off into the forest.***\n\nFeatures;\n\n-Pointing and Clicking \n-Renaissance Artwork \n-Classical Music \n-Sinful Behaviour\n-Pie eating contests\n-Detailed, Interactive Game World \n-Simple Visual Interface\n-Friendly, logical puzzles\n-Nonsense \n-Piffle \n-Moments of Surprising Profundity\n\n“Four Last Things is an impressive – and impressively funny – adventure that pulls off its Monty Python-esque humor with gusto.”\n90/100 – AdventureGamers.com",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6a/c3/39/6ac33930-5361-a459-ea8a-8fa15392bcd1/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a5/95/8c/a5958c50-cd1a-f3da-fc05-0dae1e00e9f5/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/a0/65/e6a065c6-95fa-1178-53f2-5758956b5275/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/5f/58/bd/5f58bd74-9fb6-5a4b-4694-91dc4feb5ec1/pr_source.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/four-last-things/id1310675114?uo=4",
+    "store": "appstore"
+  },
+  "Cabin Factory": {
+    "name": "The Cabin Factory",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311740/header.jpg?t=1786539781",
+    "description": "Your job at the Cabin Factory is simple: inspect the cabins and decide on whether they’re haunted or not. If you do find any anomalies, get out…immediately.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311740/ss_946acc6fd58fde044d107a84f3fca8268ad28987.600x338.jpg?t=1786539781",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311740/ss_0dc4450e73c1c343ed828266bde9c9d280a20131.600x338.jpg?t=1786539781",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311740/ss_e309ab3660de8f062ea2aad571225e37050b24e2.600x338.jpg?t=1786539781",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311740/ss_5c024b72dc05b302a03c05751a08cb0aa18f2917.600x338.jpg?t=1786539781"
+    ],
+    "store_url": "https://store.steampowered.com/app/3311740",
+    "store": "steam"
+  },
+  "Virtue: Prologue": null,
+  "Virtue and a Sledgehammer": {
+    "name": "Virtue and a Sledgehammer",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743260/93488f22c9da9e61dd2b9092d149695bcc846e71/header.jpg?t=1792670049",
+    "description": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743260/334ac945ef980274801224b23cd67a665f197044/ss_334ac945ef980274801224b23cd67a665f197044.600x338.jpg?t=1792670049",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743260/04b9fe9cd83df21a4888338be8772591d8b886e4/ss_04b9fe9cd83df21a4888338be8772591d8b886e4.600x338.jpg?t=1792670049",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743260/954575c7b1996f12fa5d8c598c66ac30d67527ff/ss_954575c7b1996f12fa5d8c598c66ac30d67527ff.600x338.jpg?t=1792670049",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743260/b87e3b9bce2fa5b3d86ed80644bb85a82ddb7949/ss_b87e3b9bce2fa5b3d86ed80644bb85a82ddb7949.600x338.jpg?t=1792670049"
+    ],
+    "store_url": "https://store.steampowered.com/app/3743260",
+    "store": "steam"
+  },
+  "Isle Goblin": {
+    "name": "Isle Goblin",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688640/7ee7547792d134445ec078d9abadd6740c9a819a/header_alt_assets_1.jpg?t=1792140214",
+    "description": "Build, explore, fight and rescue your goblin family from the human invaders in a sandbox survival adventure game. Play solo or with up to 7 friends as you rebuild your town, craft powerful gear, explore dungeons, mine rare resources, salvage human treasure, and befriend your goblin neighbours",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688640/6abbcd9cb33649505e06df46fcc5675b27b4fa8f/ss_6abbcd9cb33649505e06df46fcc5675b27b4fa8f.600x338.jpg?t=1792140214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688640/9d8d358647e4576d9e18ad5fed47aef9bcaf6d64/ss_9d8d358647e4576d9e18ad5fed47aef9bcaf6d64.600x338.jpg?t=1792140214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688640/ea3e70bf617db51a849aa03447bfcd00b7a0c2d5/ss_ea3e70bf617db51a849aa03447bfcd00b7a0c2d5.600x338.jpg?t=1792140214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688640/aa2c93a73b8294850ccae4f26549523968e72e84/ss_aa2c93a73b8294850ccae4f26549523968e72e84.600x338.jpg?t=1792140214"
+    ],
+    "store_url": "https://store.steampowered.com/app/1688640",
+    "store": "steam"
+  },
+  "Mr Magpie’s Harmless Card Game": {
+    "name": "Mr Magpie’s Harmless Card Game Demo",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796720/1da2c871d056321824caca9a8519154a82d780a6/header.jpg?t=1792517987",
+    "description": "A surreal corporate horror deckbuilder where you gamble your life for cash, dodge murderous JERRY cards, and “maximise synergies” to climb the company ladder in Mr Magpie’s office nightmare.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796720/6509cedeab957363bfb28282cd104cc754df4d10/ss_6509cedeab957363bfb28282cd104cc754df4d10.600x338.jpg?t=1792517987",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796720/89e7986030d6af183a38320df367ac8707e23fd1/ss_89e7986030d6af183a38320df367ac8707e23fd1.600x338.jpg?t=1792517987",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796720/8c63d23699e7776ab912c999d8d8f6764dc7940b/ss_8c63d23699e7776ab912c999d8d8f6764dc7940b.600x338.jpg?t=1792517987",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796720/1a6a10331eb2e76ab266304575c2a8c6d3e01648/ss_1a6a10331eb2e76ab266304575c2a8c6d3e01648.600x338.jpg?t=1792517987"
+    ],
+    "store_url": "https://store.steampowered.com/app/3796720",
+    "store": "steam"
+  },
+  "Lemonade Apocalypse": {
+    "name": "Lemonade Apocalypse",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3427820/f0d97a56bd5a163da01ad5f29f31e30396141d9e/header.jpg?t=1791985645",
+    "description": "Make money selling lemonade. Optimise your product. Build your workforce. Sell, sell, sell. But money is not enough. Become president! Fuel climate change! Manipulate geopolitical events! Lemonade Apocalypse is an incremental game about business decisions that are technically legal.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3427820/43472e24973c7ff4fc24cbf4fd16fd3243a18960/ss_43472e24973c7ff4fc24cbf4fd16fd3243a18960.600x338.jpg?t=1791985645",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3427820/a8602eb918f1cb66695939d81c423cbe9e70cb0f/ss_a8602eb918f1cb66695939d81c423cbe9e70cb0f.600x338.jpg?t=1791985645",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3427820/ed8d2c886cce6fd090f0e036add625f6ae1e1eec/ss_ed8d2c886cce6fd090f0e036add625f6ae1e1eec.600x338.jpg?t=1791985645",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3427820/41c1e3ed2905f1a40145aee4cb423de274818968/ss_41c1e3ed2905f1a40145aee4cb423de274818968.600x338.jpg?t=1791985645"
+    ],
+    "store_url": "https://store.steampowered.com/app/3427820",
+    "store": "steam"
+  }
 }
