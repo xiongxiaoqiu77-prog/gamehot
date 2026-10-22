@@ -12418,5 +12418,18 @@
     ],
     "store_url": "https://store.steampowered.com/app/624060",
     "store": "steam"
+  },
+  "Nintendo Switch Sports Resort": {
+    "name": "Switch Sports",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/26/88/de2688e2-df3c-47f0-9794-fbf4e78d2cb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg",
+    "description": "\"Switch Sports\" is a sports game pack that lets you enjoy exhilarating rally battles with a simple push of 1 button.\nYou can enjoy exciting matches by yourself, but with just 1 smartphone device, you can battle with two people.\nMatch your timing to perform a thrilling smash!\n\n9 different events are ready to go!\n* \"Table tennis\"\n* \"Tennis\"\n* \"Badminton\"\n* \"Hanetsuki\"\n* \"Volleyball\"\n* \"Sepak takraw\"\n* \"Air hockey\"\nYou can also become a magician and fight with magic in the \"Magic Battle\" event, or become a ninja and throw Shuriken in the \"Ninja\" event.\n\nAnd, there are 4 modes to choose from.\n* \"CPU Battle\" ... battle against a computer. Beat 120 formidable opponents!\n* \"2P Battle\" ... local battle with a friend on a smartphone device.\n* \"Spectator\" ... watch a battle between computers.\n* \"Rally Trial\" ... challenge yourself and keep your rally going! It's game over with just 1 miss.\n\n\n-Features\n* Enjoy casual sports games in 9 different events.\n* Play on 3 different difficulty levels matching your abilities; \"Beginner\", \"Amateur\", and \"Pro\".\n* Every event has 120 rival characters. Face these 1080 champions and reach the top!\n* \"Real Mode\" lets you play according to the real sports game rules.\n* Recording and streaming possible through \"Everyplay\".\n* Share your records and screenshots on SNS.\n* Achievements and leaderboards compatible with \"Apple GameCenter\".\n\n\n###===----- How to Play -----===###\n\n[1] Hold down the button…\n[2] Build up your power…\n[3] Get the timing right...\n[4] Release the button and smash!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/85/9b/02/859b0295-1a76-5608-ca5f-697ab1450153/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5a/b4/60/5ab4601e-7416-8b07-9f1e-f7f8acec2273/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/79/3f/5f793f00-30a4-0def-fd0e-21b6a7c790a5/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/21/12/ac21126e-acd8-610c-123d-e84c7f2b4f9f/pr_source.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/switch-sports/id1208303258?uo=4",
+    "store": "appstore"
   }
 }
