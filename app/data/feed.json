@@ -1,270 +1,242 @@
 {
-  "updated": "2026-10-23",
-  "generated_at": "2026-10-23T07:00:05.518675",
+  "updated": "2026-10-24",
+  "generated_at": "2026-10-24T07:00:30.761132",
   "articles": [
     {
-      "id": "2caae019e4",
-      "title": "“开发难度令人崩溃”——《Dispatch》的混乱开发历程与AdHoc Studio下一步计划",
-      "summary": "文章回顾《Dispatch》首章上线一年后的成功与混乱开发过程，并讨论AdHoc Studio后续规划。对理解叙事型独立游戏团队管理和爆款形成有参考，但与休闲消除手游的关卡、数值和商业化关联较弱。",
-      "url": "https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next",
-      "source": "GamesIndustry.biz",
+      "id": "d14ae8075f",
+      "title": "Peak 校友创立的初创公司筹集 9.14 亿美元",
+      "summary": "报道由 Peak 校友创立的初创公司累计融资 9.14 亿美元，反映 Royal Match 团队背景创业者在游戏与科技领域的资本动向。对关注休闲游戏公司生态和人才流向的从业者有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnE2aExXaTFyVHNNaXlMQmZWVkRlNGNSWUp4TXlBOUtGWUV0ZmVLdG90MlMycTd2MzRrOWd3dVh4U2Z5cEpidEd2azVmR2pVVHVDc2ppN1pkaXlBbTJ3Y1lQVElCTzlEbGZvdHpnRnp5TFpsYTlKUXA3RS16c05rb2RYNGVJbWZVdHdZRlZVblh0Z1ow0gGaAUFVX3lxTE1MdVR3NlFOT1psX05ObnZUZ0h5c3A2NkxlVkgzdzhpZTdWa2NzdnYtR3BfYkFiWXBVMHVzUHhCMC00Tjlxd09oUGxmUkd5aGNpWURPZk5jaUJ3QmlON0FvZEJWVk5NUDNOcVFFOHdJMHU2WFF1d0JCdHVOaWpDQXdDNDR0emc0WW1KclRFcm5mZUNFYUgwMXpLMnc?oc=5",
+      "source": "重点游戏-Royal Match",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-22T16:15:00",
+      "score": 7,
+      "published_at": "2026-10-23T14:45:44",
       "games": [
         {
-          "name": "Dispatch",
-          "desc": "AdHoc Studio 开发的分集式喜剧叙事游戏，共八集，文章围绕其混乱开发历程与发行成功展开。"
+          "name": "Peak",
+          "desc": "标题提及的游戏，相关初创公司由该游戏校友创立，正文未展开介绍其类型与特点。"
         }
       ]
     },
     {
-      "id": "17edf86b34",
-      "title": "为什么仪表盘不再够用（以及AI代理能解锁什么）——GameAnalytics",
-      "summary": "GameAnalytics讨论游戏数据分析从静态仪表盘转向AI代理按需生成洞察，以及数据团队角色变化。文章对手游LiveOps数据体系有参考，但并非休闲玩法或变现的专项拆解。",
-      "url": "https://www.gameanalytics.com/blog/why-dashboards-arent-enough-anymore-and-what-ai-agents-unlock-instead",
-      "source": "GameAnalytics",
+      "id": "101a617bcf",
+      "title": "播客：Apple 应用审核困境、EA 裁员、Supercell、Monopoly Go 等 - Mobilegamer.biz",
+      "summary": "该播客节目讨论 Apple 应用审核问题、EA 裁员、Supercell 与 Monopoly Go 等手游行业动态。对从业者可作为行业新闻速览，但缺乏对玩法、数值或变现的深度拆解，实际分析价值有限。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TVWkzaXNqZGZNYXpUNGF5RDdvRkRKRmNKWmR2ZFo1aWxIa2VwT2taeC1WZFF3TXFwLU9EcGVST003LTNCWXZtOEczbGg5NW1fU3p1MmgwYVRHSUxuM3lseEJGMUJ3a0ZmNHdFVkc2RURtMG9HbGFQOQ?oc=5",
+      "source": "重点游戏-MONOPOLY GO",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-22T11:10:43",
+      "published_at": "2026-10-23T09:11:36",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "一款以大富翁IP为主题的移动端休闲棋盘游戏，主打社交互动、骰子掷点与限时活动玩法。"
+        }
+      ]
+    },
+    {
+      "id": "0405b868e0",
+      "title": "任天堂资深制作人宫本茂将获日本文化勋章",
+      "summary": "宫本茂成为首位获得日本文化勋章的Game Developer。此消息属于行业人物荣誉类新闻，对理解日本游戏产业的文化地位有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T13:06:01",
+      "games": [
+        {
+          "name": "Super Mario",
+          "desc": "任天堂标志性的平台跳跃游戏系列。"
+        },
+        {
+          "name": "Legend of Zelda",
+          "desc": "任天堂经典动作冒险游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "5f719dc158",
+      "title": "Capcom遭遇数据泄露，超1170万个Capcom ID账号受影响",
+      "summary": "Capcom发生大规模账号数据泄露事件，涉及逾1170万个Capcom ID。对手游与在线服务型产品的账号安全、合规与用户信任管理具有警示意义。",
+      "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T11:05:20",
+      "games": [
+        {
+          "name": "Street Fighter 6",
+          "desc": "卡普空旗下格斗游戏。"
+        },
+        {
+          "name": "Monster Hunter",
+          "desc": "卡普空旗下动作角色扮演狩猎游戏系列。"
+        },
+        {
+          "name": "Resident Evil",
+          "desc": "卡普空旗下生存恐怖游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "a42fcf6b65",
+      "title": "Call of Duty: Modern Warfare 4｜媒体评分综述",
+      "summary": "汇总媒体对Call of Duty: Modern Warfare 4的评价，并提及前作Black Ops 7口碑与商业表现不佳。属于主机/PC大作舆论观察，与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T09:59:48",
+      "games": [
+        {
+          "name": "Call of Duty: Modern Warfare 4",
+          "desc": "第一人称射击游戏，重启版现代战争系列的收尾作，包含战役、多人及跨平台联机。"
+        },
+        {
+          "name": "Call of Duty: Black Ops 7",
+          "desc": "使命召唤系列前作，第一人称射击游戏，媒体与玩家评价不佳且表现低于预期。"
+        },
+        {
+          "name": "Call of Duty: Modern Warfare 3",
+          "desc": "现代战争重启系列的前作，第一人称射击游戏。"
+        },
+        {
+          "name": "Frogger",
+          "desc": "经典街机跳跃/过马路游戏。"
+        },
+        {
+          "name": "Time Crisis",
+          "desc": "街机光枪轨道射击游戏。"
+        }
+      ]
+    },
+    {
+      "id": "5166573e8f",
+      "title": "播客：Landfall的Rebecca Lautner谈Peak销量2300万与超越friendslop标签",
+      "summary": "Landfall首席商务官回顾Peak销量突破2300万份后仍希望转向新项目的思路。对理解爆款多人游戏的团队决策与产品生命周期有一定借鉴意义。",
+      "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T08:00:00",
+      "games": [
+        {
+          "name": "Peak",
+          "desc": "Landfall开发的多人合作游戏，销量超过2300万，常被归入friendslop类型。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "由Landfall旗下发行部门Evil Landfall支持的多百万销量畅销游戏。"
+        }
+      ]
+    },
+    {
+      "id": "e048de856b",
+      "title": "Epic Games宣布AI Game Jam，遭批评后修改规则",
+      "summary": "Epic Games举办AI主题Game Jam引发争议并调整规则。反映了行业对AI生成内容的态度分歧，对关注UGC与AI工具链的从业者有参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/23/epic-games-announces-ai-game-jam-faces-criticism-then-changes-rules",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T14:52:27",
       "games": []
     },
     {
-      "id": "dcc7526d2b",
-      "title": "VR先驱Owlchemy Labs转向XR，新作《Hyper Visor》将随HTC XREAL Aura头显首发",
-      "summary": "Owlchemy Labs宣布新作《Hyper Visor》将作为HTC XREAL Aura头显首发游戏，标志其从VR向XR扩展。内容属于平台与新品动态，对三消/休闲手游的玩法、变现和LiveOps没有直接分析价值，仅可作XR硬件生态观察。",
-      "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-22T14:37:37",
-      "games": [
-        {
-          "name": "Hyper Visor",
-          "desc": "Owlchemy Labs 开发的原创 XR 街机射击游戏，玩家用双手和一副“有生命的墨镜”通关八个融合节奏游戏、横版射击等传统类型的关卡。"
-        }
-      ]
-    },
-    {
-      "id": "e013ba8fc1",
-      "title": "《Marvel's Wolverine》领跑美国9月销量榜，创《Helldivers 2》以来Sony发行游戏最高月度销售额",
-      "summary": "报道《Marvel's Wolverine》在美国9月销量榜领先，并创下Sony自《Helldivers 2》以来最高月度美元销售额。属于主机AAA销售动态，对休闲手游市场判断仅有间接参考。",
-      "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "id": "6aedebb137",
+      "title": "GameMaker将于2027年1月把“下一代运行时”GMRT免费开放商用",
+      "summary": "GameMaker宣布GMRT从2027年起免费商用，降低2D游戏开发门槛。对休闲与小游戏开发者的引擎选择和成本控制有参考，但非玩法设计分析。",
+      "url": "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-22T13:00:08",
-      "games": [
-        {
-          "name": "Marvel's Wolverine",
-          "desc": "索尼发行的《金刚狼》题材游戏，在2026年9月美国销量榜登顶，并创下自《Helldivers 2》以来索尼发行游戏最高月度销售额。"
-        },
-        {
-          "name": "NBA 2K27",
-          "desc": "篮球模拟游戏，9月美国销量榜排名第2，并超过《Resident Evil Requiem》成为2026年年初至今最畅销游戏。"
-        },
-        {
-          "name": "EA Sports FC 27",
-          "desc": "足球体育游戏，9月美国销量榜排名第3，表现不及《Marvel's Wolverine》。"
-        },
-        {
-          "name": "Fire Emblem: Fortune's Weave",
-          "desc": "《火焰纹章》系列策略角色扮演新作，9月新上榜并排名第4。"
-        },
-        {
-          "name": "The Blood of Dawnwalker",
-          "desc": "9月新上榜并进入前五的黑暗奇幻动作RPG，文章主要提及其销量排名。"
-        },
-        {
-          "name": "Wardogs",
-          "desc": "9月新上榜并排名第6的销量榜游戏。"
-        },
-        {
-          "name": "Onimusha: Way of the Sword",
-          "desc": "《鬼武者》系列动作游戏新作，9月新上榜并排名第7。"
-        },
-        {
-          "name": "Halloween: The Game",
-          "desc": "9月新上榜并排名第8的恐怖题材游戏。"
-        },
-        {
-          "name": "Ace Combat 8: Wings of Theve",
-          "desc": "《皇牌空战》系列空战射击新作，9月新上榜并排名第9。"
-        },
-        {
-          "name": "Madden NFL 27",
-          "desc": "美式橄榄球体育游戏，9月美国销量榜排名第10。"
-        },
-        {
-          "name": "Resident Evil Requiem",
-          "desc": "生存恐怖游戏，曾领跑2026年年初至今销量，后被《NBA 2K27》超越。"
-        },
-        {
-          "name": "Helldivers 2",
-          "desc": "索尼发行的合作射击游戏，被文章用作《Marvel's Wolverine》月度销售额的对比基准。"
-        }
-      ]
-    },
-    {
-      "id": "7d7cb4e4d4",
-      "title": "Pantaloon推出订阅服务，策展“大胆而怪异”的独立游戏库",
-      "summary": "Pantaloon介绍其新订阅服务，通过策展方式构建“大胆而怪异”的独立游戏库。文章反映独立游戏分发与订阅模式探索，但与三消/消除类手游的设计和运营关联有限。",
-      "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-22T11:00:00",
-      "games": [
-        {
-          "name": "Sub-Verge",
-          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
-        },
-        {
-          "name": "Occlude",
-          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
-        },
-        {
-          "name": "It Takes a War",
-          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
-        },
-        {
-          "name": "Boxroom",
-          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
-        },
-        {
-          "name": "Offbeat",
-          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
-        },
-        {
-          "name": "Rolla",
-          "desc": "近期推出并随 Playbill 首发上线的独立游戏。"
-        },
-        {
-          "name": "Buckshot Roulette",
-          "desc": "Playbill 完整首发阵容中的独立游戏，由 Critical Reflex 与 Mike Klubnika 推出。"
-        },
-        {
-          "name": "Silt",
-          "desc": "Playbill 完整首发阵容中的独立游戏，由 Fireshine 与 Spiral Circus Games 推出。"
-        },
-        {
-          "name": "Ex Sanguis",
-          "desc": "Playbill 完整首发阵容中的独立游戏，由 Firesquid 与 Lightbulb Crew 推出。"
-        },
-        {
-          "name": "Death Crown",
-          "desc": "Playbill 完整首发阵容中的独立游戏，由 5WORD Team 推出。"
-        },
-        {
-          "name": "Kids",
-          "desc": "Playbill 完整首发阵容中的独立游戏，由 Playables 推出。"
-        },
-        {
-          "name": "Four Last Things",
-          "desc": "Playbill 完整首发阵容中的独立游戏，由 Akupara Games 与 Joe Richardson 推出。"
-        },
-        {
-          "name": "Cabin Factory",
-          "desc": "Playbill 完整首发阵容中的独立游戏，由 Future Friends Games 与 International Cat Studios 推出。"
-        },
-        {
-          "name": "Virtue: Prologue",
-          "desc": "Devolver 发行的限时独占视觉中篇小说式游戏，是《Virtue and a Sledgehammer》的伴生作品，10月27日推出。"
-        },
-        {
-          "name": "Virtue and a Sledgehammer",
-          "desc": "文章中提到的即将推出游戏，其视觉中篇小说式伴生作品《Virtue: Prologue》将先行推出。"
-        },
-        {
-          "name": "Isle Goblin",
-          "desc": "Playbill 首发试玩阵容中的独立游戏，由 Fireshine 与 Kilowatt Games 推出。"
-        },
-        {
-          "name": "Mr Magpie’s Harmless Card Game",
-          "desc": "Playbill 首发试玩阵容中的卡牌游戏，由 Behaviour Interactive、Gambit Digital 与 Giant Light Studios 推出。"
-        },
-        {
-          "name": "Lemonade Apocalypse",
-          "desc": "Pantaloon 旗下随 Playbill 首发试玩的游戏之一。"
-        }
-      ]
-    },
-    {
-      "id": "472c89f204",
-      "title": "Xbox公布云游戏时长限制定价：10小时3.99美元起",
-      "summary": "Xbox公布Game Pass云游戏时长限制的定价方案，最低3.99美元10小时。该动态涉及平台订阅与云游戏变现，可为理解游戏付费模式提供背景，但与休闲手游内购/广告变现无直接关系。",
-      "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-22T09:14:16",
+      "published_at": "2026-10-23T13:52:52",
       "games": []
     },
     {
-      "id": "18d2241463",
-      "title": "报告探讨Roblox如何在2026上半年成为总时长最高游戏后留住年长玩家",
-      "summary": "报告称Roblox在2026上半年PC和主机平台产生40.5亿小时游玩时长，成为总时长最高的游戏。文章关注其年长用户留存策略，对平台型游戏LiveOps有参考，但与三消/消除品类关联有限。",
-      "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-22T11:00:00",
-      "games": [
-        {
-          "name": "Roblox",
-          "desc": "用户生成内容平台/游戏，2026年上半年在PC和主机上产生40.5亿小时游玩时长，成为总时长最高游戏。"
-        },
-        {
-          "name": "Fortnite",
-          "desc": "长期运营的在线服务型游戏，是Roblox流失玩家常转向的同类游戏之一。"
-        },
-        {
-          "name": "Minecraft",
-          "desc": "长期运营的沙盒/生存类在线服务游戏，也是Roblox流失玩家常转向的同类游戏之一。"
-        },
-        {
-          "name": "Call of Duty",
-          "desc": "写实射击游戏系列，约30%的Roblox流失玩家偏好此类游戏。"
-        },
-        {
-          "name": "Grand Theft Auto Online",
-          "desc": "写实射击/开放世界在线游戏，与Call of Duty并列为Roblox流失玩家偏好的动作射击类游戏。"
-        },
-        {
-          "name": "Sonic Speed Simulator",
-          "desc": "使用Roblox Studio开发发行的品牌游戏，2022年发布，2024年成为首个访问量突破10亿的Roblox品牌游戏。"
-        }
-      ]
-    },
-    {
-      "id": "50ce987165",
-      "title": "法院裁定Apple违反竞争法后Fortnite重返澳大利亚iOS",
-      "summary": "澳大利亚法院认定Apple违反竞争法，要求开放iOS第三方应用商店，Fortnite因此重返当地iOS。该动态对移动游戏分发与平台政策有参考，对休闲手游发行有间接影响。",
-      "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-22T08:08:08",
-      "games": [
-        {
-          "name": "Fortnite",
-          "desc": "大逃杀/在线服务型游戏，因澳大利亚法院裁定Apple违反竞争法而重返澳大利亚iOS。"
-        }
-      ]
-    },
-    {
-      "id": "eb41b499df",
-      "title": "Supercell遭遇网络攻击，称玩家数据未受影响",
-      "summary": "Clash of Clans开发商Supercell表示上周遭多次网络攻击，已通知警方和监管机构，但玩家数据未受影响。该事件对手游公司安全运营与危机响应有警示意义。",
-      "url": "https://mobilegamer.biz/supercell-hit-by-cyberattack-but-says-no-player-data-was-affected/",
+      "id": "e18347a946",
+      "title": "新游汇总：Football Manager、Dispatch、The Traitors、UnGodly、Dr. Seuss等",
+      "summary": "汇总本周新游，包括Football Manager手游、Dispatch、The Traitors及若干独立解谜游戏。对关注新游趋势和休闲解谜品类有轻度参考。",
+      "url": "https://mobilegamer.biz/new-games-digest-fm27-touch-dispatch-the-traitors-ungodly-dr-seuss-and-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-22T10:47:27",
+      "published_at": "2026-10-23T10:55:30",
       "games": [
         {
-          "name": "Clash of Clans",
-          "desc": "Supercell开发的策略手游，文中以“Clash of Clans developer”指代Supercell并报道其遭遇网络攻击但玩家数据未受影响。"
+          "name": "FM27 Touch",
+          "desc": "足球管理模拟游戏，支持从旧作延续存档并跨设备云同步。"
+        },
+        {
+          "name": "Dispatch",
+          "desc": "叙事游戏，移动版针对触屏和竖屏重构，首四集免费。"
+        },
+        {
+          "name": "The Traitors: Interactive Game",
+          "desc": "改编自真人秀的互动小说游戏，由 Fusebox Games 推出。"
+        },
+        {
+          "name": "UnGodly",
+          "desc": "免费游玩暗黑奇幻动作 RPG，登陆多平台。"
+        },
+        {
+          "name": "Dr. Seuss: Learn & Play",
+          "desc": "面向 2-8 岁儿童的教育订阅应用，含 100 多款苏斯博士主题学习游戏。"
+        },
+        {
+          "name": "The House of Tesla: Definitive Edition",
+          "desc": "以特斯拉废弃 Wardenclyffe 设施为背景的解谜冒险游戏。"
+        },
+        {
+          "name": "Astrae Oratio",
+          "desc": "NC 发行、Dynamis One 开发的动漫风 RPG，计划 2027 年上线移动端和 PC。"
+        },
+        {
+          "name": "FM26 Touch",
+          "desc": "前作足球管理模拟游戏，App Store 页面将在 FM27 Touch 上线时自动更新。"
+        },
+        {
+          "name": "Star Wars: Galaxy of Heroes",
+          "desc": "Mark Otero 曾参与的星球大战题材手游，文中作为其履历提及。"
+        },
+        {
+          "name": "The House of Da Vinci",
+          "desc": "Blue Brain Games 的解谜冒险游戏系列，文中作为工作室前作提及。"
+        }
+      ]
+    },
+    {
+      "id": "dec4063511",
+      "title": "Stillfront新任CEO为前EA、King和Embark高管Marcus Jacobs",
+      "summary": "Marcus Jacobs将于11月1日接任Stillfront总裁兼集团CEO，公司同时公布Q3营收与利润下滑。对休闲手游公司治理与市场表现有参考，但非玩法设计分析。",
+      "url": "https://mobilegamer.biz/stillfronts-new-boss-is-former-ea-king-and-embark-exec-marcus-jacobs/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T09:47:27",
+      "games": [
+        {
+          "name": "Supremacy",
+          "desc": "Stillfront 旗下移动游戏系列之一。"
+        },
+        {
+          "name": "Empire",
+          "desc": "Stillfront 旗下移动游戏系列之一，文中列为关键系列。"
+        },
+        {
+          "name": "BitLife",
+          "desc": "Stillfront 旗下移动游戏系列之一。"
+        },
+        {
+          "name": "Albion Online",
+          "desc": "Stillfront 旗下工作室相关的游戏系列之一。"
+        },
+        {
+          "name": "Big",
+          "desc": "文中列为 Stillfront 关键游戏系列之一，具体类型未展开。"
+        },
+        {
+          "name": "Board",
+          "desc": "文中列为 Stillfront 关键游戏系列之一，具体类型未展开。"
         }
       ]
     }
