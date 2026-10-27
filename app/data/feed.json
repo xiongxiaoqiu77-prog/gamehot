@@ -1,242 +1,282 @@
 {
-  "updated": "2026-10-24",
-  "generated_at": "2026-10-24T07:00:30.761132",
+  "updated": "2026-10-28",
+  "generated_at": "2026-10-28T07:00:14.866518",
   "articles": [
     {
-      "id": "d14ae8075f",
-      "title": "Peak 校友创立的初创公司筹集 9.14 亿美元",
-      "summary": "报道由 Peak 校友创立的初创公司累计融资 9.14 亿美元，反映 Royal Match 团队背景创业者在游戏与科技领域的资本动向。对关注休闲游戏公司生态和人才流向的从业者有参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnE2aExXaTFyVHNNaXlMQmZWVkRlNGNSWUp4TXlBOUtGWUV0ZmVLdG90MlMycTd2MzRrOWd3dVh4U2Z5cEpidEd2azVmR2pVVHVDc2ppN1pkaXlBbTJ3Y1lQVElCTzlEbGZvdHpnRnp5TFpsYTlKUXA3RS16c05rb2RYNGVJbWZVdHdZRlZVblh0Z1ow0gGaAUFVX3lxTE1MdVR3NlFOT1psX05ObnZUZ0h5c3A2NkxlVkgzdzhpZTdWa2NzdnYtR3BfYkFiWXBVMHVzUHhCMC00Tjlxd09oUGxmUkd5aGNpWURPZk5jaUJ3QmlON0FvZEJWVk5NUDNOcVFFOHdJMHU2WFF1d0JCdHVOaWpDQXdDNDR0emc0WW1KclRFcm5mZUNFYUgwMXpLMnc?oc=5",
-      "source": "重点游戏-Royal Match",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-10-23T14:45:44",
+      "id": "9792680689",
+      "title": "创作者逆向拆解 Block Blast、Candy Crush 与 Subway Surfers，揭示其变现设计",
+      "summary": "数据科学家兼内容创作者 Ayo Omolewa（Ayoships）通过反编译分析 Block Blast、Candy Crush 和 Subway Surfers 的变现机制，指出 Block Blast 更接近以广告收割为核心的循环设计。对休闲游戏从业者理解广告变现节奏、关卡难度诱导与付费转化设计具有直接参考价值。",
+      "url": "https://mobilegamer.biz/this-creator-says-he-decompiled-block-blast-candy-crush-and-subway-surfers-to-reveal-their-monetisation-secrets/",
+      "source": "Mobile Gamer Biz",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-10-27T17:01:10",
       "games": [
         {
-          "name": "Peak",
-          "desc": "标题提及的游戏，相关初创公司由该游戏校友创立，正文未展开介绍其类型与特点。"
+          "name": "Block Blast",
+          "desc": "Hungry Studio 发行的方块益智手游，以广告变现和动态难度设计受到分析。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "King 开发的匹配三消益智手游，以动态难度和内购/广告设计受到分析。"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "Sybo 开发的无尽跑酷手游，以数据追踪和个性化商店/广告投放受到分析。"
         }
       ]
     },
     {
-      "id": "101a617bcf",
-      "title": "播客：Apple 应用审核困境、EA 裁员、Supercell、Monopoly Go 等 - Mobilegamer.biz",
-      "summary": "该播客节目讨论 Apple 应用审核问题、EA 裁员、Supercell 与 Monopoly Go 等手游行业动态。对从业者可作为行业新闻速览，但缺乏对玩法、数值或变现的深度拆解，实际分析价值有限。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TVWkzaXNqZGZNYXpUNGF5RDdvRkRKRmNKWmR2ZFo1aWxIa2VwT2taeC1WZFF3TXFwLU9EcGVST003LTNCWXZtOEczbGg5NW1fU3p1MmgwYVRHSUxuM3lseEJGMUJ3a0ZmNHdFVkc2RURtMG9HbGFQOQ?oc=5",
-      "source": "重点游戏-MONOPOLY GO",
+      "id": "308133520e",
+      "title": "Crossy Road 创作者 Matt Hall 被任命为 Atari 移动业务执行副总裁",
+      "summary": "Atari 宣布由 Crossy Road 创作者 Matt Hall 出任移动业务执行副总裁，主导其移动游戏布局。该人事变动对关注休闲游戏公司战略与高管动态的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+      "source": "Game Developer",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-23T09:11:36",
+      "published_at": "2026-10-27T18:45:00",
       "games": [
         {
-          "name": "Monopoly Go",
-          "desc": "一款以大富翁IP为主题的移动端休闲棋盘游戏，主打社交互动、骰子掷点与限时活动玩法。"
+          "name": "Crossy Road",
+          "desc": "一款由 Hipster Whale 开发的移动端街机跳跃游戏，以像素风格和无限过马路玩法著称。"
         }
       ]
     },
     {
-      "id": "0405b868e0",
-      "title": "任天堂资深制作人宫本茂将获日本文化勋章",
-      "summary": "宫本茂成为首位获得日本文化勋章的Game Developer。此消息属于行业人物荣誉类新闻，对理解日本游戏产业的文化地位有一定参考价值。",
-      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "id": "374eaee43c",
+      "title": "腾讯大品牌MOBA Pokémon Unite将于2027年3月停服",
+      "summary": "文章结合AppMagic估算称Pokémon Unite移动端约7500万美元收入、1.27亿下载，并将于2027年3月停服；对分析授权IP手游的长线运营和变现天花板有参考价值。",
+      "url": "https://mobilegamer.biz/tencents-big-brand-moba-pokemon-unite-is-closing-in-march-2027/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-27T11:16:38",
+      "games": [
+        {
+          "name": "Pokémon Unite",
+          "desc": "Tencent TiMi Studio Group 开发的宝可梦 MOBA，2021 年上线 Switch 和移动端，2027 年 3 月 23 日停服。"
+        }
+      ]
+    },
+    {
+      "id": "4b502e2406",
+      "title": "Rockstar Games 员工将在 Grand Theft Auto VI 发售之际就工会化进行投票",
+      "summary": "Rockstar Games 员工将在两周内决定是否承认 IWGB Rockstar Game Workers Union，投票时点恰逢 Grand Theft Auto VI 发售。该事件反映大型游戏公司在发售关键期的劳资关系与组织化动向。",
+      "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T19:34:13",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games 推出的开放世界动作冒险游戏，是《Grand Theft Auto》系列最新作，计划于 2026 年 11 月 19 日发售。"
+        },
+        {
+          "name": "Zephon",
+          "desc": "Proxy Studios 开发的 4X 策略游戏，文章作者曾参与其编剧/叙事设计工作。"
+        },
+        {
+          "name": "Down With The Ship",
+          "desc": "Iron Anchor Studios 开发的游戏，文章作者曾参与制作，文章未展开其类型与特点。"
+        },
+        {
+          "name": "Endless Space 2",
+          "desc": "Amplitude Studio 于 2017 年推出的游戏，文章作者曾参与制作。"
+        }
+      ]
+    },
+    {
+      "id": "53b2223bf1",
+      "title": "Epic 更新 EULA，允许用 Unreal Engine 和 MetaHuman 的输出训练 AI",
+      "summary": "Epic CEO Tim Sweeney 表示将修改使用条款，允许开发者利用 Unreal Engine 与 MetaHuman 的输出训练 AI，同时保留针对单个游戏设置限制的权利。该变动涉及引擎与 AI 合规，对使用 Unreal 生态的休闲游戏团队有间接参考价值，但不涉及三消玩法、数值或变现设计。",
+      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T17:53:41",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic 旗下的大逃杀游戏，文中作为用户未经许可制作浏览器版本的例子被提及。"
+        }
+      ]
+    },
+    {
+      "id": "3dc0f461c6",
+      "title": "Warhorse Studios 遭遇网络攻击，公司系统和数据受影响",
+      "summary": "Warhorse Studios 遭受网络攻击，导致公司系统和数据被未经授权访问。该事件属于游戏公司安全与运营风险资讯，与休闲游戏设计、数值或变现无直接关联。",
+      "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-23T13:06:01",
+      "published_at": "2026-10-27T14:20:32",
       "games": [
         {
-          "name": "Super Mario",
-          "desc": "任天堂标志性的平台跳跃游戏系列。"
+          "name": "Kingdom Come: Deliverance 2",
+          "desc": "中世纪背景的动作角色扮演游戏，是《天国：拯救》的续作。"
         },
         {
-          "name": "Legend of Zelda",
-          "desc": "任天堂经典动作冒险游戏系列。"
+          "name": "GTA 6",
+          "desc": "开放世界动作冒险游戏，为《侠盗猎车手》系列新作。"
         }
       ]
     },
     {
-      "id": "5f719dc158",
-      "title": "Capcom遭遇数据泄露，超1170万个Capcom ID账号受影响",
-      "summary": "Capcom发生大规模账号数据泄露事件，涉及逾1170万个Capcom ID。对手游与在线服务型产品的账号安全、合规与用户信任管理具有警示意义。",
-      "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "id": "84a26157af",
+      "title": "Nightdive Studios CEO 表示：持续改变被收购工作室的核心定位终将导致失败",
+      "summary": "Nightdive Studios CEO 以 Atari 为例，讨论大型发行商应如何在收购后保留工作室的原有特色与文化。对关注团队整合与研发布局的从业者有一定参考价值，但与休闲游戏设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T14:47:20",
+      "games": [
+        {
+          "name": "Crossy Road",
+          "desc": "Hipster Whale 开发的街机式无尽跳跃游戏，以像素风格和简单上手的玩法著称。"
+        },
+        {
+          "name": "Mass Effect",
+          "desc": "BioWare 开发的科幻角色扮演游戏系列，以太空歌剧叙事和选择分支闻名。"
+        },
+        {
+          "name": "Dragon Age",
+          "desc": "BioWare 开发的奇幻角色扮演游戏系列，强调小队战斗与剧情选择。"
+        }
+      ]
+    },
+    {
+      "id": "50450c0a45",
+      "title": "Sucker Punch 裁员 24 人，称是为适配“当前市场”与“下一项目需求”",
+      "summary": "Sucker Punch 裁撤约 24 名员工，约占团队一成，官方解释是配合当前市场环境与下一项目需要。属于主机 3A 领域的人事动态，可作为行业成本收缩趋势的观察样本。",
+      "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T14:10:40",
+      "games": [
+        {
+          "name": "Ghost of Yotei",
+          "desc": "Sucker Punch 开发的开放世界动作冒险游戏，延续日本武士题材。"
+        }
+      ]
+    },
+    {
+      "id": "8f1f72fbb9",
+      "title": "UKIE 呼吁英国政府在秋季预算前现代化游戏支出税收抵免（VGEC）",
+      "summary": "英国行业组织 UKIE 在秋季预算前推动政府更新游戏产业支出抵免政策。属于区域产业政策动态，对关心英国市场与出海环境的从业者有信息价值。",
+      "url": "https://www.gamesindustry.biz/ukie-calls-on-government-to-modernise-video-games-expenditure-credit-ahead-of-autumn-budget",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-23T11:05:20",
-      "games": [
-        {
-          "name": "Street Fighter 6",
-          "desc": "卡普空旗下格斗游戏。"
-        },
-        {
-          "name": "Monster Hunter",
-          "desc": "卡普空旗下动作角色扮演狩猎游戏系列。"
-        },
-        {
-          "name": "Resident Evil",
-          "desc": "卡普空旗下生存恐怖游戏系列。"
-        }
-      ]
+      "published_at": "2026-10-27T12:00:59",
+      "games": []
     },
     {
-      "id": "a42fcf6b65",
-      "title": "Call of Duty: Modern Warfare 4｜媒体评分综述",
-      "summary": "汇总媒体对Call of Duty: Modern Warfare 4的评价，并提及前作Black Ops 7口碑与商业表现不佳。属于主机/PC大作舆论观察，与休闲手游关联较弱。",
-      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-23T09:59:48",
-      "games": [
-        {
-          "name": "Call of Duty: Modern Warfare 4",
-          "desc": "第一人称射击游戏，重启版现代战争系列的收尾作，包含战役、多人及跨平台联机。"
-        },
-        {
-          "name": "Call of Duty: Black Ops 7",
-          "desc": "使命召唤系列前作，第一人称射击游戏，媒体与玩家评价不佳且表现低于预期。"
-        },
-        {
-          "name": "Call of Duty: Modern Warfare 3",
-          "desc": "现代战争重启系列的前作，第一人称射击游戏。"
-        },
-        {
-          "name": "Frogger",
-          "desc": "经典街机跳跃/过马路游戏。"
-        },
-        {
-          "name": "Time Crisis",
-          "desc": "街机光枪轨道射击游戏。"
-        }
-      ]
-    },
-    {
-      "id": "5166573e8f",
-      "title": "播客：Landfall的Rebecca Lautner谈Peak销量2300万与超越friendslop标签",
-      "summary": "Landfall首席商务官回顾Peak销量突破2300万份后仍希望转向新项目的思路。对理解爆款多人游戏的团队决策与产品生命周期有一定借鉴意义。",
-      "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-23T08:00:00",
-      "games": [
-        {
-          "name": "Peak",
-          "desc": "Landfall开发的多人合作游戏，销量超过2300万，常被归入friendslop类型。"
-        },
-        {
-          "name": "How to Fish",
-          "desc": "由Landfall旗下发行部门Evil Landfall支持的多百万销量畅销游戏。"
-        }
-      ]
-    },
-    {
-      "id": "e048de856b",
-      "title": "Epic Games宣布AI Game Jam，遭批评后修改规则",
-      "summary": "Epic Games举办AI主题Game Jam引发争议并调整规则。反映了行业对AI生成内容的态度分歧，对关注UGC与AI工具链的从业者有参考价值。",
-      "url": "https://gameworldobserver.com/2026/10/23/epic-games-announces-ai-game-jam-faces-criticism-then-changes-rules",
+      "id": "21ca0f1ca7",
+      "title": "Microsoft 向 6 万名员工提供“自愿离职”方案，涉及 Xbox 部门",
+      "summary": "Microsoft 面向约 6 万名员工推出自愿买断离职计划，范围包括 Xbox 业务。反映出大型平台方的成本控制动作，对观察行业人力与并购环境有参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/27/microsoft-offers-voluntary-buyouts-to-60000-employees-including-those-in-xbox-division",
       "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-23T14:52:27",
+      "published_at": "2026-10-27T13:50:55",
       "games": []
     },
     {
-      "id": "6aedebb137",
-      "title": "GameMaker将于2027年1月把“下一代运行时”GMRT免费开放商用",
-      "summary": "GameMaker宣布GMRT从2027年起免费商用，降低2D游戏开发门槛。对休闲与小游戏开发者的引擎选择和成本控制有参考，但非玩法设计分析。",
-      "url": "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
-      "source": "GamesIndustry.biz",
+      "id": "86a4f0e2ee",
+      "title": "当AI成为你的游戏队友时会发生什么",
+      "summary": "Naavik播客对话Artificial Agency CEO Brian Tanner，讨论AI NPC、动态世界与AI队友的商业化落地难点；对休闲游戏探索AI队友和内容生产有间接参考，但非三消/消除玩法专项分析。",
+      "url": "https://naavik.co/podcast/what-happens-when-ai-becomes-your-gaming-teammate/",
+      "source": "Naavik",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-23T13:52:52",
-      "games": []
-    },
-    {
-      "id": "e18347a946",
-      "title": "新游汇总：Football Manager、Dispatch、The Traitors、UnGodly、Dr. Seuss等",
-      "summary": "汇总本周新游，包括Football Manager手游、Dispatch、The Traitors及若干独立解谜游戏。对关注新游趋势和休闲解谜品类有轻度参考。",
-      "url": "https://mobilegamer.biz/new-games-digest-fm27-touch-dispatch-the-traitors-ungodly-dr-seuss-and-more/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-23T10:55:30",
+      "published_at": "2026-10-27T15:48:05",
       "games": [
         {
-          "name": "FM27 Touch",
-          "desc": "足球管理模拟游戏，支持从旧作延续存档并跨设备云同步。"
-        },
-        {
-          "name": "Dispatch",
-          "desc": "叙事游戏，移动版针对触屏和竖屏重构，首四集免费。"
-        },
-        {
-          "name": "The Traitors: Interactive Game",
-          "desc": "改编自真人秀的互动小说游戏，由 Fusebox Games 推出。"
-        },
-        {
-          "name": "UnGodly",
-          "desc": "免费游玩暗黑奇幻动作 RPG，登陆多平台。"
-        },
-        {
-          "name": "Dr. Seuss: Learn & Play",
-          "desc": "面向 2-8 岁儿童的教育订阅应用，含 100 多款苏斯博士主题学习游戏。"
-        },
-        {
-          "name": "The House of Tesla: Definitive Edition",
-          "desc": "以特斯拉废弃 Wardenclyffe 设施为背景的解谜冒险游戏。"
-        },
-        {
-          "name": "Astrae Oratio",
-          "desc": "NC 发行、Dynamis One 开发的动漫风 RPG，计划 2027 年上线移动端和 PC。"
-        },
-        {
-          "name": "FM26 Touch",
-          "desc": "前作足球管理模拟游戏，App Store 页面将在 FM27 Touch 上线时自动更新。"
-        },
-        {
-          "name": "Star Wars: Galaxy of Heroes",
-          "desc": "Mark Otero 曾参与的星球大战题材手游，文中作为其履历提及。"
-        },
-        {
-          "name": "The House of Da Vinci",
-          "desc": "Blue Brain Games 的解谜冒险游戏系列，文中作为工作室前作提及。"
+          "name": "Dimensional Double Shift",
+          "desc": "Owlchemy Labs 的多人合作 VR 游戏，将集成 Artificial Agency 的 AI 队友，用三名 AI 玩家替代人类玩家。"
         }
       ]
     },
     {
-      "id": "dec4063511",
-      "title": "Stillfront新任CEO为前EA、King和Embark高管Marcus Jacobs",
-      "summary": "Marcus Jacobs将于11月1日接任Stillfront总裁兼集团CEO，公司同时公布Q3营收与利润下滑。对休闲手游公司治理与市场表现有参考，但非玩法设计分析。",
-      "url": "https://mobilegamer.biz/stillfronts-new-boss-is-former-ea-king-and-embark-exec-marcus-jacobs/",
+      "id": "3d491a187d",
+      "title": "开发者需把Early Access当作正式发行，因为玩家就是这样看待的",
+      "summary": "文章基于SteamDB数据指出2026年Steam Early Access数量继续增长，并讨论玩家期望提升对发行策略的影响；对手游/休闲游戏的上线节奏有间接参考。",
+      "url": "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T13:30:00",
+      "games": [
+        {
+          "name": "Don't Starve",
+          "desc": "生存冒险游戏，文中作为通过 Early Access 取得长期成功的案例。"
+        },
+        {
+          "name": "Baldur's Gate 3",
+          "desc": "角色扮演游戏，文中作为通过 Early Access 取得长期成功的案例。"
+        },
+        {
+          "name": "Dead Cells",
+          "desc": "动作 Roguelike 游戏，文中作为通过 Early Access 取得长期成功的案例。"
+        },
+        {
+          "name": "Phasmophobia",
+          "desc": "合作捉鬼恐怖游戏，2020 年进入 Early Access。"
+        },
+        {
+          "name": "Valheim",
+          "desc": "维京题材生存建造游戏，文中讨论其 Early Access 经验。"
+        },
+        {
+          "name": "Subnautica",
+          "desc": "水下生存冒险游戏，文中列为 Early Access 讨论对象。"
+        },
+        {
+          "name": "Hades",
+          "desc": "Roguelike 动作地牢游戏，文中列为 Early Access 讨论对象。"
+        },
+        {
+          "name": "Paralives",
+          "desc": "生活模拟游戏，因教程和部分功能未达标而推迟 Early Access。"
+        },
+        {
+          "name": "Deadhaus Sonata",
+          "desc": "动作角色扮演游戏，文中列为 Early Access 讨论对象。"
+        },
+        {
+          "name": "Subnautica 2",
+          "desc": "水下生存游戏，计划以长期开放开发方式参与 Early Access。"
+        }
+      ]
+    },
+    {
+      "id": "31aceb5095",
+      "title": "腾讯旗下Morefun希望让Roco Kingdom在西方成为Pokémon级大作",
+      "summary": "Morefun在Gamescom面向西方市场首曝Roco Kingdom，并计划2027年上线；属于手游/跨平台新游发行与市场野心资讯，对休闲游戏出海有间接参考。",
+      "url": "https://mobilegamer.biz/tencent-owned-morefun-wants-to-make-roco-kingdom-a-pokemon-sized-hit-in-the-west/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-23T09:47:27",
+      "published_at": "2026-10-27T13:08:47",
       "games": [
         {
-          "name": "Supremacy",
-          "desc": "Stillfront 旗下移动游戏系列之一。"
+          "name": "Roco Kingdom",
+          "desc": "生物收集回合制开放世界游戏，源自中国同名网页游戏，新作面向 PC、主机和移动端并强调公平 PvP 与外观/通行证付费。"
         },
         {
-          "name": "Empire",
-          "desc": "Stillfront 旗下移动游戏系列之一，文中列为关键系列。"
+          "name": "Arena Breakout: Infinite",
+          "desc": "硬核战术撤离射击游戏，文中列为 Morefun 旗下作品。"
         },
         {
-          "name": "BitLife",
-          "desc": "Stillfront 旗下移动游戏系列之一。"
+          "name": "One Piece Ambition",
+          "desc": "《海贼王》IP 改编游戏，文中列为 Morefun 旗下作品。"
         },
         {
-          "name": "Albion Online",
-          "desc": "Stillfront 旗下工作室相关的游戏系列之一。"
-        },
-        {
-          "name": "Big",
-          "desc": "文中列为 Stillfront 关键游戏系列之一，具体类型未展开。"
-        },
-        {
-          "name": "Board",
-          "desc": "文中列为 Stillfront 关键游戏系列之一，具体类型未展开。"
+          "name": "Naruto Mobile",
+          "desc": "《火影忍者》IP 移动端动作游戏，文中列为 Morefun 旗下作品。"
         }
       ]
     }
