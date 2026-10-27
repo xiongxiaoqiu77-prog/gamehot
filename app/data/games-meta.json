@@ -13198,5 +13198,19 @@
     "store": "steam"
   },
   "One Piece Ambition": null,
-  "Naruto Mobile": null
+  "Naruto Mobile": null,
+  "Ghost of Yotei": null,
+  "Ghost of Tsushima": {
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+    "description": "A storm is coming. Venture into the complete Ghost of Tsushima DIRECTOR’S CUT on PC; forge your own path through this open-world action adventure and uncover its hidden wonders. Brought to you by Sucker Punch Productions, Nixxes Software and PlayStation Studios.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.600x338.jpg?t=1763409398",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.600x338.jpg?t=1763409398",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.600x338.jpg?t=1763409398",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_bd593bab36968778b95ed4a1a12ec82d2350d351.600x338.jpg?t=1763409398"
+    ],
+    "store_url": "https://store.steampowered.com/app/2215430",
+    "store": "steam"
+  }
 }
