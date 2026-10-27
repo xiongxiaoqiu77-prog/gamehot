@@ -13037,5 +13037,19 @@
     ],
     "store_url": "https://apps.apple.com/us/app/evoland-2/id1291427111?uo=4",
     "store": "appstore"
-  }
+  },
+  "Brazen Blaze": {
+    "name": "Brazen Blaze -3vs3 Brawl Arena-",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511050/51697c2683f804694aec141c786aaaba6e270743/header.jpg?t=1752835647",
+    "description": "Brazen Blaze is a 3v3 Smack &amp; Shoot VR Action game with emphasis on close quarter melee combat! Choose from a range of unique Runners each equipped with individual skills meant to destroy whatever blocks your path to sure victory!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511050/ss_3adb15e83959cfa5a944ad0300c9380e177d8bc5.600x338.jpg?t=1752835647",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511050/ss_f56f108388a79a0b8fb4804ebd25fd71698ac9c9.600x338.jpg?t=1752835647",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511050/ss_18254283ac7ec2acd5b2b78e6555b473a3a5b567.600x338.jpg?t=1752835647",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511050/ss_953a8e740b3d54c85a2345f04a597832aca4eb47.600x338.jpg?t=1752835647"
+    ],
+    "store_url": "https://store.steampowered.com/app/2511050",
+    "store": "steam"
+  },
+  "Marvel's Blade": null
 }
