@@ -13064,5 +13064,46 @@
     ],
     "store_url": "https://store.steampowered.com/app/4084710",
     "store": "steam"
+  },
+  "Warhammer 40,000: Boltgun 2": {
+    "name": "Warhammer 40,000: Boltgun 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/c99bc374ca10d0335fe5e8f37942aea35419e4d4/header.jpg?t=1792399444",
+    "description": "Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with MORE enemies, MORE weapons, and NEW ways to purge!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/43eb0e5636b6a62f808b1675b1ded5966bd52f95/ss_43eb0e5636b6a62f808b1675b1ded5966bd52f95.600x338.jpg?t=1792399444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/2d80a0a38f57a09356fa23ff2adc0005a144d525/ss_2d80a0a38f57a09356fa23ff2adc0005a144d525.600x338.jpg?t=1792399444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/e1cce6acbb97cb6a3197d3bacf81c35b87403126/ss_e1cce6acbb97cb6a3197d3bacf81c35b87403126.600x338.jpg?t=1792399444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/91d04d1c04376104a53b128080f88e129b61d9dc/ss_91d04d1c04376104a53b128080f88e129b61d9dc.600x338.jpg?t=1792399444"
+    ],
+    "store_url": "https://store.steampowered.com/app/3115160",
+    "store": "steam"
+  },
+  "Starship Troopers: Ultimate Bug War!": {
+    "name": "Starship Troopers: Ultimate Bug War!",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/7747c56e7d0839de337f23ce4ba4ef02b7489117/header.jpg?t=1785320934",
+    "description": "Lock and load into the Starship Troopers universe and join the Mobile Infantry in the most realistic depiction of war ever made! Experience an original story in this action-packed, first-person retro shooter. Would you like to know more?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/61d384f4f8b09d4765538ab663195c39e3b09a91/ss_61d384f4f8b09d4765538ab663195c39e3b09a91.600x338.jpg?t=1785320934",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/c09bb0f47eb456e79e61773c188835d8d8630cc6/ss_c09bb0f47eb456e79e61773c188835d8d8630cc6.600x338.jpg?t=1785320934",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/0ffc80a1e54c4600bfb3572bd7443a549385f687/ss_0ffc80a1e54c4600bfb3572bd7443a549385f687.600x338.jpg?t=1785320934",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/918af78d2c35177c800c12074175a0ae6114feef/ss_918af78d2c35177c800c12074175a0ae6114feef.600x338.jpg?t=1785320934"
+    ],
+    "store_url": "https://store.steampowered.com/app/2321780",
+    "store": "steam"
+  },
+  "The Blood of the Dawnwalker": null,
+  "Stalker: Legends of the Zone trilogy": null,
+  "Tchia": {
+    "name": "Tchia",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/header.jpg?t=1772227146",
+    "description": "A Tropical Open-World adventure. Climb, glide, swim, and sail your boat around a beautiful archipelago in this physics-driven sandbox. Take control of any animal or object you can find, and Jam on your fully playable Ukulele.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/ss_cdc483c1ff927c8fed02c311f9c8e5815669d787.600x338.jpg?t=1772227146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/ss_bfdc468211bd4b986a78a6fd735fac920669969a.600x338.jpg?t=1772227146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/ss_d89710da79b4c694bfece0b0b00a835829cdbd22.600x338.jpg?t=1772227146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/ss_c0bb191d23fd5b7032eaecb737395c5d1eae02f0.600x338.jpg?t=1772227146"
+    ],
+    "store_url": "https://store.steampowered.com/app/1496590",
+    "store": "steam"
   }
 }
