@@ -1,284 +1,179 @@
 {
-  "updated": "2026-10-28",
-  "generated_at": "2026-10-28T07:00:14.866518",
+  "updated": "2026-10-29",
+  "generated_at": "2026-10-29T07:00:33.566807",
   "articles": [
     {
-      "id": "9792680689",
-      "title": "创作者逆向拆解 Block Blast、Candy Crush 与 Subway Surfers，揭示其变现设计",
-      "summary": "数据科学家兼内容创作者 Ayo Omolewa（Ayoships）通过反编译分析 Block Blast、Candy Crush 和 Subway Surfers 的变现机制，指出 Block Blast 更接近以广告收割为核心的循环设计。对休闲游戏从业者理解广告变现节奏、关卡难度诱导与付费转化设计具有直接参考价值。",
-      "url": "https://mobilegamer.biz/this-creator-says-he-decompiled-block-blast-candy-crush-and-subway-surfers-to-reveal-their-monetisation-secrets/",
+      "id": "4c04c7db7d",
+      "title": "数据周报：头部广告投放数据、Arrow 游戏分析、Homescapes 安装量突破 7.74 亿等",
+      "summary": "汇总本周手游行业关键数据，包括头部广告主投放统计、Arrow 类游戏的表现拆解，以及 Homescapes 累计安装超 7.74 亿的里程碑。对休闲游戏从业者把握买量格局与品类头部表现有直接参考价值。",
+      "url": "https://mobilegamer.biz/data-digest-top-ad-spender-stats-arrow-game-analysis-homescapes-hits-774m-installs-more/",
       "source": "Mobile Gamer Biz",
-      "category": "深度拆解",
+      "category": "行业资讯",
       "score": 8,
-      "published_at": "2026-10-27T17:01:10",
+      "published_at": "2026-10-28T08:15:44",
       "games": [
         {
-          "name": "Block Blast",
-          "desc": "Hungry Studio 发行的方块益智手游，以广告变现和动态难度设计受到分析。"
+          "name": "Gossip Harbor",
+          "desc": "合并/剧情休闲手游，在 Sensor Tower 统计中成为美国最大广告主之一，51% 广告曝光来自 AppLovin。"
         },
         {
-          "name": "Candy Crush Saga",
-          "desc": "King 开发的匹配三消益智手游，以动态难度和内购/广告设计受到分析。"
+          "name": "Pokémon Go",
+          "desc": "AR 定位捕捉宝可梦手游，文中称其 47% 广告曝光来自 AdMob。"
         },
         {
-          "name": "Subway Surfers",
-          "desc": "Sybo 开发的无尽跑酷手游，以数据追踪和个性化商店/广告投放受到分析。"
+          "name": "Monopoly Go",
+          "desc": "大富翁主题休闲手游，文中称其 31% 广告曝光来自 AdMob。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "策略/4X 手游，文中称其 62% 广告曝光投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存策略手游，文中称其 51% 广告曝光投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Raid: Shadow Legends",
+          "desc": "魔幻题材移动 RPG，文中称其 42% 广告曝光投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Pokémon TCG Pocket",
+          "desc": "宝可梦集换式卡牌手游，文中称其 42% 广告曝光来自 YouTube。"
+        },
+        {
+          "name": "Amaze Go",
+          "desc": "箭头解谜手游（原 Arrows Go），累计下载量 1.05 亿次，在同类中排名第二。"
+        },
+        {
+          "name": "Homescapes",
+          "desc": "Playrix 的三消益智手游，九周年时累计安装量超过 7.73 亿次，拥有超过 2.1 万个关卡。"
+        },
+        {
+          "name": "Delta Force",
+          "desc": "腾讯的射击游戏，中国服日活跃用户突破 5800 万，并迎来两周年。"
         }
       ]
     },
     {
-      "id": "308133520e",
-      "title": "Crossy Road 创作者 Matt Hall 被任命为 Atari 移动业务执行副总裁",
-      "summary": "Atari 宣布由 Crossy Road 创作者 Matt Hall 出任移动业务执行副总裁，主导其移动游戏布局。该人事变动对关注休闲游戏公司战略与高管动态的从业者有一定参考价值。",
-      "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
-      "source": "Game Developer",
+      "id": "48800f1ed2",
+      "title": "Sensor Tower：休闲游戏一半的广告曝光来自广告网络，策略游戏则侧重社交平台",
+      "summary": "Sensor Tower 数据显示休闲游戏的广告曝光约半数由广告网络贡献，而策略品类更依赖社交平台投放。对休闲游戏团队的变现结构选择与聚合平台策略有直接参考意义。",
+      "url": "https://gameworldobserver.com/2026/10/28/sensor-tower-half-of-ad-impressions-in-casual-games-come-from-ad-networks-while-strategy-titles-focus-on-social-platforms",
+      "source": "Game World Observer",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-27T18:45:00",
+      "score": 8,
+      "published_at": "2026-10-28T15:04:34",
       "games": [
         {
-          "name": "Crossy Road",
-          "desc": "一款由 Hipster Whale 开发的移动端街机跳跃游戏，以像素风格和无限过马路玩法著称。"
+          "name": "Gossip Harbor",
+          "desc": "合并/剧情休闲手游，文中称其成为美国最大广告主之一，51% 广告展示发生在 AppLovin。"
+        },
+        {
+          "name": "Pokémon GO",
+          "desc": "AR 定位捕捉宝可梦手游，47% 广告展示来自 AdMob。"
+        },
+        {
+          "name": "MONOPOLY GO!",
+          "desc": "大富翁主题休闲手游，31% 广告展示来自 AdMob。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "策略/4X 手游，62% 广告展示投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存策略手游，51% 广告展示投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "RAID: Shadow Legends",
+          "desc": "魔幻题材移动 RPG，42% 广告展示投向 YouTube、Facebook 和 Instagram。"
         }
       ]
     },
     {
-      "id": "374eaee43c",
-      "title": "腾讯大品牌MOBA Pokémon Unite将于2027年3月停服",
-      "summary": "文章结合AppMagic估算称Pokémon Unite移动端约7500万美元收入、1.27亿下载，并将于2027年3月停服；对分析授权IP手游的长线运营和变现天花板有参考价值。",
-      "url": "https://mobilegamer.biz/tencents-big-brand-moba-pokemon-unite-is-closing-in-march-2027/",
+      "id": "41f1323075",
+      "title": "Playrix：《Homescapes》九年累计下载量超 7.73 亿次",
+      "summary": "Playrix 公布《Homescapes》上线九年来累计下载突破 7.73 亿次，展示了三消+装修元玩法的长线生命力。对研究长生命周期休闲产品的版本节奏与内容更新策略具有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40RnRBcWhvUU5zTVhIMWRYeUlKN1JnSmZvbXNyT1VCdEJQUW80X3pkNlBVRk4zeDNpemQ0SmdpU2hlaUZpbUxRa3dkYXVJTmM?oc=5",
+      "source": "重点游戏-Homescapes",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-10-28T16:16:46",
+      "games": [
+        {
+          "name": "Homescapes",
+          "desc": "Playrix 的三消益智手游，九周年时累计安装量超过 7.73 亿次。"
+        }
+      ]
+    },
+    {
+      "id": "0e1488125a",
+      "title": "EA 联合创始人 Bing Gordon 谈 EA 为何错失手游，以及 Zynga 做对了什么",
+      "summary": "Bing Gordon 复盘 EA 在手游时代的失位，并剖析 Zynga 在免费游玩与数据驱动运营上的成功要素，同时谈及「AI 流利」的开发方式与公司对风险的恐惧。对休闲手游的商业模式与组织决策有较强启发。",
+      "url": "https://mobilegamer.biz/ea-cofounder-bing-gordon-on-why-ea-missed-mobile-and-what-zynga-got-right/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-28T17:01:48",
+      "games": []
+    },
+    {
+      "id": "1024d163d0",
+      "title": "Unity 联手 PvX 为手游工作室提供买量融资",
+      "summary": "PvX 迄今已承诺 13 亿美元 UA 资金，将为符合条件的 Unity 开发者提供审核与放款服务。对依赖买量增长的休闲手游团队而言是值得关注的资金来源变化。",
+      "url": "https://mobilegamer.biz/unity-partners-with-pvx-to-offer-ua-financing-to-mobile-studios/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-10-27T11:16:38",
-      "games": [
-        {
-          "name": "Pokémon Unite",
-          "desc": "Tencent TiMi Studio Group 开发的宝可梦 MOBA，2021 年上线 Switch 和移动端，2027 年 3 月 23 日停服。"
-        }
-      ]
+      "published_at": "2026-10-28T13:48:54",
+      "games": []
     },
     {
-      "id": "4b502e2406",
-      "title": "Rockstar Games 员工将在 Grand Theft Auto VI 发售之际就工会化进行投票",
-      "summary": "Rockstar Games 员工将在两周内决定是否承认 IWGB Rockstar Game Workers Union，投票时点恰逢 Grand Theft Auto VI 发售。该事件反映大型游戏公司在发售关键期的劳资关系与组织化动向。",
-      "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+      "id": "6c2f89ab84",
+      "title": "Epic 副总裁称 AI 代码工具已消灭 Unreal Engine 中长达十年的「非确定性烹饪 Bug」",
+      "summary": "Epic 确认在「AI 优先」转型后，AI 正深度参与 Unreal Engine 的代码开发，并解决了长期困扰引擎的随机性构建问题。对使用 UE 的手游团队而言，这预示着引擎迭代与工具链维护效率的提升。",
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-27T19:34:13",
-      "games": [
-        {
-          "name": "Grand Theft Auto VI",
-          "desc": "Rockstar Games 推出的开放世界动作冒险游戏，是《Grand Theft Auto》系列最新作，计划于 2026 年 11 月 19 日发售。"
-        },
-        {
-          "name": "Zephon",
-          "desc": "Proxy Studios 开发的 4X 策略游戏，文章作者曾参与其编剧/叙事设计工作。"
-        },
-        {
-          "name": "Down With The Ship",
-          "desc": "Iron Anchor Studios 开发的游戏，文章作者曾参与制作，文章未展开其类型与特点。"
-        },
-        {
-          "name": "Endless Space 2",
-          "desc": "Amplitude Studio 于 2017 年推出的游戏，文章作者曾参与制作。"
-        }
-      ]
-    },
-    {
-      "id": "53b2223bf1",
-      "title": "Epic 更新 EULA，允许用 Unreal Engine 和 MetaHuman 的输出训练 AI",
-      "summary": "Epic CEO Tim Sweeney 表示将修改使用条款，允许开发者利用 Unreal Engine 与 MetaHuman 的输出训练 AI，同时保留针对单个游戏设置限制的权利。该变动涉及引擎与 AI 合规，对使用 Unreal 生态的休闲游戏团队有间接参考价值，但不涉及三消玩法、数值或变现设计。",
-      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-27T17:53:41",
+      "published_at": "2026-10-28T16:28:55",
       "games": [
         {
           "name": "Fortnite",
-          "desc": "Epic 旗下的大逃杀游戏，文中作为用户未经许可制作浏览器版本的例子被提及。"
+          "desc": "Epic 的在线战术竞技与沙盒创作平台游戏，文中提到其开发流与 UEFN、UE6 相关。"
         }
       ]
     },
     {
-      "id": "3dc0f461c6",
-      "title": "Warhorse Studios 遭遇网络攻击，公司系统和数据受影响",
-      "summary": "Warhorse Studios 遭受网络攻击，导致公司系统和数据被未经授权访问。该事件属于游戏公司安全与运营风险资讯，与休闲游戏设计、数值或变现无直接关联。",
-      "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-27T14:20:32",
-      "games": [
-        {
-          "name": "Kingdom Come: Deliverance 2",
-          "desc": "中世纪背景的动作角色扮演游戏，是《天国：拯救》的续作。"
-        },
-        {
-          "name": "GTA 6",
-          "desc": "开放世界动作冒险游戏，为《侠盗猎车手》系列新作。"
-        }
-      ]
-    },
-    {
-      "id": "84a26157af",
-      "title": "Nightdive Studios CEO 表示：持续改变被收购工作室的核心定位终将导致失败",
-      "summary": "Nightdive Studios CEO 以 Atari 为例，讨论大型发行商应如何在收购后保留工作室的原有特色与文化。对关注团队整合与研发布局的从业者有一定参考价值，但与休闲游戏设计关联较弱。",
-      "url": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions",
+      "id": "f1ae019e9f",
+      "title": "Valve 就 Next Fest 上的 AI 克隆现象表态",
+      "summary": "Steam 上新品节游戏被快速克隆的问题引起 Valve 关注，但平台方将防范责任更多地推给开发者自身。对关注买量与素材同质化的休闲手游团队有一定参考意义。",
+      "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-27T14:47:20",
+      "published_at": "2026-10-28T14:42:21",
       "games": [
         {
-          "name": "Crossy Road",
-          "desc": "Hipster Whale 开发的街机式无尽跳跃游戏，以像素风格和简单上手的玩法著称。"
+          "name": "Moonlighter",
+          "desc": "Digital Sun 开发的动作角色扮演与商店经营 Roguelike 系列，文中提及其开发商因担心 AI 克隆而推迟新作测试。"
         },
         {
-          "name": "Mass Effect",
-          "desc": "BioWare 开发的科幻角色扮演游戏系列，以太空歌剧叙事和选择分支闻名。"
-        },
-        {
-          "name": "Dragon Age",
-          "desc": "BioWare 开发的奇幻角色扮演游戏系列，强调小队战斗与剧情选择。"
+          "name": "ReVamp",
+          "desc": "Digital Sun 的下一款游戏，因担心 AI 克隆抢先发布而推迟公开测试。"
         }
       ]
     },
     {
-      "id": "50450c0a45",
-      "title": "Sucker Punch 裁员 24 人，称是为适配“当前市场”与“下一项目需求”",
-      "summary": "Sucker Punch 裁撤约 24 名员工，约占团队一成，官方解释是配合当前市场环境与下一项目需要。属于主机 3A 领域的人事动态，可作为行业成本收缩趋势的观察样本。",
-      "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-27T14:10:40",
-      "games": [
-        {
-          "name": "Ghost of Yotei",
-          "desc": "Sucker Punch 开发的开放世界动作冒险游戏，延续日本武士题材。"
-        }
-      ]
-    },
-    {
-      "id": "8f1f72fbb9",
-      "title": "UKIE 呼吁英国政府在秋季预算前现代化游戏支出税收抵免（VGEC）",
-      "summary": "英国行业组织 UKIE 在秋季预算前推动政府更新游戏产业支出抵免政策。属于区域产业政策动态，对关心英国市场与出海环境的从业者有信息价值。",
-      "url": "https://www.gamesindustry.biz/ukie-calls-on-government-to-modernise-video-games-expenditure-credit-ahead-of-autumn-budget",
+      "id": "fb305d9fdd",
+      "title": "如何经营独立游戏工作室：第五部分，让会议更高效",
+      "summary": "系列文章聚焦工作室运营体系，本篇讲如何用会议机制串联目标、问题追踪与季度节奏。对中小团队的管理实践有通用参考，但不涉及玩法或变现设计。",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-27T12:00:59",
+      "published_at": "2026-10-28T15:00:00",
       "games": []
-    },
-    {
-      "id": "21ca0f1ca7",
-      "title": "Microsoft 向 6 万名员工提供“自愿离职”方案，涉及 Xbox 部门",
-      "summary": "Microsoft 面向约 6 万名员工推出自愿买断离职计划，范围包括 Xbox 业务。反映出大型平台方的成本控制动作，对观察行业人力与并购环境有参考价值。",
-      "url": "https://gameworldobserver.com/2026/10/27/microsoft-offers-voluntary-buyouts-to-60000-employees-including-those-in-xbox-division",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-27T13:50:55",
-      "games": []
-    },
-    {
-      "id": "86a4f0e2ee",
-      "title": "当AI成为你的游戏队友时会发生什么",
-      "summary": "Naavik播客对话Artificial Agency CEO Brian Tanner，讨论AI NPC、动态世界与AI队友的商业化落地难点；对休闲游戏探索AI队友和内容生产有间接参考，但非三消/消除玩法专项分析。",
-      "url": "https://naavik.co/podcast/what-happens-when-ai-becomes-your-gaming-teammate/",
-      "source": "Naavik",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-27T15:48:05",
-      "games": [
-        {
-          "name": "Dimensional Double Shift",
-          "desc": "Owlchemy Labs 的多人合作 VR 游戏，将集成 Artificial Agency 的 AI 队友，用三名 AI 玩家替代人类玩家。"
-        }
-      ]
-    },
-    {
-      "id": "3d491a187d",
-      "title": "开发者需把Early Access当作正式发行，因为玩家就是这样看待的",
-      "summary": "文章基于SteamDB数据指出2026年Steam Early Access数量继续增长，并讨论玩家期望提升对发行策略的影响；对手游/休闲游戏的上线节奏有间接参考。",
-      "url": "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-27T13:30:00",
-      "games": [
-        {
-          "name": "Don't Starve",
-          "desc": "生存冒险游戏，文中作为通过 Early Access 取得长期成功的案例。"
-        },
-        {
-          "name": "Baldur's Gate 3",
-          "desc": "角色扮演游戏，文中作为通过 Early Access 取得长期成功的案例。"
-        },
-        {
-          "name": "Dead Cells",
-          "desc": "动作 Roguelike 游戏，文中作为通过 Early Access 取得长期成功的案例。"
-        },
-        {
-          "name": "Phasmophobia",
-          "desc": "合作捉鬼恐怖游戏，2020 年进入 Early Access。"
-        },
-        {
-          "name": "Valheim",
-          "desc": "维京题材生存建造游戏，文中讨论其 Early Access 经验。"
-        },
-        {
-          "name": "Subnautica",
-          "desc": "水下生存冒险游戏，文中列为 Early Access 讨论对象。"
-        },
-        {
-          "name": "Hades",
-          "desc": "Roguelike 动作地牢游戏，文中列为 Early Access 讨论对象。"
-        },
-        {
-          "name": "Paralives",
-          "desc": "生活模拟游戏，因教程和部分功能未达标而推迟 Early Access。"
-        },
-        {
-          "name": "Deadhaus Sonata",
-          "desc": "动作角色扮演游戏，文中列为 Early Access 讨论对象。"
-        },
-        {
-          "name": "Subnautica 2",
-          "desc": "水下生存游戏，计划以长期开放开发方式参与 Early Access。"
-        }
-      ]
-    },
-    {
-      "id": "31aceb5095",
-      "title": "腾讯旗下Morefun希望让Roco Kingdom在西方成为Pokémon级大作",
-      "summary": "Morefun在Gamescom面向西方市场首曝Roco Kingdom，并计划2027年上线；属于手游/跨平台新游发行与市场野心资讯，对休闲游戏出海有间接参考。",
-      "url": "https://mobilegamer.biz/tencent-owned-morefun-wants-to-make-roco-kingdom-a-pokemon-sized-hit-in-the-west/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-27T13:08:47",
-      "games": [
-        {
-          "name": "Roco Kingdom",
-          "desc": "生物收集回合制开放世界游戏，源自中国同名网页游戏，新作面向 PC、主机和移动端并强调公平 PvP 与外观/通行证付费。"
-        },
-        {
-          "name": "Arena Breakout: Infinite",
-          "desc": "硬核战术撤离射击游戏，文中列为 Morefun 旗下作品。"
-        },
-        {
-          "name": "One Piece Ambition",
-          "desc": "《海贼王》IP 改编游戏，文中列为 Morefun 旗下作品。"
-        },
-        {
-          "name": "Naruto Mobile",
-          "desc": "《火影忍者》IP 移动端动作游戏，文中列为 Morefun 旗下作品。"
-        }
-      ]
     }
   ]
 }
