@@ -13213,5 +13213,31 @@
     "store_url": "https://store.steampowered.com/app/2215430",
     "store": "steam"
   },
-  "Unnamed Lord of the Rings RPG": null
+  "Unnamed Lord of the Rings RPG": null,
+  "Arrow": {
+    "name": "Arrows – Puzzle Escape",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e1/58/f6e1588a-541b-6986-d24f-4806c1b81564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Arrows – Puzzle Escape, a minimalist puzzle game that challenges your logic, planning, and spatial thinking. Your goal is simple: extract each arrow without causing a collision. \n\nFeatures:\n\n* Challenging logic puzzles that test your planning skills\n* Thousands of handcrafted levels with increasing complexity\n* Clean, minimalist design that lets you focus on the puzzle\n* Relaxing, no-pressure gameplay – no timers, just your brain\n* Hint system to help when you're stuck\n\nWhether you have a few minutes or want a longer challenge, Arrows – Puzzle Escape is the perfect blend of strategy and calm.\n\nCan you clear the grid without losing a single heart?",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/d0/43/add043a3-b812-a31c-a6d2-59651185320d/1290x2796_Gameplay_Arrows_updated_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/67/d9/f967d994-f98f-82f1-1a71-6a080d51a656/1290x2796_Gameplay_Arrows_updated_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/99/ad/bb99adb1-3e31-a3b5-b25b-4c5b52ed9063/1290x2796_Gameplay_Arrows_updated_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/39/8b/33398b9f-6c1c-30c6-c7c5-9bced7755a88/1290x2796_Gameplay_Arrows_updated_4.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/arrows-puzzle-escape/id6748397500?uo=4",
+    "store": "appstore"
+  },
+  "Homescapes": {
+    "name": "Homescapes",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f4/a9/55f4a9d3-bb34-e5b9-8547-92aae7fa9dd4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Homescapes, a truly heartwarming game from Playrix's Scapes™ series! Solve match-3 puzzles to restore a wonderful mansion on a verdant street. Exciting adventures start at the doorstep!\n\nBeat colorful match-3 levels to renovate and decorate rooms in the mansion, unlocking ever more chapters in the exciting family story along the way! What are you waiting for? Make yourself at home!\n \nThe game features:\n\n●     Unique gameplay: help Austin renovate the house by swapping and matching pieces!\n●     Interior design: you decide what the house will look like.\n●     Exciting match-3 levels: tons of fun, featuring unique boosters and explosive combinations!\n●     A huge, beautiful mansion: discover all the secrets it holds!\n●     Fantastic characters: watch them live their lives and interact with each other in the in-game social network.\n●     A cute pet: meet а naughty and fluffy cat.\n●     Invite your Facebook friends to help you create your own cozy atmosphere in the house!\n \nHomescapes is free to play, but some in-game elements (including randomized items) can be purchased for real money. If you don't want to use this option, simply turn it off in your device's Restrictions menu.\n \nEnjoying Homescapes? Learn more about the game!\nFacebook: https://www.facebook.com/homescapes/\nInstagram: https://www.instagram.com/homescapes_mobile/\n \nQuestions? Contact our Tech Support by sending an email to support@playrix.com.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/55/a2/0755a28f-03d0-3357-81b6-c8fe5827ca62/1290x2796_hs_aso_screenshot117_EN_v1_p1_as.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/9f/0f/369f0fc7-1947-8fff-634a-9ceb8fda3f93/1290x2796_hs_aso_screenshot117_EN_v1_p2_as.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/ec/6d/35ec6d45-a685-17a2-d6f9-bcab11764883/1290x2796_hs_aso_screenshot112_en_v1_p3_as.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/6d/40/586d406b-3d15-337c-f9b2-2c3d2129c177/1290x2796_hs_aso_screenshot112_en_v1_p4_as.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/homescapes/id1195621598?uo=4",
+    "store": "appstore"
+  }
 }
