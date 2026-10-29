@@ -13372,5 +13372,82 @@
     "store_url": "https://store.steampowered.com/app/601150",
     "store": "steam"
   },
-  "Modern Warfare 4": null
+  "Modern Warfare 4": null,
+  "Assassin’s Creed Jade": null,
+  "Black Flag Resynced": {
+    "name": "AC Black Flag Resynced Map",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/12/4c/a9124c41-b8e1-878f-a12c-81289b4973fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "An unofficial fan-made map for Assassin's Creed Black Flag Resynced. Find all side quests and collectibles in the Caribbean with this digital companion!\n\nFEATURES:\n• Over 800 locations - Find all collectibles, shanties, quests and codex entries! \n• 70+ categories - including pets, chests, equipment & cities\n• Quicksearch - just type the name of a location to instantly find what you're looking for.\n• Sync progress with the website: https://mapgenie.io/assassins-creed-black-flag-resynced\n• Progress Tracker - mark locations as found and track the progress of your collectables. \n• Take Notes - mark places of interest by adding notes to the map.\n\n\nIf you find a bug, or have any suggestions for the app, please use the 'Send Feedback' option below to let us know!\n\nDisclaimer: MapGenie is in no way affiliated with Ubisoft (the developers behind Assassins Creed Black Flag Resynced)",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/fe/7b/99fe7bf9-f012-8dec-ddb7-31b8b82366b0/screenshot-20260717-123118.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/4e/d9/fd4ed978-e91e-986c-dcdb-a68c14aa43a5/screenshot-20260717-123156.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/bc/58/d8bc5809-a318-1d5c-c819-cb1f09e626d8/screenshot-20260717-123455.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/5e/15/ea5e15d8-8e42-749a-3f79-27c9e3a0b3bb/screenshot-20260717-123305.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/ac-black-flag-resynced-map/id6789175080?uo=4",
+    "store": "appstore"
+  },
+  "Valhalla": {
+    "name": "ODIN:VALHALLA RISING",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/51/f5/ef51f52e-02ca-ccda-0435-e7bd03196df0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "▣ Asgard Update ▣\n The Grand Prologue to Chapter Six\n A continent of the gods, laid waste by Ragnarok.\n Explore Asgard, a realm overrun by pure madness.\n\n▣Game Introduction▣\n■ An MMORPG That Challenges the Gods' Realms\nGodlike visuals powered by Unreal Engine 4\nExplore a seamless open-world MMORPG\n\n■ The Epic of Norse Mythology\nTraverse mythical realms inspired by Norse Mythology\nEncounter diverse races from Giants, Dwarfs, Alves and more\n\n■ Boundless Gameplay\nUtilize your surroundings for an immersive, epic adventure\nChoose your own unique classes and playstyle\nEnjoy Cross-play support between PC & Mobile\n\n■ World of Glorious Battles\nFight against Gods and Beasts from legends\nEngage in massive battles to claim Valhalla\n\n▣ODIN:VALHALLA RISING Official Communities▣\n* Homepage: odinvalhallarising.kakaogames.com  \n* Discord: https://discord.gg/fpXYKUJKpW  \n* Facebook: http://facebook.com/ODINVALHALLARISING  \n* YouTube: http://youtube.com/@ODINVALHALLARISING",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/8d/4d/788d4d45-63f8-de9e-9805-0c60592b27b6/_U005b_Uc624_Ub518_10_Uc6d4_U005d_Ubb34_Uc2a4_Ud3a0_Ud558_Uc784_EN_2796-1290.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/77/fc/4c77fcc5-1186-ef38-a2c4-75362df79363/UI_a_2_2796x1290.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/80/8c/4b808c6e-1a77-d62f-ed7b-b40dbd323ea9/UI_a_3_2796x1290.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/e0/1c/22e01c26-0cea-090a-747c-c85b5f3bd3c4/UI_a_4_2796x1290.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/odin-valhalla-rising/id6480102112?uo=4",
+    "store": "appstore"
+  },
+  "Invictus": {
+    "name": "Invictus",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/31/29/cf3129d9-ce4b-1eaa-ec28-5654eff230e5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "Посещайте лучшие тренажёрные залы Invictus Fitness и Invictus GO, с новым приложением Invictus! \nПриложение Invictus ускоряет и упрощает посещение зала как никогда. Не нужно больше отмечаться на ресепшн при каждом посещении. Вы сможете войти в зал за считанные секунды! Для этого достаточно отсканировать QR-код на входе! Также вам больше необязательно искать открытый шкаф по раздевалке, ведь вы можете занять шкаф в один клик после входа в зал! Следите за нашими главными новостями прямо у себя в профиле. Ожидайте еще больше новых возможностей в новых обновлениях. Фитнес легче с нами!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/a8/fb/2ea8fbac-ef7e-9e5d-84ed-1ecfaca6517c/519eec37-b95f-412f-89ae-5e1024be9a4f_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/5c/d3/7b5cd31c-feaf-d39c-1e15-ca7d83c77fca/cb433bbe-0e64-472c-9048-1353f48eb6fb_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/dd/e7/cd/dde7cdb9-c535-8777-6fe1-b59a65cd6abd/93efd71c-6e51-4f22-8aa8-b258ef4c078d_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/55/07/6a/55076a18-c282-3aba-a488-b5d95ea49773/b8b031f9-2dcc-4f76-bdea-077d6d079c91_4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/invictus/id1601683540?uo=4",
+    "store": "appstore"
+  },
+  "Hexe": {
+    "name": "Hexe Chambers",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995910/524e9eb798e70aa58cea16e2a86baacce80d728d/header.jpg?t=1792462035",
+    "description": "Harness devastating magic, conquer dangerous chambers, and slay hordes of monsters in an 8-bit roguelike. Will you reach the sacred relic and break the kingdom’s curse?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995910/eea4b823141c626351df3cdfbd4329922ed87803/ss_eea4b823141c626351df3cdfbd4329922ed87803.600x338.jpg?t=1792462035",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995910/d68030f3842c4b7998aa6541fda1b43eaf59193b/ss_d68030f3842c4b7998aa6541fda1b43eaf59193b.600x338.jpg?t=1792462035",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995910/3644679815ac69543b430a25250a422db8ee2247/ss_3644679815ac69543b430a25250a422db8ee2247.600x338.jpg?t=1792462035",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995910/4da6f3b6fb59fd3142afc694221ac39e04db470f/ss_4da6f3b6fb59fd3142afc694221ac39e04db470f.600x338.jpg?t=1792462035"
+    ],
+    "store_url": "https://store.steampowered.com/app/4995910",
+    "store": "steam"
+  },
+  "The Division Resurgence": {
+    "name": "The Division Resurgence",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/72/1b/9a721ba9-a0cc-cba7-994d-614c6e6562f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Become a Division agent, the last line of defense after society collapses.\n\nExplore a shared open world set in New York City, featuring iconic locations and playable solo or fully in co-op.\nComplete more than 100 world activities as you restore order and uncover an exclusive, canon storyline that reveals a plot threatening the entire city — and beyond. Loot, mod, and customize a wide variety of weapons and gear, along with skins and cosmetics, to build your perfect agent and grow stronger.\n\nCustomize your agent and choose a specialization that fits your playstyle — from tanky Bulwarks to high-firepower Demolitionists. Each specialization features unique skills and powerful ultimate abilities, letting you adapt your role at any time while unlocking new talents in your skill tree.\n\nProtect civilians from dangerous factions, such as the Cleaners who want to burn everything down, or the Rikers driven by greed, as you fight back against the chaos spreading across the city.\n\nEngage in intense PVE combat, competitive PVP modes, and enter the iconic Dark Zone PvPvE experience, where high-risk encounters lead to high-end rewards — if you can extract them.\n\nThe Division Resurgence is designed as a living game, with regular additional content expanding the story, the world, and the challenges ahead.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/fd/c5/bbfdc5ef-6753-b0ef-360c-48b6ca67cebf/TDR_EN_SCREENSHOT_06_Reclaim_2868x1320.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/e8/63/d1e863fc-e666-0ac8-04ac-a8cec0160464/TDR_EN_SCREENSHOT_01_FIGHT_2868x1320.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/26/b8/4e26b8ba-efc5-af9d-be50-67da01a96420/TDR_EN_SCREENSHOT_05_Loot_2868x1320.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/e4/fa/c6e4fa8b-fc3a-4311-3c3a-698e2e0274e5/TDR_EN_SCREENSHOT_03_Customize_2868x1320.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/the-division-resurgence/id1606349410?uo=4",
+    "store": "appstore"
+  },
+  "Assassin’s Creed Rebellion": null,
+  "Assassin’s Creed Mirage": {
+    "name": "Assassin’s Creed Mirage - Celestial Pack",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145510/071d11a3936906e54f901f65983f39e16cbc1331/header.jpg?t=1763494700",
+    "description": "Forged from stardust and shaped by the constellations, this blade glows with shifting astral patterns. Each strike channels the power of the stars, guided by celestial wisdom.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145510/d87ec83195f9716b9bc895c568657d10b30e38ed/ss_d87ec83195f9716b9bc895c568657d10b30e38ed.600x338.jpg?t=1763494700"
+    ],
+    "store_url": "https://store.steampowered.com/app/4145510",
+    "store": "steam"
+  }
 }
