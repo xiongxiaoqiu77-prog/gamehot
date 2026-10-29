@@ -13332,5 +13332,45 @@
     ],
     "store_url": "https://store.steampowered.com/app/359550",
     "store": "steam"
-  }
+  },
+  "Onimusha": {
+    "name": "Onimusha: Way of the Sword",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1790383151",
+    "description": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/40e49fbd098140a69e897dcce736cba5eae8662f/ss_40e49fbd098140a69e897dcce736cba5eae8662f.600x338.jpg?t=1790383151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/8be802aef40ce301104a3ff5d3c6462913d57807/ss_8be802aef40ce301104a3ff5d3c6462913d57807.600x338.jpg?t=1790383151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/b8d1f33e7777aa1d1a0a2b9af5e84fb52e1f2e1c/ss_b8d1f33e7777aa1d1a0a2b9af5e84fb52e1f2e1c.600x338.jpg?t=1790383151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/4ee71e56889c1dc82b55e013d6bbe7f2cd2d1027/ss_4ee71e56889c1dc82b55e013d6bbe7f2cd2d1027.600x338.jpg?t=1790383151"
+    ],
+    "store_url": "https://store.steampowered.com/app/2638890",
+    "store": "steam"
+  },
+  "Monster Hunter Wilds: Ascendance": {
+    "name": "Monster Hunter Wilds: Ascendance",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829700/6a3eec73bed78fafa128e24dddb872df87832dff/header.jpg?t=1788503895",
+    "description": "Massive expansion, Monster Hunter Wilds: Ascendance has been announced!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829700/9a9976b901fe86f78a9a837d5a52904b273b7769/ss_9a9976b901fe86f78a9a837d5a52904b273b7769.600x338.jpg?t=1788503895",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829700/6af30fbf78f81a8d597e216ef5447d8092187034/ss_6af30fbf78f81a8d597e216ef5447d8092187034.600x338.jpg?t=1788503895",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829700/32621e51e26729281230ed9d82f855baf0dfa95b/ss_32621e51e26729281230ed9d82f855baf0dfa95b.600x338.jpg?t=1788503895",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829700/c4edcd71500774e4bed2e99dcebfe39b5830b7a4/ss_c4edcd71500774e4bed2e99dcebfe39b5830b7a4.600x338.jpg?t=1788503895"
+    ],
+    "store_url": "https://store.steampowered.com/app/4829700",
+    "store": "steam"
+  },
+  "Devil May Cry 5": {
+    "name": "Devil May Cry 5",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg?t=1790215341",
+    "description": "The ultimate Devil Hunter is back in style, in the game action fans have been waiting for.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_4410bada2565843dae693b03ac3a50256ff5dd66.600x338.jpg?t=1790215341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_4ce180ed8979a51c72de51f985e9e9ba13500508.600x338.jpg?t=1790215341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_e2be70565f94a7f6c392cccddce08c67f2f87612.600x338.jpg?t=1790215341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_d1e0b403f593f17ad195c5382a7788d71c6f406a.600x338.jpg?t=1790215341"
+    ],
+    "store_url": "https://store.steampowered.com/app/601150",
+    "store": "steam"
+  },
+  "Modern Warfare 4": null
 }
