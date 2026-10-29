@@ -13240,5 +13240,57 @@
     "store_url": "https://apps.apple.com/us/app/homescapes/id1195621598?uo=4",
     "store": "appstore"
   },
-  "Super Mario Maker 2": null
+  "Super Mario Maker 2": null,
+  "Hearth and Hamlet": {
+    "name": "Hearth and Hamlet",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/7afcb87494b3ac1f383592a87ab952c1e1d64b2d/header.jpg?t=1793112667",
+    "description": "Start with a campfire. Build a kingdom. Hearth and Hamlet is a medieval citybuilder clicker that blends resource management, in-depth upgrade trees and relaxing idle gameplay. Build your empire by researching new technologies, passing new laws, trading with far-off lands, and more.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9deb163ff5b397ed63af098a85ec560fa7846db0/ss_9deb163ff5b397ed63af098a85ec560fa7846db0.600x338.jpg?t=1793112667",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1a84967c27432055b44fc130be0d75b9480bcc3f/ss_1a84967c27432055b44fc130be0d75b9480bcc3f.600x338.jpg?t=1793112667",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/66fd3440db004bbe90041c292eae2c933ce8435f/ss_66fd3440db004bbe90041c292eae2c933ce8435f.600x338.jpg?t=1793112667",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1d0085de64491697288c56fca712aad8193cdfa6/ss_1d0085de64491697288c56fca712aad8193cdfa6.600x338.jpg?t=1793112667"
+    ],
+    "store_url": "https://store.steampowered.com/app/4315040",
+    "store": "steam"
+  },
+  "Carnholt": {
+    "name": "Carnholt",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544140/8cc40e20d204320dbd6b347e989393b07e1d22a8/header.jpg?t=1791192678",
+    "description": "Carnholt is a deckbuilding roguelike where you must harness the corpses of the dead to achieve victory. Craft a deck of wild creatures and powerful spells, fight in tactical battles, and slay a God that refused death.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544140/83ce01890594d0eda1f847ae76a60b52b25c14fc/ss_83ce01890594d0eda1f847ae76a60b52b25c14fc.600x338.jpg?t=1791192678",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544140/f9c78628fb24f0037f75316c53a8094217395595/ss_f9c78628fb24f0037f75316c53a8094217395595.600x338.jpg?t=1791192678",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544140/4da60d12a629e0ddf83afab76db133fde681a066/ss_4da60d12a629e0ddf83afab76db133fde681a066.600x338.jpg?t=1791192678",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544140/a9c3172c0f844cd5c14087ddba751d8c8bdc173b/ss_a9c3172c0f844cd5c14087ddba751d8c8bdc173b.600x338.jpg?t=1791192678"
+    ],
+    "store_url": "https://store.steampowered.com/app/4544140",
+    "store": "steam"
+  },
+  "Dragon's Tear": {
+    "name": "Dragon's Tear Tavern Mobile",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5f/20/1f5f2069-22b7-c3f0-8ef3-db1cf1d3914f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Tools for your gaming needs.\n* Animated random dice roller\n* Score counter with first player selector\n* Time Utilities\n* Buzzer\n* Writing Board\n* Monsterpocalypse Odds Calculator",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/f9/4f/b9f94fc4-dbe7-f06e-270e-60233093e443/IMG_0190.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/e6/fc/61e6fcd9-199e-7ea8-c306-9e8b1208f307/Dice_Roller_with_Dice.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/d0/47/22d04783-92b7-ed53-f757-9cfe7f335578/ScoreCounter.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/88/ec/ec88ec76-17d1-966d-3a23-f9851579f211/TimeUtilities-Timer.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/dragons-tear-tavern-mobile/id6748840341?uo=4",
+    "store": "appstore"
+  },
+  "Despatch": {
+    "name": "despatch: Entity Astray",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451360/header.jpg?t=1607934867",
+    "description": "Imagine waking up in an unknown environment. It’s dark. You have no idea where and who you are. Only a small alarm light flashes somewhere in the room. Something seems off. The room is filled with a strange soundscape. Start your adventure now and bring light into the unknown darkness.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451360/ss_7ad9690a5d06e8c68ad1121af709378881869ee1.600x338.jpg?t=1607934867",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451360/ss_1e26d425eb7b436a58684e98f05fb052a3af6265.600x338.jpg?t=1607934867",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451360/ss_4d0b6dc8979e7d251aa0b45d6d2c8721d4bc0f66.600x338.jpg?t=1607934867",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451360/ss_fc513d14622bf99ccb321af85ce702c8d9478553.600x338.jpg?t=1607934867"
+    ],
+    "store_url": "https://store.steampowered.com/app/1451360",
+    "store": "steam"
+  }
 }
