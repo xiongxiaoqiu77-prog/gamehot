@@ -13292,5 +13292,45 @@
     ],
     "store_url": "https://store.steampowered.com/app/1451360",
     "store": "steam"
+  },
+  "Phasmaphobia": null,
+  "Bodycam": {
+    "name": "Bodycam",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1791014741",
+    "description": "Bodycam is the first tactical multiplayer FPS with a true body-camera view in Unreal Engine 5. Close-quarters combats feel raw and loud. Every angle, callout, and bullet matters. Play Deathmatch, Team Deathmatch, and Wingman on photoreal maps where teamplay, tactics, and clutch skill are key.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/5689aeb849dc9ed3d9b70ad1b830d0c94c143138/ss_5689aeb849dc9ed3d9b70ad1b830d0c94c143138.600x338.jpg?t=1791014741",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ad5579da682b0f91c23a895b37089a24dda24258/ss_ad5579da682b0f91c23a895b37089a24dda24258.600x338.jpg?t=1791014741",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2/ss_dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2.600x338.jpg?t=1791014741",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/9ea48df963ebc872b59a03f31336705ee8fdc145/ss_9ea48df963ebc872b59a03f31336705ee8fdc145.600x338.jpg?t=1791014741"
+    ],
+    "store_url": "https://store.steampowered.com/app/2406770",
+    "store": "steam"
+  },
+  "DressMaker": {
+    "name": "Dressmaker: Sewing & Fashion",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/36/b4/9536b424-2c18-669f-e0be-2600e311bde1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Become the dressmaker of a cozy little town around 1900. Clients ring the bell with their wishes — a garden party, a winter ball, a cousin's wedding — and you design the perfect dress for each one.\n\nSKETCH EVERY DRESS\nOpen your sketchbook and build each gown piece by piece: a sweetheart, square-neck or corset bodice; puff, cap or bishop sleeves; and a two-tier, A-line or full ball gown skirt. Watch the sketch change as you go.\n\nCHOOSE FABRICS AND TRIMS\nPull rolls from a shelf full of fabrics, from morning sky silk and rosewood velvet to lavender lace and plum brocade. Use one fabric for the whole dress or a different one for each piece, then add the finishing touches — a satin bow, lace trim, pearl buttons, rose appliqué and more.\n\nCUT AND SEW IN YOUR WORKSHOP\nTake the design to your workshop table. Lay the paper patterns on the fabric with their arrows along the grain, cut the pieces out with your shears and stitch the seams on your sewing machine. Careful craft raises the quality of the dress — and helps you earn every star. Your first order comes with the full workshop for free; after that, the workshop — pattern layout, cutting and the sewing machine — is part of Atelier Pro.\n\nPLEASE YOUR CLIENTS\nEvery order comes with wishes — sweet, elegant, formal, full of flowers — and a budget. Match the wishes, sew the dress and see it on the mannequin. Earn stars and coins, and raise your atelier's rank.\n\nBUILD YOUR GALLERY\nEvery finished dress hangs in your atelier gallery. Open any of them and save it as an image to share.\n\nA COZY FASHION DESIGN GAME\nWarm wood, sketchbook paper and soft lamplight. No timers and no rush — just you, your fabrics and a town full of people who need something lovely to wear.\n\nATELIER PRO\nYour first order is free, workshop included. After that, five free orders arrive every day, and a gift waits each day you come back. Atelier Pro unlocks every fabric, trim and style, plus unlimited orders. It is offered as an auto-renewing weekly or yearly subscription. The price is shown in the app before you buy, and payment is charged to your Apple Account. The subscription renews automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel it in your Apple Account settings.\n\nTerms of Use: https://nikolaykutsbr.github.io/dressmaker-support/terms.html\nPrivacy Policy: https://nikolaykutsbr.github.io/dressmaker-support/privacy-policy.html",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/43/3f/74433fa5-4ec4-7bcd-5691-88132af78826/01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/cf/03/e8cf034f-8952-743f-4bf5-c6e4ce964f27/02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/1f/5a/781f5ae7-a7ec-d9f1-bb4a-538bf8ca3c06/03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/32/26/01322671-a538-b7f8-645f-333d91ee98b7/04.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/dressmaker-sewing-fashion/id6819363810?uo=4",
+    "store": "appstore"
+  },
+  "Tom Clancy's Rainbow Six Siege": {
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/555b5051d332c5f6b86f88ba5dfd80404dc91aaa/header_alt_assets_27.jpg?t=1792001976",
+    "description": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/2efed3587d876f560cbf3f25d9a72fbd387b74e6/ss_2efed3587d876f560cbf3f25d9a72fbd387b74e6.600x338.jpg?t=1792001976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ee34a63203916d39dc50d96c14aefc24dc3ff34e/ss_ee34a63203916d39dc50d96c14aefc24dc3ff34e.600x338.jpg?t=1792001976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/00fb4ac1f236cfd2e364ebfecb599a30b72560fe/ss_00fb4ac1f236cfd2e364ebfecb599a30b72560fe.600x338.jpg?t=1792001976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/0fa7bb7203d3839f29861c4b5e2436cd2694291b/ss_0fa7bb7203d3839f29861c4b5e2436cd2694291b.600x338.jpg?t=1792001976"
+    ],
+    "store_url": "https://store.steampowered.com/app/359550",
+    "store": "steam"
   }
 }
