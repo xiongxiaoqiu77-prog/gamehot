@@ -13449,5 +13449,32 @@
     ],
     "store_url": "https://store.steampowered.com/app/4145510",
     "store": "steam"
+  },
+  "Altered Alma": {
+    "name": "Altered Alma",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190700/a978b7459be8a5811057ad81ea129a2597e5f0cd/header.jpg?t=1792518587",
+    "description": "Altered Alma combines the beloved classic Metroidvania formula with RPG elements, dating sim features, a slick pixel-art presentation, and a gripping story. Whether you want to beat up bad guys, find love, or just explore the beautiful cyberpunk cityscape, Neo Barcelona awaits!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190700/04b127bb7978034d3504a833f7c4cb0c97d0b158/ss_04b127bb7978034d3504a833f7c4cb0c97d0b158.600x338.jpg?t=1792518587",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190700/103ea180121a646475c4777b21edf0bf297bd640/ss_103ea180121a646475c4777b21edf0bf297bd640.600x338.jpg?t=1792518587",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190700/3c3937af6a62460ed8946f5cdfe10aba8a9a8fac/ss_3c3937af6a62460ed8946f5cdfe10aba8a9a8fac.600x338.jpg?t=1792518587",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190700/0212a75f426747a6aa18fc47c96ca3d32d6ba28f/ss_0212a75f426747a6aa18fc47c96ca3d32d6ba28f.600x338.jpg?t=1792518587"
+    ],
+    "store_url": "https://store.steampowered.com/app/2190700",
+    "store": "steam"
+  },
+  "Dimension Dive": null,
+  "AK-xolotl": {
+    "name": "AK-xolotl: Together",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1479140/6cd173eae37fc18ace70c39f72d54c8dfd786b6e/header.jpg?t=1781108375",
+    "description": "The cutest, deadliest top-down roguelike shooter featuring AK-wielding Axolotls. Blast your way through the animal kingdom with an arsenal of kick-ass guns, mighty power-ups and even raise an army of trigger-happy baby axolotls. 🔫🔫 Double the firepower! Local co-op update now live!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1479140/ss_2a9f73019d06d292a230926fc435fb2b89501a2e.600x338.jpg?t=1781108375",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1479140/ss_058e5e78a698f4729cd7e27ec21ea9bda4d73f55.600x338.jpg?t=1781108375",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1479140/ss_7510e22fc16e06d25264dc99963a22424e88a889.600x338.jpg?t=1781108375",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1479140/ss_956748984d436c0b9eb7c3ebb66c9931cb22b7bf.600x338.jpg?t=1781108375"
+    ],
+    "store_url": "https://store.steampowered.com/app/1479140",
+    "store": "steam"
   }
 }
