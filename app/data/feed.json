@@ -1,199 +1,84 @@
 {
-  "updated": "2026-10-30",
-  "generated_at": "2026-10-30T07:00:08.346685",
+  "updated": "2026-10-31",
+  "generated_at": "2026-10-31T07:13:44.705645",
   "articles": [
     {
-      "id": "aeb75ccdcb",
-      "title": "Ubisoft 是否已悄然砍掉与 Tencent 合作的 Assassin’s Creed Jade？",
-      "summary": "Ubisoft 最新系列更新博客未提及移动独占作品 Assassin’s Creed Jade，引发项目是否被取消的猜测。该消息属于移动游戏产品与公司合作动态，对休闲游戏从业者参考一般。",
-      "url": "https://mobilegamer.biz/has-ubisoft-quietly-killed-tencent-collab-assassins-creed-jade/",
+      "id": "d438c1b1d7",
+      "title": "新游汇总：Monster Hunter、Saints Row、No Man’s Sky、Digimon、Darkest Dungeon、Cut The Rope 等",
+      "summary": "本周新游汇总覆盖多款IP手游及Easybrain新品，包含Cut The Rope等休闲向产品动态。从业者可快速了解近期手游发布与品类动向。",
+      "url": "https://mobilegamer.biz/new-game-digest-monster-hunter-saints-row-no-mans-sky-digimon-darkest-dungeon-cut-the-rope-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-29T18:45:43",
-      "games": [
-        {
-          "name": "Assassin’s Creed Jade",
-          "desc": "《刺客信条》系列移动端独占作品，设定在古代中国，由育碧与腾讯合作开发。"
-        },
-        {
-          "name": "Black Flag Resynced",
-          "desc": "《刺客信条》系列项目，文中仅作为系列更新中被提及，未披露更多细节。"
-        },
-        {
-          "name": "Valhalla",
-          "desc": "《刺客信条》系列开放世界动作角色扮演游戏，文中作为系列项目被提及。"
-        },
-        {
-          "name": "Invictus",
-          "desc": "代号为 Invictus 的《刺客信条》多人项目。"
-        },
-        {
-          "name": "Hexe",
-          "desc": "带有恐怖风格的《刺客信条》系列项目。"
-        },
-        {
-          "name": "The Division Resurgence",
-          "desc": "《全境封锁》系列移动端游戏，已上线并推出 PC 版，但起步较慢。"
-        },
-        {
-          "name": "Rainbow Six Mobile",
-          "desc": "《彩虹六号》移动端游戏，起步缓慢且已被关闭。"
-        },
-        {
-          "name": "Assassin’s Creed Rebellion",
-          "desc": "《刺客信条》移动优先游戏，停止更新与运营，并计划于 2027 年关闭。"
-        },
-        {
-          "name": "Assassin’s Creed Mirage",
-          "desc": "《刺客信条》系列游戏，其移动端高价移植版在手机上表现不佳。"
-        }
-      ]
-    },
-    {
-      "id": "b93ef32dfd",
-      "title": "Onimusha、Resident Evil、Pragmata和Monster Hunter系列推动Capcom上半财年业绩增长",
-      "summary": "Capcom公布截至2026年9月30日的六个月财报，各业务全面增长，普通利润同比增长67.5%至612亿日元（3.872亿美元）。该文主要提供IP驱动与主机/PC市场参考，与休闲手游关联一般。",
-      "url": "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-29T12:57:05",
-      "games": [
-        {
-          "name": "Onimusha",
-          "desc": "Capcom旗下动作/武士题材系列，本财期因《Onimusha: Way of the Sword》发售而推动销售，系列累计销量达1100万套。"
-        },
-        {
-          "name": "Resident Evil",
-          "desc": "Capcom旗下生存恐怖系列，报告期内《Resident Evil Requiem》等作品持续增长推动收入。"
-        },
-        {
-          "name": "Pragmata",
-          "desc": "Capcom最新系列/新IP，4月发售以来销量超过270万套。"
-        },
-        {
-          "name": "Monster Hunter",
-          "desc": "Capcom旗下狩猎动作系列，前作销量因《Monster Hunter Wilds: Ascendance》发售窗口公布及Switch 2确认而增长。"
-        },
-        {
-          "name": "Resident Evil Requiem",
-          "desc": "《Resident Evil》系列新作，2月发售，销量超过800万套并持续升温。"
-        },
-        {
-          "name": "Resident Evil 4",
-          "desc": "《Resident Evil》系列作品，报告期内销量持续增长。"
-        },
-        {
-          "name": "Resident Evil 2",
-          "desc": "《Resident Evil》系列作品，报告期内销量持续增长。"
-        },
-        {
-          "name": "Onimusha: Way of the Sword",
-          "desc": "《Onimusha》系列新作，9月4日发售，销量超过170万套。"
-        },
-        {
-          "name": "Monster Hunter Wilds",
-          "desc": "《Monster Hunter》系列作品，其扩展内容公布后带动系列前作销量增长。"
-        },
-        {
-          "name": "Monster Hunter Wilds: Ascendance",
-          "desc": "《Monster Hunter Wilds》的扩展内容，公布发售窗口并确认登陆Nintendo Switch 2。"
-        },
-        {
-          "name": "Devil May Cry 5",
-          "desc": "Capcom动作游戏，2019年发售，累计销量达1400万套，受Switch 2推出和Netflix剧集定价策略带动。"
-        },
-        {
-          "name": "Street Fighter",
-          "desc": "Capcom格斗游戏系列，销量达3218万套，高于去年同期的2285万套。"
-        }
-      ]
-    },
-    {
-      "id": "a81d8edeab",
-      "title": "Xbox第一方内容部分抵消Q1收入2%下滑，硬件收入下降14%",
-      "summary": "微软第一季度营收923亿美元超预期，净利润与每股收益增长。游戏业务中第一方内容部分抵消收入下滑，硬件同比下降14%。对休闲手游从业者参考有限。",
-      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-29T10:53:08",
-      "games": [
-        {
-          "name": "Minecraft",
-          "desc": "微软旗下沙盒建造游戏，本季度参与度和收入均创历史新高。"
-        },
-        {
-          "name": "World of Warcraft Forever",
-          "desc": "暴雪MMORPG相关作品，文章称其参与度和收入创下纪录。"
-        },
-        {
-          "name": "Call of Duty",
-          "desc": "动视射击游戏系列，本季度推出十多年来评价最高的一作。"
-        },
-        {
-          "name": "Modern Warfare 4",
-          "desc": "《Call of Duty》系列新作，上周发售并获得十多年来COD最佳评价。"
-        },
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "Rockstar开放世界动作冒险游戏，将于下月登陆Xbox。"
-        }
-      ]
-    },
-    {
-      "id": "582f609fff",
-      "title": "Valve承认AI克隆问题，但无意限制开发者",
-      "summary": "Valve表示已注意到AI克隆相关问题，但目前不打算对开发者施加限制。该文对关注平台政策与AI内容合规的休闲游戏团队有间接参考意义。",
-      "url": "https://gameworldobserver.com/2026/10/29/valve-acknowledges-ai-clones-issue-but-has-no-intend-to-restrict-developers",
-      "source": "Game World Observer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-29T15:04:20",
-      "games": [
-        {
-          "name": "ReVamp",
-          "desc": "Digital Sun Games开发中的游戏，因担心AI克隆抢先出现而决定取消公开试玩。"
-        }
-      ]
-    },
-    {
-      "id": "51d6177646",
-      "title": "外部开发的五条黄金法则",
-      "summary": "Code Wizards总结24年外部开发合作经验，提出五条规则以降低协作压力、提升合作效果。涉及后台工程、LiveOps和IT等，对游戏团队外包管理有一般参考，但未聚焦休闲手游玩法或变现。",
-      "url": "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-29T09:00:00",
-      "games": []
-    },
-    {
-      "id": "c6d7de5dc8",
-      "title": "腾讯TiMi Studio Group与Capcom合作开发《Monster Hunter Outlanders》",
-      "summary": "《Monster Hunter Outlanders》作为Capcom旗下IP的手游版本正式推出，由腾讯TiMi Studio Group参与制作。文章介绍双方合作与学习经验，对关注手游研发协作和IP改编的从业者有一定参考，但与三消/消除品类无直接关系。",
-      "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-10-29T13:30:00",
+      "score": 6,
+      "published_at": "2026-10-30T09:26:27",
       "games": [
         {
           "name": "Monster Hunter Outlanders",
-          "desc": "腾讯TiMi Studio Group与Capcom合作开发的《怪物猎人》移动端动作狩猎游戏，主打在手机上还原“完整”怪物猎人体验，并提供经典与简化冒险两种操作模式。"
+          "desc": "由腾讯天美工作室获 Capcom 授权开发的免费生存狩猎动作手游，2025年10月29日登陆 iOS 和 Android。"
         },
         {
-          "name": "Monster Hunter Now",
-          "desc": "Niantic推出的《怪物猎人》AR手游，玩法路线类似《Pokémon Go》。"
+          "name": "Saints Row: The Third Remastered",
+          "desc": "Feral Interactive 移植的开放世界动作游戏移动版，包含全部 DLC 和在线合作模式。"
         },
         {
-          "name": "Pokémon Go",
-          "desc": "Niantic的AR手游，文中作为《Monster Hunter Now》同类玩法的参照。"
+          "name": "No Man’s Sky",
+          "desc": "Hello Games 推出的太空探索生存游戏，2025年10月28日登陆 iPhone 和 iPad，可免费试玩后一次性解锁完整版。"
         },
         {
-          "name": "Monster Hunter Rise",
-          "desc": "Capcom的《怪物猎人》主机游戏，文中提到其已通过Netflix登陆移动端。"
+          "name": "Digimon Alysion",
+          "desc": "Bandai 推出的免费数字卡牌游戏，改编自实体 Digimon Card Game，并采用 Digimon Liberator 世界观原创故事。"
+        },
+        {
+          "name": "Darkest Dungeon II",
+          "desc": "Red Hook Studios 的哥特式 Roguelike 回合制战斗游戏，由 Playdigious 计划于 2027 年推出移动版。"
+        },
+        {
+          "name": "Cut the Rope Remastered",
+          "desc": "ZeptoLab 的物理益智游戏重制版，以买断制登陆移动端且无广告、内购或订阅。"
+        },
+        {
+          "name": "One Piece: Grand Gourmet",
+          "desc": "Bandai Namco 与 Kairosoft 推出的像素风经营模拟游戏，玩家与草帽一伙经营餐厅船。"
+        },
+        {
+          "name": "Neural Dawn",
+          "desc": "Arm 与 Sumo Digital 的第三人称冒险游戏，展示 Arm 基于 AI 的神经图形技术并登陆特定 Arm GPU 的 Android 设备。"
+        }
+      ]
+    },
+    {
+      "id": "34c131d252",
+      "title": "Roblox股价下跌：营收超指引但增长停滞",
+      "summary": "Roblox虽超过billings指引，但用户指标和收入增长面临高基数压力，净亏损略收窄。可作为平台型游戏公司增长与变现观察。",
+      "url": "https://mobilegamer.biz/roblox-shares-fall-as-it-beats-billings-guidance-but-growth-stalls/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T09:17:46",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，Q3 营收超指引但增长停滞、DAU 同比下降。"
+        },
+        {
+          "name": "Steal A Brainrot",
+          "desc": "2025年推动 Roblox 爆发式增长的 UGC 游戏之一。"
+        },
+        {
+          "name": "Grow A Garden",
+          "desc": "与 Steal A Brainrot 一同推动 Roblox 2025 年增长的 UGC 游戏。"
+        },
+        {
+          "name": "Break",
+          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
+        },
+        {
+          "name": "Steal an Egg",
+          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
+        },
+        {
+          "name": "Huss Valley",
+          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
         }
       ]
     }
