@@ -13544,5 +13544,34 @@
     "store": "appstore"
   },
   "Huss Valley": null,
-  "Break and Steal an Egg": null
+  "Break and Steal an Egg": null,
+  "Mass Effect: Universe": null,
+  "Star Wars: Battlefront（续作）": null,
+  "Phantom Blade Zero": {
+    "name": "Phantom Blade Zero",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
+    "description": "S-GAME presents Phantom Blade Zero, a fusion of classic Wuxia storytelling and exhilarating action powered by Unreal Engine 5. You play as Soul, a warrior with only sixty-six days left to live. Fend off assassins, unravel world-ending conspiracies, and defend your values with your life.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.600x338.jpg?t=1793261976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/53cc6faf8d70d29593495b2eaffc4c08761989ce/ss_53cc6faf8d70d29593495b2eaffc4c08761989ce.600x338.jpg?t=1793261976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b0e2a5cbc38c67ffa2264d4067a6dc26aff2d9c6/ss_b0e2a5cbc38c67ffa2264d4067a6dc26aff2d9c6.600x338.jpg?t=1793261976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/f478e4ba5f5ba2e6c733be3a351c0b3e48af159d/ss_f478e4ba5f5ba2e6c733be3a351c0b3e48af159d.600x338.jpg?t=1793261976"
+    ],
+    "store_url": "https://store.steampowered.com/app/4115450",
+    "store": "steam"
+  },
+  "Goose Goose Duck": {
+    "name": "Goose Goose Duck",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/98/9d/bb989d20-d341-52dc-ac38-0f4ad2fe61a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Goose Goose Duck is a social deduction game where geese complete tasks while ducks sabotage and try to eliminate them. Play as a goose to survive or a duck to wreak havoc, with proximity voice chat, unique roles, custom cosmetics, and diverse environments to explore.\n\nFeatures:\n- Proximity Voice Chat\n- Cross-Platform Play \n- Unique Roles\n- Customizable Cosmetics\n- Diverse Maps & Environments\n- In-Game Tasks & Mini-Games\n- Multiple Game Modes\n- Regular Updates & New Content",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/f3/a1/f5f3a104-809b-edeb-00c2-c941bd0d8731/45fa8710-07ab-4cb8-a5ff-6907fdbc95fc_ggd-img-store-1_gameplay-2208x1242.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/28/32/eb2832af-1438-a56a-0088-3c93519b42be/608240f3-0227-4b86-b97e-53eb767ef79d_ggd-img-store-2_built_in_voice-2208x1242.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/f8/f9/3df8f974-9532-452b-6058-6cbff91fb3b9/83ec6337-704d-4734-b57c-a7d8a3138d45_ggd-img-store-3_tasks-2208x1242.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/d8/07/9bd8075d-6495-a369-cf54-d0ee49059527/418083ad-b92c-4b2e-9c6c-a3b55626b5dd_ggd-img-store-4_roles-2208x1242.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/goose-goose-duck/id1558248707?uo=4",
+    "store": "appstore"
+  },
+  "Baldur’s Gate 3": null
 }
