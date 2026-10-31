@@ -13573,5 +13573,18 @@
     "store_url": "https://apps.apple.com/us/app/goose-goose-duck/id1558248707?uo=4",
     "store": "appstore"
   },
-  "Baldur’s Gate 3": null
+  "Baldur’s Gate 3": null,
+  "Trash Goblin": {
+    "name": "Trash Goblin",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/f7/33/14f733bc-2d76-9b2c-a810-e8621e7a7d6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "[TRY BEFORE YOU BUY!] Trash Goblin is a wholesome and cosy shopkeeping game where you uncover and clean trinkets for sale! Customise them by upcycling and more to meet the eccentric requests of your endless colourful customers. Spend your savings to upgrade your shop, buy new and better tools, and customise your space! There is no pressure, no risk, no right way to play - it is not a simulator, it's just good vibes and nice customers to serve.\n\nDISCOVER PECULIAR TRINKETS\nUnearth knick-knacks of all kinds by chipping away at the dirt and cruft they're embedded inside, wrestling with different types of dirt that yield in different ways.\n\nRESTORE FORGOTTEN CURIOS TO GLORY\nScrub all these strange items up nice and clean with your sponge to get them ready for sale!\n\nUPCYCLE INTO IMAGINATIVE NEW FORMS!\nCustomise these curios by combining Trinkets together, turning them into strange and wonderful new items!\n\nSELL TO A PARADE OF COLOURFUL CUSTOMERS\nA wide range of intriguing, odd and charming customers will frequent your store, some with interesting stories to tell, others after a particular object, some just browsing...\n\nUPGRADE YOUR WORKSHOP\nSpend your savings to expand your tool set, and unlock more space to work in. Buy a display mat to tempt customers with specific wares, or a soak tub to clean up overnight, an honesty box for getting rid of unwanted trinkets, and more!\n\nTREAT YOURSELF\nCustomise your space, decorate your shelves however you like, get some nice plants, change up the wallpaper and bedclothes; make it your own!\n\nMAXIMUM CHILL, ZERO PRESSURE\nThere's a gentle limit to how much you can do in a given day but customers will return, you can potter as much as you like, and there are no fail states.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/e1/36/57e13669-0400-1d33-22cb-c482299ddbda/01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/a8/70/8ba870df-c57c-0ade-634d-26673337283b/02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/3c/02/473c025c-01be-18db-bd7d-600e8bad1909/03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/44/4c/93444c4d-753e-316c-7cc9-00ce1bd1e5ae/04.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/trash-goblin/id6768982299?uo=4",
+    "store": "appstore"
+  }
 }
