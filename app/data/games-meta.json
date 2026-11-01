@@ -13586,5 +13586,30 @@
     ],
     "store_url": "https://apps.apple.com/us/app/trash-goblin/id6768982299?uo=4",
     "store": "appstore"
+  },
+  "Celeste": {
+    "name": "Celeste+",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/1b/88/341b8810-3721-3c60-3ffc-d10de7fafd36/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "Celeste+™ is a home sleep test in a mobile app. Celeste+™ can pair with an FDA-cleared Bluetooth pulse oximeter and Celeste+™ is FDA-cleared to use your smartphone’s microphone. Board-certified sleep doctors use the signals collected while you sleep to diagnose sleep disorders and determine appropriate treatment.\n\nIf you believe that your sleep quality is poor or if you suspect you have a sleep disorder, it may be impacting your overall health. We recommend consulting with your doctor to discuss the possibility of undergoing a sleep study or speaking with a sleep medicine specialist.\n\nThe audio recording features are for use in the United States only, and by prescription only.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/d5/45/4bd54547-0a52-568f-d7db-523ffebc0c57/889d6d41-7038-4c40-b90d-9a6b57933635_ss_celeste_4.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/c8/a2/96c8a284-c829-e2f1-4753-db9962023f98/99d9d5c5-9fd9-4544-aed2-d3993cd7f145_ss_celeste_5.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/60/23/c660237f-b32f-c2b4-7059-fd713970c98a/e89ec57e-b5e0-43ef-9ebe-318a2d08b28c_ss_celeste_6.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/celeste/id6476420994?uo=4",
+    "store": "appstore"
+  },
+  "TowerFall": {
+    "name": "TowerFall Ascension",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/header.jpg?t=1715114308",
+    "description": "TowerFall Ascension is the definitive version of the hit archery combat game. Inspired by classics from the golden age of couch multiplayer, it's a 4-player local party game centering around hilarious, intense versus matches. The core mechanics are simple and accessible, but hard to master and combat is fierce.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/ss_5f5782e7f91f99dbeb7f9a561771378f850ae872.600x338.jpg?t=1715114308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/ss_aa0f804052ab6b93994c5893837445c789bf35ea.600x338.jpg?t=1715114308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/ss_01a805ebff71a1b5fb392f7c09ee0b8f73707ed7.600x338.jpg?t=1715114308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251470/ss_eebc6b6dbf2ceec96946b4e67e3ddd31fd8a50b0.600x338.jpg?t=1715114308"
+    ],
+    "store_url": "https://store.steampowered.com/app/251470",
+    "store": "steam"
   }
 }
