@@ -13612,5 +13612,19 @@
     "store_url": "https://store.steampowered.com/app/251470",
     "store": "steam"
   },
-  "捕鱼大作战官方版": null
+  "捕鱼大作战官方版": null,
+  "Azur Lane": {
+    "name": "Azur Lane",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/73/87/7d738738-3260-25a4-89f5-e8d1ddd36054/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "An ideal Naval Warfare game like you always imagined！  \n・A unique mix of RPG, 2D shooter and tactical genres combined in a beautifully designed anime game \n・Easy and intuitive gameplay, built on the concept of 2D side-scroller, is the main feature of Azur Lane \n・Organize up to six ships into flotilla, break through enemy gunfire and defeat them! \n・Both AI and manually controlled battles are available, choose whatever you like! \n・Build your own fleet. Azur Lane has a wide range of warships from all over the world. \n・More than 300 ships, each with its unique stats and represented by a beautiful character! \n・Live2D interaction technology is available for selected characters  \n\nAzur Lane Official Homepage: \nhttps://azurlane.yo-star.com/\n\nOfficial Discord Server: \nhttps://discord.gg/azurlane\n\nOfficial Twitter Account: \nhttps://twitter.com/AzurLane_EN \n\nOfficial Facebook Page: \nhttps://www.facebook.com/azurlaneofficial/\n\nOfficial Instagram Page:\nhttps://www.instagram.com/azurlane_official/\n\nOfficial YouTube Page\nhttps://www.youtube.com/channel/UCPeJaqP6WgxUVDcpYkXZKMQ",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/35/66/c83566fd-b5ec-310d-8879-45b2db6e286f/111.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/e3/b5/38e3b578-f334-954d-504b-d40dd2b43a5a/222.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/b6/cb/64b6cbcf-f178-2fd8-acc2-b622b99ec980/0x0ss.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/ca/de/72cade37-3a10-b386-c6cb-6a2ffae4a942/444.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/azur-lane/id1411126549?uo=4",
+    "store": "appstore"
+  },
+  "Princess Connect! Re:Dive": null
 }
