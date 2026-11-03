@@ -13829,5 +13829,44 @@
     "store_url": "https://store.steampowered.com/app/2272540",
     "store": "steam"
   },
-  "Max Payne duology remake": null
+  "Max Payne duology remake": null,
+  "Australia Did It: End-of-the-World Railway Defense Business": {
+    "name": "Australia Did It: End-of-the-World Railway Defense Business",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396130/539d31e1e3a5c49971cae9fdeb7fc0a79a4bc5d4/header.jpg?t=1793279807",
+    "description": "Deploy and merge units into 1,500+ variations to defend your train in tight Turn-Based Strategy battles, then see if your build survives Autobattler journeys between stations against massive monster hordes. Build you crew. Defend the train. Deliver the cargo.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396130/addc5dab6b6dbf12a42eafd9cd2c24173b9a1411/ss_addc5dab6b6dbf12a42eafd9cd2c24173b9a1411.600x338.jpg?t=1793279807",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396130/39d40fb1f8cf10d0a243cd29b8481af43f9645e8/ss_39d40fb1f8cf10d0a243cd29b8481af43f9645e8.600x338.jpg?t=1793279807",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396130/7bd2686277d3df9f933c1e9144c212c7a969830d/ss_7bd2686277d3df9f933c1e9144c212c7a969830d.600x338.jpg?t=1793279807",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396130/d2a53f37d9b28f8696fe0da8272f37e7ff10876e/ss_d2a53f37d9b28f8696fe0da8272f37e7ff10876e.600x338.jpg?t=1793279807"
+    ],
+    "store_url": "https://store.steampowered.com/app/2396130",
+    "store": "steam"
+  },
+  "Nuclear Throne": {
+    "name": "Nuclear Throne",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242680/header.jpg?t=1764957456",
+    "description": "Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and mutants and monsters now roam the world' post-apocalyptic. Can you reach the Nuclear Throne?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242680/b1a8c68f52b8460cdbfb8034c7d36d9abaad9af2/ss_b1a8c68f52b8460cdbfb8034c7d36d9abaad9af2.600x338.jpg?t=1764957456",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242680/2772b5b75ed8bc39e8a3e8e9687641217e102f94/ss_2772b5b75ed8bc39e8a3e8e9687641217e102f94.600x338.jpg?t=1764957456",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242680/71a2c94508a5fd95e64298e5daaa59d365084dd2/ss_71a2c94508a5fd95e64298e5daaa59d365084dd2.600x338.jpg?t=1764957456",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242680/97e1a2821a54b09c4d8b438f33f0eb2ae93103a3/ss_97e1a2821a54b09c4d8b438f33f0eb2ae93103a3.600x338.jpg?t=1764957456"
+    ],
+    "store_url": "https://store.steampowered.com/app/242680",
+    "store": "steam"
+  },
+  "Luftrausers": {
+    "name": "LUFTRAUSERS",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233150/header.jpg?t=1769028660",
+    "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233150/ss_dfe76a4a50baf7ba288c682addcb39ebd6bdd2e0.600x338.jpg?t=1769028660",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233150/ss_87cd52175ff68a09fa3a75809e0d1f80fbe125e4.600x338.jpg?t=1769028660",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233150/ss_f2ba1806c2bf8c114321d1c97e077b0cb28fe25b.600x338.jpg?t=1769028660",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233150/ss_dd818d588b55380ad236ae06f5391be4f1cecb62.600x338.jpg?t=1769028660"
+    ],
+    "store_url": "https://store.steampowered.com/app/233150",
+    "store": "steam"
+  }
 }
