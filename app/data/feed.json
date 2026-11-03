@@ -1,86 +1,298 @@
 {
-  "updated": "2026-10-31",
-  "generated_at": "2026-10-31T07:13:44.705645",
+  "updated": "2026-11-04",
+  "generated_at": "2026-11-04T07:00:07.762540",
   "articles": [
     {
-      "id": "d438c1b1d7",
-      "title": "新游汇总：Monster Hunter、Saints Row、No Man’s Sky、Digimon、Darkest Dungeon、Cut The Rope 等",
-      "summary": "本周新游汇总覆盖多款IP手游及Easybrain新品，包含Cut The Rope等休闲向产品动态。从业者可快速了解近期手游发布与品类动向。",
-      "url": "https://mobilegamer.biz/new-game-digest-monster-hunter-saints-row-no-mans-sky-digimon-darkest-dungeon-cut-the-rope-more/",
-      "source": "Mobile Gamer Biz",
+      "id": "8d3b7cfa73",
+      "title": "AppMagic：自 2016 年起非游戏应用的 IAP 收入已反超手游",
+      "summary": "AppMagic 数据显示，手游上一次在应用内购收入上领先还是在 2016 年，此后被 TikTok、AI 聊天机器人等非游戏应用持续超越。为手游开发者判断大盘增速与变现环境提供数据参考。",
+      "url": "https://www.gamesindustry.biz/appmagic-non-gaming-apps-have-beaten-mobile-games-in-iap-revenue-since-2016",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-10-30T09:26:27",
+      "score": 7,
+      "published_at": "2026-11-03T12:24:23",
       "games": [
         {
-          "name": "Monster Hunter Outlanders",
-          "desc": "由腾讯天美工作室获 Capcom 授权开发的免费生存狩猎动作手游，2025年10月29日登陆 iOS 和 Android。"
+          "name": "Honor of Kings",
+          "desc": "TiMi Studio Group 的 MOBA 手游，自 2017 年上线以来长期位居 IAP 收入榜首，2026 年收入超 11 亿美元。"
         },
         {
-          "name": "Saints Row: The Third Remastered",
-          "desc": "Feral Interactive 移植的开放世界动作游戏移动版，包含全部 DLC 和在线合作模式。"
+          "name": "Free Fire",
+          "desc": "Garena 的移动端大逃杀射击游戏，2019 年上线后主导下载榜，累计收入 33 亿美元。"
         },
         {
-          "name": "No Man’s Sky",
-          "desc": "Hello Games 推出的太空探索生存游戏，2025年10月28日登陆 iPhone 和 iPad，可免费试玩后一次性解锁完整版。"
+          "name": "Among Us",
+          "desc": "社交推理多人游戏，下载量达 9.3 亿但收入仅 5200 万美元。"
         },
         {
-          "name": "Digimon Alysion",
-          "desc": "Bandai 推出的免费数字卡牌游戏，改编自实体 Digimon Card Game，并采用 Digimon Liberator 世界观原创故事。"
+          "name": "Umamusume",
+          "desc": "以 1900 万下载创造 16 亿美元收入的游戏。"
         },
         {
-          "name": "Darkest Dungeon II",
-          "desc": "Red Hook Studios 的哥特式 Roguelike 回合制战斗游戏，由 Playdigious 计划于 2027 年推出移动版。"
+          "name": "Gossip Harbor: Merge & Story",
+          "desc": "Micro Fun 的合并与剧情手游，2026 年 1 至 10 月收入同比增长 95%。"
         },
         {
-          "name": "Cut the Rope Remastered",
-          "desc": "ZeptoLab 的物理益智游戏重制版，以买断制登陆移动端且无广告、内购或订阅。"
-        },
-        {
-          "name": "One Piece: Grand Gourmet",
-          "desc": "Bandai Namco 与 Kairosoft 推出的像素风经营模拟游戏，玩家与草帽一伙经营餐厅船。"
-        },
-        {
-          "name": "Neural Dawn",
-          "desc": "Arm 与 Sumo Digital 的第三人称冒险游戏，展示 Arm 基于 AI 的神经图形技术并登陆特定 Arm GPU 的 Android 设备。"
+          "name": "Kingshot",
+          "desc": "Century Games 旗下收入同比增长 126% 的游戏。"
         }
       ]
     },
     {
-      "id": "34c131d252",
-      "title": "Roblox股价下跌：营收超指引但增长停滞",
-      "summary": "Roblox虽超过billings指引，但用户指标和收入增长面临高基数压力，净亏损略收窄。可作为平台型游戏公司增长与变现观察。",
-      "url": "https://mobilegamer.biz/roblox-shares-fall-as-it-beats-billings-guidance-but-growth-stalls/",
+      "id": "d9768fe96a",
+      "title": "苹果称手游逆风令 App Store 表现持平",
+      "summary": "苹果表示手游市场疲软以及法院强制开放商店的裁决影响了 App Store 表现，服务业务虽创下 316 亿美元季度纪录，但增速从 15% 放缓至 10%。对关注 iOS 渠道分成与买量环境的手游团队有直接参考意义。",
+      "url": "https://mobilegamer.biz/apple-says-mobile-gaming-headwinds-held-app-store-performance-flat/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-03T14:58:59",
+      "games": []
+    },
+    {
+      "id": "4b8027f6be",
+      "title": "The Baby in Yellow：一款 48 小时 Game Jam 作品如何做到 4 亿下载",
+      "summary": "独立工作室 Team Terrible 的恐怖游戏 The Baby in Yellow 累计 4 亿次下载（Android 3.2 亿、iOS 8000 万、Steam 10 万），年收入约 200 万英镑。展示了小团队休闲向产品在移动端的爆发路径与长线变现能力。",
+      "url": "https://mobilegamer.biz/the-baby-in-yellow-how-a-48-hour-game-jam-hit-400m-downloads/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-03T13:58:50",
+      "games": [
+        {
+          "name": "The Baby in Yellow",
+          "desc": "Team Terrible 的喜剧恐怖游戏，源自 48 小时 Game Jam，采用免费试玩加 4.99 美元解锁，下载量约 4 亿。"
+        }
+      ]
+    },
+    {
+      "id": "cf05983a49",
+      "title": "应用评测：Disney Solitaire - The Hofstra Chronicle",
+      "summary": "The Hofstra Chronicle 对休闲纸牌手游 Disney Solitaire 的应用评测，主要分享玩法与体验感受。对从业者可了解该竞品的用户反馈和产品定位，但文章并非玩法、数值或变现的深度拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGlCcTgxNXNLS0FFalREaTdmTGJKWjZGVDJ6TE4zbWJrTkdSR2xUWWJLS1FTV1kxeU5nQVlaZFNQYktqTmg4UmNUMUI0Y0hmN3hpU1Qwbl9GSHVQcTZZT2VialJmM3JnVTBLTkhrNEFYMGFrLTlpRURnTktaR3ZuTmF3?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "泛游戏",
+      "score": 6,
+      "published_at": "2026-11-03T19:00:27",
+      "games": [
+        {
+          "name": "Disney Solitaire",
+          "desc": "一款以迪士尼角色和主题为特色的纸牌接龙类休闲游戏。"
+        }
+      ]
+    },
+    {
+      "id": "fee7a5c165",
+      "title": "上线并非终点：Beholder: Conductor 如何在发售 15 个月后追平首发销量",
+      "summary": "复盘 Beholder: Conductor 在没有大型 DLC 计划的情况下，通过持续更新与运营在长尾阶段追平首发销量的做法。对关注产品生命周期管理与内容更新节奏的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-03T13:30:00",
+      "games": [
+        {
+          "name": "Beholder: Conductor",
+          "desc": "Steam 上的衍生作，玩家在列车上监视乘客并上报可疑行为。"
+        },
+        {
+          "name": "Beholder",
+          "desc": "反乌托邦监视题材游戏系列，本作《Beholder: Conductor》为其衍生作品。"
+        }
+      ]
+    },
+    {
+      "id": "65719e9f64",
+      "title": "GameAnalytics 推出 MCP Server：在 Claude、Cursor、Codex 中直接对话游戏数据",
+      "summary": "GameAnalytics 发布托管式 MCP Server，可将游戏数据直接接入 AI 助手，独立订阅价 149 美元/月，也包含在 PipelineIQ Pro 中。对手游团队搭建数据分析与 LiveOps 决策工作流有实际工具价值。",
+      "url": "https://www.gameanalytics.com/blog/gameanalytics-mcp-server",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-03T11:55:56",
+      "games": []
+    },
+    {
+      "id": "4aa617c7d4",
+      "title": "到2035年木质拼图市场：高端化与成人需求驱动增长 - 新闻与统计 - IndexBox",
+      "summary": "IndexBox 的新闻与统计页面关注木质拼图市场至2035年的增长前景，核心驱动为高端化与成人需求。对休闲益智品类从业者可作实体拼图消费趋势的侧面参考，但与三消/消除手游的直接关联较弱。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0FfSEJnbDJuYWhJdjNPcEMtVW5Ma2EybXl5VmxmV1BWVW5HakFpSkw0Uml6UTZUalQ5MEJnNVNncDFoR0FMbE9oRHZkdDE5c09Remd6eHl4andxZFVtQi1uNi0xVGdGWjE3S1I3ZmF6cnhXU085MFgxeExONWg1SUtEWlpSeUdKd2xoZGo2X0lHZEEzNzZhYVZOa3BzSW8zVkd1Skd0d1pMMUhYZzgtTjBn?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T19:51:04",
+      "games": []
+    },
+    {
+      "id": "c298ecdceb",
+      "title": "Control Resonant 半数玩家为该系列新玩家",
+      "summary": "Remedy 的 Control Resonant 在三周内销量突破 100 万份，其中约一半玩家此前未接触过该系列。文章属于动作游戏用户获取与系列扩张的行业资讯，对休闲消除品类从业者参考有限。",
+      "url": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T19:56:03",
+      "games": [
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy 的“新怪谈”动作系列新作，自发行的游戏，发售三周销量超过一百万份。"
+        },
+        {
+          "name": "Control",
+          "desc": "Control Resonant 所属系列的首作，也是该系列的前作动作游戏。"
+        }
+      ]
+    },
+    {
+      "id": "dd752da021",
+      "title": "前 Xbox COO Helen Chiang 反驳外界对其离职的种种描述",
+      "summary": "微软资深高管 Helen Chiang 在突然离职后发表回应，否认了传言中关于其离职原因的大部分说法。该文属于主机与平台公司人事动态，对三消等休闲手游从业者而言参考价值有限，仅可作为大厂组织变动的背景信息。",
+      "url": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T18:31:00",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "微软旗下 Mojang 的沙盒建造生存游戏，Helen Chiang 曾负责该品牌十年。"
+        },
+        {
+          "name": "South of Midnight",
+          "desc": "由 Compulsion 开发、David Sears 执导的南方哥特风格动作冒险游戏，文章以相关报道形式提及。"
+        }
+      ]
+    },
+    {
+      "id": "48fe674ce0",
+      "title": "《South of Midnight》前总监：一直担心 Xbox 内部「罗马在燃烧」",
+      "summary": "《South of Midnight》前总监表示，如果由自己决策，他不会立项资助这款游戏，并认为「罗马燃烧」只是时间问题。文章反映 Xbox 的项目审批与工作室管理困境，与休闲消除品类的玩法与商业化无直接关系。",
+      "url": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T16:32:48",
+      "games": [
+        {
+          "name": "South of Midnight",
+          "desc": "由 Compulsion 开发、David Sears 执导的南方哥特风格动作冒险游戏，曾获 Games for Impact 等多个奖项。"
+        }
+      ]
+    },
+    {
+      "id": "751471c117",
+      "title": "借鉴传统读书会：The Game Club 如何帮成年玩家建立友谊",
+      "summary": "介绍 Guy Blomberg 与 Shay Leighton 于 2025 年创办的 The Game Club，会员每月同玩一款游戏并在小组中交流体验。对手游从业者而言，可作为社区运营与玩家社交留存机制的参考案例。",
+      "url": "https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T14:51:34",
+      "games": [
+        {
+          "name": "The Holy Gosh Darn",
+          "desc": "一款以时间旅行和喜剧为核心的冒险游戏，被选为 The Game Club 2026 年 11 月的月度共玩游戏。"
+        },
+        {
+          "name": "Ctrl Alt Ego",
+          "desc": "一款第一人称沉浸式模拟解谜游戏，曾入选 The Game Club 月度共玩游戏。"
+        },
+        {
+          "name": "Welcome to Elk",
+          "desc": "一款基于真实故事改编的叙事冒险游戏，曾入选 The Game Club 月度共玩游戏。"
+        },
+        {
+          "name": "Just Crow Things",
+          "desc": "一款扮演乌鸦进行沙盒捣蛋与冒险的轻松游戏，曾入选 The Game Club 月度共玩游戏。"
+        },
+        {
+          "name": "Roadwarden",
+          "desc": "一款文字驱动的奇幻角色扮演冒险游戏，曾入选 The Game Club 月度共玩游戏。"
+        },
+        {
+          "name": "Grand Theft Auto",
+          "desc": "一款开放世界犯罪动作游戏系列，文中作为仍能引发大众讨论的大型游戏发布例子被提及。"
+        }
+      ]
+    },
+    {
+      "id": "b31d40ad9e",
+      "title": "Rami Ismail 重返游戏开发后的收获",
+      "summary": "独立游戏倡导者 Rami Ismail 在离开一线开发六年后重新做游戏，分享了他对开发流程、团队协作与心态变化的新认识。对休闲游戏团队而言，可作为小规模研发管理与创作节奏的参考，但与消除品类直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T17:31:00",
+      "games": [
+        {
+          "name": "Australia Did It: End-of-the-World Railway Defense Business",
+          "desc": "一款回合制策略游戏，也是Rami Ismail重返主动游戏开发后即将推出的新作。"
+        },
+        {
+          "name": "Nuclear Throne",
+          "desc": "一款快节奏游戏，文中作为Ismail与Willem Nijman十年前合作的作品之一提及。"
+        },
+        {
+          "name": "Luftrausers",
+          "desc": "一款快节奏游戏，文中与Nuclear Throne并列为Ismail过去参与的快节奏作品。"
+        }
+      ]
+    },
+    {
+      "id": "5ea30632a0",
+      "title": "Remedy 第三季度营收增至 3960 万欧元，Control Resonant 立功",
+      "summary": "Control Resonant 于 9 月 24 日发售后，推动 Remedy 第三季度营收同比增长 226%。属于主机和 PC 领域的公司财报动态，与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T08:39:15",
+      "games": [
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy 于 9 月 24 日推出的动作游戏，成为公司史上销售最快作品，首三周销量超 100 万。"
+        },
+        {
+          "name": "Control",
+          "desc": "2019 年推出的动作游戏，受《Control Resonant》发售带动，销量超过对比期与前两季度。"
+        },
+        {
+          "name": "Alan Wake 2",
+          "desc": "Remedy 的恐怖动作续作，其资本化开发成本已完全折旧。"
+        },
+        {
+          "name": "Max Payne 1 & 2 remake",
+          "desc": "Rockstar 资助的《马克思·佩恩》1、2 代重制项目。"
+        }
+      ]
+    },
+    {
+      "id": "ff626d58a6",
+      "title": "美国法院禁止 Papaya 转移资产，Skillz 追讨 7.3 亿美元判决",
+      "summary": "法院认定 Papaya 在虚假广告案审理前将逾 7000 万美元资金转出美国，并禁止其继续转移资产。属于移动广告与法律纠纷类资讯，与休闲游戏设计关联有限。",
+      "url": "https://mobilegamer.biz/us-court-blocks-papaya-from-moving-money-out-of-the-us-as-skillz-chases-730m-judgment/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-10-30T09:17:46",
+      "published_at": "2026-11-03T10:57:18",
       "games": [
         {
-          "name": "Roblox",
-          "desc": "用户生成内容游戏平台，Q3 营收超指引但增长停滞、DAU 同比下降。"
-        },
-        {
-          "name": "Steal A Brainrot",
-          "desc": "2025年推动 Roblox 爆发式增长的 UGC 游戏之一。"
-        },
-        {
-          "name": "Grow A Garden",
-          "desc": "与 Steal A Brainrot 一同推动 Roblox 2025 年增长的 UGC 游戏。"
-        },
-        {
-          "name": "Break",
-          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
-        },
-        {
-          "name": "Steal an Egg",
-          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
-        },
-        {
-          "name": "Huss Valley",
-          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
+          "name": "Solitaire Cash",
+          "desc": "Papaya 的纸牌游戏，文章将其列为 Skillz 追讨约 7.3 亿美元判决所针对的公司产品。"
         }
       ]
+    },
+    {
+      "id": "c84ab4a511",
+      "title": "对话B站游戏制作人：首月流水近亿，“秘诀”是反差",
+      "summary": "游戏日报对话 B 站游戏制作人，讨论新游首月流水近亿背后的反差设计思路。文章属于游戏行业访谈，可能涉及产品定位与市场表现，但对三消/消除类休闲游戏的玩法、数值和变现拆解有限。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nTklzYi1zd0w5ZG5HYzFucnFJUWc3ZF91SERJQ21QRzRnNXNhQldRSENuX0diamFVMjhOa2lJOFg0LWxGX0dUMGJJZFFpSlRROVR3?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T09:25:49",
+      "games": []
     }
   ]
 }
