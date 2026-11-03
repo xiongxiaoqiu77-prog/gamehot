@@ -13734,5 +13734,18 @@
     ],
     "store_url": "https://store.steampowered.com/app/3050900",
     "store": "steam"
+  },
+  "Seafarer: The Ship Sim": {
+    "name": "Seafarer: The Ship Sim",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/80a642edd83902b68d547aaaa3e74f86264ed8f6/header.jpg?t=1790329127",
+    "description": "Build your maritime career solo or with up to 4 players. Take on contracts across diverse harbors, command different ships, and tackle cargo runs, patrols, rescues, firefighting, and unexpected events in a vast Northern European open world.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/ee225ddb7f30541dee2027fb6cb02018e6e769b8/ss_ee225ddb7f30541dee2027fb6cb02018e6e769b8.600x338.jpg?t=1790329127",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/606b663eea284c6ed56f0afd202e736297287177/ss_606b663eea284c6ed56f0afd202e736297287177.600x338.jpg?t=1790329127",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/b05d3400bfb422d063e07df58e40ab46a30ca2d1/ss_b05d3400bfb422d063e07df58e40ab46a30ca2d1.600x338.jpg?t=1790329127",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/844e4d2ce548070a502b3759e55889ca014bd309/ss_844e4d2ce548070a502b3759e55889ca014bd309.600x338.jpg?t=1790329127"
+    ],
+    "store_url": "https://store.steampowered.com/app/2582140",
+    "store": "steam"
   }
 }
