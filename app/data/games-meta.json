@@ -13644,5 +13644,95 @@
     ],
     "store_url": "https://apps.apple.com/us/app/tears-of-the-kingdom-map/id6448799041?uo=4",
     "store": "appstore"
+  },
+  "Gang of Dragon": {
+    "name": "GANG OF DRAGON",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146000/ea3dd5bef379dc1a5fcd78fe25b6f359bc767efc/header.jpg?t=1768993098",
+    "description": "A new action-adventure game from game creator Toshihiro Nagoshi, set in the streets of Shinjuku, Tokyo. Starring Ma Dong-seok as Shin Ji-seong, the story unfolds with heated and intense human drama across Shinjuku, including Kabukicho — one of Japan’s largest entertainment districts.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146000/177fded10e987c75c725899925dbf31cf32ef588/ss_177fded10e987c75c725899925dbf31cf32ef588.600x338.jpg?t=1768993098",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146000/2682607721a1af999a8562e1e26eceaa9a239516/ss_2682607721a1af999a8562e1e26eceaa9a239516.600x338.jpg?t=1768993098",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146000/e9b000bbb7e2ea44f26b7356c54589f517fc3841/ss_e9b000bbb7e2ea44f26b7356c54589f517fc3841.600x338.jpg?t=1768993098",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146000/04f0241bee3241104831b058ead274c278012f53/ss_04f0241bee3241104831b058ead274c278012f53.600x338.jpg?t=1768993098"
+    ],
+    "store_url": "https://store.steampowered.com/app/4146000",
+    "store": "steam"
+  },
+  "Like a Dragon/Yakuza": null,
+  "Lords of the Fallen II": {
+    "name": "Lords of the Fallen II",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/a34e3c4d4088e71c7d2cdc5445dc950abd2521db/header.jpg?t=1793618251",
+    "description": "Lords of the Fallen II is a dark fantasy action-RPG where brutal, soulslike combat meets a world splitting at its core. Battle against the darkness in an epic adventure across a shattered kingdom. One world. Two realms. No mercy.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/6e300b19df2d25ee2435c848dca5da277ce7ebff/ss_6e300b19df2d25ee2435c848dca5da277ce7ebff.600x338.jpg?t=1793618251",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/138071247c92a87f61720e1af1633b74d65c44ae/ss_138071247c92a87f61720e1af1633b74d65c44ae.600x338.jpg?t=1793618251",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/1df7433ccf5ee36dafdbdeec00cd2cb9d4780457/ss_1df7433ccf5ee36dafdbdeec00cd2cb9d4780457.600x338.jpg?t=1793618251",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/99933823fb7642ccbc6fa1a0ff5fe954dc5e7b70/ss_99933823fb7642ccbc6fa1a0ff5fe954dc5e7b70.600x338.jpg?t=1793618251"
+    ],
+    "store_url": "https://store.steampowered.com/app/4767480",
+    "store": "steam"
+  },
+  "Lords of the Fallen": {
+    "name": "Lords of the Fallen",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/c793d85dc133f22112c7283b79dd89e2c0aa58a4/header.jpg?t=1792592985",
+    "description": "A vast world awaits in the medieval, dark fantasy action-RPG, Lords of the Fallen. As a fabled Dark Crusader, embark on an epic quest to overthrow Adyr, the demon God. The final major update Version 2.5 is out now: features deadlier boss battles and all-new Veteran Mode.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/741bdea1df8f5b7e694cd9cf1a055f61da23aa7a/ss_741bdea1df8f5b7e694cd9cf1a055f61da23aa7a.600x338.jpg?t=1792592985",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/ss_dccd501a0b49d5ab317cf3c3d9073e5968db2af9.600x338.jpg?t=1792592985",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/ecb5a5df054344bf681282edb3ed76499e675605/ss_ecb5a5df054344bf681282edb3ed76499e675605.600x338.jpg?t=1792592985",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/ss_37e77b49edf7cb0ea8582197eb0ea98628c6803a.600x338.jpg?t=1792592985"
+    ],
+    "store_url": "https://store.steampowered.com/app/1501750",
+    "store": "steam"
+  },
+  "Send In The Clown": {
+    "name": "Send In The Clown",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766220/3218143638c4371e964b873db3091d8ab7669aac/header.jpg?t=1792430791",
+    "description": "A bite-sized birthday catastrophe clown comedy role-playing experience – with minigames!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766220/c4453f84c6c2be18174e830508c103e6c199c3bf/ss_c4453f84c6c2be18174e830508c103e6c199c3bf.600x338.jpg?t=1792430791",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766220/42bd9d31729c4eb6307fec18beb6fd170997de8b/ss_42bd9d31729c4eb6307fec18beb6fd170997de8b.600x338.jpg?t=1792430791",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766220/30338e2e5f6339096ec94c7956fb14020a53fdfc/ss_30338e2e5f6339096ec94c7956fb14020a53fdfc.600x338.jpg?t=1792430791",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766220/4fbd36263e4e25824212f9dee46d6e8152fd1629/ss_4fbd36263e4e25824212f9dee46d6e8152fd1629.600x338.jpg?t=1792430791"
+    ],
+    "store_url": "https://store.steampowered.com/app/3766220",
+    "store": "steam"
+  },
+  "Earthbound": {
+    "name": "EARTHBOUND 有聲書AR加值模型",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/de/61/a2de6197-47b9-538e-b640-7323515107ea/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "description": "瘦子E.SO 2022全新創作大碟 - 《EARTHBOUND》\n\n描繪瘦子E.SO設定的想像世界，即不久後的未來，地球人終有足夠的科技力移居火星後，瘦子E.SO回想與凝望地球，向人們陳述內心的感覺\n本程式為《EARTHBOUND》實體有聲書的AR贈禮，您可以藉由手機的AR投影技術，觀賞平面有聲書封面立體化後的影像，甚至在聆聽鑑賞專輯的過程中，透過AR技術來品嘗斟酌每首歌的歌詞，思考其文字背後的韻味\n\n\n請在手機上執行程式後，以手機背面攝影機對準平放桌面的有聲書\n1.封面  2.雙面展開的歌曲撥放頁 ，即可檢視為您特製的兩個有聲書專屬模型 !\n\n(ps. 請盡可能讓有聲書處於明亮的環境中，且沒有被任何陰影遮蓋的情況下進行掃描)",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/60/9e/b8609ed5-734c-fbc9-8d73-096b762b82be/640750e4-9f87-4520-a20b-a1f5c693d612_IMG_2455.PNG/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/cn/app/earthbound-%E6%9C%89%E8%81%B2%E6%9B%B8ar%E5%8A%A0%E5%80%BC%E6%A8%A1%E5%9E%8B/id1604538544?uo=4",
+    "store": "appstore"
+  },
+  "Among Us VR": null,
+  "I Expect You To Die": {
+    "name": "I Expect You To Die",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ff75e38bc199b80152c038b415867586d1e47a65/header.jpg?t=1785422951",
+    "description": "Test your problem-solving skills in this virtual reality escape-the-room puzzle game. Play as a secret agent armed with telekinetic abilities on a mission to stop Zoraxis, an evil corporation with plans for world domination.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_d1181b6d9395cabc3b7a25cbce16391972c40151.600x338.jpg?t=1785422951",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_7718614811a9120789a853bd7bec83973f1a4eeb.600x338.jpg?t=1785422951",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_70a44f89ccec2d337aa2db83aefafd7b826d5123.600x338.jpg?t=1785422951",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587430/ss_61a0f72991ff2378d97a60eb68cc65c879947503.600x338.jpg?t=1785422951"
+    ],
+    "store_url": "https://store.steampowered.com/app/587430",
+    "store": "steam"
+  },
+  "Romeo is a Dead Man": {
+    "name": "ROMEO IS A DEAD MAN",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/26b831926e8b988fbe89c3744978d43d636cdec1/header.jpg?t=1791517606",
+    "description": "Paint the screen red and travel the cosmos in this bloodstained action adventure game! Witness the latest from Grasshopper Manufacture: the advent of ULTRA-VIOLENT SCIENCE FICTION!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/c0bfd70d98d6356057d5f34631e086697114b3a0/ss_c0bfd70d98d6356057d5f34631e086697114b3a0.600x338.jpg?t=1791517606",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/1874c4773dc3385efb289f738ece99f720f884bc/ss_1874c4773dc3385efb289f738ece99f720f884bc.600x338.jpg?t=1791517606",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/7b767c96257de46280cc1be622926ad4b49d766a/ss_7b767c96257de46280cc1be622926ad4b49d766a.600x338.jpg?t=1791517606",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/25a3c952bfc85186031455aa43b1ec63b1776b33/ss_25a3c952bfc85186031455aa43b1ec63b1776b33.600x338.jpg?t=1791517606"
+    ],
+    "store_url": "https://store.steampowered.com/app/3050900",
+    "store": "steam"
   }
 }
