@@ -13630,5 +13630,19 @@
   "Tetris Block Party": null,
   "Tetris Block Blast": null,
   "Tetris World Tour": null,
-  "Tetris Story": null
+  "Tetris Story": null,
+  "Breath of the Wild": null,
+  "Tears of the Kingdom": {
+    "name": "Tears of the Kingdom Map",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/95/55/d595551f-af53-dd15-793b-39d346a23b43/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "Do you need a little help finding all the shrines? Want to explore the entire map, find all the treasures, unlock the most valuable features?\n\nThis app will help you find that impossible-to-find shrine. It is an indispensable pocket companion for your fun times.\n\nFeatures that the app offers:\n- Shrines and Lightroots\n- Korok seeds\n- Towers\n- Minibosses\n- Zonai devices and Dispensers\n- Armors\n- Quests\n- Memories and Geoglyphs\n- Caves and Wells\n- Stables and Towns\n- Chests\n- Food recipes\n\nSome features are only available through an in-app purchase.\n\nTears - The Complete Guide is a third party App. The developer of this software is not affiliated with Nintendo Co. Ltd. in any way. However, the creation and maintenance is permitted until withdrawal from Nintendo.\n\nPrivacy policy: https://www.dropbox.com/s/d3q7ga29zoqunpk/tears.md?dl=0\nTerms of use: https://www.dropbox.com/s/jj14gnknsygotyt/tears.md?dl=0",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/19/d3/c819d3ed-c324-7906-6c8b-223f488b62a2/0253500b-0c41-4d4e-8c1b-1eca57d13c99_screenshot1.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/91/52/df9152fc-c358-2238-17c8-551d778843cd/8bf1b9d8-04e0-47e1-a5c8-57b3e8d81763_screenshot2.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/1a/ff/ea1aff1a-2a5e-8af2-db6f-b965cd52293d/448320c2-f60d-42d6-a111-9eedc39db336_screenshot3.jpeg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/83/01/24830128-dca7-e99f-a825-a589d7e0d758/37dfd7ef-4def-4ea3-b5e4-34106226d888_screenshot4.jpeg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/tears-of-the-kingdom-map/id6448799041?uo=4",
+    "store": "appstore"
+  }
 }
