@@ -14159,5 +14159,71 @@
     "store_url": "https://store.steampowered.com/app/4264890",
     "store": "steam"
   },
-  "Mysteria Ecclesiae: Kingdom Come Deliverance DLC": null
+  "Mysteria Ecclesiae: Kingdom Come Deliverance DLC": null,
+  "Tekken": {
+    "name": "TEKKEN 8",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/c7b0b80639fc8c7d386922f414f293ca849e8e81/header.jpg?t=1787180720",
+    "description": "TEKKEN 8 is the latest addition to the TEKKEN series, the pinnacle of 3D fighting games. Join the fight with over 32 characters and bear witness to the next installment in this epic saga. Get ready for the biggest and best TEKKEN game ever made!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_62e6ec252bc1a641e8e42dba07f23631d5da85e6.600x338.jpg?t=1787180720",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_99dabe34abc0f92adc39d7099908c9540be7eb3f.600x338.jpg?t=1787180720",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_bbd38a5fe748ec966cbc85ffcd4931f0f2da8ffd.600x338.jpg?t=1787180720",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_7c55021d3ba8e4f14c6d9dbea9f19d9b7665d5f0.600x338.jpg?t=1787180720"
+    ],
+    "store_url": "https://store.steampowered.com/app/1778820",
+    "store": "steam"
+  },
+  "Tekken 7": {
+    "name": "TEKKEN 7",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg?t=1765812753",
+    "description": "Discover the epic conclusion of the long-time clan warfare between members of the Mishima family. Powered by Unreal Engine 4, the legendary fighting game franchise fights back with stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_d92a558644ad60ae5814fc4d2bbaebc5abf62fa3.600x338.jpg?t=1765812753",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_40faa5ba39563cb899f1ab2ddd2afbf8b451d52f.600x338.jpg?t=1765812753",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_ed3246605518907954918eb06e90705249be77d6.600x338.jpg?t=1765812753",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_4274653781c2c618f7749cdb569e2b9274fceba9.600x338.jpg?t=1765812753"
+    ],
+    "store_url": "https://store.steampowered.com/app/389730",
+    "store": "steam"
+  },
+  "Dead or Alive": {
+    "name": "Dead or Alive?",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/bd/2f/56bd2f79-31aa-4d25-1f78-9cad678b1fd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Ever found yourself wondering \"wait… are they still alive?\" Dead or Alive? settles it in seconds — but first, take a guess!\n\nDead or Alive still does the one thing it's always done: type a name, find\nout. New in this version, there's a game to go with it.\n\nPick a category — footballers, film stars, pop stars, boxers, cricket\nlegends, 80s icons and a dozen more — then call ten faces dead or alive,\nten seconds each. Answer faster, score higher.\n\nEvery category has its own Game Center leaderboard, so you can see how you\ncompare. Your personal best is saved on your device either way.\n\nAlso in this update:\n• Photos are cropped around the face, so nobody loses their head\n• Each round mixes people from the same era, so ages don't give it away\n• Faces you've just seen won't come round again for a while\n\nFEATURES\n• Take a guess — tap DEAD or ALIVE before the answer is revealed, then see if you nailed it.\n• Instant answer — a bold DEAD or ALIVE verdict at a glance.\n• The details that matter — date of birth or death, and the age they reached.\n• Cause of death in plain English — medical jargon is translated into everyday words.\n• Smart name matching — searched \"George Bush\"? Pick the exact person from a list instead of guessing.\n• Knows a person from a place — it checks the subject is actually a human, so bands, teams, and brands won't get a false \"alive\".\n• Recent searches — jump back to names you've looked up before.\n• Clean, fast, and respectful — no accounts, no clutter.\n\nHOW IT WORKS\nDead or Alive? draws its information from Wikipedia and Wikidata, the same free, community-maintained sources used across the web. There are no accounts and nothing to sign up for.\n\nA NOTE ON ACCURACY\nInformation comes from public databases and is only as current as those sources. For the vast majority of well-known people it's spot on, but very obscure entries may be incomplete.\n\nRemove ads with a one-time purchase any time.\n\nData from Wikipedia, available under CC BY-SA.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/59/f9/eb59f9f5-ac80-df5d-5f10-c097cf959375/06-game-home.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/f2/2c/56f22ced-7033-0a62-96af-e6095320f83a/01-guess.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/75/78/057578a0-651d-8bcd-d845-4cc09332979b/04-choose.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/c6/b2/61c6b299-d5b0-195b-401a-089a2c638838/02-dead.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/dead-or-alive/id6779888307?uo=4",
+    "store": "appstore"
+  },
+  "Fatal Fury": {
+    "name": "FATAL FURY SPECIAL",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/1a/9d/38/1a9d388a-9aac-3af2-b0f1-045735d880ac/pr_source.png/512x512bb.jpg",
+    "description": "Wolves never sleep…\nArcade legendary hit \"FATAL FURY SPECIAL\" returns now on smartphones!\n\nABOUT THE GAME FEATURES \n\n◆ One of the most highly praised “FATAL FURY” titles!\n”FATAL FURY SPECIAL” was a worldwide hit in the arcades and a blast in the fighting game genre at its release thanks to the high quality of its game mechanics and its 16 charismatic fighters!\n\n◆ A refined game system!\n”FATAL FURY SPECIAL” is more than an update to “FATAL FURY 2” with its overall revised game balance and its brand new combo system! Moreover, characters can activate their Desperation Move to change the outcome of the battle! \n\n◆ 16 fighters clash!\nIn addition to the series’ iconic characters “Terry Bogard”, “Andy Bogard”, and “Joe Higashi”, popular SNK characters\nsuch as “Mai Shiranui”, “Geese Howard”, and “Wolfgang Krauser” join the battle. Furthermore, “Ryo Sakazaki”, who\nwas originally hidden in the original game, is now playable from start!\n\n◆A perfect NEOGEO port with added features!\nIn addition to the original 4 button arcade experience, a 6 button layout featuring exclusive “SP” (Simplified Special\nMoves activation / Line Blast) and “LS” (Line Sway) buttons is also available for an even better game experience!\n\n◆Versus Battles are hot!\nChallenge your friends in intense and epic battles via the Bluetooth functionality of your smartphone!\n\n【Supported OS】\niOS7.0 and above.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/8b/e8/b8/8be8b880-09df-084f-9d82-503a2e87fdcf/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/4e/a4/b9/4ea4b917-ce4e-8cc4-9fa3-6c15b70ad45a/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/9d/97/5c/9d975cde-84bf-9527-65f2-c1c846b4e942/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/b5/a3/41/b5a34158-21aa-b0f3-fc87-7e7353e2f834/pr_source.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/fatal-fury-special/id959469304?uo=4",
+    "store": "appstore"
+  },
+  "The King of Fighters": {
+    "name": "THE KING OF FIGHTERS-i 2012(F)",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6f/b9/0c/6fb90c63-896b-22fe-f77d-e267751bbd0f/pr_source.png/512x512bb.jpg",
+    "description": "Famous paid app \"THE KING OF FIGHTERS-i 2012\" returns as a free app in order to celebrate the 20th Anniversary of the Series!!\n\n32 playable characters!! Fight against the strongest players from all over  via Wi-Fi Network!! 6 different game modes available in SINGLE MODE to enjoy the game for hours and hours even alone! Simple Commands allow to easily perform any type of combo!\n\n■VS BATTLES FROM ALL OVER VIA WI-FI\nA\"RANK VERSUS\" Mode, in which your player ranking  changes depending on your number of victories and losses, as well as a  “FRIEND VERSUS” Mode, where your rank is not reflected, are available. \nChallenge the strongest players from all over!\n\n■NEW CHARACTERS, NEW TEAMS\nIn addition to the characters from KOF-i, the 4 new “ART OF FIGHTING”, “PSYCHO SOLDIER”, “KIM”, and “IKARI” teams (12 new characters), join the cast of \"KOF-i”!! You can now create your favorite team from this formidable roster of  32 fighters!\n\n■A SINGLE-PLAYER MODE RICH IN CONTENT\n6 game modes are available for thousands of hours of enjoyment even when playing alone: “SINGLE BATTLE” for 1-on-1 fights, “TEAM BATTLE” for classic KOF 3-on-3 gameplay, “ENDLESS” Mode to defeat as many opponents as possible with one character, \"CHALLENGE\" Mode to clear trials by fulfilling requirements, the newly introduced \"TIME ATTACK\" Mode to compete for the best clear times by  winning 10 matches, and “TRAINING” Mode to get accustomed to the Virtual Pad-based controls and practice your combos.\n\n■SIMPLE COMMANDS\nThe Virtual Pad recreates perfectly reproduces KOF’s smooth controls. Even novice players in fighting games will be able to release various Special Moves, Super Special Moves, NEOMAX Super Special Moves, and other complex moves in one touch. With the Simple Commands, you can easily perform many of the game's fancy combos!!\n*Please refer to \"TUTORIAL\" Mode for an explanation of  these commands.\n\n■ADDITION OF TONS OF NEW TRADING CARDS, ILLUSTRATIONS, AND OTHER EXTRA CONTENT\nPlenty of new Trading Cards (that can be acquired by using points earned during gameplay) along with new Illustrations (which can be viewed at any time by fulfilling certain conditions) have been added to this latest release! Moreover, \"KOF-i 2012\" includes  rough sketches and illustrations that can only be seen here, which fans cannot afford to miss!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/e6/a2/4b/e6a24b4d-2322-1438-7970-60d707cbb0f9/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/cc/54/34/cc5434b6-68f0-8e8e-7768-d469d500f971/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/36/02/43/360243a3-e79b-67c1-a7d2-e8aada4ae19a/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/9f/ad/af/9fadafcc-ef61-fe44-dbe4-068fa615925d/pr_source.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/the-king-of-fighters-i-2012-f/id958070620?uo=4",
+    "store": "appstore"
+  },
+  "Ace Combat 7": null
 }
