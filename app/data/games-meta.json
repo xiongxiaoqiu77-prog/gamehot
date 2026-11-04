@@ -14001,5 +14001,163 @@
     ],
     "store_url": "https://apps.apple.com/us/app/idle-zombie-miner-gold-tycoon/id6471983323?uo=4",
     "store": "appstore"
-  }
+  },
+  "The Boss Gangster: Criminal Empire": {
+    "name": "The Boss Gangster: Criminal Empire",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/633657e57def1d539ef868eb0c8d10fa1102dc33/header_alt_assets_2.jpg?t=1793409277",
+    "description": "Build your criminal empire in a seamless open world. Recruit and command your gang, run illegal businesses, craft and trade goods, conquer territories, and fight rival families. Switch between RTS strategy and third-person action as you rise from a street criminal to the ultimate crime boss.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/97a501b9de9e2a0263d853a9e292dd442bf96d79/ss_97a501b9de9e2a0263d853a9e292dd442bf96d79.600x338.jpg?t=1793409277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/2a9091344b56bbb8c73e85435af7fca196b5efb3/ss_2a9091344b56bbb8c73e85435af7fca196b5efb3.600x338.jpg?t=1793409277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/0cca376353a13f19eb91e6f369e7a7e9e10739d4/ss_0cca376353a13f19eb91e6f369e7a7e9e10739d4.600x338.jpg?t=1793409277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/2c843447c75de5f7045bc4bdfda379f33e1a1ce8/ss_2c843447c75de5f7045bc4bdfda379f33e1a1ce8.600x338.jpg?t=1793409277"
+    ],
+    "store_url": "https://store.steampowered.com/app/2774040",
+    "store": "steam"
+  },
+  "Starforged Legacy": {
+    "name": "Starforged Legacy",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353390/d72ed2683bebc2fb24398d68d0aba740bb4bd407/header.jpg?t=1793331064",
+    "description": "Build your starship and become a fleet-destroying war machine in this sci-fi survivors-like. Discover powerful weapon and augment combinations, battle through enemy swarms, and choose your route through a changing galaxy to destroy the enemy flagship!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353390/02ed2284c182313ae5c2e9211fa0e15bd560e7a2/ss_02ed2284c182313ae5c2e9211fa0e15bd560e7a2.600x338.jpg?t=1793331064",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353390/f74cfcd983fa677be7e16d0676c7c11f4390cf7b/ss_f74cfcd983fa677be7e16d0676c7c11f4390cf7b.600x338.jpg?t=1793331064",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353390/d40078847941695fea80cf0fd558541ccc95076f/ss_d40078847941695fea80cf0fd558541ccc95076f.600x338.jpg?t=1793331064",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353390/a3900ccb2692833a4841858bb871b15b2a708309/ss_a3900ccb2692833a4841858bb871b15b2a708309.600x338.jpg?t=1793331064"
+    ],
+    "store_url": "https://store.steampowered.com/app/3353390",
+    "store": "steam"
+  },
+  "One-Eyed Likho": {
+    "name": "One-Eyed Likho",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2346840/d66f53f63f1b6ae84bafcff68f7d88e68a9c0f3d/header.jpg?t=1793330970",
+    "description": "One-Eyed Likho is a mystical first-person adventure based on a dark Slavic folk tale. Explore a mysterious world and solve puzzles to escape your own evil fate.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2346840/ed04e40b1ff853384fb550645648c2543777bfaf/ss_ed04e40b1ff853384fb550645648c2543777bfaf.600x338.jpg?t=1793330970",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2346840/ac10b33f0d7f1cf3f1bded851d692c1440f0f91f/ss_ac10b33f0d7f1cf3f1bded851d692c1440f0f91f.600x338.jpg?t=1793330970",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2346840/cf2b40754b06290dde65334401d7350a7c9dddd0/ss_cf2b40754b06290dde65334401d7350a7c9dddd0.600x338.jpg?t=1793330970",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2346840/d1f9bd6b16539f81dca336449dd69106ef0996b5/ss_d1f9bd6b16539f81dca336449dd69106ef0996b5.600x338.jpg?t=1793330970"
+    ],
+    "store_url": "https://store.steampowered.com/app/2346840",
+    "store": "steam"
+  },
+  "Eslabong": {
+    "name": "Eslabong",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/2f57705341159c9893b7626b1b9c55fa0562d4ed/header.jpg?t=1793791580",
+    "description": "Arena combat meets mercenary club management. Recruit from a dynamic market, build your squad, and compete season after season in leagues and cups.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/50bd5583a17c1ebbcfa35149000a425da2caa303/ss_50bd5583a17c1ebbcfa35149000a425da2caa303.600x338.jpg?t=1793791580",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/083dc22a4ac65db2cc1a2174015287072b5f3022/ss_083dc22a4ac65db2cc1a2174015287072b5f3022.600x338.jpg?t=1793791580",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/1eec47f969fe5a7956340fbc647d102e855979b1/ss_1eec47f969fe5a7956340fbc647d102e855979b1.600x338.jpg?t=1793791580",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/ae5f131dab9552c08be9132b55eeb8a25d41c855/ss_ae5f131dab9552c08be9132b55eeb8a25d41c855.600x338.jpg?t=1793791580"
+    ],
+    "store_url": "https://store.steampowered.com/app/4560660",
+    "store": "steam"
+  },
+  "Mars Attracts": {
+    "name": "Mars Attracts",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2760580/ef96b30b82165d3eb0ffa9a211925ceb0c8e66f8/header_alt_assets_5.jpg?t=1793810507",
+    "description": "Mars Attracts is a park management sim set in the iconic universe of Mars Attacks™. Play as the devious Martians as you construct detailed enclosures, manage staff, and most importantly - abduct and experiment on humans for the entertainment of your Martian guests!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2760580/311e45d8504ea7ab2b99aa6d53fec3cffd95cc31/ss_311e45d8504ea7ab2b99aa6d53fec3cffd95cc31.600x338.jpg?t=1793810507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2760580/7524325ae0c395d8701f381bb25cb54b8ddbfe60/ss_7524325ae0c395d8701f381bb25cb54b8ddbfe60.600x338.jpg?t=1793810507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2760580/88a8f58871fedcd91e9279b8550a62790e9778c4/ss_88a8f58871fedcd91e9279b8550a62790e9778c4.600x338.jpg?t=1793810507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2760580/caa1200dd3bbba16e5ad76b86831cadc25ff4ed2/ss_caa1200dd3bbba16e5ad76b86831cadc25ff4ed2.600x338.jpg?t=1793810507"
+    ],
+    "store_url": "https://store.steampowered.com/app/2760580",
+    "store": "steam"
+  },
+  "Killing Floor": {
+    "name": "Killing Floor 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/header.jpg?t=1774538987",
+    "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by rogue elements of the Horzine Corporation. 6-player Co-Op &amp; 12-player VS Zed-slaughtering mayhem.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/ss_12163b780191f084acf7cdf54e2e98e4129e297a.600x338.jpg?t=1774538987",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/ss_01ab15f45fb088b7e6f5d21128517a5711f7362a.600x338.jpg?t=1774538987",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/ss_e2a49c649cde0f214b1cbeab7005b6f43d1c4ab7.600x338.jpg?t=1774538987",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/ss_f3954b72086dc015f727288c4a5ba1b78611e009.600x338.jpg?t=1774538987"
+    ],
+    "store_url": "https://store.steampowered.com/app/232090",
+    "store": "steam"
+  },
+  "Maneater 2": {
+    "name": "Maneater 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603000/a12fa0b5a47aed63dfb306173b59a5f4e4ab8d38/header.jpg?t=1789673682",
+    "description": "The splash-hit ShaRkPG returns in Maneater 2! Eat, explore, and evolve as you try to escape an invite-only preview event for Neptune’s Kingdom—an ultra-luxury seaside theme park destined for disaster, where YOU are that disaster.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603000/c087d83b7bd9d71e0bffe1a20f1ef353b4749268/ss_c087d83b7bd9d71e0bffe1a20f1ef353b4749268.600x338.jpg?t=1789673682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603000/97ab1a499b1478644d56c36516869f93674810d6/ss_97ab1a499b1478644d56c36516869f93674810d6.600x338.jpg?t=1789673682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603000/ad0e62d2be89bb1a71c30c7a7d468c591a8431f9/ss_ad0e62d2be89bb1a71c30c7a7d468c591a8431f9.600x338.jpg?t=1789673682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603000/692806a92ea5fc13dc65791853bff34cce92553e/ss_692806a92ea5fc13dc65791853bff34cce92553e.600x338.jpg?t=1789673682"
+    ],
+    "store_url": "https://store.steampowered.com/app/3603000",
+    "store": "steam"
+  },
+  "Dark Messiah of Might & Magic": {
+    "name": "Dark Messiah of Might & Magic: Community Edition",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016100/613cd5178bebb7d59b7efd851d1cf93304c93b1c/header.jpg?t=1793264128",
+    "description": "Revisit the genre-defying Action-RPG set in the Might &amp; Magic® Universe with an updated Source™ engine, brand new game modes, and an expandable framework built by the community, for the community. Will you choose to become an apostle of the Dark Messiah?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016100/dbe431193861a2e3380de9ec4cba5f9311f7ecf4/ss_dbe431193861a2e3380de9ec4cba5f9311f7ecf4.600x338.jpg?t=1793264128",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016100/3cc5961e9f304e6060587f8c945d69c1d1eabf36/ss_3cc5961e9f304e6060587f8c945d69c1d1eabf36.600x338.jpg?t=1793264128",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016100/a7ee1da5798b26389ac92dbf035d9b74b9e5933f/ss_a7ee1da5798b26389ac92dbf035d9b74b9e5933f.600x338.jpg?t=1793264128",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016100/065ca3f75fbf2141ed4b0ddd89cbd67e8bf5c1d7/ss_065ca3f75fbf2141ed4b0ddd89cbd67e8bf5c1d7.600x338.jpg?t=1793264128"
+    ],
+    "store_url": "https://store.steampowered.com/app/5016100",
+    "store": "steam"
+  },
+  "Wheel Make It": {
+    "name": "Wheel Make It",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213320/f91565e24e6c39b9d76ee4cbeb4f5d5661820c0c/header.jpg?t=1793565624",
+    "description": "One wheelchair. Two players. Infinite chaos. Solo or co-op physics-based game about teamwork, clumsiness, and the unstoppable power of friendship.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213320/d34f0e73ac5c2276c3a616282895194bc63d7df0/ss_d34f0e73ac5c2276c3a616282895194bc63d7df0.600x338.jpg?t=1793565624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213320/7641259d185fc0121aa2fbe972abdb14313fa876/ss_7641259d185fc0121aa2fbe972abdb14313fa876.600x338.jpg?t=1793565624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213320/c09d84433c6b0ace2f63ad98d856bee5fb55191b/ss_c09d84433c6b0ace2f63ad98d856bee5fb55191b.600x338.jpg?t=1793565624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213320/fc7e3eaaa6b8f9bcf1f4f0a4f1b6faf848df220a/ss_fc7e3eaaa6b8f9bcf1f4f0a4f1b6faf848df220a.600x338.jpg?t=1793565624"
+    ],
+    "store_url": "https://store.steampowered.com/app/4213320",
+    "store": "steam"
+  },
+  "The Pirate Queen: No Safe Waters": null,
+  "Rogue Eclipse": {
+    "name": "Rogue Eclipse",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782260/f800a6801a41b78a68ff9a5d36bd6599f6523d4e/header.jpg?t=1786884923",
+    "description": "Spaceflight action for the new age! Push your piloting skills to the ultimate test, blast and burn your way through swarms of starfighters, merciless armadas and colossal behemoths in an epic roguelike campaign that spans the cosmos. Easy to learn, tricky to master, and impossible to put down.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782260/cca5807614a347f786acb904c915def147cbb66f/ss_cca5807614a347f786acb904c915def147cbb66f.600x338.jpg?t=1786884923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782260/54cc135a2c3238a037d405008c4ff4f536f4d9f1/ss_54cc135a2c3238a037d405008c4ff4f536f4d9f1.600x338.jpg?t=1786884923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782260/219027c57523fc5c0c586cf81f85b75bc45016cb/ss_219027c57523fc5c0c586cf81f85b75bc45016cb.600x338.jpg?t=1786884923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782260/6cb097b2ec46aaa83d1770c421b268935f50752d/ss_6cb097b2ec46aaa83d1770c421b268935f50752d.600x338.jpg?t=1786884923"
+    ],
+    "store_url": "https://store.steampowered.com/app/782260",
+    "store": "steam"
+  },
+  "Pieced Together": {
+    "name": "Pieced Together",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891370/17466102f683db153226c74901aa8de2fb33d97a/header.jpg?t=1782407166",
+    "description": "Pieced Together is a cozy scrapbooking game that takes you on a heartfelt journey about friendship and getting older. Sort items, solve gentle puzzles, and decorate the scrapbook as you uncover the story piece by piece.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891370/e6b1d69315f3b58b3694ba2c250ee00e6f54bb93/ss_e6b1d69315f3b58b3694ba2c250ee00e6f54bb93.600x338.jpg?t=1782407166",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891370/bffb5cf2bc6cd382ea620d4533a5630c5f5efbe4/ss_bffb5cf2bc6cd382ea620d4533a5630c5f5efbe4.600x338.jpg?t=1782407166",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891370/7617e65674a1ac4d9cfc45a870e5c81a9a705b40/ss_7617e65674a1ac4d9cfc45a870e5c81a9a705b40.600x338.jpg?t=1782407166",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891370/e525ee4d6ebd89caf56290837a1b491d40f835ca/ss_e525ee4d6ebd89caf56290837a1b491d40f835ca.600x338.jpg?t=1782407166"
+    ],
+    "store_url": "https://store.steampowered.com/app/2891370",
+    "store": "steam"
+  },
+  "Cursed Words": {
+    "name": "Cursed Words Demo",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264890/4d2116d1e131266b682444c8bb6966c96794788b/header.jpg?t=1775485604",
+    "description": "From letters to lunacy, Cursed Words is a roguelike chasing ever-stronger synergies. Start with simple words like BUY or THIS or GAME, then use game-altering combos to break the rules. Before long you’ll be ¼♖♙K5XNG the ⅗H♗4 out of these 83VK??7?!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264890/dcc4e012e033c6b95c4c284afc884c994d4d7aec/ss_dcc4e012e033c6b95c4c284afc884c994d4d7aec.600x338.jpg?t=1775485604",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264890/ac55d6fa73c07421adb3155be9f1e55ca3fee7c8/ss_ac55d6fa73c07421adb3155be9f1e55ca3fee7c8.600x338.jpg?t=1775485604",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264890/427f2f912a76ccee73e100c41387c5afadcbaf00/ss_427f2f912a76ccee73e100c41387c5afadcbaf00.600x338.jpg?t=1775485604",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264890/bfa62ff0ce457075cd6ff53024fdb826ad6e8f7a/ss_bfa62ff0ce457075cd6ff53024fdb826ad6e8f7a.600x338.jpg?t=1775485604"
+    ],
+    "store_url": "https://store.steampowered.com/app/4264890",
+    "store": "steam"
+  },
+  "Mysteria Ecclesiae: Kingdom Come Deliverance DLC": null
 }
