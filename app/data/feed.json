@@ -1,297 +1,275 @@
 {
-  "updated": "2026-11-04",
-  "generated_at": "2026-11-04T07:00:07.762540",
+  "updated": "2026-11-05",
+  "generated_at": "2026-11-05T07:00:21.488016",
   "articles": [
     {
-      "id": "8d3b7cfa73",
-      "title": "AppMagic：自 2016 年起非游戏应用的 IAP 收入已反超手游",
-      "summary": "AppMagic 数据显示，手游上一次在应用内购收入上领先还是在 2016 年，此后被 TikTok、AI 聊天机器人等非游戏应用持续超越。为手游开发者判断大盘增速与变现环境提供数据参考。",
-      "url": "https://www.gamesindustry.biz/appmagic-non-gaming-apps-have-beaten-mobile-games-in-iap-revenue-since-2016",
-      "source": "GamesIndustry.biz",
+      "id": "e75e335310",
+      "title": "数据周报：Q3 收入榜头部产品、2026 年最大新游发布、Apple 与 Google 被罚款等",
+      "summary": "汇总 AppMagic 的十年手游数据、Q3 收入榜、2026 年最大规模新游发布，以及 Capcom、Xbox 财报和 Aniimo、Tiles Survive、9 Kings 的里程碑。适合快速把握海外手游市场格局与头部产品表现。",
+      "url": "https://mobilegamer.biz/data-digest-q3s-top-earners-2026s-biggest-new-launches-apple-and-google-fined-47-6m-more/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-11-03T12:24:23",
+      "score": 6,
+      "published_at": "2026-11-04T15:02:12",
       "games": [
         {
           "name": "Honor of Kings",
-          "desc": "TiMi Studio Group 的 MOBA 手游，自 2017 年上线以来长期位居 IAP 收入榜首，2026 年收入超 11 亿美元。"
+          "desc": "腾讯的MOBA手游，Q3以5.56亿美元内购收入位居榜首。"
         },
         {
-          "name": "Free Fire",
-          "desc": "Garena 的移动端大逃杀射击游戏，2019 年上线后主导下载榜，累计收入 33 亿美元。"
+          "name": "Gossip Harbor",
+          "desc": "Microfun的合并/剧情手游，Q3升至收入榜第二。"
         },
         {
-          "name": "Among Us",
-          "desc": "社交推理多人游戏，下载量达 9.3 亿但收入仅 5200 万美元。"
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存策略手游，Q3收入3.92亿美元。"
         },
         {
-          "name": "Umamusume",
-          "desc": "以 1900 万下载创造 16 亿美元收入的游戏。"
+          "name": "Royal Match",
+          "desc": "三消益智手游，Q3收入3.86亿美元。"
         },
         {
-          "name": "Gossip Harbor: Merge & Story",
-          "desc": "Micro Fun 的合并与剧情手游，2026 年 1 至 10 月收入同比增长 95%。"
+          "name": "Pokémon Go",
+          "desc": "AR定位捕捉宝可梦手游，十周年活动推动收入翻倍并升至第九。"
         },
         {
-          "name": "Kingshot",
-          "desc": "Century Games 旗下收入同比增长 126% 的游戏。"
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，Q3收入增长56%并进入前十。"
+        },
+        {
+          "name": "Last Asylum: Plague",
+          "desc": "4X策略手游，在2026年新游中累计内购收入领先。"
+        },
+        {
+          "name": "Arknights: Endfield",
+          "desc": "《明日方舟》IP新游，两天内达到100万美元内购收入。"
+        },
+        {
+          "name": "Hololive Dreams",
+          "desc": "hololive主题新游，两天内达到100万美元内购收入。"
+        },
+        {
+          "name": "Hollywood Merge",
+          "desc": "合并类（merge-2）手游，用40天达到100万美元内购收入。"
+        },
+        {
+          "name": "逆战：未来",
+          "desc": "中国射击手游，是10款新游中最快达到100万美元内购收入的。"
         }
       ]
     },
     {
-      "id": "d9768fe96a",
-      "title": "苹果称手游逆风令 App Store 表现持平",
-      "summary": "苹果表示手游市场疲软以及法院强制开放商店的裁决影响了 App Store 表现，服务业务虽创下 316 亿美元季度纪录，但增速从 15% 放缓至 10%。对关注 iOS 渠道分成与买量环境的手游团队有直接参考意义。",
-      "url": "https://mobilegamer.biz/apple-says-mobile-gaming-headwinds-held-app-store-performance-flat/",
+      "id": "f9288b1e68",
+      "title": "ASA 下架 King、Scopely、《Dark War Survival》发行商等误导性手游广告",
+      "summary": "英国广告标准局判定多款手游广告误导用户，即便标注“非实际玩法”也不足以免责，涉及 Farm Heroes Saga、Pixel Flow、Dark War Survival、Last Z 等。对三消等品类的买量创意合规与素材审查有直接警示价值。",
+      "url": "https://mobilegamer.biz/asa-bans-misleading-mobile-game-ads-from-king-scopely-dark-war-survival-publisher-and-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-11-03T14:58:59",
-      "games": []
-    },
-    {
-      "id": "4b8027f6be",
-      "title": "The Baby in Yellow：一款 48 小时 Game Jam 作品如何做到 4 亿下载",
-      "summary": "独立工作室 Team Terrible 的恐怖游戏 The Baby in Yellow 累计 4 亿次下载（Android 3.2 亿、iOS 8000 万、Steam 10 万），年收入约 200 万英镑。展示了小团队休闲向产品在移动端的爆发路径与长线变现能力。",
-      "url": "https://mobilegamer.biz/the-baby-in-yellow-how-a-48-hour-game-jam-hit-400m-downloads/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-11-03T13:58:50",
-      "games": [
-        {
-          "name": "The Baby in Yellow",
-          "desc": "Team Terrible 的喜剧恐怖游戏，源自 48 小时 Game Jam，采用免费试玩加 4.99 美元解锁，下载量约 4 亿。"
-        }
-      ]
-    },
-    {
-      "id": "cf05983a49",
-      "title": "应用评测：Disney Solitaire - The Hofstra Chronicle",
-      "summary": "The Hofstra Chronicle 对休闲纸牌手游 Disney Solitaire 的应用评测，主要分享玩法与体验感受。对从业者可了解该竞品的用户反馈和产品定位，但文章并非玩法、数值或变现的深度拆解。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGlCcTgxNXNLS0FFalREaTdmTGJKWjZGVDJ6TE4zbWJrTkdSR2xUWWJLS1FTV1kxeU5nQVlaZFNQYktqTmg4UmNUMUI0Y0hmN3hpU1Qwbl9GSHVQcTZZT2VialJmM3JnVTBLTkhrNEFYMGFrLTlpRURnTktaR3ZuTmF3?oc=5",
-      "source": "重点游戏-Disney Solitaire",
-      "category": "泛游戏",
       "score": 6,
-      "published_at": "2026-11-03T19:00:27",
+      "published_at": "2026-11-04T09:49:18",
       "games": [
         {
-          "name": "Disney Solitaire",
-          "desc": "一款以迪士尼角色和主题为特色的纸牌接龙类休闲游戏。"
-        }
-      ]
-    },
-    {
-      "id": "fee7a5c165",
-      "title": "上线并非终点：Beholder: Conductor 如何在发售 15 个月后追平首发销量",
-      "summary": "复盘 Beholder: Conductor 在没有大型 DLC 计划的情况下，通过持续更新与运营在长尾阶段追平首发销量的做法。对关注产品生命周期管理与内容更新节奏的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-03T13:30:00",
-      "games": [
-        {
-          "name": "Beholder: Conductor",
-          "desc": "Steam 上的衍生作，玩家在列车上监视乘客并上报可疑行为。"
+          "name": "Dark War Survival",
+          "desc": "僵尸生存策略手游，因广告以非交互剧情画面冒充实机玩法被ASA禁播。"
         },
         {
-          "name": "Beholder",
-          "desc": "反乌托邦监视题材游戏系列，本作《Beholder: Conductor》为其衍生作品。"
-        }
-      ]
-    },
-    {
-      "id": "65719e9f64",
-      "title": "GameAnalytics 推出 MCP Server：在 Claude、Cursor、Codex 中直接对话游戏数据",
-      "summary": "GameAnalytics 发布托管式 MCP Server，可将游戏数据直接接入 AI 助手，独立订阅价 149 美元/月，也包含在 PipelineIQ Pro 中。对手游团队搭建数据分析与 LiveOps 决策工作流有实际工具价值。",
-      "url": "https://www.gameanalytics.com/blog/gameanalytics-mcp-server",
-      "source": "GameAnalytics",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-03T11:55:56",
-      "games": []
-    },
-    {
-      "id": "4aa617c7d4",
-      "title": "到2035年木质拼图市场：高端化与成人需求驱动增长 - 新闻与统计 - IndexBox",
-      "summary": "IndexBox 的新闻与统计页面关注木质拼图市场至2035年的增长前景，核心驱动为高端化与成人需求。对休闲益智品类从业者可作实体拼图消费趋势的侧面参考，但与三消/消除手游的直接关联较弱。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0FfSEJnbDJuYWhJdjNPcEMtVW5Ma2EybXl5VmxmV1BWVW5HakFpSkw0Uml6UTZUalQ5MEJnNVNncDFoR0FMbE9oRHZkdDE5c09Remd6eHl4andxZFVtQi1uNi0xVGdGWjE3S1I3ZmF6cnhXU085MFgxeExONWg1SUtEWlpSeUdKd2xoZGo2X0lHZEEzNzZhYVZOa3BzSW8zVkd1Skd0d1pMMUhYZzgtTjBn?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-03T19:51:04",
-      "games": []
-    },
-    {
-      "id": "c298ecdceb",
-      "title": "Control Resonant 半数玩家为该系列新玩家",
-      "summary": "Remedy 的 Control Resonant 在三周内销量突破 100 万份，其中约一半玩家此前未接触过该系列。文章属于动作游戏用户获取与系列扩张的行业资讯，对休闲消除品类从业者参考有限。",
-      "url": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-03T19:56:03",
-      "games": [
-        {
-          "name": "Control Resonant",
-          "desc": "Remedy 的“新怪谈”动作系列新作，自发行的游戏，发售三周销量超过一百万份。"
+          "name": "Last Z: Survival Shooter",
+          "desc": "Omnilojo发行的僵尸生存策略手游，与Dark War Survival同属被查广告的发行商产品。"
         },
         {
-          "name": "Control",
-          "desc": "Control Resonant 所属系列的首作，也是该系列的前作动作游戏。"
-        }
-      ]
-    },
-    {
-      "id": "dd752da021",
-      "title": "前 Xbox COO Helen Chiang 反驳外界对其离职的种种描述",
-      "summary": "微软资深高管 Helen Chiang 在突然离职后发表回应，否认了传言中关于其离职原因的大部分说法。该文属于主机与平台公司人事动态，对三消等休闲手游从业者而言参考价值有限，仅可作为大厂组织变动的背景信息。",
-      "url": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-03T18:31:00",
-      "games": [
-        {
-          "name": "Minecraft",
-          "desc": "微软旗下 Mojang 的沙盒建造生存游戏，Helen Chiang 曾负责该品牌十年。"
+          "name": "Farm Heroes Saga",
+          "desc": "King的三消手游，其一则Facebook广告因加入游戏内不存在的机关画面被禁。"
         },
         {
-          "name": "South of Midnight",
-          "desc": "由 Compulsion 开发、David Sears 执导的南方哥特风格动作冒险游戏，文章以相关报道形式提及。"
-        }
-      ]
-    },
-    {
-      "id": "48fe674ce0",
-      "title": "《South of Midnight》前总监：一直担心 Xbox 内部「罗马在燃烧」",
-      "summary": "《South of Midnight》前总监表示，如果由自己决策，他不会立项资助这款游戏，并认为「罗马燃烧」只是时间问题。文章反映 Xbox 的项目审批与工作室管理困境，与休闲消除品类的玩法与商业化无直接关系。",
-      "url": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-03T16:32:48",
-      "games": [
+          "name": "Pixel Flow",
+          "desc": "Scopely/Loom Games的管道旋转解谜手游，广告展示游戏内不存在的操作被禁。"
+        },
         {
-          "name": "South of Midnight",
-          "desc": "由 Compulsion 开发、David Sears 执导的南方哥特风格动作冒险游戏，曾获 Games for Impact 等多个奖项。"
+          "name": "Idle Zombie Miner: Gold Tycoon",
+          "desc": "Vistrex的放置挖矿/经营手游，广告和商店页因展示非核心玩法被禁。"
         }
       ]
     },
     {
-      "id": "751471c117",
-      "title": "借鉴传统读书会：The Game Club 如何帮成年玩家建立友谊",
-      "summary": "介绍 Guy Blomberg 与 Shay Leighton 于 2025 年创办的 The Game Club，会员每月同玩一款游戏并在小组中交流体验。对手游从业者而言，可作为社区运营与玩家社交留存机制的参考案例。",
-      "url": "https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults",
+      "id": "53f5b00a45",
+      "title": "“我意识到可能只来得及再做一款游戏，所以想尝试新东西”——《Tekken》总监原田胜弘谈创办 VS Studio",
+      "summary": "原田胜弘回顾离开 Bandai Namco 三十余年生涯后，在 SNK 出资下创立 VS Studio 的经过与创作动机。属于知名制作人动态与主机格斗品类访谈，对休闲消除类产品的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-03T14:51:34",
+      "published_at": "2026-11-04T13:30:00",
       "games": [
         {
-          "name": "The Holy Gosh Darn",
-          "desc": "一款以时间旅行和喜剧为核心的冒险游戏，被选为 The Game Club 2026 年 11 月的月度共玩游戏。"
+          "name": "Tekken",
+          "desc": "《铁拳》是万代南梦宫旗下的3D格斗游戏系列，原田胜弘长期担任总监和核心推动者。"
         },
         {
-          "name": "Ctrl Alt Ego",
-          "desc": "一款第一人称沉浸式模拟解谜游戏，曾入选 The Game Club 月度共玩游戏。"
+          "name": "Tekken 7",
+          "desc": "《铁拳7》是3D格斗游戏，2015年登陆街机，由原田胜弘执导。"
         },
         {
-          "name": "Welcome to Elk",
-          "desc": "一款基于真实故事改编的叙事冒险游戏，曾入选 The Game Club 月度共玩游戏。"
+          "name": "Dead or Alive",
+          "desc": "《死或生》是格斗游戏系列，由板垣伴信创作。"
         },
         {
-          "name": "Just Crow Things",
-          "desc": "一款扮演乌鸦进行沙盒捣蛋与冒险的轻松游戏，曾入选 The Game Club 月度共玩游戏。"
+          "name": "Fatal Fury",
+          "desc": "《饿狼传说》是SNK旗下的格斗游戏系列。"
         },
         {
-          "name": "Roadwarden",
-          "desc": "一款文字驱动的奇幻角色扮演冒险游戏，曾入选 The Game Club 月度共玩游戏。"
+          "name": "The King of Fighters",
+          "desc": "《拳皇》是SNK旗下的格斗游戏系列。"
         },
         {
-          "name": "Grand Theft Auto",
-          "desc": "一款开放世界犯罪动作游戏系列，文中作为仍能引发大众讨论的大型游戏发布例子被提及。"
+          "name": "Ace Combat 7",
+          "desc": "《皇牌空战7》是空战射击游戏，文中提到原田胜弘在万代南梦宫后期参与其营销。"
         }
       ]
     },
     {
-      "id": "b31d40ad9e",
-      "title": "Rami Ismail 重返游戏开发后的收获",
-      "summary": "独立游戏倡导者 Rami Ismail 在离开一线开发六年后重新做游戏，分享了他对开发流程、团队协作与心态变化的新认识。对休闲游戏团队而言，可作为小规模研发管理与创作节奏的参考，但与消除品类直接关联较弱。",
-      "url": "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development",
+      "id": "2411db16d3",
+      "title": "Tripwire Interactive 扩展发行业务，聚焦小型开发者与游戏",
+      "summary": "Tripwire Interactive 的发行业务将扩大计划，重点支持规模较小的游戏并提供可缩放的支持。对休闲游戏从业者而言，这反映出发行商对中小团队和轻量产品的关注，但文章未涉及三消/消除品类的玩法或变现设计。",
+      "url": "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-03T17:31:00",
+      "published_at": "2026-11-04T19:45:00",
       "games": [
         {
-          "name": "Australia Did It: End-of-the-World Railway Defense Business",
-          "desc": "一款回合制策略游戏，也是Rami Ismail重返主动游戏开发后即将推出的新作。"
+          "name": "The Boss Gangster: Criminal Empire",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
         },
         {
-          "name": "Nuclear Throne",
-          "desc": "一款快节奏游戏，文中作为Ismail与Willem Nijman十年前合作的作品之一提及。"
+          "name": "Starforged Legacy",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
         },
         {
-          "name": "Luftrausers",
-          "desc": "一款快节奏游戏，文中与Nuclear Throne并列为Ismail过去参与的快节奏作品。"
+          "name": "One-Eyed Likho",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Eslabong",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Mars Attracts",
+          "desc": "基于《Mars Attacks》电影授权的景点管理模拟游戏，也是首批发行游戏之一。"
+        },
+        {
+          "name": "Killing Floor",
+          "desc": "Tripwire Interactive 最知名的系列作品。"
+        },
+        {
+          "name": "Maneater 2",
+          "desc": "2020 年鲨鱼 RPG《Maneater》的续作，原作玩家数超过 2000 万。"
         }
       ]
     },
     {
-      "id": "5ea30632a0",
-      "title": "Remedy 第三季度营收增至 3960 万欧元，Control Resonant 立功",
-      "summary": "Control Resonant 于 9 月 24 日发售后，推动 Remedy 第三季度营收同比增长 226%。属于主机和 PC 领域的公司财报动态，与休闲手游关联较弱。",
-      "url": "https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant",
+      "id": "e66d5b4fd3",
+      "title": "Ubisoft 成为 Arkane 竞标者之一，Xbox 考虑出售该工作室",
+      "summary": "Xbox 可能出售 Arkane Lyon，Ubisoft 是潜在买家之一，工作室还有其他避免关闭的选项。这是主机/PC 游戏公司资产变动新闻，与休闲手游的直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T17:37:00",
+      "games": [
+        {
+          "name": "Marvel's Blade",
+          "desc": "Arkane 正在开发、预计未来 1-2 年发布的漫威题材游戏。"
+        },
+        {
+          "name": "Dark Messiah of Might & Magic",
+          "desc": "2006 年由 Arkane 与 Ubisoft 合作过的游戏。"
+        },
+        {
+          "name": "Prey",
+          "desc": "Arkane 的代表作之一。"
+        },
+        {
+          "name": "Dishonored",
+          "desc": "Arkane 的代表作之一。"
+        },
+        {
+          "name": "Deathloop",
+          "desc": "Arkane 的代表作之一。"
+        },
+        {
+          "name": "Redfall",
+          "desc": "Arkane Austin 在 2024 年关闭前发行的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "d1b52a74b9",
+      "title": "Valve 警告 Steam 审批变慢，可能与 AI 游戏激增有关",
+      "summary": "Steam 新游戏审批时间延长，Valve 未直接将原因归咎于某种开发趋势。对关注发行效率和平台生态的从业者有参考，但与休闲手游关卡、数值和变现设计无关。",
+      "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T16:50:48",
+      "games": [
+        {
+          "name": "Wheel Make It",
+          "desc": "一款因本地合作模式被报道审核受阻的游戏，实际玩法是两名玩家共用键盘。"
+        }
+      ]
+    },
+    {
+      "id": "6fade3d412",
+      "title": "认识英国 2026 年视频游戏 BAFTA Breakthroughs 入选者",
+      "summary": "BAFTA 公布年度 Breakthroughs 名单，21 位英国影视、游戏和电视创意人才将获得职业指导、行业活动和会员资格。属于行业人才资讯，对休闲游戏设计分析价值有限。",
+      "url": "https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-03T08:39:15",
+      "published_at": "2026-11-04T15:51:40",
       "games": [
         {
-          "name": "Control Resonant",
-          "desc": "Remedy 于 9 月 24 日推出的动作游戏，成为公司史上销售最快作品，首三周销量超 100 万。"
+          "name": "The Pirate Queen: No Safe Waters",
+          "desc": "以中国海盗领袖郑氏为主题的 Emmy 提名 VR 体验，由 Lucy Liu 旁白。"
         },
         {
-          "name": "Control",
-          "desc": "2019 年推出的动作游戏，受《Control Resonant》发售带动，销量超过对比期与前两季度。"
+          "name": "Rogue Eclipse",
+          "desc": "Husban Siddiqi 的处女作，一款太空飞行射击 roguelike，获 Outersloth 资助。"
         },
         {
-          "name": "Alan Wake 2",
-          "desc": "Remedy 的恐怖动作续作，其资本化开发成本已完全折旧。"
+          "name": "Pieced Together",
+          "desc": "Kate Killick 担任创意总监的 BAFTA Breakthrough 游戏项目，原文未提供具体类型或特点。"
         },
         {
-          "name": "Max Payne 1 & 2 remake",
-          "desc": "Rockstar 资助的《马克思·佩恩》1、2 代重制项目。"
+          "name": "Cursed Words",
+          "desc": "Niru Fekri-Arnold 创作/设计的 BAFTA Breakthrough 游戏项目，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Mysteria Ecclesiae: Kingdom Come Deliverance DLC",
+          "desc": "Tom McKay 参与表演的《Kingdom Come Deliverance》DLC，入选本届 BAFTA Breakthrough 游戏组。"
         }
       ]
     },
     {
-      "id": "ff626d58a6",
-      "title": "美国法院禁止 Papaya 转移资产，Skillz 追讨 7.3 亿美元判决",
-      "summary": "法院认定 Papaya 在虚假广告案审理前将逾 7000 万美元资金转出美国，并禁止其继续转移资产。属于移动广告与法律纠纷类资讯，与休闲游戏设计关联有限。",
-      "url": "https://mobilegamer.biz/us-court-blocks-papaya-from-moving-money-out-of-the-us-as-skillz-chases-730m-judgment/",
+      "id": "92b608b8af",
+      "title": "分析：2000 年以来被收购的游戏工作室中三分之一已被关闭",
+      "summary": "基于 2000 年以来 300 多家被大厂收购工作室的分析显示，三分之一已被彻底关闭，其中半数在收购后五年内关停。为理解并购整合风险提供数据参考，但不涉及休闲品类与产品设计。",
+      "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T18:56:00",
+      "games": []
+    },
+    {
+      "id": "ddecbbf449",
+      "title": "Hutch 联合创始人 Shaun Rutland 揭晓新工作室 Anorak，主打“交互式生成视频”",
+      "summary": "资深手游创业者 Shaun Rutland 与 David Amor 组建新工作室 Anorak，团队分布于欧洲与成都，主打交互式生成视频，融资消息即将公布。属于手游公司动态与新兴形态探索，可作为观察 AI 驱动内容形态的线索。",
+      "url": "https://mobilegamer.biz/hutch-cofounder-shaun-rutland-teases-his-new-interactive-generative-video-studio-anorak/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-03T10:57:18",
-      "games": [
-        {
-          "name": "Solitaire Cash",
-          "desc": "Papaya 的纸牌游戏，文章将其列为 Skillz 追讨约 7.3 亿美元判决所针对的公司产品。"
-        }
-      ]
-    },
-    {
-      "id": "c84ab4a511",
-      "title": "对话B站游戏制作人：首月流水近亿，“秘诀”是反差",
-      "summary": "游戏日报对话 B 站游戏制作人，讨论新游首月流水近亿背后的反差设计思路。文章属于游戏行业访谈，可能涉及产品定位与市场表现，但对三消/消除类休闲游戏的玩法、数值和变现拆解有限。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nTklzYi1zd0w5ZG5HYzFucnFJUWc3ZF91SERJQ21QRzRnNXNhQldRSENuX0diamFVMjhOa2lJOFg0LWxGX0dUMGJJZFFpSlRROVR3?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-03T09:25:49",
+      "published_at": "2026-11-04T17:10:23",
       "games": []
     }
   ]
