@@ -14304,5 +14304,33 @@
     ],
     "store_url": "https://store.steampowered.com/app/3874040",
     "store": "steam"
-  }
+  },
+  "Pokemon Pokopia": null,
+  "Tomodachi Life": {
+    "name": "Mii Tomodachi Life Studio -Qr-",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/16/3b/21163b67-1b5b-07a4-cf7d-563871d5b1e4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "description": "Island Atelier is a creative workshop for planning and building your tomodachi life island cast. Sketch ideas, design characters, save your favorites, and browse inspiration — all in one focused app.\n\nWORKSHOP\nStart with cast planning tools made for island life sim fans. Draft character concepts, explore personality combinations, and follow clear guides for creating and importing islanders.\n\nFACE STUDIO\nOpen the built-in character editor to shape faces from scratch. Adjust features, try different looks, and save finished designs to your personal vault when you are ready.\n\nDISCOVER\nBrowse curated rows and search for inspiration when you want a fresh idea. Save characters you like and revisit them later while you plan your cast.\n\nVAULT\nKeep saved islanders on your device in a private collection. Star favorites, review your lineup, and pick a random saved character when you want a surprise.\n\nIMPORT & SCAN\nUse your camera or photo library to read islander import codes. Handy when you have a saved image and want to add it to your vault without retyping details.\n\nBUILT FOR CREATORS\n* Workshop-first layout with guides and planning tools\n* On-device vault — your saved cast stays with you\n* Clean dark interface with a calm, creative feel\n* Independent app — not affiliated with any game publisher\n\nWhether you are planning a full island lineup or designing one character mii of tomodachi at a time, Island tomodachi Atelier gives you a simple place to think, create, and curate.\nQuestions or feedback: support@islandatelier.studio",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/a8/95/85a8958b-21ff-0af2-d322-160e7aa2537f/IIII.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/b8/5a/adb85a44-e6ae-9ede-82cd-4fd09fb066f5/OKOKO.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/a5/eb/6aa5eb09-67dc-bb40-3063-937e40fca5a0/OJHGF.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/mii-tomodachi-life-studio-qr/id6778175807?uo=4",
+    "store": "appstore"
+  },
+  "Rhythm Heaven Groove": null,
+  "Star Fox": null,
+  "The Legend of Zelda: Ocarina of Time remake": {
+    "name": "Ocarina",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/1c/2d/e9/1c2de956-9f53-f8ce-4899-fad44f5b3896/mzl.nvqxzbew.png/512x512bb.jpg",
+    "description": "One of Apple's All-Time Top 20 Apps, Smule’s Ocarina turns your iPhone into an ancient flute. With no musical training required, you'll blow away your friends and family with your new talent. \n\n\"If everyone had the Ocarina app there would be no more wars\" - David Pogue\n\"One of the most original entertainment programs to emerge from the App Store\" - Wall Street Journal\n\"Ocarina is one of the most magical programs I've ever seen\" - NY Times\n___________________________\n\nSensitive to your breath, touch and movements, Ocarina is more versatile than an actual flute:\n• Blow air into your mic to create music \n• Touch combinations of holes to play notes\n• Tilt to change vibrato rate and depth\n• Advanced users can change keys and modes, including C-Major and Zeldarian mode\n\nWith Ocarina, you can also hear people learning to play around the world:\n• Listen in on Ocarina players all over the world just by tapping the globe icon\n• Rate your favorite performances\n• Name your Ocarina so others can listen to you play\n• Share your favorite performances with family and friends via e-mail\n• Record and archive your favorite performances on your own “My Ocarina” web page\n___________________________\n\nOcarina fans from all over the world have posted hundreds of free easy–to-read scores for popular songs. Just go to http://ocarina.smule.com and click on 'Songbook'.  \n\nTop Songs:\nTheme from Zelda\nAmazing Grace\nTheme from Harry Potter\nMy Heart Will Go On\nMario Brothers Theme\nZelda's Lullaby\nPoker Face\n___________________________\n\nWatch some great (and not so great) Ocarina performances on YouTube: www.youtube.com/smuleage\n\nFollow us on Facebook: www.facebook.com/smule\nFollow us on Twitter: www.twitter.com/smule\n\nTry other Smule apps: \niPad: Magic Fiddle, Magic Piano & Glee Karaoke\niPhone/iPod: I Am T-Pain, Glee Karaoke, Leaf Trombone, Sonic Lighter & Zephyr",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/88/57/12/88571241-c353-582b-715c-b13ff7cb5b1e/pr_source.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/38/bb/e038bb9f-9aab-fe25-d823-dd9185466d52/pr_source.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/8b/6b/01/8b6b01ed-ce9f-4213-0f42-f5002e98260c/pr_source.jpg/406x228bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/ocarina/id293053479?uo=4",
+    "store": "appstore"
+  },
+  "Metroid Ravenous": null
 }
