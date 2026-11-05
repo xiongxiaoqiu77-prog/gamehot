@@ -14225,5 +14225,32 @@
     "store_url": "https://apps.apple.com/us/app/the-king-of-fighters-i-2012-f/id958070620?uo=4",
     "store": "appstore"
   },
-  "Ace Combat 7": null
+  "Ace Combat 7": null,
+  "Maneater": {
+    "name": "Maneater - Try & Buy",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/5b/70/115b7058-6989-f97e-3a2d-4fa4682e555b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Eat, explore, and begin your path to vengeance in the Fawtick Bayou, but you won't evolve into a legendary apex predator just yet. Purchase the full game to continue your growth and unlock the complete Maneater experience.\n\nBecome a MANEATER\n\nExperience the ultimate power fantasy as the apex predator of the seas - a terrifying SHARK! Maneater is a single-player, open-world action RPG (ShaRkPG) where YOU are the shark. Starting as a small shark pup, you are tasked with surviving the harsh world while eating your way up the ecosystem. To do this, you will explore a large and varied open world, encountering diverse enemies - both human and wildlife. Find the right resources, and you can grow and evolve far beyond what nature intended, allowing the player to tailor the shark to their play style. This is fortunate, because to get revenge on the cruel fisherman who dismembered you will take evolving into a massive shark, an apex predator of legends. Eat. Explore. Evolve.\n\nUnique Story\nPlay through a full narrative, story-based campaign narrated by Chris Parnell (Rick and Morty, Saturday Night Live, 30 Rock) and set against the backdrop of a reality TV show.\n\nDiverse, Compelling Combat\nBattle fierce wildlife, including other apex predators, or fight against various types of human hunters ranging from town drunks all the way up to the Coast Guard.\n\nEvolve Into a Legend\nFeed on humans and wildlife to grow your shark, and find shark loot to evolve your shark down multiple possible paths.\n\nExplore the Gulf\n7 large regions, including bayous of the Gulf Coast, resort beaches, industrial docks, the open ocean, and more. Experience a living world with a full day/night cycle.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/44/b9/f144b900-cea2-ab67-ab13-30cc2e654e5c/10_Maneater_Screenshot_02_ShadowShark_iPhone_2736x1260.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/18/d7/a218d734-3e87-aaf0-7ebb-e823e01157d6/03_Maneater_Screenshot_24_CabanaBreeze1_iPhone_2736x1260.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/d1/c2/86d1c209-5e3b-2c39-aa4d-2f6a36793c52/05_Maneater_Screenshot_12_SkylineJump_iPhone_2736x1260.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/97/a8/d497a80b-3f8d-2cea-211a-ec06fedd8d35/04_Maneater_Screenshot_27_SealBite_iPhone_2736x1260.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/maneater-try-buy/id6752256118?uo=4",
+    "store": "appstore"
+  },
+  "Black Book": {
+    "name": "Black Book Cherry",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/ad/23/95ad2315-fa63-ca25-556e-4a5d34e280f4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+    "description": "**Black Book Cherry, a Black Book Digital product, is available to registered automotive professionals only with Black Book Digital accounts.**\n\nBlack Book Cherry helps automotive professionals make better and faster buying and selling decisions. Take advantage of all of Cherry's features:\n* Black Book's industry leading Wholesale, Retail, and Trade-In values\n* History Adjusted Values - quickly understand the value impact of a vehicle's history report\n* Local Retail Market Insights\n* Intelligently recommends auction pre-sale inventory based on your buying preferences\n* VIN Scan, Free Form, and Year, Make, Model search capabilities\n* Save and share vehicles of interest\n\nWe iterate frequently to continue to improve the app and provide more features. \nHave questions or feedback? Email us at support@blackbook.com\n\nPrivacy Policy: https://www.blackbook.com/privacy-policy/\nTerms of Use (EULA): https://www.blackbook.com/black-book-digital-eula/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/21/35/7a/21357ae3-17e5-863a-a23a-678dda3e4bc4/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/83/ee/c0/83eec024-d386-b9b6-5a2d-c3c4277514a1/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/6f/67/616f672b-5bc0-d266-7d88-c8e21c512a04/pr_source.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/12/b3/0912b333-f7df-c3ea-0a69-1bb69f4ed2d9/pr_source.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/black-book-cherry/id1300589333?uo=4",
+    "store": "appstore"
+  },
+  "Dishonored series": null
 }
