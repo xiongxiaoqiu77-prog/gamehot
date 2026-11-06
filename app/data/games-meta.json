@@ -14332,5 +14332,61 @@
     "store_url": "https://apps.apple.com/us/app/ocarina/id293053479?uo=4",
     "store": "appstore"
   },
-  "Metroid Ravenous": null
+  "Metroid Ravenous": null,
+  "The Hundred Line: Last Defense Academy": null,
+  "Blue Protocol: Star Resonance": {
+    "name": "Blue Protocol: Star Resonance",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/09/e4/dd09e4e5-136d-7620-93f1-f30fdabbf8d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Blue Protocol: Star Resonance is an anime-style multiplayer adventure MMORPG set in the world of Bandai Namco’s PROJECT SKY BLUE IP. Blending anime-inspired visuals with engaging social features, 9 unique classes, and cooperative multiplayer dungeons, the game invites players to explore the vast world of Regnus.\n\nThe 1st Anniversary celebration is officially underway! Season 4 “Lightchase Oath” brings a massive wave of new content and rewards.\n\nLog in to claim Rose Orbs ×1,111, a Lv. 320 Epic Gear Chest, and more! The limited-time Seabreeze Festival Celebration is also available, featuring fun activities including Starlight Fireworks and Fireworks Trivia!\n\n▶ New Map: Montegnor Valley\n\nDiscover breathtaking canyon landscapes, spectacular waterfalls, and untouched natural beauty. Ancient ruins lie scattered deep within the valley, waiting for adventurers to uncover the secrets of a forgotten past.\n\n▶ New Main Story: “Daydreams & Songs of the Night”\n\nA distress letter from Fafala, strange phenomena in the village, and a mysterious melody that echoes through the night… Follow the clues and uncover a truth far deeper than you imagined. A brand-new mystery awaits—will you be the one to reveal what lies behind the song?\n\n▶ New Dungeons\n\nFrom “Mirror Judgment” to “Cavern Zero,” six brand-new dungeons will be released progressively throughout the season. Challenge yourself, earn Lv. 320+ gears, and collect exclusive seasonal cosmetics!\n\n▶ \"Eternal Radiance\" Weapon \n\nA brand-new weapon system featuring two ways to obtain new weapons and stunning new weapon skins. Upgrade your existing weapons or forge new ones from scratch to create the ultimate weapon for your adventure.\n\n▶ Seasonal Progression: Matrix Manifestation System\n\nPsychoscopes receive brand-new designs, alongside the introduction of the Imprint system. Choose from a variety of Psychoscope effects and freely customize your build to create the combat style that suits you best.\n\n▶ 14 New Battle Imagines\n\nNew Montegnor Valley bosses join the Battle Imagines roster, bringing new skills, combinations, and strategies to the battlefield.\n\n\nWebsite: https://www.playbpsr.com\nX: https://x.com/BPSR_Official\nYoutube: https://www.youtube.com/@BPSR_Official\nDiscord: https://discord.gg/starresonance\nTiktok: https://www.tiktok.com/@bpsr_official\nKwai: https://k.kwai.com/u/@BPSR_Official/try0xzCJ\n\nTerm of Use: https://www.playbpsr.com/terms\nPrivacy Policy: https://www.playbpsr.com/privacy",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/1f/5c/101f5c8e-805c-8ab8-5bb9-90af32f7ee05/1-3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/d8/3a/07d83a00-64bd-86d6-b91e-23d3ea1900bf/2-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/d4/29/ffd42977-d3d6-a370-4468-fa33aa7782a8/3-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/75/10/3775106f-2580-f3ea-6291-a15e0e1827fb/4-1.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/blue-protocol-star-resonance/id6744962482?uo=4",
+    "store": "appstore"
+  },
+  "Bleach: Soul Resonance": null,
+  "Labyrinth of the Demon King": {
+    "name": "Labyrinth Of The Demon King",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1804010/53398a473dbe1449743c585c48a722c2d0c23b83/header.jpg?t=1777590626",
+    "description": "Venture through the Labyrinth Of The Demon King, solving puzzles and fighting fearsome monsters in an epic quest to track down the demon who betrayed your lord and end its life.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1804010/4d8b15f6bf14be9924bdaef69468ad18cce681fb/ss_4d8b15f6bf14be9924bdaef69468ad18cce681fb.600x338.jpg?t=1777590626",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1804010/930a69c1424c25978be01e82798311e75b1ac781/ss_930a69c1424c25978be01e82798311e75b1ac781.600x338.jpg?t=1777590626",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1804010/801169ce691c49f6f39eb6f0af245de58c66527a/ss_801169ce691c49f6f39eb6f0af245de58c66527a.600x338.jpg?t=1777590626",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1804010/945407ed80231d334d767eb6702002325b2360b6/ss_945407ed80231d334d767eb6702002325b2360b6.600x338.jpg?t=1777590626"
+    ],
+    "store_url": "https://store.steampowered.com/app/1804010",
+    "store": "steam"
+  },
+  "MotorSlice": {
+    "name": "MOTORSLICE",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1778341635",
+    "description": "Parkour through the ruins of a megastructure, climb massive bosses, and hunt down every construction equipment in this slice of life action-adventure with immaculate vibes.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/26fd6a61e5b4b2e67be9baf2918d3938d1de1bed/ss_26fd6a61e5b4b2e67be9baf2918d3938d1de1bed.600x338.jpg?t=1778341635",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/8fb2788660dfe50f16dc1350ac3fdfc1d6870ba1/ss_8fb2788660dfe50f16dc1350ac3fdfc1d6870ba1.600x338.jpg?t=1778341635",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/373d9655a0387b61b456b86bbe0dfc52c321edb5/ss_373d9655a0387b61b456b86bbe0dfc52c321edb5.600x338.jpg?t=1778341635",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/3dbeba222af3c3e50f53dd4d128b3ac524b41bd5/ss_3dbeba222af3c3e50f53dd4d128b3ac524b41bd5.600x338.jpg?t=1778341635"
+    ],
+    "store_url": "https://store.steampowered.com/app/2830030",
+    "store": "steam"
+  },
+  "Silly Polybeast": null,
+  "Well Dweller": {
+    "name": "Well Dweller",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/49dd898fc6800fb34e599e23b7a015447f8209d5/header.jpg?t=1790314621",
+    "description": "Well Dweller is a dark fairy-tale metroidvania, full of charming characters living in a wretched kingdom. Play as Glimmer - a tiny bird armed with a matchstick - who must burn the wicked queen to save his family.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/2c675d65378a8e5c88cba0e9e46c8655d87c1f8d/ss_2c675d65378a8e5c88cba0e9e46c8655d87c1f8d.600x338.jpg?t=1790314621",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/db0c09b10c244e508640a40cfee2442471e2928e/ss_db0c09b10c244e508640a40cfee2442471e2928e.600x338.jpg?t=1790314621",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/aed9afbfa49cc3d171b59566bcc2861e545f9631/ss_aed9afbfa49cc3d171b59566bcc2861e545f9631.600x338.jpg?t=1790314621",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/37b970a9822b1b3acc293c093c33eaadc45c49d3/ss_37b970a9822b1b3acc293c093c33eaadc45c49d3.600x338.jpg?t=1790314621"
+    ],
+    "store_url": "https://store.steampowered.com/app/3699590",
+    "store": "steam"
+  },
+  "DABA: Land of Water": null
 }
