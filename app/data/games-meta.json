@@ -14453,5 +14453,18 @@
     ],
     "store_url": "https://apps.apple.com/us/app/ocarina/id293053479?uo=4",
     "store": "appstore"
+  },
+  "Persona 4 Revival": {
+    "name": "Persona 4 Revival ",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/e83b7da1c2e9ddbed1a27038bd86e9714b2aa893/header.jpg?t=1788989521",
+    "description": "Step into a Supernatural Turn-Based RPG Adventure Solve Mysteries, Strengthen Bonds, and Awaken Your Persona",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/553029204f0bef1ba1bfd1542091b299fd8b9075/ss_553029204f0bef1ba1bfd1542091b299fd8b9075.600x338.jpg?t=1788989521",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/ec30bb3d1c237eaf9676d37f06193aea2dfd6aa2/ss_ec30bb3d1c237eaf9676d37f06193aea2dfd6aa2.600x338.jpg?t=1788989521",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/1b25c89e192c3c1ae7636543adea5229e2938553/ss_1b25c89e192c3c1ae7636543adea5229e2938553.600x338.jpg?t=1788989521",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/7273be1b6a0a1e762f56983a676e4235fc7bad49/ss_7273be1b6a0a1e762f56983a676e4235fc7bad49.600x338.jpg?t=1788989521"
+    ],
+    "store_url": "https://store.steampowered.com/app/2963950",
+    "store": "steam"
   }
 }
