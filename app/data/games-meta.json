@@ -14389,5 +14389,57 @@
     "store": "steam"
   },
   "DABA: Land of Water": null,
-  "GTA 6（Grand Theft Auto 6）": null
+  "GTA 6（Grand Theft Auto 6）": null,
+  "Honkai: Nexus Anima": {
+    "name": "Honkai: Nexus Anima",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/63/40/216340a0-52ba-443b-b7e7-4c463d6c5f2c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "description": "Honkai: Nexus Anima is a brand-new open-world creature-catching adventure RPG and the latest installment in the Honkai series. You'll take on the role of a traveler who journeys across the planes after escaping captivity, forging deep bonds with mysterious creatures in a new world, battling through thrilling encounters, and uncovering the truths buried within your past. \n\n▶It's a big world. Explore it together! Fly the skies, race across the land, and surf the seas!\n▶Every Anima has a story. Discover yours. Journey together and make lasting memories!\n▶Catch, bond, and conquer. Build your ultimate team from hundreds of unique Anima!\n▶Beautiful. Mysterious. Unforgettable. A striking cast full of secrets — which side will they choose?\n\n\nX: https://x.com/HonkaiNA\nInstagram: https://www.instagram.com/honkaina\nYouTube: https://www.youtube.com/@HonkaiNA\nTikTok: https://hoyo.link/gK7U3iIyy\nFacebook: https://www.facebook.com/HonkaiNA/\nHoYoLAB: https://www.hoyolab.com/circles/9/90001\nDiscord: https://discord.gg/honkainexusanima\nReddit: https://www.reddit.com/r/HonkaiNexusAnima/\nWhatsApp: https://wa.me/13109198523",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/a4/ce/16a4ce3e-4d63-8772-db6f-11305e4b9462/EN-04-2556_U00d71179.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/bc/40/0fbc4006-2cf5-b044-e5b3-e3d1da0bb1f6/EN-02-2556_U00d71179.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/23/5d/fe235d6b-120a-0b02-e5f8-44cdfe770392/EN-03-2556_U00d71179.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/honkai-nexus-anima/id6745814650?uo=4",
+    "store": "appstore"
+  },
+  "WB All-Star Mayhem": null,
+  "Red Dead Redemption": {
+    "name": "Red Dead Redemption NETFLIX",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/96/56/ea965654-f78a-bb79-6c7f-82f361f5a1f2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "NETFLIX MEMBERSHIP REQUIRED.\n\nWhen federal agents threaten his family, former outlaw John Marston is forced to hunt down the gang of criminals he once called friends. Experience Marston's journey across the sprawling expanses of the American West and Mexico as he fights to bury his blood-stained past in the critically acclaimed predecessor to the 2018 blockbuster \"\"Red Dead Redemption 2.\"\"\n\nAlso included is \"\"Undead Nightmare,\"\" the iconic horror story that transforms the world of \"\"Red Dead Redemption\"\" into an apocalyptic fight for survival against a zombie horde. Available on mobile for the first time, this version features the complete single-player experiences of both games, plus bonus content from the Game of the Year Edition and more.*\n\n*\"\"Red Dead Redemption\"\" does not feature multiplayer content.\n\nSupported devices include iPhone 11 and later, iPad (9th generation) and later, iPad mini (6th generation) and later, iPad Air (4th generation) and later, and iPad Pro (5th generation) and later.\n\n- Created by Rockstar Games.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/2d/fc/f62dfc42-0177-dd53-5ae9-81c21291b1b1/1_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_12_e8bfd200-b41a-11f0-81e8-121472f649ab.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/e6/76/29e67601-48b3-eb21-2cd2-1ca6f2e898d7/2_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_10_e8c3a290-b41a-11f0-9377-0affc84edcd7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/da/92/95da923a-f5aa-b964-2e35-beb8700e0562/3_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_8_e8c3c9a0-b41a-11f0-a8b2-0afff3d7c22f.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/22/6f/cc226f1a-4e27-bfab-2ab6-2df88baea62e/4_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_6_e8cc0700-b41a-11f0-abee-0afffbc7281b.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/red-dead-redemption-netflix/id6743944297?uo=4",
+    "store": "appstore"
+  },
+  "Vampirio": {
+    "name": "Vampirio: Defend & Survive",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/70/42/ef704249-d6da-1924-9217-f558898014bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Hunt vampires, undead and dragons in a roguelike with a base-defense twist. By day, build and upgrade your fortress. By night, fight off the horde in fast action combat. You pick new skills every night and build your own combo.\n\nBUILD BY DAY\n• Build walls, towers and buildings around the village\n• Upgrade your Town Hall and defenses between nights\n• Choose the hero and gear for the night ahead\n\nSURVIVE THE NIGHT\n• Dodge through the horde while your hero attacks on their own\n• Level up mid-fight and pick new skills: Ice Shards, Lightning, Mortar and more\n• Stack your picks into a roguelike build that fills the screen\n• Beat elite monsters, minibosses and giant bosses, from sandworms to the dragon Dragan\n\nNINE HEROES, NINE WAYS TO PLAY\n• Alba's crossbow, Vlad's silver swords and Radu's hammer (unless he turns into Udar)\n• Lucian's lightning gloves, Morana's not-so-sweet cats and Kidd's golden revolvers\n• Liliana's axe, Mika's spear, and Ixidor, the wizard nobody understands\n• Level up heroes, earn stars and upgrade their weapon, armor and relic\n\nA DARK COMEDY STORY\n• Follow the Dracul siblings on the road to Hellsing Academy\n• Campaign 1: Dracula's Origin: defend nine villages from the undead\n• Campaign 2, Dracula's Descent: fight for the Academy on Normal, Hard and Hell\n\nFIVE MODES AFTER THE STORY\n• Umbra Halls: endless survival. How deep can you descend?\n• Hellsing Trials: a new siege challenge every season\n• Boss Dungeon: deal as much damage as you can and climb the ranking\n• Missions: 16-night base-defense seasons\n• Raid: attack other players' forts and collect stickers that power up your heroes\n\nNO FORCED ADS\n• No forced ads: every video is optional and gives you a reward\n• Built for landscape play\n• Free to play, with optional in-app purchases\n\nJoin the Vampirio community on Discord: https://discord.gg/K3WBNQYzjt\nCustomer support: support@outfit7neo.com",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/58/97/6c589763-ffe0-0b3d-eb57-a70c96db6c03/Screenshots_033SurvivebyNightText_2796x1290_en.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/62/4f/77624f9f-f99b-3b98-f812-68684273ebb1/Screenshots_037RaidText_2796x1290_en.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/97/b7/3e97b7c2-ee3b-85ee-6221-1bb4eb82661c/Screenshots_032HeroesText_2796x1290_en.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/09/c0/fe09c0de-a038-ff81-9fed-329daa5c1c53/Screenshots_036AbilitiesText_2796x1290_en.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/vampirio-defend-survive/id6670539564?uo=4",
+    "store": "appstore"
+  },
+  "GigaBash": {
+    "name": "GigaBash",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546400/ae0f1d006f8b75960ff860cb3e4a40dd629d78e7/header.jpg?t=1783651785",
+    "description": "GigaBash is the ultimate Kaiju Fighting Game for 1-4 players, where you battle as film-inspired Kaijus and giant Heroes in fully destructible cityscapes.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546400/ss_f12ddcb1f8c9394a8591d802b65b30c2f05ac1ef.600x338.jpg?t=1783651785",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546400/ss_d329062f994072def55fba53a4ae339c3a8c4f8d.600x338.jpg?t=1783651785",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546400/ss_07a0140d9b24903b45bcf06f047e129b2fc8a097.600x338.jpg?t=1783651785",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546400/ss_6ab00987ddb5e20017eed7ffc024e7a131865c27.600x338.jpg?t=1783651785"
+    ],
+    "store_url": "https://store.steampowered.com/app/1546400",
+    "store": "steam"
+  }
 }
