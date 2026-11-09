@@ -1,126 +1,157 @@
 {
-  "updated": "2026-11-06",
-  "generated_at": "2026-11-06T07:00:09.317538",
+  "updated": "2026-11-10",
+  "generated_at": "2026-11-10T07:00:10.285518",
   "articles": [
     {
-      "id": "70f5b1a0fa",
-      "title": "内购收入暴涨229%、融资525万美元，Puzzle游戏厂商分享：混合休闲游戏如何持续赚钱？",
-      "summary": "文章聚焦一家Puzzle游戏厂商的混合休闲游戏变现经验，提到内购收入暴涨229%、融资525万美元等关键数据，并分享如何让混合休闲游戏持续赚钱。对从业者理解Puzzle品类商业化、混合休闲模式与收入增长策略有较高参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10bUlsY1JLY3ZVNzk2cGtFVEJlTGZwcHJmSEFIWjlIX1VXcVJ5ajJrTHZKclpOd3NQeEtoV3QzMHV2bFkzeERadzVQT0p6WEkxcUN6MEFOQWZzdw?oc=5",
-      "source": "Google News",
+      "id": "b5f3eb60c4",
+      "title": "Cube Land：Rotatelab 如何从 Gaziantep 打造出一款爆款",
+      "summary": "Deconstructor of Fun 拆解土耳其工作室 Rotatelab 如何从 Gaziantep 这样非主流游戏城市做出 Cube Land 这款热门产品，涉及玩法定位、产品打磨与买量发行策略。对中小休闲团队寻找细分玩法与低成本打造爆款有直接参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/cube-land-how-rotatelab-built-a-hit-from-gaziantep",
+      "source": "Deconstructor of Fun",
       "category": "深度拆解",
       "score": 8,
-      "published_at": "2026-11-05T08:54:48",
-      "games": []
-    },
-    {
-      "id": "1270dc863a",
-      "title": "Playtika 放弃出售计划，Q3 收入持平于 6.74 亿美元",
-      "summary": "《Bingo Blitz》母公司 Playtika 第三季度收入持平，通过削减营销支出创下调整后 EBITDA 纪录，但日活用户下滑 13%。对休闲手游的买量收缩、利润优先策略与用户留存压力具有直接参考价值。",
-      "url": "https://mobilegamer.biz/playtika-calls-off-sale-search-as-q3-revenue-holds-flat-at-674m/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-11-05T15:25:27",
+      "published_at": "2026-11-09T12:28:14",
       "games": [
         {
-          "name": "Disney Solitaire",
-          "desc": "Playtika 旗下 SuperPlay 工作室的迪士尼主题纸牌/接龙手游，Q3 收入 1.112 亿美元。"
+          "name": "Cube Land",
+          "desc": "Rotatelab 开发的颜色射击解谜游戏，玩家按顺序发射彩色射击物来清除方块图，被视为 This is Blast 家族作品。"
         },
         {
-          "name": "June's Journey",
-          "desc": "Playtika 旗下寻物解谜手游，Q3 收入 7660 万美元、同比增长 12%。"
+          "name": "Sort Land",
+          "desc": "Rotatelab 用来自主发行学习的一款游戏，文章未详述其玩法类型。"
         },
         {
-          "name": "Bingo Blitz",
-          "desc": "Playtika 旗下 Bingo 类手游，Q3 收入 1.33 亿美元、同比下降 18%。"
+          "name": "This is Blast",
+          "desc": "与 Cube Land 同属颜色射击解谜家族的游戏，包含队列射击和小工作台等玩法。"
+        },
+        {
+          "name": "Pixel Flow",
+          "desc": "同类颜色射击解谜游戏，特色是给炮台增加传送带机制。"
         }
       ]
     },
     {
-      "id": "d20010245b",
-      "title": "《Dressmaker》创作者谈女性向游戏：这是一个被严重忽视的市场",
-      "summary": "独立游戏《Dressmaker》自发售以来销量超 48.2 万份，创作者认为女性向市场在游戏行业中仍被严重低估。对休闲品类（女性用户占比高）的选题与用户洞察有一定启发。",
-      "url": "https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women",
+      "id": "b742954a91",
+      "title": "PlayStation 在软启动一年后取消手游《Ratchet & Clank: Ranger Rumble》",
+      "summary": "索尼的移动射击游戏《Ratchet & Clank: Ranger Rumble》软启动一年未能全球上线，服务器将于 2027 年 5 月关闭。是主机 IP 转手游与软启动测试决策的典型案例，对评估 IP 改编手游的可行性有参考意义。",
+      "url": "https://mobilegamer.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-09T10:24:29",
+      "games": [
+        {
+          "name": "Ratchet & Clank: Ranger Rumble",
+          "desc": "Oh BiBi 与 Insomniac 合作开发的多人在线平台竞技射击手游，软启动一年后被 PlayStation 取消。"
+        },
+        {
+          "name": "MLB The Show Mobile",
+          "desc": "San Diego Studio 全球发行的棒球手游，是 PlayStation 目前唯一的主要手游发行产品。"
+        },
+        {
+          "name": "Frag Pro Shooter",
+          "desc": "Oh BiBi 开发的射击游戏，文章以其开发商身份提及。"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "desc": "Sony Music 旗下 Aniplex 运营的日本热门手游。"
+        },
+        {
+          "name": "Disney Twisted-Wonderland",
+          "desc": "Sony Music 旗下 Aniplex 运营的迪士尼主题手游。"
+        }
+      ]
+    },
+    {
+      "id": "d9d6d24743",
+      "title": "Take-Two Q2 净预订额下降 18% 至 16 亿美元，NBA 2K27 未达预期但 GTA 6 预购远超预期",
+      "summary": "Take-Two 公布第二财季业绩：净预订额 16 亿美元、净收入 15 亿美元，分别下滑 18% 和 16%。NBA 2K27 表现低于预期，而 GTA 6 预购热度成为亮点。",
+      "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-05T13:15:00",
+      "score": 5,
+      "published_at": "2026-11-09T21:22:20",
       "games": [
         {
-          "name": "Dressmaker",
-          "desc": "一款高度细节化的制衣/连衣裙创作模拟器，覆盖从零开始制作裙子的各个阶段。"
+          "name": "NBA 2K27",
+          "desc": "NBA 2K系列篮球游戏，9月4日发售，销量超400万份但净预订额未达公司预期。"
         },
         {
-          "name": "Terra Nil",
-          "desc": "Free Lives 此前推出的策略游戏，文章提到 Dressmaker 团队成员曾参与开发。"
+          "name": "Grand Theft Auto 6",
+          "desc": "GTA系列新作，定于11月19日发售，预购量远超公司最初预期。"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "GTA系列作品，累计销量近2.35亿份，经常性消费与GTA+会员实现双位数增长。"
+        },
+        {
+          "name": "Borderlands",
+          "desc": "Borderlands系列累计销量突破1亿份。"
+        },
+        {
+          "name": "Color Block Jam",
+          "desc": "Take-Two移动游戏，净预订额较去年同期峰值出现双位数下滑。"
+        },
+        {
+          "name": "Toon Blast",
+          "desc": "Take-Two移动游戏，本季度净预订额增长4%。"
+        },
+        {
+          "name": "Words With Friends",
+          "desc": "文字类移动游戏，本季度净预订额增长6%，得益于与Wheel of Fortune联动。"
+        },
+        {
+          "name": "NBA 2K All-Star",
+          "desc": "与腾讯在中国合作推出的NBA 2K移动游戏，注册用户已超1100万。"
         }
       ]
     },
     {
-      "id": "dcfbf29b43",
-      "title": "Unity 上市后首次实现盈利，Vector 业务增长 126%",
-      "summary": "Unity 公布上市以来首次盈利，Grow 战略收入中的 Vector 广告业务同比增长 126%，并预计 Q4 同比翻倍以上。对休闲手游的变现与用户获取工具链选择有参考意义。",
-      "url": "https://mobilegamer.biz/unity-posts-first-profit-since-its-ipo-as-vector-grows-126/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-05T13:15:28",
-      "games": []
-    },
-    {
-      "id": "3d24f214d0",
-      "title": "MTG 第三季度收入持平，D2C 占比达 42%",
-      "summary": "《Raid: Shadow Legends》母公司 MTG 收入持平，D2C 渠道已占销售 42%，但 Google 对美国外部链接抽费削弱了部分成本优势，同时推迟了 Playsimple 在印度的 IPO。对休闲手游的支付渠道与利润结构有参考价值。",
-      "url": "https://mobilegamer.biz/mtg-revenue-flat-in-q3-as-d2c-hits-42-of-sales/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-05T12:13:09",
-      "games": [
-        {
-          "name": "Raid: Shadow Legends",
-          "desc": "Plarium 旗下中核 RPG 手游，Q3 收入同比增长 1%。"
-        },
-        {
-          "name": "Forge of Empires",
-          "desc": "MTG 旗下城市建造策略手游，Q3 收入同比下降 13%。"
-        },
-        {
-          "name": "Warhammer 40,000: Tacticus",
-          "desc": "Snowprint 开发的战锤 40K 题材回合制战术手游，Q3 收入同比下降 10%。"
-        },
-        {
-          "name": "Bloons Blitz",
-          "desc": "Ninja Kiwi 的 Bloons 系列新手游，处于或即将进入软发布阶段。"
-        },
-        {
-          "name": "Star Trek: Warp",
-          "desc": "WARP36 开发的星际迷航题材手游，处于或即将进入软发布阶段。"
-        }
-      ]
-    },
-    {
-      "id": "938dece225",
-      "title": "AppLovin 第三季度收入创纪录达 22 亿美元，同比增长 55%",
-      "summary": "AppLovin 季度收入同比增 55%，其中游戏业务同比增长近 50%，CEO Adam Foroughi 对增长前景表示乐观。反映广告变现与买量市场景气度，对休闲手游投放大盘判断有帮助。",
-      "url": "https://mobilegamer.biz/applovin-posts-record-revenue-of-2-2bn-in-q3-up-55/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-05T10:36:31",
-      "games": []
-    },
-    {
-      "id": "ca2d8b90db",
-      "title": "数据分析师最常见的 5 个错误 — GameAnalytics",
-      "summary": "GameAnalytics 总结游戏数据分析师常见的五类错误，并给出改进分析驱动决策的建议。文章对数据驱动的游戏运营有一般性参考，但未聚焦休闲消除品类的玩法或变现。",
-      "url": "https://www.gameanalytics.com/blog/5-common-mistakes-data-analysts",
-      "source": "GameAnalytics",
+      "id": "7c9b0708df",
+      "title": "德国游戏产业协会警告：欧盟 KIDS Act 或削弱现有游戏年龄分级体系",
+      "summary": "德国协会 Game 指出欧盟 KIDS Act 草案可能覆盖各国既有年龄分级制度，对开发者合规成本与未成年人保护设计提出新要求。对手游出海欧洲的合规与用户获取策略有间接影响。",
+      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-05T13:00:40",
+      "published_at": "2026-11-09T09:43:50",
       "games": []
+    },
+    {
+      "id": "d3eb221793",
+      "title": "Google Play 上已出现多款未发售 Steam 游戏《Fart Together》的克隆品",
+      "summary": "报道一款尚未上线的 Steam 游戏在 Google Play 出现多个克隆版本，原开发者称可能创下最快被抄袭纪录。反映手游商店审核与超休闲玩法同质化的老问题，对判断品类抄袭风险有一定参考。",
+      "url": "https://mobilegamer.biz/googles-play-store-is-already-hosting-multiple-clones-of-unreleased-steam-game-fart-together/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T15:49:17",
+      "games": [
+        {
+          "name": "Fart Together",
+          "desc": "最多四人合作的物理障碍闯关游戏，玩家通过把握时机放屁来操控共享木筏。"
+        },
+        {
+          "name": "Lethal Company",
+          "desc": "2024 年 Steam 热门游戏，其手游克隆品曾出现在苹果和谷歌应用商店。"
+        },
+        {
+          "name": "38-0-0",
+          "desc": "英国 iOS 排名第一的游戏，由单人创作者借助 Claude Code 一夜开发完成。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "Oakever Games 旗下的麻将游戏，涉及与 Hungry Studio 的版权纠纷。"
+        },
+        {
+          "name": "Meowdoku",
+          "desc": "Oakever Games 旗下的游戏，涉及与 Hungry Studio 的版权纠纷。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "Hungry Studio 的方块消除游戏，在与 Oakever Games 的版权案中胜诉。"
+        }
+      ]
     }
   ]
 }
