@@ -1,155 +1,283 @@
 {
-  "updated": "2026-11-10",
-  "generated_at": "2026-11-10T07:00:10.285518",
+  "updated": "2026-11-11",
+  "generated_at": "2026-11-11T07:00:07.898679",
   "articles": [
     {
-      "id": "b5f3eb60c4",
-      "title": "Cube Land：Rotatelab 如何从 Gaziantep 打造出一款爆款",
-      "summary": "Deconstructor of Fun 拆解土耳其工作室 Rotatelab 如何从 Gaziantep 这样非主流游戏城市做出 Cube Land 这款热门产品，涉及玩法定位、产品打磨与买量发行策略。对中小休闲团队寻找细分玩法与低成本打造爆款有直接参考价值。",
-      "url": "https://www.deconstructoroffun.com/blog/cube-land-how-rotatelab-built-a-hit-from-gaziantep",
-      "source": "Deconstructor of Fun",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-11-09T12:28:14",
-      "games": [
-        {
-          "name": "Cube Land",
-          "desc": "Rotatelab 开发的颜色射击解谜游戏，玩家按顺序发射彩色射击物来清除方块图，被视为 This is Blast 家族作品。"
-        },
-        {
-          "name": "Sort Land",
-          "desc": "Rotatelab 用来自主发行学习的一款游戏，文章未详述其玩法类型。"
-        },
-        {
-          "name": "This is Blast",
-          "desc": "与 Cube Land 同属颜色射击解谜家族的游戏，包含队列射击和小工作台等玩法。"
-        },
-        {
-          "name": "Pixel Flow",
-          "desc": "同类颜色射击解谜游戏，特色是给炮台增加传送带机制。"
-        }
-      ]
-    },
-    {
-      "id": "b742954a91",
-      "title": "PlayStation 在软启动一年后取消手游《Ratchet & Clank: Ranger Rumble》",
-      "summary": "索尼的移动射击游戏《Ratchet & Clank: Ranger Rumble》软启动一年未能全球上线，服务器将于 2027 年 5 月关闭。是主机 IP 转手游与软启动测试决策的典型案例，对评估 IP 改编手游的可行性有参考意义。",
-      "url": "https://mobilegamer.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch/",
+      "id": "3f4d52b120",
+      "title": "欧盟《数字公平法案》草案瞄准战利品箱、虚拟货币与付费获胜",
+      "summary": "欧盟《数字公平法案》草案拟限制战利品箱、虚拟货币和付费获胜机制，并允许玩家关闭“上瘾性”功能。该监管动向直接影响手游变现与合规设计，值得休闲游戏团队关注。",
+      "url": "https://mobilegamer.biz/eus-draft-digital-fairness-act-takes-aim-at-loot-boxes-virtual-currencies-and-pay-to-win/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-09T10:24:29",
-      "games": [
-        {
-          "name": "Ratchet & Clank: Ranger Rumble",
-          "desc": "Oh BiBi 与 Insomniac 合作开发的多人在线平台竞技射击手游，软启动一年后被 PlayStation 取消。"
-        },
-        {
-          "name": "MLB The Show Mobile",
-          "desc": "San Diego Studio 全球发行的棒球手游，是 PlayStation 目前唯一的主要手游发行产品。"
-        },
-        {
-          "name": "Frag Pro Shooter",
-          "desc": "Oh BiBi 开发的射击游戏，文章以其开发商身份提及。"
-        },
-        {
-          "name": "Fate/Grand Order",
-          "desc": "Sony Music 旗下 Aniplex 运营的日本热门手游。"
-        },
-        {
-          "name": "Disney Twisted-Wonderland",
-          "desc": "Sony Music 旗下 Aniplex 运营的迪士尼主题手游。"
-        }
-      ]
-    },
-    {
-      "id": "d9d6d24743",
-      "title": "Take-Two Q2 净预订额下降 18% 至 16 亿美元，NBA 2K27 未达预期但 GTA 6 预购远超预期",
-      "summary": "Take-Two 公布第二财季业绩：净预订额 16 亿美元、净收入 15 亿美元，分别下滑 18% 和 16%。NBA 2K27 表现低于预期，而 GTA 6 预购热度成为亮点。",
-      "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-09T21:22:20",
-      "games": [
-        {
-          "name": "NBA 2K27",
-          "desc": "NBA 2K系列篮球游戏，9月4日发售，销量超400万份但净预订额未达公司预期。"
-        },
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "GTA系列新作，定于11月19日发售，预购量远超公司最初预期。"
-        },
-        {
-          "name": "Grand Theft Auto 5",
-          "desc": "GTA系列作品，累计销量近2.35亿份，经常性消费与GTA+会员实现双位数增长。"
-        },
-        {
-          "name": "Borderlands",
-          "desc": "Borderlands系列累计销量突破1亿份。"
-        },
-        {
-          "name": "Color Block Jam",
-          "desc": "Take-Two移动游戏，净预订额较去年同期峰值出现双位数下滑。"
-        },
-        {
-          "name": "Toon Blast",
-          "desc": "Take-Two移动游戏，本季度净预订额增长4%。"
-        },
-        {
-          "name": "Words With Friends",
-          "desc": "文字类移动游戏，本季度净预订额增长6%，得益于与Wheel of Fortune联动。"
-        },
-        {
-          "name": "NBA 2K All-Star",
-          "desc": "与腾讯在中国合作推出的NBA 2K移动游戏，注册用户已超1100万。"
-        }
-      ]
-    },
-    {
-      "id": "7c9b0708df",
-      "title": "德国游戏产业协会警告：欧盟 KIDS Act 或削弱现有游戏年龄分级体系",
-      "summary": "德国协会 Game 指出欧盟 KIDS Act 草案可能覆盖各国既有年龄分级制度，对开发者合规成本与未成年人保护设计提出新要求。对手游出海欧洲的合规与用户获取策略有间接影响。",
-      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-09T09:43:50",
+      "score": 7,
+      "published_at": "2026-11-10T13:57:21",
       "games": []
     },
     {
-      "id": "d3eb221793",
-      "title": "Google Play 上已出现多款未发售 Steam 游戏《Fart Together》的克隆品",
-      "summary": "报道一款尚未上线的 Steam 游戏在 Google Play 出现多个克隆版本，原开发者称可能创下最快被抄袭纪录。反映手游商店审核与超休闲玩法同质化的老问题，对判断品类抄袭风险有一定参考。",
-      "url": "https://mobilegamer.biz/googles-play-store-is-already-hosting-multiple-clones-of-unreleased-steam-game-fart-together/",
+      "id": "fa1d38166c",
+      "title": "Take-Two 移动端预订额下降13%，预计第三季度继续下滑",
+      "summary": "Take-Two 移动端预订额同比下降13%，Toon Blast 和 Words With Friends 增长，但 Color Block Jam 出现两位数下滑。提供休闲消除手游组合的最新市场信号。",
+      "url": "https://mobilegamer.biz/take-two-mobile-bookings-fall-13-with-another-decline-forecast-for-q3/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-10T10:03:14",
+      "games": [
+        {
+          "name": "Color Block Jam",
+          "desc": "Zynga移动端益智游戏，本季预订额较去年同期峰值出现双位数下滑。"
+        },
+        {
+          "name": "Toon Blast",
+          "desc": "Zynga移动端益智游戏，借助新功能Beam实现4%增长。"
+        },
+        {
+          "name": "Words With Friends",
+          "desc": "移动端文字拼字游戏，与Wheel of Fortune联动后增长6%。"
+        },
+        {
+          "name": "NBA 2K All-Star",
+          "desc": "腾讯在中国运营的移动端篮球游戏，注册用户已超1100万。"
+        },
+        {
+          "name": "NBA 2K Mobile",
+          "desc": "移动端篮球游戏，第9赛季于10月20日上线。"
+        },
+        {
+          "name": "NBA 2K27 Arcade Edition",
+          "desc": "NBA 2K27的街机版篮球游戏，上周首次亮相。"
+        },
+        {
+          "name": "WWE SuperCard",
+          "desc": "WWE题材移动端卡牌收集游戏，第13赛季上线且累计下载近4000万。"
+        },
+        {
+          "name": "Match Factory",
+          "desc": "Zynga移动端益智游戏，预计为第三季度净预订额主要贡献作品之一。"
+        },
+        {
+          "name": "Empires & Puzzles",
+          "desc": "Zynga移动端消除/RPG游戏，预计为第三季度主要贡献作品之一。"
+        },
+        {
+          "name": "Toy Blast",
+          "desc": "Zynga移动端益智游戏，预计为第三季度主要贡献作品之一。"
+        },
+        {
+          "name": "Top Goal",
+          "desc": "Zynga处于软发布的移动端足球/体育游戏，尚未确定正式发布日期。"
+        },
+        {
+          "name": "CSR 3",
+          "desc": "Zynga处于软发布的移动端竞速游戏，尚未确定正式发布日期。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球游戏，本季度表现低于预期。"
+        }
+      ]
+    },
+    {
+      "id": "b766e06759",
+      "title": "如何在不重写的情况下现代化一款15年历史的在线游戏？SuperCity 从 Flash 到 HTML5 的历程",
+      "summary": "SuperCity 开发负责人复盘如何将15年历史的在线游戏从 Flash 渐进迁移到 HTML5，而不重写客户端或打断玩家体验；并介绍保留旧工具和内部自动化提效的做法。对长线运营休闲游戏的现代化改造有实操参考。",
+      "url": "https://gameworldobserver.com/2026/11/10/how-do-you-modernize-a-15-year-old-live-game-without-rewriting-it-supercitys-journey-from-flash-to-html5",
+      "source": "Game World Observer",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-11-10T13:40:29",
+      "games": []
+    },
+    {
+      "id": "338d1623e0",
+      "title": "12 月 WN C-Level 峰会日程首批细节公布",
+      "summary": "12 月 10 日第比利斯将举办 WN C-Level 峰会，聚集游戏公司创始人及高管，议程涵盖移动与 PC 市场回顾、来年战略讨论，以及围绕“用 AI 克隆游戏”的辩论。其中移动市场与 AI 复刻产品的议题对休闲游戏赛道竞争格局判断有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/11/10/the-first-details-of-the-december-wn-c-level-summit-program-have-been-released",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-10T13:36:25",
+      "games": []
+    },
+    {
+      "id": "46cce7234f",
+      "title": "黑色星期五作战手册：游戏发行商如何最大化假日销售",
+      "summary": "本期播客结合 VaultN 的发行商与商店网络数据，讨论游戏发行商应如何提前规划黑色星期五和假日销售窗口。内容偏发行与商业化策略，可为休闲手游的节日促销节奏提供参考。",
+      "url": "https://naavik.co/podcast/the-black-friday-playbook-how-game-publishers-can-maximize-holiday-sales/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-10T15:24:17",
+      "games": []
+    },
+    {
+      "id": "52f070df47",
+      "title": "Lego Digital Play 收购 Golf Clash 老兵创立的新工作室 ForthStar",
+      "summary": "Lego Digital Play 收购由 Golf Clash 资深成员创立的新工作室 ForthStar，并表达对移动游戏前景的乐观判断。属于移动游戏投资与团队动态，可观察休闲品类的人才与资本流向。",
+      "url": "https://mobilegamer.biz/lego-digital-play-acquires-golf-clash-veterans-new-studio-forthstar/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-10T11:16:36",
+      "games": [
+        {
+          "name": "Golf Clash",
+          "desc": "移动端高尔夫竞技游戏，由Playdemic打造并被EA以14亿美元收购。"
+        },
+        {
+          "name": "Marvel Strike Force",
+          "desc": "漫威题材移动端小队RPG，文中作为Gouge团队过往代表作提及。"
+        },
+        {
+          "name": "Chrome Valley Customs",
+          "desc": "汽车改装/修复主题移动游戏，由Offroad Games开发。"
+        }
+      ]
+    },
+    {
+      "id": "790eb1240d",
+      "title": "Fortis Games疑似关闭，超400名员工可能受影响",
+      "summary": "多家LinkedIn帖子显示，母公司Las Vegas Sands已关闭开发商Fortis Games并立即取消所有合同，导致400多人失业。这是手游行业公司动态，可供关注团队与市场变化。",
+      "url": "https://mobilegamer.biz/fortis-games-appears-to-have-closed-with-over-400-staff-likely-affected/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-09T15:49:17",
+      "published_at": "2026-11-10T20:25:55",
       "games": [
         {
-          "name": "Fart Together",
-          "desc": "最多四人合作的物理障碍闯关游戏，玩家通过把握时机放屁来操控共享木筏。"
+          "name": "Mergemon Wilds",
+          "desc": "Fortis Games 旗下移动游戏，文章称其未记录到任何安装量。"
         },
         {
-          "name": "Lethal Company",
-          "desc": "2024 年 Steam 热门游戏，其手游克隆品曾出现在苹果和谷歌应用商店。"
+          "name": "Twilight Towers",
+          "desc": "Fortis Games 旗下移动游戏，于2025年9月进入软发布，并宣布本月关闭。"
         },
         {
-          "name": "38-0-0",
-          "desc": "英国 iOS 排名第一的游戏，由单人创作者借助 Claude Code 一夜开发完成。"
+          "name": "Bloom & Breakfast",
+          "desc": "Fortis Games 旗下移动游戏，进入早期测试并获得少量下载。"
         },
         {
-          "name": "Vita Mahjong",
-          "desc": "Oakever Games 旗下的麻将游戏，涉及与 Hungry Studio 的版权纠纷。"
+          "name": "Havoc Crew",
+          "desc": "Fortis Games 旗下移动游戏，未曾进入软发布。"
+        }
+      ]
+    },
+    {
+      "id": "d7f7e70b60",
+      "title": "Take-Two CEO：Grand Theft Auto VI 预购量超出预期",
+      "summary": "Take-Two CEO Strauss Zelnick 在 Grand Theft Auto VI 发布前夕称预购表现超出预期，但未披露具体目标。该消息属于头部大作市场热度与发行节奏的行业信号，对休闲游戏从业者仅有间接参考价值。",
+      "url": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T17:49:05",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 的开放世界犯罪动作游戏，也是 PlayStation 商店史上预购量最高的游戏，预购表现超出 Take-Two 预期。"
         },
         {
-          "name": "Meowdoku",
-          "desc": "Oakever Games 旗下的游戏，涉及与 Hungry Studio 的版权纠纷。"
+          "name": "Grand Theft Auto V",
+          "desc": "GTA 系列前作，上季度累计销量达 2.35 亿份，并推动系列总销量达到 4.8 亿份。"
         },
         {
-          "name": "Block Blast",
-          "desc": "Hungry Studio 的方块消除游戏，在与 Oakever Games 的版权案中胜诉。"
+          "name": "NBA 2K27",
+          "desc": "Take-Two 的篮球模拟游戏，因临近《Grand Theft Auto VI》发售而开局缓慢。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "由 Bit Reactor 开发的《星球大战》题材游戏，相关报道涉及其开发商裁员。"
+        }
+      ]
+    },
+    {
+      "id": "924c93b959",
+      "title": "My.Games 完成阿联酋支持的管理层收购，从所有者 Alexander Chachava 手中买断",
+      "summary": "My.Games 通过阿联酋支持的管理层收购从 Alexander Chachava 处完成买断，并涉及此前从 VK 以 6.42 亿美元收购的背景。该文属于手游公司资本与所有权变动资讯，可供关注海外发行格局的从业者参考。",
+      "url": "https://mobilegamer.biz/my-games-management-agrees-uae-backed-buyout-from-owner-alexander-chachava/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T18:08:25",
+      "games": [
+        {
+          "name": "War Robots",
+          "desc": "My.Games 的常青移动游戏系列，生命周期收入超过 10 亿美元。"
+        },
+        {
+          "name": "Rush Royale",
+          "desc": "My.Games 的常青移动游戏之一。"
+        },
+        {
+          "name": "Hustle Castle",
+          "desc": "My.Games 旗下的移动游戏之一。"
+        },
+        {
+          "name": "Left to Survive",
+          "desc": "My.Games 旗下的移动游戏之一。"
+        }
+      ]
+    },
+    {
+      "id": "692ef6bc4a",
+      "title": "Bandai Namco 关闭 Reflector Entertainment，预计 Q3 计提 2100 万欧元亏损",
+      "summary": "Bandai Namco 宣布关闭《Unknown 9: Awakening》开发商 Reflector Entertainment，并预计因此在本财年第三季度计入约 2100 万欧元亏损。这是大型发行商在新 IP 表现不及预期后收缩研发投入的又一案例，对休闲游戏团队评估立项风险与工作室整合有参考意义。",
+      "url": "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T11:46:00",
+      "games": [
+        {
+          "name": "Unknown 9: Awakening",
+          "desc": "Reflector Entertainment 开发的 2024 年动作冒险游戏，也是跨媒体企划的一部分。"
+        }
+      ]
+    },
+    {
+      "id": "83489a00e3",
+      "title": "Skydance 完成 1110 亿美元合并后裁撤游戏部门人员",
+      "summary": "Skydance 在完成 1110 亿美元合并交易后，对旗下游戏部门进行未披露规模的裁员。该消息反映大型媒体集团整合期间对游戏业务的成本压缩趋势，可供关注发行与投资环境变化的从业者跟踪。",
+      "url": "https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T10:34:40",
+      "games": []
+    },
+    {
+      "id": "e362030afe",
+      "title": "House House 澄清在《Big Walk》开发末期“少量”使用 AI 工具",
+      "summary": "House House 回应外界质疑，称在《Big Walk》开发的最后阶段“少量”使用 AI 工具，主要用于解决棘手的技术难题和 bug。该案例为讨论 AI 在研发流程中的实际落点与对外沟通口径提供了样本。",
+      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T09:07:50",
+      "games": [
+        {
+          "name": "Big Walk",
+          "desc": "House House 开发并提交至 2027 IGF 的游戏，开发末期少量使用 AI 工具解决技术难题。"
+        }
+      ]
+    },
+    {
+      "id": "33781bfd5d",
+      "title": "Krafton 第三季度营收增长11.6%，PC与主机业务下滑",
+      "summary": "Krafton 公布第三季度营收同比增长11.6%，但 PC 和主机业务下滑，营业利润因 Gamescom 等活动成本下降35.5%。属于公司财报动态，与休闲手游直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T14:27:40",
+      "games": [
+        {
+          "name": "PUBG: BATTLEGROUNDS",
+          "desc": "大逃杀射击游戏，PC和主机月活跃用户保持双位数增长。"
+        },
+        {
+          "name": "Subnautica",
+          "desc": "水下生存冒险游戏，2026年5月进入抢先体验，22天销量超500万份。"
         }
       ]
     }
