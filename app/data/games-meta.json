@@ -14626,5 +14626,33 @@
     "store_url": "https://apps.apple.com/us/app/words-with-friends-word-game/id1196764367?uo=4",
     "store": "appstore"
   },
-  "NBA 2K All-Star": null
+  "NBA 2K All-Star": null,
+  "BioShock 4": null,
+  "Killing Floor 3": {
+    "name": "Killing Floor 3",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430190/1eeb014e6ad8187a7cca67c8142feab0d023c320/header.jpg?t=1791841264",
+    "description": "It’s 2091 and megacorp Horzine has produced the ultimate army: an obedient horde of bioengineered monsters called zeds. Now, join the rebel group Nightfall in this co-op action/horror FPS that puts you and your teammates in a battle for the future of humanity.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430190/a0251105df5c13195540ac4e3a58476e2341fda0/ss_a0251105df5c13195540ac4e3a58476e2341fda0.600x338.jpg?t=1791841264",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430190/a2779801cc3346f388884da366584c22db6baa7b/ss_a2779801cc3346f388884da366584c22db6baa7b.600x338.jpg?t=1791841264",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430190/413d693389961376dd345ea84e4b83e7d1b33294/ss_413d693389961376dd345ea84e4b83e7d1b33294.600x338.jpg?t=1791841264",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430190/ac70ff75eb8fff8c573463f3be4c16b64e015be8/ss_ac70ff75eb8fff8c573463f3be4c16b64e015be8.600x338.jpg?t=1791841264"
+    ],
+    "store_url": "https://store.steampowered.com/app/1430190",
+    "store": "steam"
+  },
+  "Hollow Knight": {
+    "name": "Guide for Hollow Knight",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/a6/ac/09a6ac94-e6e0-34d2-92f9-787bdfe8a6d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Dive into the companion app for Hollow Knight! Whether you’re finding your way around or pushing for 112%, this app has you covered.\n\nCheck out details on charms, bosses, items, and all the hidden secrets in Hallownest. Track down everything you need with maps and tips to help you master the game.\n\nFeatures:\n• Charms and Abilities: What they do and where to get them.\n• Boss Strategies: Maps to track down each boss.\n• Items and Collectibles: From relics to essentials, see what everything does and where to find it.\nWhether you’re new to the game or a long-time explorer, this app is your go-to for all things Hollow Knight!\n\nDisclaimer:\nThis app is an independently developed guide, not affiliated with or endorsed by the creators of Hollow Knight. It is intended solely to assist players by providing comprehensive game insights, enhancing gameplay, and supporting user experience.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/40/72/9b407227-162a-59e9-de70-1bd9d760b38a/en1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/e3/e3/e0e3e340-6088-da37-8531-997824b407bd/en2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/c6/06/31c60678-4c3b-b37f-b68a-b7f6b797a9f3/en3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/b7/b4/51b7b411-c369-1aa7-90e2-c34832f81f6e/en4.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/guide-for-hollow-knight/id1326686758?uo=4",
+    "store": "appstore"
+  },
+  "Resident Evil: Requiem": null
 }
