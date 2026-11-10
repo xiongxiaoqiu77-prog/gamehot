@@ -14735,5 +14735,18 @@
     "store": "appstore"
   },
   "Top Goal": null,
-  "CSR 3": null
+  "CSR 3": null,
+  "Unknown 9: Awakening": {
+    "name": "Unknown 9: Awakening",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477940/header.jpg?t=1732232841",
+    "description": "You are Haroona, a Quaestor born with the ability to venture into a mysterious dimension: the Fold. On her quest for powerful hidden knowledge, she must learn to master the powers of the Fold to fight a secret society with a hostile agenda.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477940/ss_3fd604d3981dcfdde2d140f3ec33846d186c5441.600x338.jpg?t=1732232841",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477940/ss_480a5f49e5d6d30f752bf02f869bb33becbf2265.600x338.jpg?t=1732232841",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477940/ss_b119f5c1cbe0a0e1201f3d1549329f69a054447c.600x338.jpg?t=1732232841",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477940/ss_a358cc178317f4adf37c7e442d5481a916d90f0c.600x338.jpg?t=1732232841"
+    ],
+    "store_url": "https://store.steampowered.com/app/1477940",
+    "store": "steam"
+  }
 }
