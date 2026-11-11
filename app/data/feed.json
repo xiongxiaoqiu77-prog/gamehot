@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-11",
-  "generated_at": "2026-11-11T07:00:07.898679",
+  "generated_at": "2026-11-11T17:00:13.705037",
   "articles": [
     {
       "id": "3f4d52b120",
@@ -131,6 +131,46 @@
         {
           "name": "Chrome Valley Customs",
           "desc": "汽车改装/修复主题移动游戏，由Offroad Games开发。"
+        }
+      ]
+    },
+    {
+      "id": "033e3c2581",
+      "title": "生成式视频初创公司 Anorak 获 Supercell、Play Ventures 等 500 万美元融资",
+      "summary": "前 Hutch 负责人 Shaun Rutland 创办的生成式视频公司 Anorak 完成 500 万美元融资，投资方包括 Supercell 和 Play Ventures。该消息反映手游厂商对生成式内容工具的关注，但公司明确表示本轮不是做手游。",
+      "url": "https://mobilegamer.biz/generative-video-startup-anorak-raises-5m-from-supercell-play-ventures-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T07:45:38",
+      "games": [
+        {
+          "name": "Top Drives",
+          "desc": "Hutch 开发的汽车收集与竞速策略手游，文中作为创始团队背景提及。"
+        },
+        {
+          "name": "F1 Clash",
+          "desc": "Hutch 开发的一级方程式赛车管理手游，文中作为创始团队背景提及。"
+        }
+      ]
+    },
+    {
+      "id": "9b1cd3ecc1",
+      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+      "summary": "介绍 RetroSweeper Go 的复古游戏机风格界面与「手柄」操作设计，旨在唤起怀旧体验。属于休闲小游戏体验分享，对消除类玩法、数值和变现设计缺乏专业拆解，从业者仅可作复古休闲体验参考。",
+      "url": "https://sspai.com/post/118458",
+      "source": "少数派",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-11-11T03:13:04",
+      "games": [
+        {
+          "name": "RetroSweeper Go",
+          "desc": "复古游戏机风格的扫雷手游，支持触屏与虚拟手柄操作，并提供多种主题、难度和辅助道具。"
+        },
+        {
+          "name": "扫雷",
+          "desc": "经典逻辑益智游戏，通过数字推理翻开安全格并标记地雷。"
         }
       ]
     },
