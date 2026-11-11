@@ -14816,5 +14816,30 @@
     "store_url": "https://apps.apple.com/us/app/bloom-breakfast-merge-town/id6761016932?uo=4",
     "store": "appstore"
   },
-  "Havoc Crew": null
+  "Havoc Crew": null,
+  "RetroSweeper Go": {
+    "name": "RetroSweeper Go - Minesweeper",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/42/29/8342298a-403a-35cf-8c28-8211a568ba94/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "RetroSweeper Go is a retro-inspired Minesweeper game designed for mobile devices, featuring classic console visual themes, intuitive touch gestures, and a dedicated virtual gamepad.\n\n【DUAL CONTROL MODES】\n- Virtual Gamepad: Classic D-pad and A/B buttons for deliberate, precise navigation.\n- Touch Controls: Fast gestures (tap to reveal, double-tap to chord, long-press to flag).\n\n【RETRO CONSOLE THEMES】\n- Famicom / NES: Classic 8-bit warm palette and pixel typography.\n- Game Boy: Authentic 4-shade green LCD dot-matrix display. Free unlock upon clearing Beginner, Intermediate, and Expert.\n- PS1 Classic: 90s console grey tones and textured buttons.\n\n【100% NO-GUESS MODE (Beta)】\n- Eliminate 50/50 guesswork. Our board generation algorithm ensures every puzzle can be solved purely through deductive logic.\n\n【FEATURES】\n- Game Center Leaderboards: Global speedrun rankings for Beginner, Intermediate, and Expert difficulties.\n- Step-Back Undo & Assisted Mode: Recover from accidental mine triggers and track progress on the Assisted Leaderboard.\n- Daily Rewards: Free daily Hints and Rewinds.\n- Offline Play: Full gameplay support without an internet connection.\n\n【RETROSWEEPER PRO (LIFETIME)】\n- Completely ad-free experience.\n- Unlimited Hints and Rewinds.\n- Instant access to all current and future themes.\n- Unlimited No-Guess board generation.\n\n■ Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n■ Privacy Policy: https://xcnqk6kty4i8.feishu.cn/docx/IZwodSNWAo3v8LxwPzGczusznBd",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/c4/a6/64c4a67a-2abf-dbdd-db2c-efd1012b1331/01-hero.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/8a/9d/178a9db0-642b-9b31-63bb-85566cf1c06c/02-panoramic-left.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/16/86/dd1686f0-cd49-bea9-ca41-bd741615711b/03-panoramic-right.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/78/9d/9e789d8b-5734-ae01-d078-dc6056d5bfe6/04-difficulty.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/retrosweeper-go-minesweeper/id6794306711?uo=4",
+    "store": "appstore"
+  },
+  "扫雷": {
+    "name": "扫雷单机版",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/87/07/f587078f-93d6-d558-d43b-80d2e6047374/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "扫雷游戏可自由选择地雷的个数。提供多个难度进行选择。扫雷游戏的目标是尽快找到雷区中的所有地雷。而不许踩到地雷，如果挖开的是地雷，你将输掉游戏。\n游戏规则：\n1.可以保存游戏，下次继续玩，可放大缩小,可撤销误点击\n2.通过点击即可挖开方块。如果方块上出现数字，则表明在其周围的八个方位中存在的地雷个数。然后以此来判断下一步挖开哪个方块。\n3.也可长按方块进行地雷的标记。长按标记过的地雷可取消地雷标记。\n4.点击中间的笑脸图标可重新开始游戏。\n5.不同难度等级，新手可以迅速提高水平\n有问题请联系微信：wxxoxo1024",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/95/c3/d295c31e-c15d-c51e-5557-25c3a33443b1/712e5b19-ae4b-445e-a94c-99f65010a5c9_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-10-08_at_22.53.11.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/ba/e9/25bae97d-3581-6730-8832-8829ec40b89e/67784db7-8c57-4f91-9532-1050876e438b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-10-08_at_22.53.09.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/4b/57/d34b578f-9e0b-d4f0-a49e-5613cfa15267/8687204e-9b65-4c83-a7d4-fac02595ec32_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-10-08_at_22.53.15.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/%E6%89%AB%E9%9B%B7%E5%8D%95%E6%9C%BA%E7%89%88/id6443751273?uo=4",
+    "store": "appstore"
+  }
 }
