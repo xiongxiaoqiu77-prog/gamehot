@@ -14920,5 +14920,86 @@
     "store_url": "https://apps.apple.com/us/app/island-hoppers-adventure-farm/id1577941752?uo=4",
     "store": "appstore"
   },
-  "Grand Theft Auto VI（GTA 6）": null
+  "Grand Theft Auto VI（GTA 6）": null,
+  "Fairgames": null,
+  "Assassin's Creed 2": {
+    "name": "Assassin's Creed 2",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg?t=1794343819",
+    "description": "An epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. New low price!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_dd6a4d319cda32c24a4e16a0a62908e82673f458.600x338.jpg?t=1794343819",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_ef44b9f703f71acfdeb728a497390d397084ee35.600x338.jpg?t=1794343819",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_d3967a58038cc5e59332bb0043ab1ca343112bc6.600x338.jpg?t=1794343819",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_627e52a3466b4932ca3d331db6922d165002edaa.600x338.jpg?t=1794343819"
+    ],
+    "store_url": "https://store.steampowered.com/app/33230",
+    "store": "steam"
+  },
+  "Watch Dogs": {
+    "name": "Watch Dogs®: Legion",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/header.jpg?t=1788548571",
+    "description": "Build a resistance as you fight to take back a near-future London facing its downfall. Welcome to the Resistance.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_34defa8d443c27fd4c925b37841e4d3f8c08895b.600x338.jpg?t=1788548571",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_9662b544cefb82f3d500c911f24ed58d1d0d9d9d.600x338.jpg?t=1788548571",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_6d0a08002410c1054d76e32edfc92e926b946419.600x338.jpg?t=1788548571",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_be16b7c7c36e8fe087b36e69a11c94f76ef34cc0.600x338.jpg?t=1788548571"
+    ],
+    "store_url": "https://store.steampowered.com/app/2239550",
+    "store": "steam"
+  },
+  "Watch Dogs 2": null,
+  "Destroy All Humans!": {
+    "name": "Destroy All Humans!",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/header.jpg?t=1696424223",
+    "description": "The cult-classic returns! Terrorize the people of 1950's Earth in the role of the evil alien Crypto-137. Harvest their DNA and bring down the US government in the faithful remake of the legendary alien invasion action adventure. Annihilate puny humans using an assortment of alien weaponry and psychic abilities.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/ss_7da9673923fbe10147ab48c9e2d39e4ce2868c7d.600x338.jpg?t=1696424223",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/ss_394f931e0d2487158840e77b6093c2510b30453d.600x338.jpg?t=1696424223",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/ss_292d9dff014f3ace5e32619ffcd2c6c3b1d67061.600x338.jpg?t=1696424223",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/ss_33f79b636bbc33fc2465c83a4c391ac0ee23bd81.600x338.jpg?t=1696424223"
+    ],
+    "store_url": "https://store.steampowered.com/app/803330",
+    "store": "steam"
+  },
+  "Destroy All Humans! 2 — Reprobed": null,
+  "Giana Sisters: Twisted Dreams": {
+    "name": "Giana Sisters: Twisted Dreams",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223220/c42866d822878c57fd25fc6801b6d0528106975c/header.jpg?t=1793707759",
+    "description": "Giana Sisters: Twisted Dreams is a blistering hardcore platformer with contrasting worlds.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223220/ss_06779be507474e6d3e2b7cd1b9815b9e93119e74.600x338.jpg?t=1793707759",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223220/ss_5d292bafb3e0bd0e588984e43b04f927ad3171de.600x338.jpg?t=1793707759",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223220/ss_c9a1ee8b3967dcceafc10ee0ec9f5552ee1df5bf.600x338.jpg?t=1793707759",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223220/ss_89744c22884c15a36ca759f8e98c62273b22b2b0.600x338.jpg?t=1793707759"
+    ],
+    "store_url": "https://store.steampowered.com/app/223220",
+    "store": "steam"
+  },
+  "Rogue Stormers": {
+    "name": "Rogue Stormers",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299480/ea49faa85332caa57b03bc343b68efae67da3a8b/header.jpg?t=1793696456",
+    "description": "An action packed platform shooter mashed-up with roguelike and RPG elements, crazy 3D graphics and co-op multiplayer for one to 4 players.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299480/ss_e7fec3b43acd5dbdd16ac42b5ea1907122514e36.600x338.jpg?t=1793696456",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299480/ss_aea03b56f60b915de482c96390a6a46f8402ce1e.600x338.jpg?t=1793696456",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299480/ss_c1afe3ca189347b52f26e68fda2465b67463caeb.600x338.jpg?t=1793696456",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299480/ss_4ab178883603e74010a982b8f492b7f6acfe625a.600x338.jpg?t=1793696456"
+    ],
+    "store_url": "https://store.steampowered.com/app/299480",
+    "store": "steam"
+  },
+  "Fade to Silence": {
+    "name": "Fade to Silence",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/706020/header.jpg?t=1602757610",
+    "description": "Fade to Silence is a single-player and co-op survival adventure set in a post-apocalyptic world that is frozen in an eternal winter. Snow and ice have shaped a merciless landscape. Nature is corrupted. Monstrous creatures out of an Eldritch horror dream roam the frozen wasteland.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/706020/ss_387c316f5b64fcade0947a7ee8042e2d151efcbd.600x338.jpg?t=1602757610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/706020/ss_61906300787587a7bb60020522d063227bd7e6f9.600x338.jpg?t=1602757610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/706020/ss_ce206667ad4bf62b8da92f533ef6f868e0c9e88f.600x338.jpg?t=1602757610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/706020/ss_adebfe6db321c1076b98ddc4c3c97f61e4e43045.600x338.jpg?t=1602757610"
+    ],
+    "store_url": "https://store.steampowered.com/app/706020",
+    "store": "steam"
+  }
 }
