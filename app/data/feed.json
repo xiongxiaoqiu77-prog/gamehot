@@ -1,182 +1,229 @@
 {
-  "updated": "2026-11-12",
-  "generated_at": "2026-11-12T17:05:52.333259",
+  "updated": "2026-11-14",
+  "generated_at": "2026-11-14T07:00:17.464978",
   "articles": [
     {
-      "id": "a0f3e62e09",
-      "title": "《Digital Fairness Act》对游戏行业意味着什么",
-      "summary": "欧盟委员会正式提出Digital Fairness Act草案，若通过将对游戏行业尤其是虚拟货币相关业务产生重大影响。对休闲手游的虚拟币设计、付费合规和欧洲市场运营有直接参考价值。",
-      "url": "https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry",
-      "source": "GamesIndustry.biz",
+      "id": "7e44345569",
+      "title": "欧盟新提案可能对免费游玩游戏施加严格限制",
+      "summary": "《数字公平法案》若获通过，可能显著改变欧洲乃至全球免费游玩游戏的研发与发行方式，尤其涉及变现、成瘾性设计与消费者保护。休闲游戏从业者应关注其合规风险及对F2P商业模式的潜在影响。",
+      "url": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
+      "source": "Game Developer",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-11-11T11:29:10",
+      "score": 6,
+      "published_at": "2026-11-13T18:32:59",
       "games": []
     },
     {
-      "id": "c65bac153b",
-      "title": "Lego Digital Play收购ForthStar Games，旨在让Lego在移动端获得应有地位",
-      "summary": "Lego Digital Play收购移动工作室ForthStar Games，显示IP方正在加码移动游戏布局。对关注IP手游化、休闲游戏发行与工作室并购的从业者有一定参考价值。",
-      "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile",
+      "id": "ca542cd069",
+      "title": "MapleStory 系列 Q3 收入增长 72%，带动 Nexon 整体业绩",
+      "summary": "Nexon 第三季度各项指标全面超预期，MapleStory IP 收入同比增长 72% 成为主要驱动力。可作为长线运营 IP 与手游化变现能力的参考数据点。",
+      "url": "https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-11-11T14:46:40",
-      "games": []
-    },
-    {
-      "id": "1c11ce4982",
-      "title": "《Sled Surfers》推动Embracer移动净销售额增长42%",
-      "summary": "Embracer移动业务净销售额增长42%，《Sled Surfers》和《Glow Fashion Idol》表现突出，公司还优化了UA成本并以450万美元收购Island Hoppers。对手游发行、买量和产品组合有市场信号价值。",
-      "url": "https://mobilegamer.biz/sled-surfers-drives-mobile-net-sales-up-42-at-embracer/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-11T12:49:32",
+      "published_at": "2026-11-13T09:33:30",
       "games": [
         {
-          "name": "Sled Surfers",
-          "desc": "Embracer移动净销售额同比增长42%的主要驱动力手游。"
+          "name": "MapleStory",
+          "desc": "Nexon 旗下经典的 2D 横版 MMORPG，本季度系列收入同比增长 72%。"
         },
         {
-          "name": "Glow Fashion Idol",
-          "desc": "Embracer点名提及的持久表现手游，具有较强潜力。"
+          "name": "Dungeon & Fighter",
+          "desc": "Nexon 旗下在线动作 RPG，本季度收入因中国国庆更新不及预期而下降。"
         },
         {
-          "name": "Island Hoppers",
-          "desc": "一款农场冒险手游，由Deca从Nexters收购并继续运营。"
+          "name": "FC Online",
+          "desc": "Nexon 的在线足球游戏，本季度贡献了较高的分成收入。"
+        },
+        {
+          "name": "MapleStory: Idle RPG",
+          "desc": "《MapleStory》IP 的放置类 RPG 衍生作，为本季度带来较高分成收入。"
+        },
+        {
+          "name": "Arc Raiders",
+          "desc": "Embark Studios 的第三人称射击游戏，累计销量已超过 1700 万份。"
+        },
+        {
+          "name": "Project Overkill",
+          "desc": "Neople 开发、腾讯发行的《Dungeon & Fighter》宇宙新在线 RPG。"
         }
       ]
     },
     {
-      "id": "c411a7c627",
-      "title": "数据摘要：Learnings登顶广告榜、Savvy 60亿美元收购Moonton、Deca 450万美元收购等",
-      "summary": "汇总AppMagic畅销数据、广告投放榜、并购交易和财报等移动游戏动态。可为休闲手游从业者提供市场、买量和资本动向参考，但属于简报式信息。",
-      "url": "https://mobilegamer.biz/data-digest-learnings-tops-ad-charts-savvys-6bn-moonton-deal-decas-4-5m-buy-more/",
-      "source": "Mobile Gamer Biz",
+      "id": "fb915a79ef",
+      "title": "《Dressmaker》开发秘辛：Ruan Rothmann 与 Sara Laubscher 访谈",
+      "summary": "文章围绕2026年独立游戏黑马 Dressmaker 的开发幕后，采访 Ruan Rothmann 与 Sara Laubscher，讨论从创意到成品的制作过程与挑战。对休闲游戏从业者而言，可参考小团队创意验证与项目管理经验，但内容不涉及三消/消除玩法、关卡数值或变现设计。",
+      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+      "source": "Game Developer",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-11-11T11:24:10",
+      "published_at": "2026-11-13T16:05:43",
       "games": [
         {
-          "name": "Vita Mahjong",
-          "desc": "麻将题材手游，为Learnings广告收入贡献约45%。"
+          "name": "Dressmaker",
+          "desc": "一款以制衣为主题的低调制作类游戏，由 Free Lives 开发，并成为 2026 年意外爆款。"
         },
         {
-          "name": "Mobile Legends: Bang Bang",
-          "desc": "Moonton开发的MOBA手游，其开发商被Savvy Games Group以超60亿美元收购。"
+          "name": "Broforce",
+          "desc": "Free Lives 开发的以“傻气”风格著称的动作游戏之一。"
         },
         {
-          "name": "Island Hoppers",
-          "desc": "农场冒险手游，Deca以约450万美元从Nexters收购。"
+          "name": "Genital Jousting",
+          "desc": "Free Lives 开发的以“傻气”风格著称的动作游戏之一。"
         },
         {
-          "name": "Honor of Kings",
-          "desc": "腾讯的MOBA手游，2026年迄今以11.4亿美元IAP收入位居全球手游收入榜首。"
-        },
-        {
-          "name": "Monster Strike",
-          "desc": "移动游戏，2016年以8.07亿美元位居收入榜首，2026年仍以1.37亿美元排名第37。"
-        },
-        {
-          "name": "PUBG Mobile",
-          "desc": "移动射击游戏，曾在2020和2021年领跑收入榜，2026年排名第23。"
-        },
-        {
-          "name": "Monopoly Go",
-          "desc": "大富翁IP手游，2024年收入榜首，2026年以8.67亿美元排名第三。"
-        },
-        {
-          "name": "Last War: Survival",
-          "desc": "生存策略手游，2025年以14亿美元收入登顶。"
-        },
-        {
-          "name": "Free Fire Max",
-          "desc": "移动游戏，2026年迄今下载量最高，达2.25亿次。"
+          "name": "Gorn",
+          "desc": "Free Lives 开发的以“傻气”风格著称的动作游戏之一。"
         }
       ]
     },
     {
-      "id": "bd03cbd980",
-      "title": "使用生成式 AI 的开发者称主要用于“研究与头脑风暴”",
-      "summary": "调查显示生成式 AI 在游戏开发者中的主要用途是研究和创意发散，AI 生成代码位列第三。可作为了解团队工具趋势的参考，但与休闲游戏核心玩法、数值和变现关联有限。",
-      "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+      "id": "6feffdbe0d",
+      "title": "新游速递：PUBG、Transformers、Plants Vs Zombies、Football Manager、Prince of Persia 等",
+      "summary": "汇总本周手游新作、软发布和测试动态，包括 Outfit7 新作软启动及 Plants Vs Zombies 等 IP 新产品。适合从业者快速扫描竞品与新游趋势，但非深度拆解。",
+      "url": "https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-13T10:22:37",
+      "games": [
+        {
+          "name": "PUBG Mobile Flash",
+          "desc": "《PUBG Mobile》的新版本，保留熟悉的大逃杀玩法，但安装包更轻、更省内存和电量，已在全球 iOS/Android 上线。"
+        },
+        {
+          "name": "Transformers: Eternal War",
+          "desc": "Wanda Cinemas Games 与 Hasbro 开发的放置冒险 RPG，玩家组建汽车人和霸天虎小队，已登陆 iOS/Android。"
+        },
+        {
+          "name": "Football Manager 27 Touch",
+          "desc": "Sega 的足球管理模拟游戏，升级比赛引擎、球探和赛前准备工具，并针对 iPhone 重新设计界面，已在 Apple Arcade 上线。"
+        },
+        {
+          "name": "NBA 2K27 Arcade Edition",
+          "desc": "2K 的篮球模拟游戏，今年新增全部 15 支 WNBA 球队，现已在 Apple Arcade 推出。"
+        },
+        {
+          "name": "Plants vs. Zombies: Replanted",
+          "desc": "EA/Popcap 的《植物大战僵尸》系列作品，将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "Prince of Persia: The Lost Crown+",
+          "desc": "Ubisoft 的动作平台游戏《波斯王子：失落的王冠》完整版（含全部 DLC），将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "Solitaire(ish)",
+          "desc": "Playstack 的 roguelike 卡牌游戏，将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "Lego Duplo Playtime",
+          "desc": "StoryToys 的儿童向《乐高得宝》主题游戏，将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "UnGodly",
+          "desc": "Azra Games 的黑暗奇幻动作 RPG，玩家招募称为 Primals 的英雄进行实时战斗，免费游玩，已全球上线移动端。"
+        },
+        {
+          "name": "My Hero Ultra Rumble Mobile",
+          "desc": "Bandai Namco 的《我的英雄学院》免费大逃杀手游版，与主机/PC 版独立且不跨平台，iOS/Android 预注册已开启。"
+        },
+        {
+          "name": "Roll & Merge: Farm Go",
+          "desc": "Outfit7 的新农场游戏，结合掷骰、合并与建造玩法，已在部分国家 Android 软启动。"
+        },
+        {
+          "name": "The Roottrees Are Dead",
+          "desc": "Evil Trout/IndieArk 的侦探解谜游戏，背景设定在 1998 年，玩家利用档案、报纸和照片拼出 Roottree 姐妹的家谱，已登陆移动端。"
+        }
+      ]
+    },
+    {
+      "id": "3858eeb042",
+      "title": "Steam 的提交与审核积压迫使独立开发者推迟游戏发布",
+      "summary": "多家独立开发者因 Steam 游戏提交与审核流程延迟而被迫推迟上线。文章属于平台发行流程动态，对关注发行节奏与平台风险的从业者有参考价值，但与三消/休闲手游设计运营关联一般。",
+      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T12:00:00",
+      "games": [
+        {
+          "name": "Australia Did It: End-of-the-World Railway Defense Business",
+          "desc": "一款以末日铁路防御经营为主题、由 Rami Ismail 与 Aesthetican Labs 联合开发的独立游戏。"
+        }
+      ]
+    },
+    {
+      "id": "df50871860",
+      "title": "Nvidia 的 Jensen Huang 因被曝与涉嫌中国间谍及两名员工有婚外情而辞去 CEO 职务",
+      "summary": "Nvidia 联合创始人 Jensen Huang 辞去总裁、CEO 和董事会成员职务。该消息属于游戏硬件与科技公司重大人事动态，对行业生态有间接影响，但与休闲消除手游无直接关系。",
+      "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T08:12:50",
+      "games": []
+    },
+    {
+      "id": "a7489db050",
+      "title": "《巫师3》开发团队用 AI 帮助波兰配音演员在中风后重演杰洛特",
+      "summary": "曾为《巫师》系列主角杰洛特配音的波兰演员 Jacek Rozenek 因中风无法继续演出，本人同意后在《巫师3》新资料片中通过 AI 技术还原其声线。对从业者而言，这是 AI 语音在成熟 IP 中延续角色演出的一次实际案例，可参考其授权与制作流程。",
+      "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-11T18:15:00",
+      "published_at": "2026-11-13T15:28:34",
       "games": [
         {
-          "name": "DayZ",
-          "desc": "一款以丧尸末日生存为核心的开放世界生存游戏。"
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "2015年发售的《巫师》系列动作角色扮演游戏，主角为杰洛特，本次将推出新扩展《Songs of the Past》并因波兰语配音演员中风后使用AI辅助配音。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "科幻角色扮演游戏，文章提及其《Phantom Liberty》扩展曾使用Respeecher的AI语音生成技术。"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "《巫师》系列续作，文章仅提及波兰语版杰洛特配音是否回归尚不确定。"
         }
       ]
     },
     {
-      "id": "53ef9ffff3",
-      "title": "手游发行商Fortis Games关闭，多达440名员工受影响",
-      "summary": "手游发行商Fortis Games宣布关闭，影响至多440名员工。该消息反映移动游戏市场的整合与成本压力，对休闲手游团队有警示意义，但不涉及玩法或运营拆解。",
-      "url": "https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected",
+      "id": "9d8e4aea09",
+      "title": "如何保护你的 IP 不被 AI 克隆大军蚕食",
+      "summary": "生成式 AI 在游戏开发中的使用激增，2026 年 10 月 Steam Next Fest 的 8000 多款 Demo 中大量涉及 AI 生成。文章讨论厂商如何通过法律与产品手段防御 AI 换皮抄袭，对手游团队应对同质化竞品有一定借鉴意义。",
+      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-11T09:10:30",
+      "published_at": "2026-11-13T15:00:00",
+      "games": []
+    },
+    {
+      "id": "0c02bc8d4c",
+      "title": "“局面很疯狂”——投资人与发行商谈 AI 山寨潮、可发现性危机等议题",
+      "summary": "来自伦敦 AI and Games Conference 的发行与投资圆桌，讨论 AI 山寨产品、买量可发现性危机对融资与发行的影响。对关注买量市场与获客成本的休闲手游从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T12:04:00",
       "games": [
         {
-          "name": "Twilight Towers",
-          "desc": "Fortis旗下移动游戏，因玩家留存不足而宣布于11月16日停运。"
-        },
-        {
-          "name": "Mergemon Wilds",
-          "desc": "Fortis发行的移动游戏之一。"
-        },
-        {
-          "name": "Bloom & Breakfast",
-          "desc": "Fortis发行的移动游戏之一。"
+          "name": "Needle in a Haystack Simulator",
+          "desc": "一款以“大海捞针”为概念的模拟器游戏，开发者在发布开发中视频后其概念遭多次克隆。"
         }
       ]
     },
     {
-      "id": "042704fb38",
-      "title": "Rovio在土耳其工作室Ruby Games裁员20人",
-      "summary": "Rovio对旗下土耳其工作室Ruby Games裁员20人，工作室不会关闭，小团队将继续运营现有产品。该消息反映休闲手游公司持续优化成本，但以公司动态为主。",
-      "url": "https://mobilegamer.biz/rovio-cuts-20-staff-at-turkish-studio-ruby-games/",
-      "source": "Mobile Gamer Biz",
+      "id": "7c3296eb9f",
+      "title": "研究显示使用 Unreal Engine 与 Unity 的开发者正在减少",
+      "summary": "GDC 调研指出两大主流引擎的开发者使用率持续下滑。属于引擎与研发工具链层面的行业趋势数据，对技术选型有参考，但与休闲玩法设计无关。",
+      "url": "https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study",
+      "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-11T17:33:58",
-      "games": [
-        {
-          "name": "Hunter Assassin",
-          "desc": "Ruby Games旗下hybridcasual手游，属于Rovio保留运营的现有产品组合。"
-        },
-        {
-          "name": "Beauty Care",
-          "desc": "Ruby Games旗下hybridcasual手游，属于现有产品组合。"
-        },
-        {
-          "name": "My Tidy Life",
-          "desc": "Ruby Games旗下hybridcasual手游，属于现有产品组合。"
-        },
-        {
-          "name": "Sonic Blitz",
-          "desc": "Rovio Copenhagen被取消的游戏项目，并导致该工作室关闭。"
-        },
-        {
-          "name": "Angry Birds Dream Blast",
-          "desc": "《愤怒的小鸟》系列手游，因表现不佳成为Rovio裁员背景之一。"
-        }
-      ]
-    },
-    {
-      "id": "b056f28c69",
-      "title": "NC 联席 CEO Byung-moo Park：2027 年营收将超过 3 万亿韩元",
-      "summary": "报道 NC 联席 CEO 对公司营收目标和业务前景的表态，属于韩国游戏公司动态与市场资讯。与休闲消除品类的玩法、数值和商业化直接关联较弱。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHA0aFdJdHdGeGJ2MDF4LVdYQ2dnYS1vRGI5T0NVQy1QRU9zRXU2Z2Jzb1JHSlZVT0owR3Fua0VQUjZOLTRVaGNJSGNQMS1CTURGNFZKamJ5NU1sU2hJdXlSNWM0ZWMzMzd5NnlUcXRfSFhoU1RDZE1rYkRVZXlzTkJMMjBnQkJ4Qm54Q2R6c0IzRWpxenNxYjdWN2NlV3NkcGJQTFM3eTV3djFxeUNn?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-11T08:53:06",
+      "published_at": "2026-11-13T14:59:25",
       "games": []
     }
   ]
