@@ -15201,5 +15201,135 @@
   },
   "Needle in a Haystack Simulator": null,
   "MapleStory: Idle RPG": null,
-  "Project Overkill": null
+  "Project Overkill": null,
+  "Chronicles: Medieval": {
+    "name": "Chronicles: Medieval",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/322a3e5e98ce955972508f8ae5a6eb569ee40742/header.jpg?t=1791486435",
+    "description": "Step into a vast, dynamic medieval sandbox set in the age of the Hundred Years' War. Explore a brutal but beautiful, historically grounded Europe, command armies in massive battles, leave a mark the chroniclers can't ignore as you make your name one fight at a time. What story will you write?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/8d564795cb6b1eaeb9f3ea6b862b445ffe62a5e5/ss_8d564795cb6b1eaeb9f3ea6b862b445ffe62a5e5.600x338.jpg?t=1791486435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/028f231dcb155cfb0a77ffc1145953f797a38457/ss_028f231dcb155cfb0a77ffc1145953f797a38457.600x338.jpg?t=1791486435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/ae91c5360f0d30fb0ef380aa4990a52ad9df553c/ss_ae91c5360f0d30fb0ef380aa4990a52ad9df553c.600x338.jpg?t=1791486435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/ec8d7e68e2bc71de0fe4f82a09b658a8ff11bbec/ss_ec8d7e68e2bc71de0fe4f82a09b658a8ff11bbec.600x338.jpg?t=1791486435"
+    ],
+    "store_url": "https://store.steampowered.com/app/2231020",
+    "store": "steam"
+  },
+  "Mount & Blade": {
+    "name": "Mount & Blade II: Bannerlord",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg?t=1764252300",
+    "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_569257e92fd31d58a6fe08053de637071b4518d3.600x338.jpg?t=1764252300",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_9682cf43bf605e9c655c1dbb4b23d1aac73165dc.600x338.jpg?t=1764252300",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_4c9270723717c633c9ec16fa394dab82a071f41c.600x338.jpg?t=1764252300",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_1ab88f5c0198a16f75db23af8477811c0996b864.600x338.jpg?t=1764252300"
+    ],
+    "store_url": "https://store.steampowered.com/app/261550",
+    "store": "steam"
+  },
+  "Coral Reef": {
+    "name": "Coral Reef Ocean",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/48/7c/40487c04-7347-5966-60c1-b3ff5ab17433/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Create your coral reef. Take care of fish, grow seahorses, watch a variety of the sea. Be pleased with colours, feed all your wards, create pleasant sea landscapes. Plant grass, corals, or anemones. Choose in various options of reef style.\n\nHatch baby creatures, care for them, and make them grow. Ensure enough food for all your animals. Release them to the open ocean and get your rewards when they grow up to adults.\n\nGame features\nThere are many in-game features to be discovered. Among others, we would like to focus your attention on these highlights.\n— all species exist in nature. We have got inspired a lot by the natural coral reef.\n— various flora species to shape your coral reef landscapes is necessary to hatch\n— twenty levels of the game (the number will increase in further updates)\n— twelve groups containing a total of 56 species (new species are introduced regularly)\n— grow a fish, cultivate seahorses, observe tunas and sharks, spy on whales, watch a burrfish, a hawk fish, a firefish, a scorpionfish, a whip ray, and a mobula ray\n— explore a diversity of colours and shapes of a unicorn fish, a turtle, and a dolphin\n— investigate how echinoderms walk on the coral reef seabed\n— study a diversity of coral reef life — fringing reef, barrier reef, platform reef, or atoll — all the reef types offers a colourful variety of a sea life\n— hatch eggs, feed creatures, grow your buddies and release them\n— implant corals, fit in anemones, set water grass\n— change position, flip, choose the colour and set the best place for corals, grasses, and others\n— local saved games or cloud saved progress to share among your devices\n\nBrief Roadmap for 2021\n1. another 20 species (currently 56), plan to release 100 engaging sea fauna members\n2. more comprehensive flora selection for more admirable landscapes\n3. advanced and polished levelling\n4. coral reef space expansions based on levelling and unlocking a new reef area\n5. surprise features :-)\n\nWe appreciate any constructive user feedback that will help us build a better game and provide you a lot of fun and relaxing experience.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/7a/95/797a951c-eddc-9e71-97ea-451694a7af3c/tns.nenkwhor.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/db/5d/3f/db5d3f4c-093e-2bc4-bdb9-ec934a6982ca/7f242435-92b8-4838-8542-b7576f7a549f_1.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/39/24/673924f4-4e4e-7091-172d-3014401ce724/211007c1-babd-45f8-af61-2787d2a297ac_2.png/406x228bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5e/db/60/5edb6056-e052-6681-524f-3fd826ed9cdc/9190b54b-576d-45d7-a640-fb92f17abcb4_3.png/406x228bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/coral-reef-ocean/id1558813559?uo=4",
+    "store": "appstore"
+  },
+  "Little Bird": {
+    "name": "Little Bird: Baby Tracker",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/57/73/4757731d-2494-7243-f295-32f7f2878dea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "description": "Hear the moment your baby needs you.\n\nLittle Bird turns your iPhone into a private baby monitor that listens for your little one and taps your wrist the instant they cry — no camera, no cloud, no subscription. Cry detection runs entirely on your device, so your baby's sounds are never recorded, stored, or sent anywhere.\n\nSet your iPhone near the crib, tap once, and go live your evening. When a sustained cry begins, Little Bird alerts you on your phone and buzzes your Apple Watch — even with the screen locked.\n\nWHY PARENTS LOVE IT\n•⁠  ⁠Your phone is the monitor — no cameras, base stations, or extra hardware to buy.\n•⁠  ⁠Apple Watch alerts — an instant wrist tap the moment crying starts, a live status screen, and a watch face complication. Press and hold on the watch to stop.\n•⁠  ⁠100% private — on-device detection only. Nothing is recorded or uploaded, ever.\n•⁠  ⁠Works offline — no wifi or account needed. It even listens in Airplane Mode.\n\nFEATURES\n•⁠  ⁠Live sound levels — watch the room's noise level rise and fall in real time as a meter on your Apple Watch, and see the whole night charted in Sleep History.\n•⁠  ⁠Sleep History — each session logs total sleep, the room's sound levels through the night, and every cry with a timestamp, all kept on your device.\n•⁠  ⁠Tunable detection — set how sensitive it is and how many seconds of crying must pass before you're alerted, so a cough or hiccup won't wake you.\n•⁠  ⁠Lock Screen & Dynamic Island — a calm indicator shows it's actively listening, even when your phone is locked.\n•⁠  ⁠Made yours — personalize it with your baby's name and a soft rose or sky-blue theme, beautiful in light and dark.\n•⁠  ⁠\"Are you covered?\" checks — Little Bird warns you if Do Not Disturb, silenced notifications, or a missing watch app could block an alert.\n\nWHY NOT A CAMERA MONITOR?\nNo hardware to buy or mount. Nothing streamed or stored in the cloud. No wifi pairing, no accounts, no recurring fees. Just open the app and tap once — the iPhone you already own becomes a gentle set of ears.\n\nSIMPLE, HONEST PRICING\nOne-time purchase. No subscription, no in-app purchases, no ads. Every feature — Apple Watch alerts, sound levels, Sleep History, themes, and on-device privacy — is included, with free updates.\n\nREQUIREMENTS\niPhone with iOS 17 or later. Apple Watch is optional but recommended for wrist alerts.\n\nA GENTLE NOTE ON SAFETY\nLittle Bird is a convenience aid, not a medical or safety device, and not a substitute for adult supervision. It can't guarantee it will catch every cry — detection can be affected by background noise, distance, volume, and device settings. Always keep your baby within safe reach and follow safe-sleep guidance.\n\nMade with love, for little ones and the parents who watch over them.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/36/d1/9736d12b-7bf9-f5de-7dfb-156f5cfce4c8/screnbird4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/82/5c/6a825c52-215e-e8d6-dcf7-4d38a322ca71/04-watch.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/40/92/7a409283-f673-bd0a-b4d9-7976dc5c18bf/03-detection.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/ba/18/a6ba1876-0e16-240b-7612-a6c070a7661b/screnbird1.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/little-bird-baby-tracker/id6785305490?uo=4",
+    "store": "appstore"
+  },
+  "No Captain Allowed": {
+    "name": "No Captain Allowed!",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794350/header.jpg?t=1652883413",
+    "description": "Play with 1-4 players online or local in this co-op roguelike game as you and the crew manage a vehicle to escape this crazy world.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794350/ss_54ca4f30566073d399cbf1ff84adc4e4ab25e07a.600x338.jpg?t=1652883413",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794350/ss_be5ffbac5ed331151ac17f47b2d2e1647cf545d0.600x338.jpg?t=1652883413",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794350/ss_9c62b622c362ac260b0306b14eeb65fd06aa3b96.600x338.jpg?t=1652883413",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794350/ss_452eb00bd0e7e889009432646036d02c3acd9179.600x338.jpg?t=1652883413"
+    ],
+    "store_url": "https://store.steampowered.com/app/794350",
+    "store": "steam"
+  },
+  "Hole.io": {
+    "name": "Hole.io - Original Hole Game",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/a6/c2/bca6c2bd-2e9a-5319-882f-69d2362474f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Welcome to Hole.io, the wildly satisfying eat-the-world game played by millions! Drop into busy New York, a creaky pirate cove, or a glowing sci-fi metropolis - and swallow it whole. Cars, lampposts, hot dogs and even giant skyscrapers! \n\nWhether you've got five minutes while watching your favorite show or an hour to unwind before bed, just tap, glide, and watch the city crumble into a black hole. No pressure, no stress - just the pure, oddly relaxing joy of eating everything in sight. \n\nEAT EVERYTHING\nStart tiny, barely big enough to swallow a trash can. Grow huge, big enough to gulp down skyscrapers in one bite. The bigger you get, the louder the crunch. Pure satisfaction.  \n\nTHE PERFECT BREAK \nEasy to learn, instantly satisfying. Play in short bursts: morning coffee, lunch break, evening unwind. A relaxing, oddly soothing game for casual players.  \n\nWHY YOU'LL LOVE IT \n- Wonderfully simple controls - just swipe and glide.\n- Insanely satisfying gameplay - swallow, smash, and clear the map.\n- Beautiful, vibrant 3D worlds packed with detail.\n- Free to play, easy to love. \n\nReady to swallow the world? Download Hole.io now and find out why millions of players can't put it down. Time to feed the black hole. \n\nYour privacy is crucial to us. Review our comprehensive privacy policy at https://www.voodoo.io/privacy \n\nTERMS OF SERVICE: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/f5/81/40f581c5-a850-ccc3-1287-268d3c898c0f/Eat_1242x2208.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/b2/eb/0fb2eb48-494c-7a63-dcfd-acfe145da6b2/Grow_1242x2208.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/61/5f/36615fb2-3cba-60eb-cd24-98ffb9bccd64/Clear_1242x2208.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/29/e7/bf29e7cf-2a1f-4b4b-afd4-b692e9abaa66/Explore_1242x2208.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/hole-io-original-hole-game/id1389111413?uo=4",
+    "store": "appstore"
+  },
+  "UFC 4": {
+    "name": "UFC",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/34/6c/1a346c30-3f47-5718-4033-5375e4dc8375/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "Step into the Octagon with the official UFC app—home to UFC FIGHT PASS, the exclusive streaming service of the UFC and your gateway to premier global combat sports.\n\nExperience the thrill of live UFC events, access an unrivaled fight library, and enjoy exclusive programming that brings you closer to the action.\n\nUFC FIGHT PASS: The Ultimate Combat Sports Destination\n\t•\tLive Events: Stream weekly UFC action and 200+ global combat sports events.\n\t•\tFight Library: Relive legendary bouts, full fight cards, and behind-the-scenes content.\n\t•\tHistoric Archive: Explore classics from PRIDE, Strikeforce, WEC, and 50+ organizations.\n\t•\tOriginal Programming: Go deeper with hit series and original programming like Fightlore and Year of the Fighter.\n\t•\tMulti-Device Access: Watch on smartphone, tablet, computer, or smart TV.\n\nSubscription Menu\n\t•\tUFC FIGHT PASS is available as a monthly or annual subscription plan.\n\t•\tPayment will be charged to your iTunes/Apple Account at confirmation of purchase.\n\t•\tAll subscriptions auto-renew unless turned off at least 24 hours before the end of the current period.\n\t•\tSubscriptions can be managed by the user, including disabling auto-renewal, in Account Settings.\n\nUFC Pay-Per-View\n\t•\tWatch the biggest UFC fights live with Pay-Per-View, available as a separate in-app purchase (availability varies by region).\n\nContent & Availability\n\t•\tContent and features vary by region, blackout restrictions, and holdback windows.\n\t•\tLearn more: ufc.com/faq-ufctv-ufcfightpass\n\t•\tTerms of Use: ufc.com/terms\n\t•\tPrivacy Policy: ufc.com/privacy-policy\n\nDownload the UFC app today and unlock the complete combat sports experience—live fights, historic battles, and can't-miss programming, all in one place.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/97/71/68/9771681d-9ae7-9ce8-3533-335cc85b3c55/8371ea70-55ed-41d8-ade9-6f271a53bfb6_3392832655_Iphone_1242x2208_Slide1-2_01.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/29/9e/b3299edf-1301-a390-4df8-395d1f39215b/85433b67-a391-4939-982d-2e89793a9f0b_3392832655_Iphone_1242x2208_Slide1-2_02.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cd/82/72/cd82724d-139c-0a8a-b505-20bebe77060d/f6280dea-9a0c-4580-b254-48083d70f0a4_3392832655_Iphone_1242x2208_Slide3-8_01.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5f/4b/b6/5f4bb6c1-8576-03e6-e486-82c30dffc996/c1d45a7c-cb85-4934-b1b8-9b809a88a4f4_3392832655_Iphone_1242x2208_Slide3-8_02.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/ufc/id534568162?uo=4",
+    "store": "appstore"
+  },
+  "Brain Puzzle 3": {
+    "name": "Brain Puzzle 3: Crazy Mind",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/ae/05/f2ae05f0-b5b8-e098-2ddc-e93898074db3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Warning: This game may cause intermittent frustration, sudden bursts of laughter, and a strong desire to show off to your friends!\n\nWelcome to Brain Puzzle 3: Crazy Mind, the newest adventure in the Brain Puzzle series!\n\nGet ready for an exciting Brain Puzzle game experience filled with creative challenges, tricky levels, and unexpected solutions. Brain Puzzle 3 brings you a collection of fun brain puzzle challenges, clever brain puzzle levels, and unique brain puzzle adventures designed to test your creativity, logic, and problem-solving skills.\n\nWhether you love brain puzzle games, logic games, visual puzzles, or brain teasers, Crazy Mind offers endless brain puzzle challenges that will keep your mind active and entertained.\n\nThink you're smart enough?\nTry Brain Puzzle 3 and discover how powerful your mind really is!\n\nGame Features:\n\nHundreds of Brain Puzzle Challenges:\nExplore a massive collection of brain puzzle levels, including logic puzzles, visual challenges, reaction tests, and creative thinking games. Every brain puzzle challenge is designed to surprise you and test your thinking skills.\n\nA New Generation of Brain Puzzle Games:\nBrain Puzzle 3 combines simple gameplay with clever designs, creating a relaxing yet challenging brain puzzle experience for players of all ages.\n\nCreative Brain Puzzle Adventure:\nEnjoy a variety of brain puzzle games featuring tricky questions, unexpected solutions, and imaginative puzzle designs. Each brain puzzle level brings a fresh challenge.\n\nTrain Your Brain Every Day:\nDevelop your observation, memory, logical thinking, and problem-solving abilities through fun brain puzzle games and exciting brain training challenges.\n\nPlay Anytime, Anywhere:\nEnjoy quick brain puzzle challenges whenever you want. A few minutes of Brain Puzzle 3 gameplay can give your mind an exciting workout.\n\nStop wasting time with endless scrolling!\nJoin millions of puzzle fans and start your Brain Puzzle 3 adventure today!\n\nDownload Brain Puzzle 3: Crazy Mind now and experience the ultimate brain puzzle game!\n\nContact Email: xiaobuinfo2019@gmail.com\nWebsite: https://www.smallstepinfo.com",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/66/9e/03669ede-fd98-49ed-24c4-8fcc768f901c/L149.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/2c/8f/0f2c8f98-b8e5-1c10-50be-5ea76831ea3e/L169.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/4d/d3/514dd3ec-cc01-6af4-b5d8-21aa2e9696ea/L165ios.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/9c/f5/309cf52b-577b-1bb6-ab5a-928d05d547a0/level_114.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/brain-puzzle-3-crazy-mind/id6756482832?uo=4",
+    "store": "appstore"
+  },
+  "Rotate Rings": {
+    "name": "Rotate Rings",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/fb/42/95fb4241-1c58-78e7-9057-25927d4ad5b9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+    "description": "Spin, align, and unlock! Welcome to Rotate Rings — the ultimate spatial logic puzzle designed to relax your mind and sharpen your brain.\nObserve the interlocked structures, rotate each ring, and line up the hidden gaps to break the locks layer by layer. Simple to learn, deeply satisfying to master.\nHOW TO PLAY\n• Rotate: Tap and drag to spin rings to the target angle.\n• Align: Match the open gaps across multiple layers.\n• Untangle: Free the interlocking loops one by one.\n• Solve: Plan your moves carefully to clear stages efficiently.\nKEY FEATURES\n• Satisfying Tactile Feel: Smooth physics, fluid animations, and crisp unlock feedback.\n• Clever Mechanics: Master diverse shapes — C-locks, D-rings, S-flex links, and triangle frames.\n• Hundreds of Levels: Thoughtfully handcrafted puzzles with a smooth difficulty curve.\n• Smart Boosters: Stuck on a complex knot? Use hints to reveal the next move.\n\nReady to untangle the chaos?Download Rotate Rings today and test your spatial logic!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/5c/16/be5c1622-ed6a-e7fb-0c5c-cc5db8ae45bd/1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/8b/ae/728baea4-3724-0429-08ec-2e9d996d5a78/2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/06/cd/9906cdb3-b192-b8c8-74b9-afbd88f7ec1f/7.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/33/19/f13319f5-f7e8-f6a7-8402-20f88deda227/4.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/rotate-rings/id6793924927?uo=4",
+    "store": "appstore"
+  },
+  "Queens": {
+    "name": "Queens Master: Sudoku Puzzle",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/5d/bf/4d5dbfb8-3601-7c34-140a-9d0e2bf71e2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "A game of royal logic. One Queen per color. Zero shared lines. Absolute focus.\n\nLooking for a pure logic puzzle that respects your intelligence—and your time? Welcome to Queens Master, a sleek, minimalist brain-teaser that combines the elegant spatial deduction of Sudoku with the razor-sharp tactics of Chess.\n\nThe concept takes seconds to learn but hours to master. Your mission is simple: claim the grid. But a true monarch never shares power.\n\n Simple Rules. Absolute Strategy.\n • One Monarch Per Realm: The board is divided into distinct colored zones. You must place exactly one Queen in each colored zone.\n • The Royal Distance: Queens are fiercely independent. They cannot share a row, share a column, or touch each other—not even diagonally.\n • High-Stakes Deduction: Double-tap a tile to place your Queen. You have only three lives per match. Guessing will cost you; flawless logic will crown you.\n\nWhy Queens Master Earns Your Time\n\nZero Intrusive Ads\nWe believe a great puzzle requires uninterrupted focus. Queens Master features no mid-game forced ad breaks. Just pure, unadulterated logic.\n\nDaily Trials & Global Ranks\nWake up to a brand-new, hand-crafted Daily Challenge every morning. Solve it flawlessly to maintain your streak and climb the global leaderboards against the sharpest minds in the world.\n\nMinimalist Polish, Infinite Depth\nFeaturing an elegant, eye-straining-free dark mode, satisfying tactile haptics, and thousands of unique levels that scale from relaxing to mind-bending.\n\nThe Premium Puzzle Experience\nQueens Master doesn’t hijack your attention with flashing lights, cheap gimmicks, or endless freemium grinds. It earns your time through flawless design and a deeply satisfying logic loop that stays with you long after you put your phone down.\n\nClaim your throne. Download Queens Master today.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/8c/53/598c5354-b491-002e-c224-e1a9d7b9ba93/iPhoneEng1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/7f/ce/df7fced2-df64-5a0f-4db8-019173c23996/iPhoneEng2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/3e/8f/f83e8f86-5c04-b1fa-e5c6-b02b42ea4be9/iPhoneEng3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/08/ab/1e08abdc-9ece-cc03-b242-7f4b4b4f909d/iPhoneEng4.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/queens-master-sudoku-puzzle/id6741799909?uo=4",
+    "store": "appstore"
+  }
 }
