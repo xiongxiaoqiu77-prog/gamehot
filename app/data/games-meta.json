@@ -15374,5 +15374,32 @@
     "store": "appstore"
   },
   "Wii Sports": null,
-  "Wii Fit": null
+  "Wii Fit": null,
+  "Grand Theft Auto V（GTA 5）": null,
+  "Oblivion Remastered": {
+    "name": "The Elder Scrolls IV: Oblivion Remastered",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/a7cee9165bb1bfc092c390c5cff215ce0e381dfc/header.jpg?t=1786648304",
+    "description": "Explore Cyrodiil like never before with stunning new visuals and refined gameplay in The Elder Scrolls IV: Oblivion™ Remastered.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/3cfe517f1464aa4d77df744c1e3d96e506da378d/ss_3cfe517f1464aa4d77df744c1e3d96e506da378d.600x338.jpg?t=1786648304",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/27619a5ffb8d3b41d807a0387dc0a3d3616d4b48/ss_27619a5ffb8d3b41d807a0387dc0a3d3616d4b48.600x338.jpg?t=1786648304",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5d342842ed33010aac7dfa9e04b350a3a8911ef3/ss_5d342842ed33010aac7dfa9e04b350a3a8911ef3.600x338.jpg?t=1786648304",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e/ss_c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e.600x338.jpg?t=1786648304"
+    ],
+    "store_url": "https://store.steampowered.com/app/2623190",
+    "store": "steam"
+  },
+  "First Light": {
+    "name": "First Light: Bible & Prayer",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/9e/3c/629e3caa-9416-3c0f-b64a-cce49836e454/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+    "description": "Scripture Before Scrolling\n\nTired of opening Instagram before opening your Bible? First Light flips it. Pick the apps that pull you in, and we'll keep them locked until you finish your morning Scripture reading. The phone that's been distracting you becomes the thing that holds you accountable. Your apps unlock when God's Word does.\n\nBuild the Habit, Effortlessly\n\n- Pre-Reading Prayer: Start every session with a calming opening prayer — listen to a male or female voice, or follow along quietly.\n- Timed Reading Session: A focused, distraction-free Bible reader with chapter tracking. Read for as long as you want, every chapter counts.\n- Reflection Notes: A quiet space to capture what stood out — saved with every session for revisiting.\n- Apps Unlock When You're Done: Finish your reading and your blocked apps unlock with a celebration. Earned, not given.\n- Multiple Bible Translations: Reading options included for different Christian traditions. Switch any time in Settings.\n\nA Companion That Grows With You\n\n- Lumen, Your Reading Companion: A glowing presence that grows from a flicker to a full radiant flame as your streak builds — ten stages across your first thirty days. Real visual proof of how far you've come.\n- Streak Tracking: Current streak, best streak, and a weekly calendar that fills in day by day.\n- Saved Verses & Bookmarks: Tap to save the verses that hit. Highlight passages and revisit them anywhere.\n- Share a Verse: Turn any verse into a beautiful image card — light or dark, square or story — and send it to a friend or post it in one tap.\n- Prayer List: Active and answered prayers in one place — a quiet record of God's faithfulness over weeks and months.\n\nCustomizable Accountability\n\n- Multi-Schedule Blocking: Different blocking windows for weekdays, weekends, evenings — whatever fits your rhythm.\n- Pick Your Own Apps: Block exactly the apps that distract you. No all-or-nothing.\n- Configurable Reset Hour: \"Today\" starts when your morning starts, not at midnight.\n- Daily Reminders: Notifications that line up with your blocking schedule.\n- Live Activity: A glance at your lock screen shows your active reading session.\n- Mindful Access: Keep certain apps blocked after reading, and unblock them for a short time.\n\nWidgets for Home & Lock Screen\n\n- Verse of the Day in four sizes\n- Prayer List widget with live counts and your top three active prayers\n- At-a-glance progress without opening the app\n\nReady to Make Scripture the First Thing You Open?\n\nStop opening apps that drain you and start opening the One that fills you. Whether you're rebuilding a daily Bible habit, fighting phone addiction, or just want a quieter morning — First Light is built to help. Download First Light now and let your phone work for your faith, not against it.\n\nSubscription Terms\n\n- Payment is charged to your Apple ID account at confirmation of purchase\n- Subscription automatically renews unless cancelled at least 24 hours before the end of the current period\n- Your account will be charged for renewal within 24 hours prior to the end of the current period\n- Manage or cancel your subscription anytime in Settings → Apple ID → Subscriptions\n- Any unused portion of a free trial is forfeited when purchasing a subscription\n\n---\n\nFirst Light Terms of Service - https://www.softcrunchlabs.com/terms/first-light\nFirst Light Privacy Policy - https://www.softcrunchlabs.com/privacy/first-light",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/e0/ce/e2e0cec3-0952-8c83-b009-547ebba12f5c/07-start-your-day.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/22/d4/8922d4b7-006e-3e91-a726-53599fd42ad0/06-reviews.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/96/b2/f096b22e-2609-958d-d633-b538f68637df/05-bible-before-scroll.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/a4/2a/6fa42a4a-72b2-b7d5-39fc-99e78d0d9641/04-meet-lumen.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/first-light-bible-prayer/id6761740019?uo=4",
+    "store": "appstore"
+  }
 }
