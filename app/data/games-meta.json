@@ -15847,5 +15847,18 @@
     "store_url": "https://apps.apple.com/us/app/pok%C3%A9mon-champions/id6741503079?uo=4",
     "store": "appstore"
   },
-  "GTA VI（GTA 6）": null
+  "GTA VI（GTA 6）": null,
+  "Mouse: P.I. For Hire": {
+    "name": "MOUSE: P.I. For Hire",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1794953576",
+    "description": "Join private investigator Jack Pepper on a guns blazing, jazz-fueled adventure in MOUSE: P.I. For Hire. MOUSE combines the charm of hand-drawn rubber hose animation inspired by the classic cartoons of the 1930’s with the adrenaline and action of an explosive first person shooter.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/1421d042bc447e6cc39ce8d794006dd4e6e9d19a/ss_1421d042bc447e6cc39ce8d794006dd4e6e9d19a.600x338.jpg?t=1794953576",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/2b9d88085cefee83819b2facebb8d918ee340c82/ss_2b9d88085cefee83819b2facebb8d918ee340c82.600x338.jpg?t=1794953576",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/2edeb5f746f960b513a617de3ad6c650830d7cc3/ss_2edeb5f746f960b513a617de3ad6c650830d7cc3.600x338.jpg?t=1794953576",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/a0c2188ff0e0b874783af8657b1e24132a6b2285/ss_a0c2188ff0e0b874783af8657b1e24132a6b2285.600x338.jpg?t=1794953576"
+    ],
+    "store_url": "https://store.steampowered.com/app/2416450",
+    "store": "steam"
+  }
 }
