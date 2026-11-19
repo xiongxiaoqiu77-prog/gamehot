@@ -1,493 +1,85 @@
 {
-  "updated": "2026-11-19",
-  "generated_at": "2026-11-19T07:00:47.567752",
+  "updated": "2026-11-20",
+  "generated_at": "2026-11-20T07:00:05.534900",
   "articles": [
     {
-      "id": "0c14ad66b6",
-      "title": "解读 SayGames 的 Barbie 联动与 My Perfect Hotel 背后的 LiveOps 策略",
-      "summary": "文章拆解 SayGames 与 Barbie 的品牌联动，以及 My Perfect Hotel 的 LiveOps 运营策略。对休闲手游团队理解联动活动、长线运营与留存变现设计有参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWpSc29hYTF6RkNLYnEtQXFpenVKWDNWVU02cWRfaThJR0YydHQyNmlEeFJoRHB3NlBtUVhoVzBUV014NnZqV2hibXZGRzNRdklFbjJSckltdkwzV3RvaEhXTzhLMU1ha3RHRHk5Z0VLNTI5a2FFRjgxVGZtZkZvLTF6a0Y1NUxHa01Ub1ZCX3A3dWZBbEtDbWk0b3luVlA0QVY5SlkzbGZxSWVRWTRnY1NVMDhqQQ?oc=5",
-      "source": "Google News",
+      "id": "1c1a1a2a9e",
+      "title": "新“反编译”视频称 Monopoly Go 借鉴老虎机机制，Royal Kingdom 暗中提高关卡难度",
+      "summary": "数据科学家兼内容创作者 Ayoships 通过视频拆解称，Monopoly Go 的奖励与随机机制借鉴老虎机，而 Royal Kingdom 会动态提高关卡难度。该内容在 Instagram 获得百万级播放，对三消/消除类游戏的变现、难度曲线与伦理设计有直接参考价值。",
+      "url": "https://mobilegamer.biz/new-decompiling-videos-allege-monopoly-go-borrows-from-slot-machines-and-royal-kingdom-secretly-makes-levels-harder/",
+      "source": "Mobile Gamer Biz",
       "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-11-18T12:29:00",
-      "games": [
-        {
-          "name": "My Perfect Hotel",
-          "desc": "SayGames 旗下酒店模拟经营游戏，标题提及围绕其展开 LiveOps 策略分析。"
-        }
-      ]
-    },
-    {
-      "id": "37828aaf74",
-      "title": "Rockstar 的 GTA 手游收入突破 9500 万美元，免费游玩竞品涌现",
-      "summary": "文章指出 Rockstar 的 GTA 手游累计收入超过 9500 万美元，并介绍 Tencent、Chillbase、Hotta Studio 等免费游玩竞品借势 GTA VI 热度。对手游市场竞品观察有一定参考，但非休闲消除品类深度分析。",
-      "url": "https://mobilegamer.biz/rockstars-mobile-gta-games-pass-95m-as-free-to-play-contenders-emerge/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-18T15:01:16",
-      "games": [
-        {
-          "name": "GTA 6（GTA VI）",
-          "desc": "即将发售的开放世界动作冒险游戏，文章提及Rockstar与Netflix合作揭示其首段实机画面。"
-        },
-        {
-          "name": "Grand Theft Auto: San Andreas",
-          "desc": "Rockstar的开放世界动作冒险GTA手游，文章列为GTA手游收入最高约5600万美元、790万下载。"
-        },
-        {
-          "name": "GTA: Vice City – Definitive",
-          "desc": "GTA罪恶都市重制版手游，文章列为约1660万美元收入、1250万下载。"
-        },
-        {
-          "name": "Bully: Anniversary Edition",
-          "desc": "Rockstar校园题材开放世界动作冒险手游周年纪念版，文章列为约880万美元收入。"
-        },
-        {
-          "name": "Grand Theft Auto III",
-          "desc": "GTA系列开放世界动作冒险手游，文章列为约750万美元收入。"
-        },
-        {
-          "name": "GTA: Liberty City Stories",
-          "desc": "GTA自由城故事手游，文章列为约500万美元收入和4200万下载。"
-        },
-        {
-          "name": "Grand Theft Auto: The Trilogy",
-          "desc": "经典GTA三部曲合集手游，文章列为约440万美元收入。"
-        },
-        {
-          "name": "GTA: Chinatown Wars",
-          "desc": "俯视角GTA掌机/手游作品，文章列为约370万美元收入和1650万下载。"
-        },
-        {
-          "name": "Max Payne Mobile",
-          "desc": "Rockstar第三人称射击游戏Max Payne的手游版，文章列为约230万美元收入。"
-        },
-        {
-          "name": "GTA: San Andreas – Definitive",
-          "desc": "圣安地列斯重制版手游，文章列为约190万美元收入。"
-        },
-        {
-          "name": "Red Dead Redemption",
-          "desc": "Rockstar西部题材开放世界动作冒险游戏手游版，文章列为约110万美元收入。"
-        },
-        {
-          "name": "GTA III – Definitive",
-          "desc": "GTA III重制版手游，文章列为约47.7万美元收入。"
-        },
-        {
-          "name": "NTE: Neverness to Everness",
-          "desc": "Hotta Studio开发的“动漫版GTA”风格开放世界RPG，跨PC/PS5/iOS/Android，手游收入约4640万美元。"
-        },
-        {
-          "name": "OneState RP: Role Play Online",
-          "desc": "Chillbase的GTA式开放世界角色扮演手游，2022年推出后估算收入约9020万美元。"
-        },
-        {
-          "name": "Tower of Fantasy",
-          "desc": "Hotta开发的开放世界RPG，作为NTE开发团队前作被提及。"
-        }
-      ]
-    },
-    {
-      "id": "a62898d9a4",
-      "title": "数据摘要：Pixel Flow、Monster Hunter、10 月热门游戏、Nintendo 数据等",
-      "summary": "本周数据摘要汇总 Pixel Flow、Monster Hunter、10 月热门游戏、Nintendo 数据及多家公司业务更新。它可帮助从业者快速扫视手游与行业动态，但缺少对休闲玩法或变现的深度拆解。",
-      "url": "https://mobilegamer.biz/data-digest-pixel-flow-monster-hunter-octobers-top-games-nintendo-numbers-more/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-18T11:24:41",
-      "games": [
-        {
-          "name": "Pixel Flow",
-          "desc": "Loom Games的混合休闲解谜游戏，2026年Q3以3130万美元IAP收入位居同类榜首。"
-        },
-        {
-          "name": "Colony Flow",
-          "desc": "以蚂蚁殖民地为机制的混合休闲解谜游戏，10月排名上升并反超Pixel Flow。"
-        },
-        {
-          "name": "Block Out",
-          "desc": "Grand Games的混合休闲解谜游戏，进入前十且下载量超过2890万。"
-        },
-        {
-          "name": "Monster Hunter Outlanders",
-          "desc": "腾讯Level Infinite和Garena发行的开放世界RPG怪物猎人手游，上线两周多IAP收入超1020万美元。"
-        },
-        {
-          "name": "Monster Hunter Now",
-          "desc": "Scopely的怪物猎人手游，自2023年以来收入1.936亿美元。"
-        },
-        {
-          "name": "Roblox",
-          "desc": "用户生成内容游戏平台，10月移动端收入排名第一。"
-        },
-        {
-          "name": "Honor of Kings",
-          "desc": "腾讯MOBA手游，10月收入排名靠前。"
-        },
-        {
-          "name": "Gossip Harbor",
-          "desc": "合并解谜与剧情结合的手游，10月收入排名靠前。"
-        },
-        {
-          "name": "Royal Match",
-          "desc": "三消解谜手游，10月收入排名靠前。"
-        },
-        {
-          "name": "Whiteout Survival",
-          "desc": "冰雪生存策略手游，10月收入排名靠前。"
-        },
-        {
-          "name": "Free Fire",
-          "desc": "大逃杀射击手游，10月下载量第一。"
-        },
-        {
-          "name": "Block Blast",
-          "desc": "方块解谜手游，10月下载量排名靠前。"
-        },
-        {
-          "name": "Rotate Rings",
-          "desc": "旋转圆环解谜手游，8月上线后下载量1870万，10月下载第七。"
-        }
-      ]
-    },
-    {
-      "id": "9414991807",
-      "title": "Google Play 2026 年度最佳：Arknights: Endfield、Subway Surfers City 和 Zenless Zone Zero 获奖",
-      "summary": "Google Play 公布 2026 年度最佳游戏，Arknights: Endfield、Subway Surfers City、Zenless Zone Zero 等获奖，Warframe、Sea of Stars、Deep Rock Galactic: Survivor 也在列。该文是平台奖项资讯，对观察手游品类趋势有轻度参考。",
-      "url": "https://mobilegamer.biz/google-plays-best-of-2026-arknights-endfield-subway-surfers-city-and-zenless-zone-zero-among-winners/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-11-18T09:27:19",
-      "games": [
-        {
-          "name": "Arknights: Endfield",
-          "desc": "Gryphline的跨设备游戏，获Google Play 2026年度最佳游戏（除日韩外多数市场），并因Sidekick与PC跨端游玩受关注。"
-        },
-        {
-          "name": "Hololive Dreams",
-          "desc": "在日本区获得Google Play 2026年度最佳游戏的作品。"
-        },
-        {
-          "name": "MapleStory: Idle RPG",
-          "desc": "Nexon的放置RPG，获韩国区Google Play 2026年度最佳游戏。"
-        },
-        {
-          "name": "Moonlight Peaks",
-          "desc": "XSeed Games的吸血鬼农场模拟游戏，获最佳跨设备游戏。"
-        },
-        {
-          "name": "Neverness to Everness",
-          "desc": "Perfect World的跨设备游戏，在亚洲多个市场获最佳跨设备游戏。"
-        },
-        {
-          "name": "Warframe",
-          "desc": "Digital Extremes的多人游戏，获最佳多人游戏。"
-        },
-        {
-          "name": "Subway Surfers City",
-          "desc": "Sybo的即拿即玩游戏，获最佳即拿即玩游戏。"
-        },
-        {
-          "name": "Deep Rock Galactic: Survivor",
-          "desc": "Ghost Ship Publishing的独立游戏，获最佳独立游戏。"
-        },
-        {
-          "name": "Sea of Stars",
-          "desc": "Playdigious发行手游版，获最佳剧情游戏。"
-        },
-        {
-          "name": "Zenless Zone Zero",
-          "desc": "MiHoYo的持续运营动作游戏，获美洲和欧洲最佳持续运营游戏。"
-        },
-        {
-          "name": "Scarfall 2.0",
-          "desc": "Blast+ Games的印度制造游戏，获印度区最佳。"
-        },
-        {
-          "name": "Tukang Sate VS Ojol Rush",
-          "desc": "Own Games的印尼制造游戏，获印尼区最佳。"
-        },
-        {
-          "name": "Monster Hunter Outlanders",
-          "desc": "入围TGA 2026最佳移动游戏的开放世界RPG怪物猎人手游。"
-        },
-        {
-          "name": "Pokémon Champions",
-          "desc": "Pokémon系列对战游戏，入围TGA 2026最佳移动游戏。"
-        },
-        {
-          "name": "Where Winds Meet",
-          "desc": "开放世界武侠动作游戏，入围TGA 2026最佳移动游戏。"
-        }
-      ]
-    },
-    {
-      "id": "75e142fa20",
-      "title": "PlayStation在26亿美元数字垄断诉讼中胜诉",
-      "summary": "英国一项指控PlayStation利用数字垄断设定过高且不公平价格的26亿美元诉讼被驳回，且不会继续推进。该消息属于主机平台法律与商业动态，对三消/休闲手游从业者的直接参考价值有限。",
-      "url": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T18:14:35",
+      "score": 9,
+      "published_at": "2026-11-19T13:44:48",
       "games": []
     },
     {
-      "id": "3774508d4a",
-      "title": "《Clair Obscur: Expedition 33》叙事主管希望改变游戏资金分配方式",
-      "summary": "《Clair Obscur: Expedition 33》叙事主管 Jennifer Svedberg-Yen 在获奖后呼吁重新思考游戏资金优先事项。该文属游戏行业观点新闻，对休闲游戏玩法、数值与变现的直接参考有限。",
-      "url": "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding",
+      "id": "8f173c3fa4",
+      "title": "Apple 公布 App Store Awards 入围名单，Arknights: Endfield、Dave the Diver 和 Ball x Pit 在列",
+      "summary": "Apple 公布六大类别共 21 款游戏入围名单，获奖者将在未来几周揭晓。该资讯可用于观察移动游戏品质与平台推荐趋势，但与休闲消除玩法的直接关联有限。",
+      "url": "https://mobilegamer.biz/arknights-endfield-dave-the-diver-and-ball-x-pit-among-apples-app-store-awards-finalists/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-19T09:35:17",
+      "games": []
+    },
+    {
+      "id": "d946182817",
+      "title": "Ubisoft 在加拿大蒙特利尔和魁北克城裁员 166 人",
+      "summary": "Ubisoft 宣布在蒙特利尔与魁北克城工作室裁减 166 个岗位，理由为让资源与当前制作优先级和业务需求对齐。这两个工作室长期享受加拿大政府补贴，此次裁员反映欧美大厂收缩与成本重组的持续趋势，对休闲游戏从业者而言属于间接的行业环境信号。",
+      "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-18T19:02:15",
+      "published_at": "2026-11-19T17:53:00",
       "games": [
         {
-          "name": "Clair Obscur: Expedition 33",
-          "desc": "2025年广受好评、获奖众多的叙事驱动游戏，其叙事主管正推动改变游戏资金分配方式。"
+          "name": "Assassin's Creed",
+          "desc": "开放世界动作冒险与潜行刺杀系列。"
+        },
+        {
+          "name": "Far Cry",
+          "desc": "开放世界第一人称射击系列。"
+        },
+        {
+          "name": "Rainbow Six",
+          "desc": "注重战术配合的射击游戏系列。"
         }
       ]
     },
     {
-      "id": "e2998966d3",
-      "title": "Build a Rocket Boy 起诉所谓“破坏者”以偿还 6170 万英镑债务",
-      "summary": "MindsEye 开发商 Build a Rocket Boy 负债 6170 万英镑，计划通过起诉所谓“破坏者”追偿。该文属公司经营与诉讼动态，与休闲游戏设计运营无直接关系。",
-      "url": "https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt",
+      "id": "f831f68692",
+      "title": "为何批准 Dressmaker 立项并不容易",
+      "summary": "Free Lives 在预制作数据不看好受众的情况下仍推进 Dressmaker，并最终取得商业成功。文章讨论数据驱动立项与创作直觉之间的取舍，对休闲游戏立项和预制作评估有间接参考。",
+      "url": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T15:57:43",
+      "games": []
+    },
+    {
+      "id": "a965226aa8",
+      "title": "美国参议院听证会审视 Roblox 儿童安全，并考虑两党法案绕过强制仲裁",
+      "summary": "美国参议院小组委员会就 Roblox 儿童安全举行听证会，并考虑允许家庭和受害者绕过强制仲裁的两党法案。该动态对面向儿童和青少年用户的移动游戏平台合规有间接参考。",
+      "url": "https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-18T14:56:40",
-      "games": [
-        {
-          "name": "MindsEye",
-          "desc": "Build a Rocket Boy于2025年发行的游戏，其商业表现引发争议并成为诉讼与债务追偿话题的一部分。"
-        }
-      ]
+      "published_at": "2026-11-19T11:52:10",
+      "games": []
     },
     {
-      "id": "4233954382",
-      "title": "GTA 6 以八项提名领跑 2026 年 The Game Awards",
-      "summary": "GTA 6 获得 2026 年 The Game Awards 八项提名，包括年度游戏。该文属头部主机/PC 游戏奖项新闻，对休闲手游从业者参考有限。",
-      "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T09:12:10",
-      "games": [
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "Rockstar Games的开放世界动作冒险游戏，以八项提名领跑2026年TGA并入围年度游戏。"
-        },
-        {
-          "name": "Control Resonant",
-          "desc": "Remedy/Annapurna的科幻动作游戏，获六项提名并入围年度游戏。"
-        },
-        {
-          "name": "Resident Evil Requiem",
-          "desc": "Capcom的生存恐怖游戏，获六项提名并入围年度游戏。"
-        },
-        {
-          "name": "The Legend of Zelda: Ocarina of Time",
-          "desc": "任天堂的经典动作冒险游戏，获四项提名并入围年度游戏。"
-        },
-        {
-          "name": "007 First Light",
-          "desc": "IO Interactive的詹姆斯·邦德题材动作冒险游戏，获四项提名并入围年度游戏。"
-        },
-        {
-          "name": "Big Walk",
-          "desc": "House House的合作步行冒险游戏，获四项提名。"
-        },
-        {
-          "name": "Clair Obscur: Expedition 33",
-          "desc": "2025年TGA九项大奖得主，曾获12项提名并夺得年度游戏的叙事驱动RPG。"
-        },
-        {
-          "name": "Phantom Blade Zero",
-          "desc": "S-GAME的动作RPG，获年度游戏和最佳游戏指导等提名。"
-        },
-        {
-          "name": "Pragmata",
-          "desc": "Capcom的科幻动作冒险游戏，获最佳游戏指导提名。"
-        },
-        {
-          "name": "The Blood of Dawnwalker",
-          "desc": "Rebel Wolves/Bandai Namco的黑暗奇幻动作RPG，获最佳叙事提名。"
-        },
-        {
-          "name": "Mouse: P.I. For Hire",
-          "desc": "Fumi/PlaySide的卡通风格侦探射击游戏，获最佳艺术指导提名。"
-        },
-        {
-          "name": "Ace Combat 8: Wings of Theve",
-          "desc": "Bandai Namco Aces/Bandai Namco的空战游戏，获最佳配乐和最佳音效设计提名。"
-        },
-        {
-          "name": "Mixtape",
-          "desc": "Beethoven & Dinosaur/Annapurna的音乐叙事冒险游戏，获最佳配乐提名。"
-        },
-        {
-          "name": "Star Wars: Galactic Racer",
-          "desc": "Fuse Games/Secret Mode的星球大战题材赛车游戏，获最佳音效设计提名。"
-        },
-        {
-          "name": "Assassin's Creed Black Flag Resynced",
-          "desc": "Ubisoft Singapore/Ubisoft的刺客信条黑旗重制版，获无障碍创新提名。"
-        },
-        {
-          "name": "Forza Horizon 6",
-          "desc": "Playground Games/Xbox Game Studios的开放世界赛车游戏，获无障碍创新提名。"
-        },
-        {
-          "name": "Gears of War: E-Day",
-          "desc": "The Coalition/Xbox Game Studios的第三人称射击游戏，获无障碍创新提名。"
-        },
-        {
-          "name": "Marvel's Wolverine",
-          "desc": "Insomniac/Sony Interactive的超级英雄动作冒险游戏，获无障碍创新提名。"
-        },
-        {
-          "name": "Rhythm Heaven Groove",
-          "desc": "任天堂的节奏游戏，获无障碍创新提名。"
-        }
-      ]
-    },
-    {
-      "id": "ca67aeb548",
-      "title": "如何在动荡时期打造有归属感的公司文化",
-      "summary": "文章讨论游戏行业动荡期如何建设积极的公司文化。属组织管理话题，对休闲游戏团队管理有一般性启发，但并非玩法、变现或 LiveOps 分析。",
-      "url": "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T08:30:00",
-      "games": [
-        {
-          "name": "Rogue Fortune",
-          "desc": "Glowmade当前正在开发的新作，文中作为工作室文化讨论背景提及。"
-        },
-        {
-          "name": "King of Meat",
-          "desc": "Glowmade此前开发的游戏，文中作为工作室过往作品提及。"
-        }
-      ]
-    },
-    {
-      "id": "9331148111",
-      "title": "关于GTA 6的18条未经请求的第三方统计数据",
-      "summary": "文章汇总GTA 6发售前后涌现的第三方营销统计与媒体数据，反映这款大作引发的全球关注。对休闲游戏从业者而言，更多是行业热点观察，而非可直接借鉴的玩法或商业化分析。",
-      "url": "https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T17:03:10",
-      "games": [
-        {
-          "name": "GTA 6",
-          "desc": "Rockstar备受期待的开放世界动作冒险新作，文章围绕其发售带来的玩家行为、预载与市场影响展开。"
-        }
-      ]
-    },
-    {
-      "id": "a81a2ae311",
-      "title": "Sam Houser：在GTA 6中，Rockstar“试图创造一种超越期待并展示该媒介潜力的体验”",
-      "summary": "Rockstar总裁兼联合创始人Sam Houser在GTA 6发售时发表罕见声明，庆祝游戏首发及媒体口碑。内容属于头部大作发布动态，对休闲手游的直接参考价值有限。",
-      "url": "https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T15:56:30",
-      "games": [
-        {
-          "name": "GTA 6",
-          "desc": "Rockstar开放世界动作冒险系列新作，背景设定在Leonida与现代Vice City，强调叙事与世界体验。"
-        }
-      ]
-    },
-    {
-      "id": "9960be321d",
-      "title": "GTA 6尚未全面发售便创下媒体评分与直播观众纪录",
-      "summary": "文章报道GTA 6在欧洲和美国等主要市场正式发售前，已刷新媒体评分和直播观看纪录。属于重大新游发布资讯，与休闲消除品类的设计运营关联较弱。",
-      "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T15:24:20",
-      "games": [
-        {
-          "name": "GTA 6",
-          "desc": "Rockstar开放世界动作冒险新作，发售前便创下媒体评分与直播观众纪录。"
-        },
-        {
-          "name": "Valorant",
-          "desc": "Riot的战术射击游戏，其2020年封测曾保持直播同时观看人数纪录。"
-        },
-        {
-          "name": "The Legend of Zelda: Ocarina of Time",
-          "desc": "任天堂经典动作冒险游戏，1998年原版在Metacritic以22篇评测获得99分。"
-        }
-      ]
-    },
-    {
-      "id": "35127336bb",
-      "title": "分析师：第三季度主机出货量同比下降36.5%至640万台，正值大作发售前",
-      "summary": "S&P Global Market Intelligence Kagan数据显示，第三季度主机出货量同比下滑36.5%至640万台。文章提供硬件市场数据，可作为行业大盘参考，但与休闲手游的直接关联有限。",
-      "url": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T10:58:50",
-      "games": [
-        {
-          "name": "Grand Theft Auto 6",
-          "desc": "Rockstar开放世界动作冒险大作，分析认为其可短期提振硬件销售但受主机高价限制。"
-        },
-        {
-          "name": "The Legend of Zelda: Ocarina of Time remake",
-          "desc": "《塞尔达传说：时之笛》重制版，文章提及此类大作可能临时带动硬件销量。"
-        }
-      ]
-    },
-    {
-      "id": "6a32dccd75",
-      "title": "GTA 6 媒体共识：历经 13 年等待后获得普遍赞誉",
-      "summary": "文章汇总 GTA 6 在 13 年等待后获得普遍好评，并提到超 1700 万预购和 16 亿美元收入。它展示顶级 IP 的市场表现，但对休闲游戏设计的直接参考有限。",
-      "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-18T14:38:20",
-      "games": [
-        {
-          "name": "Grand Theft Auto 6（GTA 6）",
-          "desc": "开放世界动作冒险游戏，背景设定在Rockstar的Leonida，围绕Jason和Lucia展开，媒体评分99并获普遍赞誉。"
-        },
-        {
-          "name": "The Legend of Zelda: The Ocarina of Time",
-          "desc": "N64经典动作冒险游戏，被文章作为GTA 6之前Metacritic史上最佳游戏对比提及。"
-        }
-      ]
-    },
-    {
-      "id": "4961112530",
-      "title": "“史上最伟大游戏”：GTA VI 获现象级评价之际，Take-Two 市值上涨",
-      "summary": "文章报道 GTA VI 获得现象级媒体评价后 Take-Two 市值上涨。它体现头部大作对资本市场的影响，但与休闲手游的设计和运营关联较弱。",
-      "url": "https://gameworldobserver.com/2026/11/18/the-greatest-game-of-all-time-amid-phenomenal-reviews-of-gta-vi-take-twos-market-value-rises",
+      "id": "358b36159a",
+      "title": "前 Take-Two 负责人解释现代 AAA 游戏开发为何不可持续：就像把钱和人埋进土里",
+      "summary": "前 Take-Two 负责人 Ben Feder 在采访中批评现代 AAA 游戏开发成本高企、不可持续，称其像把钱和人埋进土里。该观点有助于理解游戏产业成本结构，但与休闲手游的直接关联有限。",
+      "url": "https://gameworldobserver.com/2026/11/19/its-like-burying-money-and-people-in-the-ground-the-former-head-of-take-two-explained-why-developing-modern-aaa-games-is-unprofitable",
       "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-18T14:36:14",
-      "games": [
-        {
-          "name": "GTA VI（GTA 6）",
-          "desc": "Rockstar开放世界动作冒险新作，媒体评分99并被称为“史上最伟大游戏”，推动Take-Two市值上涨。"
-        }
-      ]
+      "published_at": "2026-11-19T14:18:25",
+      "games": []
     }
   ]
 }
