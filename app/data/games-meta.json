@@ -16383,5 +16383,44 @@
     "store_url": "https://store.steampowered.com/app/1651560",
     "store": "steam"
   },
-  "EVE: Frontier": null
+  "EVE: Frontier": null,
+  "The Binding of Isaac: Repentance+": {
+    "name": "The Binding of Isaac: Repentance",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/header.jpg?t=1732645274",
+    "description": "The Binding of Isaac: Repentance is the ultimate version of Binding of Isaac, featuring all content from the Rebirth, Afterbirth and Afterbirth+ expansions, plus hundreds of new features and improvements. The ultimate edition of the genre-defining roguelike!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_368e275491bce7f2d43ce32bc451eede42d176ad.600x338.jpg?t=1732645274",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_a142fd0ef647fb0c5dad64c36d6f21c688a7881f.600x338.jpg?t=1732645274",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_886598ad4e9c40e6486e2375b0f00712522d999d.600x338.jpg?t=1732645274",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_b463612e044a3e40ebda68d6662fb056d4209906.600x338.jpg?t=1732645274"
+    ],
+    "store_url": "https://store.steampowered.com/app/1426300",
+    "store": "steam"
+  },
+  "The Binding of Isaac: Repentance": {
+    "name": "The Binding of Isaac: Repentance",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/header.jpg?t=1732645274",
+    "description": "The Binding of Isaac: Repentance is the ultimate version of Binding of Isaac, featuring all content from the Rebirth, Afterbirth and Afterbirth+ expansions, plus hundreds of new features and improvements. The ultimate edition of the genre-defining roguelike!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_368e275491bce7f2d43ce32bc451eede42d176ad.600x338.jpg?t=1732645274",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_a142fd0ef647fb0c5dad64c36d6f21c688a7881f.600x338.jpg?t=1732645274",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_886598ad4e9c40e6486e2375b0f00712522d999d.600x338.jpg?t=1732645274",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426300/ss_b463612e044a3e40ebda68d6662fb056d4209906.600x338.jpg?t=1732645274"
+    ],
+    "store_url": "https://store.steampowered.com/app/1426300",
+    "store": "steam"
+  },
+  "Mewgenics": {
+    "name": "Guide for Mewgenics",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/b1/8a/acb18a5e-ec40-e31e-5493-7491a60de7d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "Guide for Mewgenics is an unofficial companion app built to help you find game information quickly.\n\nExplore complete, linked sections for:\n- Acts and chapters\n- Weather and events\n- Disorders\n- Classes and abilities\n- NPCs and unlock rewards\n- Enemies, mini-bosses, and bosses\n- Weapons, trinkets, armor, and pickups\n\nDesigned for fast mobile reference:\n- Open any section and browse entries with names and images\n- Tap entries for deeper details\n- Navigate related content through internal links\n- Fully offline support\n\nSpecial thanks to https://mewgenics.wiki.gg/ and all its contributors.\n\n------------------------------------------------------------------------------------------\n\nPrivacy Policy: https://mewgenicsguide.app/privacy\nTerms of Service: https://mewgenicsguide.app/terms\n\n------------------------------------------------------------------------------------------\n\nDisclaimer:\n\nGuide for Mewgenics is a fan-made reference app and is not affiliated with or endorsed by the original game creators.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/23/84/12238459-a7f9-e40b-fd9f-d4f2da90d5dd/Apple_iPhone_16_Pro_Max_Screenshot_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/72/14/de721498-8ab9-7b9b-f3ae-7cca59518af8/Apple_iPhone_16_Pro_Max_Screenshot_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/10/a8/3810a818-c14a-8530-9c00-c681ab701cc3/Apple_iPhone_16_Pro_Max_Screenshot_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/88/01/758801c1-cd67-d2d0-3574-4abcf37811c2/Apple_iPhone_16_Pro_Max_Screenshot_2.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/guide-for-mewgenics/id6759063086?uo=4",
+    "store": "appstore"
+  }
 }
