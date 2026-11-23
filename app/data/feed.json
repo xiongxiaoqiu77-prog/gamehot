@@ -1,85 +1,227 @@
 {
-  "updated": "2026-11-20",
-  "generated_at": "2026-11-20T07:00:05.534900",
+  "updated": "2026-11-24",
+  "generated_at": "2026-11-24T07:00:13.888548",
   "articles": [
     {
-      "id": "1c1a1a2a9e",
-      "title": "新“反编译”视频称 Monopoly Go 借鉴老虎机机制，Royal Kingdom 暗中提高关卡难度",
-      "summary": "数据科学家兼内容创作者 Ayoships 通过视频拆解称，Monopoly Go 的奖励与随机机制借鉴老虎机，而 Royal Kingdom 会动态提高关卡难度。该内容在 Instagram 获得百万级播放，对三消/消除类游戏的变现、难度曲线与伦理设计有直接参考价值。",
-      "url": "https://mobilegamer.biz/new-decompiling-videos-allege-monopoly-go-borrows-from-slot-machines-and-royal-kingdom-secretly-makes-levels-harder/",
-      "source": "Mobile Gamer Biz",
+      "id": "53107d1ade",
+      "title": "为什么节假日并不像你想象的那样驱动移动游戏支出——GameAnalytics",
+      "summary": "GameAnalytics 基于 Black Friday、Cyber Monday、Christmas 等节点数据，说明移动游戏收入受节假日零售促销的影响远小于多数厂商预期。文章帮助休闲手游团队重新校准活动排期与变现预期，避免照搬电商日历。",
+      "url": "https://www.gameanalytics.com/blog/holiday-seasons-and-monetization",
+      "source": "GameAnalytics",
       "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-11-19T13:44:48",
+      "score": 8,
+      "published_at": "2026-11-23T09:58:43",
       "games": []
     },
     {
-      "id": "8f173c3fa4",
-      "title": "Apple 公布 App Store Awards 入围名单，Arknights: Endfield、Dave the Diver 和 Ball x Pit 在列",
-      "summary": "Apple 公布六大类别共 21 款游戏入围名单，获奖者将在未来几周揭晓。该资讯可用于观察移动游戏品质与平台推荐趋势，但与休闲消除玩法的直接关联有限。",
-      "url": "https://mobilegamer.biz/arknights-endfield-dave-the-diver-and-ball-x-pit-among-apples-app-store-awards-finalists/",
+      "id": "5c2f7f7974",
+      "title": "欧盟就《数字公平法案》展开咨询",
+      "summary": "欧盟委员会就拟议的《数字公平法案》公开征求意见，该法案将对战利品箱、虚拟货币和儿童游戏内购引入新规。对休闲游戏变现策略与合规运营有重要参考价值。",
+      "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-23T17:33:10",
+      "games": []
+    },
+    {
+      "id": "a10c6e6f34",
+      "title": "Monopoly Go 推出 Avengers: Doomsday 赛季，为 Scopely 第三次 Marvel 联动",
+      "summary": "Monopoly Go 上线 Avengers: Doomsday 主题赛季，这是 Scopely 自 2024 年以来第三次引入 Marvel IP。该案例展示了头部休闲手游如何通过高频大 IP 联动驱动 LiveOps 节奏与商业化，对做联动排期和 IP 谈判的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/monopoly-go-gets-an-avengers-doomsday-season-in-scopelys-third-marvel-crossover/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-11-19T09:35:17",
-      "games": []
-    },
-    {
-      "id": "d946182817",
-      "title": "Ubisoft 在加拿大蒙特利尔和魁北克城裁员 166 人",
-      "summary": "Ubisoft 宣布在蒙特利尔与魁北克城工作室裁减 166 个岗位，理由为让资源与当前制作优先级和业务需求对齐。这两个工作室长期享受加拿大政府补贴，此次裁员反映欧美大厂收缩与成本重组的持续趋势，对休闲游戏从业者而言属于间接的行业环境信号。",
-      "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-19T17:53:00",
+      "published_at": "2026-11-23T18:00:13",
       "games": [
         {
-          "name": "Assassin's Creed",
-          "desc": "开放世界动作冒险与潜行刺杀系列。"
-        },
-        {
-          "name": "Far Cry",
-          "desc": "开放世界第一人称射击系列。"
-        },
-        {
-          "name": "Rainbow Six",
-          "desc": "注重战术配合的射击游戏系列。"
+          "name": "Monopoly Go",
+          "desc": "一款由 Scopely 发行的移动端大富翁主题休闲棋盘游戏，常通过影视/IP 联动赛季和收集活动扩展内容。"
         }
       ]
     },
     {
-      "id": "f831f68692",
-      "title": "为何批准 Dressmaker 立项并不容易",
-      "summary": "Free Lives 在预制作数据不看好受众的情况下仍推进 Dressmaker，并最终取得商业成功。文章讨论数据驱动立项与创作直觉之间的取舍，对休闲游戏立项和预制作评估有间接参考。",
-      "url": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
-      "source": "Game Developer",
+      "id": "5e2e96dd60",
+      "title": "得益于 GTA VI，Rockstar 移动游戏下载量增长超过四倍",
+      "summary": "GTA VI 的热度带动 Rockstar 移动游戏下载量增长逾四倍，目前日均下载超过 60 万次。该案例说明跨平台 IP 联动对移动端获量的价值，对休闲手游发行有参考意义。",
+      "url": "https://mobilegamer.biz/rockstars-mobile-downloads-more-than-quadrupled-thanks-to-gta-vi/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-11-19T15:57:43",
-      "games": []
+      "score": 6,
+      "published_at": "2026-11-23T14:57:32",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "一款开放世界犯罪动作游戏，其主机发售带动Rockstar旗下多款移动端旧作下载量激增。"
+        },
+        {
+          "name": "Grand Theft Auto: Vice City",
+          "desc": "一款开放世界犯罪题材移动端移植作，原版与免费Definitive版合计下载量在GTA 6发售前后大幅上升。"
+        },
+        {
+          "name": "GTA: Liberty City Stories",
+          "desc": "一款开放世界犯罪题材移动端移植作，近30天下载量随GTA 6热度明显攀升。"
+        },
+        {
+          "name": "Chinatown Wars",
+          "desc": "一款采用俯视视角的开放世界犯罪题材移动端游戏，下载量在GTA 6发售前后上涨。"
+        },
+        {
+          "name": "Bully: Anniversary Edition",
+          "desc": "一款校园题材开放世界动作冒险移动端作品，下载量随Rockstar旧作回热而上升。"
+        },
+        {
+          "name": "GTA III – Definitive",
+          "desc": "一款开放世界犯罪题材重制版移动端作品，下载量在GTA 6发售前后增长。"
+        },
+        {
+          "name": "Grand Theft Auto: San Andreas",
+          "desc": "一款开放世界犯罪题材移动端移植作，重回美国iPhone付费榜前列且收入上升。"
+        },
+        {
+          "name": "San Andreas – Definitive",
+          "desc": "一款《圣安地列斯》重制版移动端作品，日收入在GTA 6发售前后约翻两番。"
+        }
+      ]
     },
     {
-      "id": "a965226aa8",
-      "title": "美国参议院听证会审视 Roblox 儿童安全，并考虑两党法案绕过强制仲裁",
-      "summary": "美国参议院小组委员会就 Roblox 儿童安全举行听证会，并考虑允许家庭和受害者绕过强制仲裁的两党法案。该动态对面向儿童和青少年用户的移动游戏平台合规有间接参考。",
-      "url": "https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration",
+      "id": "af26dd7081",
+      "title": "Nicalis 在玩家反弹后从 The Binding of Isaac: Repentance+ 中移除 AI 生成音乐",
+      "summary": "Nicalis 在玩家发现最新更新包含 AI 生成音乐并引发大量 Steam 差评后，将其从 The Binding of Isaac: Repentance+ 中移除。该事件反映玩家对 AI 内容的敏感度，对内容制作与社区运营有一般参考价值。",
+      "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-19T11:52:10",
+      "published_at": "2026-11-23T20:56:00",
+      "games": [
+        {
+          "name": "The Binding of Isaac: Repentance+",
+          "desc": "《以撒的结合》版本，因最新更新加入 AI 生成音乐引发玩家差评，随后移除相关音乐文件。"
+        },
+        {
+          "name": "The Binding of Isaac: Repentance",
+          "desc": "《以撒的结合》扩展/版本，文章提及其 Steam 页面目前未披露 AI 使用。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "文章提及的开放世界游戏，其发售日与引发争议的 GTA 6 主题 run 相关。"
+        },
+        {
+          "name": "Mewgenics",
+          "desc": "Edmund McMillen 于今年早些时候发布的最新游戏。"
+        }
+      ]
+    },
+    {
+      "id": "f21b547539",
+      "title": "Activision申请专利：用神经网络从游戏内语音聊天训练NPC",
+      "summary": "Activision提交专利，计划利用神经网络和大语言模型从游戏内语音聊天中训练NPC。该方向对AI NPC与社交交互有潜在启发，但与三消/消除类休闲游戏的核心设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:09:50",
       "games": []
     },
     {
-      "id": "358b36159a",
-      "title": "前 Take-Two 负责人解释现代 AAA 游戏开发为何不可持续：就像把钱和人埋进土里",
-      "summary": "前 Take-Two 负责人 Ben Feder 在采访中批评现代 AAA 游戏开发成本高企、不可持续，称其像把钱和人埋进土里。该观点有助于理解游戏产业成本结构，但与休闲手游的直接关联有限。",
-      "url": "https://gameworldobserver.com/2026/11/19/its-like-burying-money-and-people-in-the-ground-the-former-head-of-take-two-explained-why-developing-modern-aaa-games-is-unprofitable",
+      "id": "a508c19a4d",
+      "title": "Epic Games将在Unreal Engine 6发布时放弃Blueprints",
+      "summary": "Epic Games修订Unreal Engine 6计划，不再支持Blueprints和Actor Gameplay Framework，改用基于Verse的Scene Graph游戏系统。该调整对Unreal Engine开发者有工具链迁移影响，但与休闲手游核心设计关联有限。",
+      "url": "https://gameworldobserver.com/2026/11/23/epic-games-will-abandon-blueprints-right-at-the-launch-of-unreal-engine-6",
       "source": "Game World Observer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-11-19T14:18:25",
-      "games": []
+      "published_at": "2026-11-23T11:58:58",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic的多人射击/大逃杀游戏，拥有大量Blueprints，并被用于AI转换至Verse的测试。"
+        }
+      ]
+    },
+    {
+      "id": "cc13de7f53",
+      "title": "Plug in Digital收购News Tower发行商Twin Sails Interactive，组建新发行集团以在高度竞争市场中角逐",
+      "summary": "法国发行商Plug in Digital收购巴黎独立发行商Twin Sails Interactive，双方将合并组建独立游戏分销与发行集团。属于一般行业并购资讯，与休闲游戏直接关联有限。",
+      "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:15:10",
+      "games": [
+        {
+          "name": "News Tower",
+          "desc": "一款报纸经营管理模拟游戏，由Twin Sails Interactive发行。"
+        },
+        {
+          "name": "Caravan SandWitch",
+          "desc": "一款广受好评的叙事探索冒险游戏，由Dear Villagers发行。"
+        },
+        {
+          "name": "Fabledom",
+          "desc": "一款由Dear Villagers发行的城市建造/殖民地模拟游戏。"
+        }
+      ]
+    },
+    {
+      "id": "ebe9875bed",
+      "title": "Circana：美国超过半数主机玩家在 GTA 6 发售首日游玩",
+      "summary": "Circana 数据显示，美国超过一半的主机玩家在 GTA 6 发售首日进行了游玩。该数据体现头部大作的 launch 影响力，属于一般性市场动态，与休闲消除手游的关联度一般。",
+      "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T10:57:20",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI（GTA 6）",
+          "desc": "开放世界动作冒险游戏，文章重点分析其发售首日玩家参与度、销量与收入表现。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "多人在线大逃杀/射击游戏，文章称其在GTA 6发售首日参与度排名第二。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列，文章列为GTA 6玩家发售首日同时游玩的游戏之一。"
+        },
+        {
+          "name": "Grand Theft Auto 5 (Remastered)",
+          "desc": "开放世界动作冒险游戏的重制版，文章列为GTA 6玩家同时游玩的游戏之一。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容与多人创作游戏平台，文章列为GTA 6玩家同时游玩的游戏之一。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球体育模拟游戏，文章列为GTA 6玩家同时游玩的游戏之一。"
+        }
+      ]
+    },
+    {
+      "id": "ffb1db65c9",
+      "title": "抵御 AI 克隆的一种方法？缩短公布与上线之间的间隔",
+      "summary": "Tinybuild 负责人 Alex Nichiporchik 认为，缩短公布到发售的时间是应对 AI 快速克隆的手段，并预测未来半年行业将更关注上市速度。对休闲游戏团队有发行节奏参考，但非玩法或变现拆解。",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:07:00",
+      "games": [
+        {
+          "name": "Needle in a Haystack Simulator",
+          "desc": "一款以“大海捞针”为主题的模拟游戏，未发售视频爆红后出现多个Steam仿品。"
+        },
+        {
+          "name": "ReStory: Chill Electronic Repairs",
+          "desc": "一款以电子设备维修为主题的休闲模拟游戏，采用接近公布即上线的短周期发行方式。"
+        },
+        {
+          "name": "Probably Stolen",
+          "desc": "一款赛博朋克题材的商店模拟经营游戏，公布到上线仅约三个月且销量已破百万。"
+        }
+      ]
     }
   ]
 }
