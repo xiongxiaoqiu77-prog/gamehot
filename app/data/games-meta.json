@@ -16356,5 +16356,31 @@
     "store": "appstore"
   },
   "San Andreas – Definitive": null,
-  "Grand Theft Auto 5 (Remastered)": null
+  "Grand Theft Auto 5 (Remastered)": null,
+  "News Tower": {
+    "name": "News Tower",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649950/header.jpg?t=1791898584",
+    "description": "Develop your newspaper and become New York’s new media mogul! In this tycoon, build and manage your newspaper from printer to toilet. Create your editorial line and lead your journalists through unique 1930's stories and dig out the latest scoops!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649950/451a21f886f0cdd277aeab4a2981d6cc7379566f/ss_451a21f886f0cdd277aeab4a2981d6cc7379566f.600x338.jpg?t=1791898584",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649950/16a4549139ea34a603317fcd5302fc464181a246/ss_16a4549139ea34a603317fcd5302fc464181a246.600x338.jpg?t=1791898584",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649950/ab13103a14d539d6679d8270d7a73c9e163d997c/ss_ab13103a14d539d6679d8270d7a73c9e163d997c.600x338.jpg?t=1791898584",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649950/94ed9920694ee8cd37c6eb513e9f490ca4468a08/ss_94ed9920694ee8cd37c6eb513e9f490ca4468a08.600x338.jpg?t=1791898584"
+    ],
+    "store_url": "https://store.steampowered.com/app/1649950",
+    "store": "steam"
+  },
+  "Fabledom": {
+    "name": "Fabledom",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651560/header.jpg?t=1758877732",
+    "description": "Set in a wholesome fairytale world, Fabledom is a laid-back City builder. Enjoy the growth of your settlement, interact with your neighbors and defend your kingdom from magical creatures. All to find true love and live happily ever after!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651560/ss_0a35c9943e990dfd6df0f6ebdd1d0b9cc8ceb28d.600x338.jpg?t=1758877732",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651560/ss_6351acd5206017ef785784d2c4267bf4ff2fb133.600x338.jpg?t=1758877732",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651560/ss_80bc2864fd0a70a8c1773b4cafd12924872e97e4.600x338.jpg?t=1758877732",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651560/ss_ae45e8046ebff6e49dbf731084bb59240409e52c.600x338.jpg?t=1758877732"
+    ],
+    "store_url": "https://store.steampowered.com/app/1651560",
+    "store": "steam"
+  }
 }
