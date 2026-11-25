@@ -16844,5 +16844,18 @@
   },
   "Bluey’s Quest for the Gold Pen": null,
   "LEGO Bluey": null,
-  "Bluey’s Happy Snaps": null
+  "Bluey’s Happy Snaps": null,
+  "Teammates": {
+    "name": "Teammates App",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/54/41/275441d7-1e32-2543-443e-c8e9b0dd4575/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "description": "• Apply to work with us\n• View and download your pay stubs\n• Update your contact information\n• See your benefit enrollments and access benefit resources\n...and more!",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/1e/e0/531ee0c6-8e44-41e9-6444-d1f9a2487f5a/d39bd47c-f4e0-4620-bff7-1ad860854bc7_login55.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5a/f9/d3/5af9d301-f810-44f0-b657-6a5591c770e3/9a76ea7e-daee-4830-a664-e681e5cd9da7_apply55.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c8/9e/86/c89e8676-d128-0723-69c5-2d160fe2cffc/095350a9-7f82-4d85-8b62-a7751d3d8e62_application55.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c8/4e/23/c84e23ec-0a6f-1978-5be0-060af09d977d/36b42dd3-e3d9-4c45-86c7-cc16902632aa_home55.png/392x696bb.png"
+    ],
+    "store_url": "https://apps.apple.com/us/app/teammates-app/id6473936146?uo=4",
+    "store": "appstore"
+  }
 }
