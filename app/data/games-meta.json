@@ -16885,5 +16885,18 @@
     "store_url": "https://store.steampowered.com/app/4151030",
     "store": "steam"
   },
-  "Resident Evil 1": null
+  "Resident Evil 1": null,
+  "Exoprimal": {
+    "name": "Exoprimal",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/header.jpg?t=1795568630",
+    "description": "Exoprimal is an online, team-based action game that pits humanity's cutting-edge exosuit technology against history's most ferocious beasts – dinosaurs.​​",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_dcba3dc9938cd9a284aa0449a1e69c8d7f5dbf0a.600x338.jpg?t=1795568630",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_b2774d87e655fdf3dda7bfb3bcd2fb7e302e5b3e.600x338.jpg?t=1795568630",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_39e42325843fbb3fc015012ca27fd6abad1f137f.600x338.jpg?t=1795568630",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_04051b9b59e09d3cc8e22844e4eb52ef927a1c82.600x338.jpg?t=1795568630"
+    ],
+    "store_url": "https://store.steampowered.com/app/1286320",
+    "store": "steam"
+  }
 }
