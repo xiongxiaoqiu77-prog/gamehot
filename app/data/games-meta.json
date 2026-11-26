@@ -16857,5 +16857,33 @@
     ],
     "store_url": "https://apps.apple.com/us/app/teammates-app/id6473936146?uo=4",
     "store": "appstore"
-  }
+  },
+  "Frames of Mind": null,
+  "West & Guns": {
+    "name": "West & Guns",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653370/01aa0558908c69e0332a23181e9f5288e1acb443/header.jpg?t=1795278897",
+    "description": "THE Spaghetti Western party game! On a shared screen or online, face friends or bots in intense gunfights where one shot is all it takes to kill an opponent. Play fast rounds across maps filled with events, traps, and interactive elements you can use to protect yourself or take down your opponent.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653370/cc6c11d29155dc803001098756f91d1231aacfc2/ss_cc6c11d29155dc803001098756f91d1231aacfc2.600x338.jpg?t=1795278897",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653370/142f1a3740d1164a4df623748462b611b16c6488/ss_142f1a3740d1164a4df623748462b611b16c6488.600x338.jpg?t=1795278897",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653370/63d4550f8107d2dea5ad4a83fde4fdb5f9c3ef19/ss_63d4550f8107d2dea5ad4a83fde4fdb5f9c3ef19.600x338.jpg?t=1795278897",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653370/89dade30ed9c26b421e6b8d30e6e318b7f9b9c53/ss_89dade30ed9c26b421e6b8d30e6e318b7f9b9c53.600x338.jpg?t=1795278897"
+    ],
+    "store_url": "https://store.steampowered.com/app/4653370",
+    "store": "steam"
+  },
+  "Dust to Dust": {
+    "name": "Dust to Dust",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151030/70c6162494bdb07af93fb1e531ca219c0d3b5f35/header.jpg?t=1794561693",
+    "description": "Fight for your afterlife in this colorful, action-packed 3D top-down Metroidvania-style game! As a ghost on the run in a specter research facility, sneak around interconnected levels, unlock new powers and team up with the local psychic to turn gigantic foes into dust.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151030/7b184084142ca67ed69580176f76afbc0a2f198d/ss_7b184084142ca67ed69580176f76afbc0a2f198d.600x338.jpg?t=1794561693",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151030/d5380c4cd8fc49ee616cce28f726a98f36df7b48/ss_d5380c4cd8fc49ee616cce28f726a98f36df7b48.600x338.jpg?t=1794561693",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151030/7d68ec6daaeed6f29336451c93a54b8ff9563e3a/ss_7d68ec6daaeed6f29336451c93a54b8ff9563e3a.600x338.jpg?t=1794561693",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151030/50ab842ced4328930c2b4e649b39ec5c0ba32210/ss_50ab842ced4328930c2b4e649b39ec5c0ba32210.600x338.jpg?t=1794561693"
+    ],
+    "store_url": "https://store.steampowered.com/app/4151030",
+    "store": "steam"
+  },
+  "Resident Evil 1": null
 }
