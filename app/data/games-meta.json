@@ -16965,5 +16965,20 @@
     ],
     "store_url": "https://apps.apple.com/us/app/world-war-heroes-ww2-fps-pvp/id1281535229?uo=4",
     "store": "appstore"
+  },
+  "Heart and Harmony（现名 Between Strings）": null,
+  "Impostor Syndrome": null,
+  "ROSETIA": {
+    "name": "ROSETIA: A First Contact RPG",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1754020/88ad01ef46a59895149d8edf671fd0746b1423ef/header.jpg?t=1793304040",
+    "description": "Speak for Earth in ROSETIA—a first contact CRPG for fans of hopeful sci-fi and hard choices. Win the trust of an alien civilization. Change their world or stay your hand. Become humanity’s finest diplomat or a disaster of cosmic proportions.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1754020/326d418499552ee76e80dfdb7003ac55b43e2212/ss_326d418499552ee76e80dfdb7003ac55b43e2212.600x338.jpg?t=1793304040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1754020/968636dae65137dfdaff5048acb5219bd50bb57b/ss_968636dae65137dfdaff5048acb5219bd50bb57b.600x338.jpg?t=1793304040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1754020/71f7c85c9056798ee01be60c9ad18af2e06dd20e/ss_71f7c85c9056798ee01be60c9ad18af2e06dd20e.600x338.jpg?t=1793304040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1754020/c3a3e63037e3077c43026e349b3a108b923a2906/ss_c3a3e63037e3077c43026e349b3a108b923a2906.600x338.jpg?t=1793304040"
+    ],
+    "store_url": "https://store.steampowered.com/app/1754020",
+    "store": "steam"
   }
 }
