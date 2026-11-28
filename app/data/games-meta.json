@@ -16983,5 +16983,103 @@
   },
   "FIFA 96": null,
   "FIFA 2005": null,
-  "FIFA 19": null
+  "FIFA 19": null,
+  "Just Volleyball": {
+    "name": "just volleyball",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+    "description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s &amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/7c817d292f4dc7333d2007576085a34550c632ea/ss_7c817d292f4dc7333d2007576085a34550c632ea.600x338.jpg?t=1794852941",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76/ss_8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76.600x338.jpg?t=1794852941",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/4f3c081877347741dbffa1e17f0b18a3d352dd55/ss_4f3c081877347741dbffa1e17f0b18a3d352dd55.600x338.jpg?t=1794852941",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/ed6843f98499455946d86f483cb71a3c96c78ef0/ss_ed6843f98499455946d86f483cb71a3c96c78ef0.600x338.jpg?t=1794852941"
+    ],
+    "store_url": "https://store.steampowered.com/app/5037200",
+    "store": "steam"
+  },
+  "Melvor Idle 2": {
+    "name": "Melvor Idle",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/12/f6/4912f60d-14d2-8d6c-cd70-e739bdcaec9b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "description": "Inspired by RuneScape, Melvor Idle takes the core of what makes an adventure game so addictive and strips it down to its purest form!\n\nMelvor Idle is a feature-rich, idle/incremental game combining a distinctly familiar feel with a fresh gameplay experience. Maxing 20+ skills has never been more zen. \n\nFace off against 100+ monsters using your Melee, Ranged and Magic skills. Conquering brutal dungeons and toppling boisterous bosses has never been quite like this before…\n\nWhether you’re a RuneScape newbie, a hardened veteran, or simply someone looking for a deep but accessible adventure that easily fits around a busy lifestyle, Melvor is an addictive idle experience unlike any other.\n\nFeatures include:\n•        A RuneScape-inspired experience suitable for veterans and newcomers alike.\n•        In-depth and endless Combat system featuring 8 dedicated Skills, countless dungeons, bosses to vanquish and lore to unearth.\n•        Deep but accessible systems featuring 15 non-Combat Skills to train, all with individual mechanics and interactions.\n•        Fully featured and interactive Bank/Inventory System.\n•        Over 1,100 items for you to discover and utilise.\n•        40+ decidedly cute Pets to collect.\n•        Cloud saving functionality that is compatible across all platforms.\n\nThis game requires an internet connection to play.\nhttps://melvoridle.com/privacy-policy.html",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/03/c9/97/03c9975e-04b1-c839-6ce8-9f1e7d98f6fd/a2c622b0-8c9a-4a9a-8925-3bf8d9788ed6_Melvor_Idle_5.5in_Screenshot_1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/6a/8f/b86a8f4f-a8ac-4a3d-c51c-431e44cc4845/35221a23-c1a5-419d-84e4-29bb0d626e90_Melvor_Idle_5.5in_Screenshot_2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9e/04/36/9e0436b0-1627-fcc0-ac13-6591fd9459d7/985c9cef-8580-49bf-8ae5-2eba4b6c96e9_Melvor_Idle_5.5in_Screenshot_3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/10/bd/df/10bddf44-4465-ec3f-69b6-304c15707ceb/2fb32932-f3f8-4bb6-83e1-916c74c26cca_Melvor_Idle_5.5in_Screenshot_4.jpg/392x696bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/melvor-idle/id1518963622?uo=4",
+    "store": "appstore"
+  },
+  "Volvy's Adventure: Reslimed": null,
+  "Shipshaper": null,
+  "Call of Duty HQ": null,
+  "Planet Zoo 3（榜单写作 Planet Zoo）": null,
+  "Phantom Blade Zero（榜单写作 Phantom Blade: Zero）": null,
+  "BeamNG.drive": {
+    "name": "BeamNG.drive",
+    "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg?t=1792417797",
+    "description": "A dynamic soft-body physics vehicle simulator capable of doing just about anything.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_ae4c258e6f13ddf00ee8e72be8bd0b0fc5e67801.600x338.jpg?t=1792417797",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_50b8ba7ff80d50af3bd6b1b4e326849555a952a2.600x338.jpg?t=1792417797",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_e55bbb37fa7208d720d15e69c23c8d932283b4fe.600x338.jpg?t=1792417797",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_ac6c91223f4f12662a9ae7c3a06e2c951a2551f0.600x338.jpg?t=1792417797"
+    ],
+    "store_url": "https://store.steampowered.com/app/284160",
+    "store": "steam"
+  },
+  "Deadlock": {
+    "name": "Deadlock Labs - Stats Tracker",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/bd/af/70bdaf89-df8f-ac6d-d66b-d8dabad177f2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "description": "Deadlock Labs gives you instant access to hero stats, item data, community builds, and ranked leaderboards - all in one app.\n\nHERO STATS & TIER LISTS\nBrowse every hero with win rates, pick rates, and tier rankings. Filter by rank bracket to see what works at your level. Check counters, synergies, and matchup data to plan your draft.\n\nITEM STATS & BUILD PATHS\nSee which items have the highest win rates and popularity. View item stats broken down by hero, slot, and tier. Find the best build paths and item combos.\n\nCOMMUNITY BUILDS\nBrowse builds created by the community. Filter by hero, search by name, and find the exact loadout you need.\n\nPLAYER PROFILES & MATCH HISTORY\nLook up any player by name or Steam ID. View their MMR history, hero stats, KDA, win rates, and global percentile rankings. Dive into match details with gold difference charts, damage breakdowns, and team comparisons.\n\nRANKED LEADERBOARDS\nCheck the top players in your region. Filter by hero to find the best specialists. View stat leaderboards for kills, damage, net worth, and more.\n\nINTERACTIVE MAP & TOOLS\nExplore the game map with kill-death heatmaps. Reference game mechanics, NPC stats, shop items, and objective timings.\n\nPATCH NOTES\nStay up to date with the latest balance changes. See buff and nerf indicators at a glance.\n\nBuilt by players, for players. No ads, no paywalls - just the data you need to improve.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/87/2e/94872e61-5d03-f526-1c59-d083a7ce5fc7/01.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/92/0e/bc920eda-2025-2b1f-68de-3904b5ebe8c5/02.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/bf/3d/c5bf3dea-2d62-ef40-8d44-7f919358ca7c/08.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/e2/03/7fe203b4-c03c-608b-c6da-bee66f01dfcf/05.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/deadlock-labs-stats-tracker/id6762148338?uo=4",
+    "store": "appstore"
+  },
+  "Monster Hunter Rise Netflix": {
+    "name": "MONSTER HUNTER RISE NETFLIX",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/86/98/0086984d-6a5d-07e6-e763-c9fba6521600/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "description": "NETFLIX MEMBERSHIP REQUIRED.\n\nHunt the ferocious beasts that threaten your village in this multiplayer action game. Make good use of the spoils as you brace for the next battle.\n\n\"Monster Hunter Rise\" is a thrilling multiplayer action RPG filled with finely crafted lethal weapons and monsters that exceed your wildest imagination. Head out on hunting quests from your home base in the Japanesque village of Kamura. Travel with cute Buddies who can help you in combat, make use of the natural world and use Wirebugs to move freely around each open environment.\n\nClimb sheer rock walls, soar through the air and experience the thrill of turning the table on a monster just as a fight is starting to get hairy. Use the materials monsters leave behind to craft stronger weapons, armor and items. Experiment with different combinations of equipment and Switch Skills to open up new possible fighting styles.\n\nHone your fighting skills as a solo player, or join forces with up to three other players online for strategic multiplayer combat. As you keep hunting, you'll gain a deeper understanding of the world around you and develop a natural sense of how to incorporate equipment into your play style. Creating your own custom build is what this game is all about. Happy hunting!\n\nThese features and improvements are new to the mobile version of the game:\n\n• Challenge and Event Quests previously available as paid or temporary downloadable content can now be unlocked as you progress through the game.\n\n• The new Recovery Button automatically selects the most effective item from your inventory during a fight, depending on the hunter's health and status. This lets you focus on more urgent decisions in the heat of the action.\n\n• Reconstructed touch controls work intuitively on smartphone and tablet screens, including each weapon's unique control scheme. Visuals are designed to look natural on all supported devices, for a variety of screen sizes and ratios. \n\n- Created by Capcom.\n\nRecommended device specs:\n• SoC: A15 Bionic or higher, M1 or higher\n• RAM: 8GB or more\n\nConfirmed devices:\n• iPhone 13 Pro, iPhone 14 Plus, iPhone 17\n• iPad (A16), iPad mini (A17 Pro), iPad Air (5th generation), iPad Pro (3rd generation)\n\nThe exact usage conditions and environment depend on the user, so we cannot guarantee that the app will work on all of these devices. The above info is correct as of September 2026.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/49/2f/e5492fd5-62b8-1a91-0849-9c799f2241b0/1_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_9_69567500-dd72-11f1-961e-12ffe6778c41.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/b9/e5/5bb9e59e-4523-5b9e-5295-d453929058d1/2_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_7_696a9941-dd72-11f1-a0a4-12ffd16b5b07.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/41/5d/c5415d06-4ac6-ae94-14de-2ae8f0cfff98/3_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_5_697f32b0-dd72-11f1-961e-12ffe6778c41.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/7d/f1/a97df116-05e7-9805-4c70-aee92b402bc6/4_GAME_SCREENSHOT_IOS_MOBILE_HORIZONTAL_6_9_INCH_4_69946860-dd72-11f1-acc4-12ffcd959e5b.jpg/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/monster-hunter-rise-netflix/id6740350229?uo=4",
+    "store": "appstore"
+  },
+  "Escape the Baby Alarm": {
+    "name": "Escape the Baby Alarm",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/d8/a2/1fd8a2bd-5283-accd-7435-5b974faaaf38/AppIcon-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+    "description": "Escape the Baby Alarm is a cozy, escape room-inspired puzzle game that explores the chaos and love of becoming a new parent. Built from my (hello, it’s me Julie, the developer!) own experience, the game is a love letter to parenthood. It's an era defined by love and connection, but also extreme sleep deprivation, questionable hygiene standards, and the superpower of functioning on 2% battery with a baby in one hand and a cold coffee in the other.\n\nSolve quirky puzzles that test your practicality and emotional bandwidth. Avoid getting sunscreen on your toothbrush, search for your shoes in the fridge, and \"accidentally\" smash a box of chocolates in exhaustion-fuelled frustration. \n\nFeel the dream-like state of a sleep-deprived parent with colourful, surrealist art. Every illustration is hand-drawn to capture the struggles and small, absurd joys of parenthood. \n\nUse logic to untangle contradictory advice, that people (mostly well-intentioned) love to give new parents. Take the tips that are helpful, leave the rest behind, and remember that sometimes the best way forward isn't to solve anything, but to let it be. \n\nThis is a story about how becoming a parent changes you, and the process of your own rebirth. It’s about letting go of your old identity and slowly finding strength in a new, expanded, slightly more tired but also more resilient version of yourself.\n\nEscape the Baby Alarm tells a heartfelt, thought-provoking, and gently chaotic story about the reality of parenthood where pride, worry, love, and exhaustion melt together.",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/60/cc/9460cc25-4697-90ed-c8aa-e54532d37dda/Apple-sceenshots_0005_Screenshots_0007_Skaermbillede-2026-03-03-kl.-11.24.03.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/11/dc/dc11dc0a-3ef7-89b6-175e-a7259c280151/Apple-sceenshots_0000_Butterfly-kopier-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/92/48/7d9248c2-2f48-cd6a-c8f4-0641a39a71b5/Apple-sceenshots_0009_Happy_.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/af/8f/18af8f82-a2f7-4515-ea24-bb3855d897cb/Apple-sceenshots_0002_Skaermbillede-2026-05-13-kl.-13.05.22.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/escape-the-baby-alarm/id6805971714?uo=4",
+    "store": "appstore"
+  },
+  "Everything is Crab": null,
+  "Field Day": {
+    "name": "Field Day",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/6b/f0/5c6bf0a2-1340-25c8-c342-7b5d40cae692/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "description": "We’ve got a monster problem.\n\nThe world is falling apart. The military is AWOL. Vortex Corp is hiring freelancers like you to clean up the mess. Welcome to Field Day.\n\nIt’s time to turn mayday into payday.\n\n■ MAKE YOUR ENTRANCE\nDrop into a collapsing city overrun with monsters and chaos. Exploding cars, deadly throwables, buildings, and traps—use everything around you to outsmart your opponents. Turn the whole city into your playground of destruction.\n\n■ MEET THE FIELD DAY CREW\nEveryday heroes. Extraordinary abilities. Choose a crew member to match your play style.\n\n• MAG the One-Man Army\n• JOE the Handyman\n• O.B.O the Precision Machine\n• HIRO the Programmer\n• LEX the Police Officer\n• TEDDY the Janitor\n• KIM the Aerobics Instructor\n• RAVEN the Ex-Military Mystery\n\nAnd that’s just part of the crew. Discover more operatives in-game, with new recruits joining the roster over time.\n\n■ HUNT OR BE HUNTED\nThe monsters are fierce. The competition is fiercer. Other operatives want their payout just as much as you do.\nJump into an unpredictable 4-player free-for-all. Trust is optional. Only the strongest survive.\n\n■ HIGH RISK. HIGH REWARD.\nGrab your gear, drop into the city, and turn disaster into your next payday.\n\n• Pure Fair Play: You can’t win by opening your wallet or sitting idle. In this relentless, high-stakes battle, skill and strategy make the difference.\n• Deep Customization: Collect cores and convert them into duplicates and blueprints to power up your gear.\n• Hero Evolution: Level up your crew and unlock branching skill trees. Create your own build and dominate when it matters most.\n• Season Road: Progress through the Season Road to unlock exclusive heroes, high-tech upgrades, and limited-edition cosmetics.\n\n■ SECURE YOUR EXIT\nReach the helicopter before the extraction window closes. But first, there’s one more job: take down the Megaboss!\nFight to the end. Secure your loot. Get out alive. One mistake can cost you everything.\n\n■ ONE WORLD. NO LIMITS. FIELD DAY.\nForget what you think you know. Every drop brings new opportunities.\nNew maps to explore. New monsters to hunt. New threats around every corner. In this ever-expanding world, the only limit is you.\n\nReady to have your Field Day?\n\nDownload Field Day today and prove you have what it takes to survive.\n\n• Latest news and player community: https://discord.gg/DVvA8kSJY2",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/31/b3/a331b3f1-68d0-b4cc-5f2a-14bae3be9ac0/4PlayerPvpBattles.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/9a/87/349a873d-0c42-812c-2352-97b02c53ed96/HuntGiantBeasts.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/4f/85/904f856f-1734-44f4-a2ce-48db2c223264/PowerUpYourCrew__U00281_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/0b/cf/620bcf38-385c-a1f9-d13f-06de53a9dfe5/MasterSimpleControls.png/320x480bb.jpg"
+    ],
+    "store_url": "https://apps.apple.com/us/app/field-day/id6754967275?uo=4",
+    "store": "appstore"
+  },
+  "Melon Sandbox": null
 }
